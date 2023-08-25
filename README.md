@@ -6,3 +6,5 @@ german in Arbeit
 *_keys keine fehler  
 *_tips keine fehler  
 *_tooltips fertig  
+
+Game Version: v0.2.4297.19997
