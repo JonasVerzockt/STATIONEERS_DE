@@ -4642,7 +4642,7 @@ BENUTZEN: 'J' zum Aktivieren; 'Leertaste' zum Hochfliegen; 'Linke Strg' zum Abst
   <RecordThing>
     <Key>ItemEmergencyToolBelt</Key>
     <Value>Notfall-Werkzeuggürtel</Value>
-    <Description>Nicht gefüllt mit Werkzeugen in den Recycler werfen!<Description/>
+    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemElectronicParts</Key>
@@ -5330,37 +5330,30 @@ Bei der Landung setzt die Rakete einen Lander und die im Modul {THING:StructureM
   <RecordThing>
     <Key>StructureLightRoundAngled</Key>
     <Value>Lampe (Eckig)</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureLightRound</Key>
     <Value>Lampe Rund</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureLightRoundSmall</Key>
     <Value>Lampe Rund (Klein)</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureSingleBed</Key>
     <Value>Einzelbett</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureBlockBed</Key>
     <Value>Block-Bett</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>TriggerZone</Key>
     <Value>Auslösezone</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureEmergencyButton</Key>
     <Value>Notfall-Taste</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitAirlockGate</Key>
@@ -5393,62 +5386,50 @@ Da sie bis zu 9000001 Watt Energie speichern kann, gibt es keine praktischen Gre
   <RecordThing>
     <Key>ItemKitBatteryLarge</Key>
     <Value>Kit (Batterie groß)</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageVendingMachine1</Key>
     <Value>Wrackteile-Automat</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageVendingMachine2</Key>
     <Value>Wrackteile-Automat</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageVendingMachine3</Key>
     <Value>Wrackteile-Automat</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageVendingMachine4</Key>
     <Value>Wrackteile-Automat</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageArcFurnace1</Key>
     <Value>Wrack-Lichtbogenofen</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageArcFurnace2</Key>
     <Value>Wrack-Lichtbogenofen</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageArcFurnace3</Key>
     <Value>Wrack-Lichtbogenofen</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageAreaPowerControl1</Key>
     <Value>Wrack-Flächenleistungsregler</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageAreaPowerControl2</Key>
     <Value>Wrack-Flächenleistungsregler</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageAreaPowerControlReversed1</Key>
     <Value>Wrack-Flächenleistungsregler</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageAreaPowerControlReversed2</Key>
     <Value>Wrack-Flächenleistungsregler</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageSolarPanel1</Key>
@@ -5463,17 +5444,14 @@ Da sie bis zu 9000001 Watt Energie speichern kann, gibt es keine praktischen Gre
   <RecordThing>
     <Key>ItemWreckageSolarPanel3</Key>
     <Value>Wrack Solarmodul</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageTransformer1</Key>
     <Value>Wrack Transformator</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageTransformer2</Key>
     <Value>Wrack Transformator</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageTransformerMedium1</Key>
@@ -5488,107 +5466,86 @@ Da sie bis zu 9000001 Watt Energie speichern kann, gibt es keine praktischen Gre
   <RecordThing>
     <Key>ItemWreckageTransformerSmall1</Key>
     <Value>Wrack Transformator Klein</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageTransformerSmall2</Key>
     <Value>Wrack Transformator Klein</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageSecurityPrinter1</Key>
     <Value>Wrack Sicherheitsdrucker</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageSecurityPrinter2</Key>
     <Value>Wrack Sicherheitsdrucker</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageSecurityPrinter3</Key>
     <Value>Wrack Sicherheitsdrucker</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageSecurityPrinter4</Key>
     <Value>Wrack Sicherheitsdrucker</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageSecurityPrinter5</Key>
     <Value>Wrack Sicherheitsdrucker</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageSecurityPrinter6</Key>
     <Value>Wrack Sicherheitsdrucker</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageAutolathe1</Key>
     <Value>Wrack Automatendrehmaschine</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageAutolathe2</Key>
     <Value>Wrack Automatendrehmaschine</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageAutolathe3</Key>
     <Value>Wrack Automatendrehmaschine</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageAutolathe4</Key>
     <Value>Wrack Automatendrehmaschine</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageAutolathe5</Key>
     <Value>Wrack Automatendrehmaschine</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageAutolathe6</Key>
     <Value>Wrack Automatendrehmaschine</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageAutolathe7</Key>
     <Value>Wrack Automatendrehmaschine</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageElectronicsPrinter1</Key>
     <Value>Wrack Elektronik Drucker1</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageElectronicsPrinter2</Key>
     <Value>Wrack Elektronik Drucker2</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageElectronicsPrinter3</Key>
     <Value>Wrack Elektronik Drucker3</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageElectronicsPrinter4</Key>
     <Value>Wrack Elektronik Drucker4</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageElectronicsPrinter5</Key>
     <Value>Wrack Elektronik Drucker5</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageElectronicsPrinter6</Key>
     <Value>Wrack Elektronikdrucker</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageCentrifuge1</Key>
@@ -5618,122 +5575,98 @@ Da sie bis zu 9000001 Watt Energie speichern kann, gibt es keine praktischen Gre
   <RecordThing>
     <Key>ItemWreckageGasGenerator1</Key>
     <Value>Wrack Gasgenerator</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageGasGenerator2</Key>
     <Value>Wrack Gasgenerator</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageVent1</Key>
     <Value>Wrack Entlüftung</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageSatelliteDish1</Key>
     <Value>Wrack Mittlere Satellitenschüssel</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageSatelliteDish2</Key>
     <Value>Wrack Mittlere Satellitenschüssel</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageSatelliteDish3</Key>
     <Value>Wrack Mittlere Satellitenschüssel</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageElectrolysis1</Key>
     <Value>Wrack Elektrolyse</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageElectrolysis2</Key>
     <Value>Wrack Elektrolyse</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageLight1</Key>
     <Value>Wrack Licht</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageLight2</Key>
     <Value>Wrack Licht</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageLightLongAngled1</Key>
     <Value>Wrack Licht lang gewinkelt</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageLightLongAngled2</Key>
     <Value>Wrack Licht Lang gewinkelt</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageLightLongWide1</Key>
     <Value>Wrack Licht Lang Breit</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageLightLongWide2</Key>
     <Value>Wrack Licht Lang Breit</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageWallLightBatteryPowered1</Key>
     <Value>Wrack Wandlicht Batteriebetrieben</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageWallLightBatteryPowered2</Key>
     <Value>Wrack Wandlicht Batteriebetrieben</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageRecycler1</Key>
     <Value>Wrack Recycler</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageRecycler2</Key>
     <Value>Wrack Recycler</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageRecycler3</Key>
     <Value>Wrack Recycler</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageRecycler4</Key>
     <Value>Wrack Recycler</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageRecycler5</Key>
     <Value>Wrack Recycler</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageRecycler6</Key>
     <Value>Wrack Recycler</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageFlashingLight1</Key>
     <Value>Wrack Blinklicht</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageFlashingLight2</Key>
     <Value>Wrack Blinklicht</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageActiveVent1</Key>
@@ -5748,47 +5681,38 @@ Da sie bis zu 9000001 Watt Energie speichern kann, gibt es keine praktischen Gre
   <RecordThing>
     <Key>ItemWreckageCoalGenerator1</Key>
     <Value>Wrack Kohlegenerator</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageCoalGenerator2</Key>
     <Value>Wrack Kohlegenerator</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageCoalGenerator3</Key>
     <Value>Wrack Kohlegenerator</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageH2Combustor1</Key>
     <Value>Wrack H2 Combustor</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageHydroponicsAutomatic1</Key>
     <Value>Wrack Hydroponics Automatisch</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageHydroponicsAutomatic2</Key>
     <Value>Wrack Hydroponics Automatisch</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageHydroponicsAutomatic3</Key>
     <Value>Wrack Hydroponics Automatisch</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageHydroponicsStation1</Key>
     <Value>Wrack Hydroponics Station</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageHydroponicsStation2</Key>
     <Value>Wrack Hydroponics Station</Value>
-    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageSDBSilo1</Key>
@@ -6500,7 +6424,7 @@ Kommt demnächst</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureRocketModuleMiningJunk</Key>
-    <Value>Raketenmodul Bergbau-Schrott<Value/>
+    <Value/>
     <Description>Das Modul muss durch eine richtig platzierte {THING:StructureModularRocketCouplingDown} oder {THING:StructureModularRocketCouplingUp} mit einem {THING:StructureRocketModuleSilo} verbunden sein, damit {LINK:OrePage;ore} von der Kollektoreinheit in das Silo gelangen kann.</Description>
   </RecordThing>
   <RecordThing>
