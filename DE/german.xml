@@ -823,7 +823,7 @@ Die Platine hat zwei Modi: 'Verbinden' schaltet alle Geräte ein oder aus; 'Umsc
   </RecordThing>
   <RecordThing>
     <Key>DynamicCrate</Key>
-    <Value>Dynamische Kiste</Value>
+    <Value>Tragbare Kiste</Value>
     <Description>Die einfache dynamische Kiste ist zu einem Symbol für {LINK:Stationeers;Stationeer} Erfindung und Unabhängigkeit geworden. Mit ihren zwölf Slots und den Griffen an beiden Enden ist sie sowohl für Kadetten als auch für Kommandanten ein wichtiger Bestandteil der Ausrüstung.</Description>
   </RecordThing>
   <RecordThing>
@@ -910,7 +910,7 @@ Du kannst einen {THING:ItemGasCanisterWater} auffüllen, indem du ihn an den ges
   </RecordThing>
   <RecordThing>
     <Key>EffectSplatEgg</Key>
-    <Value>Effekt-Splatzei</Value>
+    <Value>Effekt-Spiegelei</Value>
     <Description/>
   </RecordThing>
   <RecordThing>
@@ -1200,7 +1200,7 @@ Achte darauf, den Druck nicht über 10MPa zu erhöhen, sonst könnte es knallen&
   </RecordThing>
   <RecordThing>
     <Key>ItemGasTankStorage</Key>
-    <Value>Kit (Kanisterlagerung)</Value>
+    <Value>Kit (Lagerung von Gaskanistern)</Value>
     <Description>Dieser Kit erzeugt einen {THING:ItemGasTankStorage} zum Auffüllen eines {THING:ItemGasCanisterEmpty}.</Description>
   </RecordThing>
   <RecordThing>
@@ -1250,7 +1250,7 @@ Achte darauf, den Druck nicht über 10MPa zu erhöhen, sonst könnte es knallen&
   </RecordThing>
   <RecordThing>
     <Key>ItemHydroponicTray</Key>
-    <Value>Kit (Hydroponisches Tablett)</Value>
+    <Value>Hydroponisches Beet</Value>
     <Description>Dieser Kit erstellt ein {THING:StructureHydroponicsTray} für den Anbau verschiedener Pflanzen.</Description>
   </RecordThing>
   <RecordThing>
@@ -1260,8 +1260,8 @@ Achte darauf, den Druck nicht über 10MPa zu erhöhen, sonst könnte es knallen&
   </RecordThing>
   <RecordThing>
     <Key>ItemIgniter</Key>
-    <Value>Kit (Entflammung)</Value>
-    <Description>Dieses Kit erzeugt eine {THING:ItemIgniter} Einheit.</Description>
+    <Value>Kit (Zündvorrichtung)</Value>
+    <Description>Dieses Kit erzeugt eine {THING:ItemIgniter}s Einheit.</Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemInsulation</Key>
@@ -1365,8 +1365,8 @@ Achte darauf, den Druck nicht über 10MPa zu erhöhen, sonst könnte es knallen&
   </RecordThing>
   <RecordThing>
     <Key>ItemKitSleeper</Key>
-    <Value>Kit (Schwelle)</Value>
-    <Description>Dieser Kit produziert eine Reihe von Schläfern, die Spieler hydriert und ernährt halten, während sie ausgeloggt sind - solange eine atmungsaktive Atmosphäre vorhanden ist.</Description>
+    <Value>Kit (Schlafkabinen)</Value>
+    <Description>Dieser Bausatz enthält eine Reihe von Schlafkabinen, die die Spieler mit Flüssigkeit und Nahrung versorgen, während sie ausgeloggt sind - vorausgesetzt, es ist eine atmungsaktive Atmosphäre vorhanden.</Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitSolarPanel</Key>
@@ -1510,7 +1510,7 @@ Achte darauf, den Druck nicht über 10MPa zu erhöhen, sonst könnte es knallen&
   </RecordThing>
   <RecordThing>
     <Key>ItemPipeRadiator</Key>
-    <Value>Kit (Heizkörper)</Value>
+    <Value>Kit (Radiator)</Value>
     <Description>Dieser Kit erstellt einen {THING:StructurePipeRadiator}.</Description>
   </RecordThing>
   <RecordThing>
@@ -1570,8 +1570,8 @@ Achte darauf, den Druck nicht über 10MPa zu erhöhen, sonst könnte es knallen&
   </RecordThing>
   <RecordThing>
     <Key>ItemScrewdriver</Key>
-    <Value>Schraubenzieher</Value>
-    <Description>Dieser standardmäßige Reibungshaftungseinsteller ist ein bi-rotierendes Modell der Spitzenklasse mit einer Reihe von Unigriffen. Er ist definitiv nicht nur ein Schraubenzieher. Benutze ihn für den Auf- und Abbau bestimmter Bausätze und zum Einstellen von Werten auf {LINK:LogicUnitPage;logic} Einheiten.</Description>
+    <Value>Schraubendreher</Value>
+    <Description>Dieser standardmäßige Reibungshaftungseinsteller ist ein bi-rotierendes Modell der Spitzenklasse mit einer Reihe von Unigriffen. Er ist definitiv nicht nur ein Schraubendreher. Benutze ihn für den Auf- und Abbau bestimmter Bausätze und zum Einstellen von Werten auf {LINK:LogicUnitPage;logic} Einheiten.</Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemSecurityCamera</Key>
@@ -1752,7 +1752,7 @@ Das {LINK:Norsec;Norsec-designed} K-Cops Logik Motherboard ermöglicht es {LINK:
   </RecordThing>
   <RecordThing>
     <Key>MotherboardSorter</Key>
-    <Value>Sorter-Motherboard</Value>
+    <Value>Sortierer-Motherboard</Value>
     <Description>Motherboards sind mit {THING:StructureComputer}s verbunden, um verschiedene technische Funktionen auszuführen.
 Das {LINK:Norsec;Norsec-designed} K-cops 10-10 Sorter Motherboard erlaubt es {LINK:Stationeers;Stationeers} zu kontrollieren, welche Gegenstände ein {THING:StructureSorter} passieren darf und welche nicht.</Description>
   </RecordThing>
@@ -1768,7 +1768,7 @@ Das {LINK:Norsec;Norsec-designed} K-cops 10-10 Sorter Motherboard erlaubt es {LI
   </RecordThing>
   <RecordThing>
     <Key>NpcGrounder</Key>
-    <Value>Npc Bodenpersonal</Value>
+    <Value>NPC Bodenpersonal</Value>
     <Description/>
   </RecordThing>
   <RecordThing>
@@ -1845,12 +1845,12 @@ Da sie bis zu 3600000 W Energie speichern kann, gibt es keine praktischen Grenze
   </RecordThing>
   <RecordThing>
     <Key>StructureBench</Key>
-    <Value>Kraftwerksbank</Value>
+    <Value>Werkbank (mit Energie)</Value>
     <Description>Wenn es Zeit zum Sitzen ist, unterstützt dich nichts so gut wie eine Bank. Diese Bank ist mit Energie versorgt, sodass du Geräte wie die {THING: ApplianceMicrowave} benutzen kannst.</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureBlastDoor</Key>
-    <Value>Strahltür</Value>
+    <Value>Explosionsschutztür</Value>
     <Description>Luftdicht und nahezu unzerstörbar: Die ursprüngliche &quot;Millmar&quot;-Sprengtürserie wurde vom Bergbaugiganten {LINK:Recurso;Recurso} entwickelt, um Asteroidenabbauanlagen vor einer explosiven Dekompression auf dem Niveau eines nuklearen Zwischenfalls zu schützen.
 Wenn nicht gerade eine taschengroße Singularität in den lokalen Raum-Zeit-Rahmen blinkt, gibt es praktisch keine Grenze für den Druck, den diese Schutztüren aushalten können - ideal für den Bau von Schleusen in druckempfindlichen Umgebungen.</Description>
   </RecordThing>
@@ -1908,39 +1908,39 @@ Sei da, auch wenn du nicht da bist.</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureChuteBin</Key>
-    <Value>Rutsche Mülleimer</Value>
+    <Value>Schachtbehälter</Value>
     <Description>Die {LINK:Stationeers;Stationeer's} haben sich zum Ziel gesetzt, das Überleben außerhalb der Welt für sich und ihre Nachkommen zu erleichtern.
-Wie die meisten von {LINK:Recurso;Recurso} entworfenen Systeme sind auch die Rutschenbehälter einfache und robuste, mit Energie versorgte Gegenstände, die durch Ziehen eines Hebels manuell in die Netzwerke der Rutschen befördert werden können. Sie können auch mit {LINK:LogicUnitPage;logic} so programmiert werden, dass sie automatisch funktionieren, obwohl eine vollständige Automatisierung die Benutzung von Gegenständen wie einem {THING:StructureSDBHopper} erfordert.</Description>
+Wie die meisten von {LINK:Recurso;Recurso} entworfenen Systeme sind auch die Schachtbehälter einfache und robuste, mit Energie versorgte Gegenstände, die durch Ziehen eines Hebels manuell in die Netzwerke der Rutschen befördert werden können. Sie können auch mit {LINK:LogicUnitPage;logic} so programmiert werden, dass sie automatisch funktionieren, obwohl eine vollständige Automatisierung die Benutzung von Gegenständen wie einem {THING:StructureSDBHopper} erfordert.</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureChuteCorner</Key>
-    <Value>Rutsche (Ecke)</Value>
-    <Description>Rutschen dienen als Rohre für Gegenstände. Benutze sie, um verschiedene {LINK:ImportExportPage;import/export} Geräte wie den {THING:StructureVendingMachine} und Drucker wie die {THING:StructureAutolathe} miteinander zu verbinden.
+    <Value>Schacht (Ecke)</Value>
+    <Description>Schächte dienen als Rohre für Gegenstände. Benutze sie, um verschiedene {LINK:ImportExportPage;import/export} Geräte wie den {THING:StructureVendingMachine} und Drucker wie die {THING:StructureAutolathe} miteinander zu verbinden.
 Das Ziel eines jeden {LINK:Stationeers;Stationeer} ist es, das Überleben außerhalb der Welt für sich selbst und für diejenigen, die in seine Fußstapfen treten, weniger schwierig zu machen.
 Schachtecken sind grundlegende Bestandteile von Netzwerken, die den Transport von Gegenständen zwischen Maschinen mit {LINK:ImportExportPage;import/export} Slots, wie dem {THING:StructureFurnace} und anderen automatisierbaren Strukturen, ermöglichen.</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureChuteInlet</Key>
-    <Value>Einlaufschacht</Value>
+    <Value>Schacht Einlass</Value>
     <Description>Das Ziel eines jeden {LINK:Stationeers;Stationeer} ist es, das Überleben außerhalb der Welt für sich selbst und für diejenigen, die in seine Fußstapfen treten, weniger schwierig zu machen.
-Der Rutscheneinlass ist eine Öffnung, durch die Gegenstände in {LINK:ImportExportPage;import/export} Netzwerke eingeführt werden können. Da er ursprünglich aus dem Schwerelosigkeitsbergbau stammt, sind die Schachteinlässe nicht interaktiv, sondern dauerhaft geöffnet und können mit Gegenständen befüllt werden. Sie können mit {LINK:LogicUnitPage;logic} Systemen verbunden werden, um den Durchsatz zu überwachen.</Description>
+Der Schachteinlass ist eine Öffnung, durch die Gegenstände in {LINK:ImportExportPage;import/export} Netzwerke eingeführt werden können. Da er ursprünglich aus dem Schwerelosigkeitsbergbau stammt, sind die Schachteinlässe nicht interaktiv, sondern dauerhaft geöffnet und können mit Gegenständen befüllt werden. Sie können mit {LINK:LogicUnitPage;logic} Systemen verbunden werden, um den Durchsatz zu überwachen.</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureChuteJunction</Key>
-    <Value>Rutsche (Kreuzung)</Value>
+    <Value>Schacht (Kreuzung)</Value>
     <Description>Das Ziel jedes {LINK:Stationeers;Stationeer} ist es, das Überleben außerhalb der Welt für sich selbst und für die, die in seine Fußstapfen treten werden, weniger schwierig zu machen.
 Fallschirmabzweigungen sind grundlegende Bestandteile von Fallschirmnetzwerken, die es ermöglichen, diese Netzwerke zusammenzuführen oder aufzuteilen. In Kombination mit einem programmierten {THING:StructureSorter} können Gegenstände auf verschiedenen Wegen zu verschiedenen Maschinen mit {LINK:ImportExportPage;import/export} Slots geschickt werden.</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureChuteOutlet</Key>
-    <Value>Schütte Auslass</Value>
+    <Value>Schacht Auslass</Value>
     <Description>Das Ziel eines jeden {LINK:Stationeers;Stationeer} ist es, das Überleben außerhalb der Welt für sich selbst und die, die in seine Fußstapfen treten, weniger schwierig zu machen.
 Der Fallschirmauslass ist eine Öffnung für das Verlassen von Gegenständen aus {LINK:ImportExportPage;import/export} Netzwerken. Da die Schächte aus dem Schwerelosigkeitsbergbau stammen, sind sie dauerhaft offen und nicht interaktiv, können aber mit {LINK:LogicUnitPage;logic} Systemen verbunden werden, um den Durchsatz zu überwachen.</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureChuteStraight</Key>
-    <Value>Schütte (gerade)</Value>
-    <Description>Rutschen dienen als Röhren für Gegenstände. Benutze sie, um verschiedene {LINK:ImportExportPage;import/export} Geräte wie den {THING:StructureVendingMachine} und Drucker wie die {THING:StructureAutolathe} miteinander zu verbinden.
+    <Value>Schacht (gerade)</Value>
+    <Description>Schächte dienen als Röhren für Gegenstände. Benutze sie, um verschiedene {LINK:ImportExportPage;import/export} Geräte wie den {THING:StructureVendingMachine} und Drucker wie die {THING:StructureAutolathe} miteinander zu verbinden.
 Das Ziel eines jeden {LINK:Stationeers;Stationeer} ist es, das Überleben außerhalb der Welt für sich selbst und für diejenigen, die in seine Fußstapfen treten, weniger schwierig zu machen.
 Schächte sind grundlegende Bestandteile von Netzwerken, die den Transport von Gegenständen zwischen allen Maschinen oder Geräten mit einem {LINK:ImportExportPage;import/export} Slot ermöglichen.</Description>
   </RecordThing>
@@ -2038,19 +2038,19 @@ Eine immer wiederkehrende {LINK:Stationeers;Stationeer} Beschwerde konzentriert 
   </RecordThing>
   <RecordThing>
     <Key>StructureConveyorStraight</Key>
-    <Value>Förderer (gerade)</Value>
+    <Value>Förderband (gerade)</Value>
     <Description>Ursprünglich von {LINK:Recurso;Recurso} für die Erzverschiebung entwickelt, können Flexi-belt Förderlösungen an bestimmte Verwendungen angepasst werden, um effiziente Transportabläufe zu ermöglichen. Mit anderen Worten: Sie transportieren Dinge von einem Ort zum anderen.
 Eine immer wiederkehrende {LINK:Stationeers;Stationeer} Beschwerde konzentriert sich auf die Tatsache, dass jede Stufe einer Förderanlage einzeln mit Energie versorgt werden muss. Um es mit den Worten der Kundendienstmitarbeiter von Recurso zu sagen: &quot;Daran arbeiten wir noch.&quot;</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureConveyorStraightLong</Key>
-    <Value>Förderer (gerade, lang)</Value>
+    <Value>Förderband (gerade, lang)</Value>
     <Description>Ursprünglich von {LINK:Recurso;Recurso} für die Erzverschiebung entwickelt, können Flexi-belt Förderlösungen an bestimmte Verwendungen angepasst werden, um effiziente Transportabläufe zu ermöglichen. Mit anderen Worten: Sie transportieren Dinge von einem Ort zum anderen.
 Eine immer wiederkehrende {LINK:Stationeers;Stationeer} Beschwerde konzentriert sich auf die Tatsache, dass jede Stufe einer Förderanlage einzeln mit Energie versorgt werden muss. Um es mit den Worten der Kundendienstmitarbeiter von Recurso zu sagen: &quot;Daran arbeiten wir noch.&quot;</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureConveyorStraightShort</Key>
-    <Value>Förderer (gerade, kurz)</Value>
+    <Value>Förderband (gerade, kurz)</Value>
     <Description>Ursprünglich von {LINK:Recurso;Recurso} für die Erzverschiebung entwickelt, können Flexi-belt Förderlösungen an bestimmte Verwendungen angepasst werden, um effiziente Transportabläufe zu ermöglichen. Mit anderen Worten: Sie transportieren Dinge von einem Ort zum anderen.
 Eine immer wiederkehrende {LINK:Stationeers;Stationeer} Beschwerde konzentriert sich auf die Tatsache, dass jede Stufe einer Förderanlage einzeln mit Energie versorgt werden muss. Um es mit den Worten der Kundendienstmitarbeiter von Recurso zu sagen: &quot;Daran arbeiten wir noch.&quot;</Description>
   </RecordThing>
@@ -2135,7 +2135,7 @@ Wenn Wasser im Ofen vorhanden ist, sammelt es sich dort, bis der Ofen an ein Net
   </RecordThing>
   <RecordThing>
     <Key>StructureGunTurret</Key>
-    <Value>Pistolenplatzierung</Value>
+    <Value>Geschützturm</Value>
     <Description/>
   </RecordThing>
   <RecordThing>
@@ -2145,13 +2145,13 @@ Wenn Wasser im Ofen vorhanden ist, sammelt es sich dort, bis der Ofen an ein Net
   </RecordThing>
   <RecordThing>
     <Key>StructureHydroponicsTray</Key>
-    <Value>Hydroponische Schale</Value>
+    <Value>Hydroponisches Beet</Value>
     <Description>Die {LINK:Agrizero;Agrizero} Hydrokulturschale ist das ideale Gefäß für den Anbau verschiedener {LINK:OrganicPage;plantlife}. Es muss über ein Netzwerk mit Wasser versorgt werden und genügend Licht bekommen, um Photosynthese zu betreiben. 
 Es kann mit dem {THING:StructureHarvie} automatisiert werden.</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureIgniter</Key>
-    <Value>Entflammung</Value>
+    <Value>Zündvorrichtung</Value>
     <Description>Das bringt die Party in Gang. Vor allem, wenn diese Party ein explosives Gasgemisch ist.</Description>
   </RecordThing>
   <RecordThing>
@@ -2274,7 +2274,7 @@ Rohre verteilen ihren Inhalt gleichmäßig über das gesamte Netzwerk und könne
   </RecordThing>
   <RecordThing>
     <Key>StructureSleeper</Key>
-    <Value>Schlafwagen</Value>
+    <Value>Schlafkabine</Value>
     <Description/>
   </RecordThing>
   <RecordThing>
@@ -2284,7 +2284,7 @@ Rohre verteilen ihren Inhalt gleichmäßig über das gesamte Netzwerk und könne
   </RecordThing>
   <RecordThing>
     <Key>StructureSorter</Key>
-    <Value>Sorter</Value>
+    <Value>Sortierer</Value>
     <Description>Keine Automatisierung ist vollständig, wenn es nicht eine Möglichkeit gibt, verschiedene Gegenstände in verschiedene Teile eines Systems zu bringen. Der {LINK:Xigo;Xigo} A2B Sorter kann über einen Computer mit einem {THING:MotherboardSorter} so programmiert werden, dass verschiedene Gegenstände in unterschiedliche Netzwerke geleitet werden. Gefilterte Gegenstände werden immer auf der rechten Seite des Sortierers ausgegeben, während nicht gefilterte Gegenstände geradeaus durchlaufen.</Description>
   </RecordThing>
   <RecordThing>
@@ -2406,7 +2406,7 @@ Weitere Informationen über die Temperaturkontrolle findest du auf der Seite {LI
   </RecordThing>
   <RecordThing>
     <Key>WeaponEnergy</Key>
-    <Value>Waffe Energie</Value>
+    <Value>Energie Waffe</Value>
     <Description/>
   </RecordThing>
   <RecordThing>
@@ -2558,7 +2558,7 @@ Beachte, dass Transformatoren als Datenisolatoren funktionieren und verhindern, 
   </RecordThing>
   <RecordThing>
     <Key>StructureChuteWindow</Key>
-    <Value>Rutsche (Fenster)</Value>
+    <Value>Schacht (Fenster)</Value>
     <Description>Schächte mit Fenstern lassen dich sehen, was durch dein {LINK:ImportExportPage;import/export} Netzwerk fließt. Aber sei gewarnt, sie sind nicht isoliert wie andere Schächte. Das Eis wird schmelzen.</Description>
   </RecordThing>
   <RecordThing>
@@ -2765,7 +2765,7 @@ Da Oxit sehr temperaturempfindlich ist, beginnt es zu schmelzen, sobald es abgeb
   </RecordThing>
   <RecordThing>
     <Key>ItemKitSolidGenerator</Key>
-    <Value>Kit (Solider Generator)</Value>
+    <Value>Kit (Feststoff Generator)</Value>
     <Description/>
   </RecordThing>
   <RecordThing>
@@ -2805,7 +2805,7 @@ Da Oxit sehr temperaturempfindlich ist, beginnt es zu schmelzen, sobald es abgeb
   </RecordThing>
   <RecordThing>
     <Key>ItemKitBlastDoor</Key>
-    <Value>Kit (Sprengtür)</Value>
+    <Value>Kit (Explosionsschutztür)</Value>
     <Description/>
   </RecordThing>
   <RecordThing>
@@ -2845,7 +2845,7 @@ Da Oxit sehr temperaturempfindlich ist, beginnt es zu schmelzen, sobald es abgeb
   </RecordThing>
   <RecordThing>
     <Key>ItemBeacon</Key>
-    <Value>Tracking Signal</Value>
+    <Value>Signalfeuer</Value>
     <Description/>
   </RecordThing>
   <RecordThing>
@@ -2987,7 +2987,7 @@ Beachte, dass Transformatoren als Datenisolatoren funktionieren und verhindern, 
   </RecordThing>
   <RecordThing>
     <Key>StructureLogicMathUnary</Key>
-    <Value>Mathe Unär</Value>
+    <Value>Logik Mathematik Unär</Value>
     <Description/>
   </RecordThing>
   <RecordThing>
@@ -3759,17 +3759,17 @@ Stecke eine Kassette oder einen Farbscanner in das Tablet und drücke dann die A
   </RecordThing>
   <RecordThing>
     <Key>ItemKitElevator</Key>
-    <Value>Kit (Elevator)</Value>
+    <Value>Kit (Aufzug)</Value>
     <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ElevatorCarrage</Key>
-    <Value>Elevator</Value>
+    <Value>Aufzug</Value>
     <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureElevatorLevelFront</Key>
-    <Value>Elevator Level</Value>
+    <Value>Aufzug Level</Value>
     <Description/>
   </RecordThing>
   <RecordThing>
@@ -3879,13 +3879,13 @@ Stecke eine Kassette oder einen Farbscanner in das Tablet und drücke dann die A
   </RecordThing>
   <RecordThing>
     <Key>ItemHardSuit</Key>
-    <Value>Hardsuit</Value>
+    <Value>Schutzanzug</Value>
     <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemHardsuitHelmet</Key>
-    <Value>Hardsuit Helm</Value>
-    <Description>Der Hardsuit-Helm ähnelt dem {THING:ItemSpaceHelmet}, hält aber höheren Temperaturen und Drücken stand. Er ist perfekt für raue Umgebungen wie Venus und Vulkan.</Description>
+    <Value>Schutzanzug Helm</Value>
+    <Description>Der Schutzanzug-Helm ähnelt dem {THING:ItemSpaceHelmet}, hält aber höheren Temperaturen und Drücken stand. Er ist perfekt für raue Umgebungen wie Venus und Vulkan.</Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWearLamp</Key>
@@ -3967,22 +3967,22 @@ Ausgabe = 1 Export der Gegenstände im Inneren und schließlich des Hauptgegenst
   </RecordThing>
   <RecordThing>
     <Key>ItemKitPressurePlate</Key>
-    <Value>Kit (Abzugsplatte)</Value>
+    <Value>Kit (Auslöseplatte)</Value>
     <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructurePressurePlateLarge</Key>
-    <Value>Abzugsplatte (groß)</Value>
+    <Value>Auslöseplatte (groß)</Value>
     <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructurePressurePlateMedium</Key>
-    <Value>Abzugsplatte (Mittel)</Value>
+    <Value>Auslöseplatte (Mittel)</Value>
     <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructurePressurePlateSmall</Key>
-    <Value>Abzugsplatte (klein)</Value>
+    <Value>Auslöseplatte (klein)</Value>
     <Description/>
   </RecordThing>
   <RecordThing>
