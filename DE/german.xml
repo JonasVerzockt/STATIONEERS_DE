@@ -1426,7 +1426,7 @@ Achte darauf, den Druck nicht über 10MPa zu erhöhen, sonst könnte es knallen&
   <RecordThing>
     <Key>ItemMiningBelt</Key>
     <Value>Bergbau-Gürtel</Value>
-    <Description>Der ursprünglich von {LINK:Recurso;Recurso Espaciais} für den Asteroidenabbau entwickelte Bergbau-Gürtel des {LINK:Stationeers;Stationeer's} bietet Platz für zwei {LINK:ToolPage;tools} und acht {LINK:OrePage;ore} Stacks. Während du den Gürtel trägst, wird das {LINK:OrePage;ore} automatisch dort gelagert, wenn es abgebaut wird. Die flüchtigen und temperaturabhängigen Stoffe bleiben in der umweltkontrollierten Einheit stabil.</Description>
+    <Description>Der ursprünglich von {LINK:Recurso;Recurso Espaciais} für den Asteroidenabbau entwickelte Bergbau-Gürtel des {LINK:Stationeers;Stationeer's} bietet Platz für zwei {LINK:ToolPage;tools} und acht {LINK:OrePage;ore} Stacks. Während du den Gürtel trägst, wird das {LINK:OrePage;ore} automatisch dort gelagert, wenn es abgebaut wird. Die flüchtigen und temperaturabhängigen Stoffe bleiben in der umweltkontrollierten Einheit stabil. Nicht gefüllt mit Werkzeugen in den Recycler werfen!</Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemMiningDrill</Key>
@@ -1695,7 +1695,7 @@ Es mag nicht elegant sein, aber {THING:ItemOxite} und {THING:ItemVolatiles} kön
   <RecordThing>
     <Key>ItemToolBelt</Key>
     <Value>Werkzeuggürtel</Value>
-    <Description>Wenn es einen Ausrüstungsgegenstand gibt, der das Leben eines Stationeers am besten verkörpert, dann ist es der bescheidene Werkzeuggürtel (Anmerkung des Herausgebers: In einer kürzlich durchgeführten Umfrage über ikonische Stationeer-Ausrüstung wurden auch die rauchenden, giftigen Ruinen eines überdruckten {THING:StructureFurnace} inmitten der verkohlten Überreste deiner letzten Basis sehr hoch bewertet).
+    <Description>Wenn es einen Ausrüstungsgegenstand gibt, der das Leben eines Stationeers am besten verkörpert, dann ist es der bescheidene Werkzeuggürtel (Anmerkung des Herausgebers: Nicht gefüllt mit Werkzeugen in den Recycler werfen!).
 Die acht Slots des Werkzeuggürtels wurden nach den strengsten ODA-Sicherheitsstandards entworfen und enthalten vor allem eines: Werkzeug und {THING:ItemCableCoil}. Nicht zu verwechseln mit dem {THING: ItemMiningBelt}.</Description>
   </RecordThing>
   <RecordThing>
@@ -4118,7 +4118,7 @@ Ausgabe = 1 Export der Gegenstände im Inneren und schließlich des Hauptgegenst
   <RecordThing>
     <Key>ItemMushroom</Key>
     <Value>Pilz</Value>
-    <Description>Ein schmackhaftes Nahrungsmittel. Anders als normale Pflanzen verbraucht es {GAS:Oxygen} und gibt {GAS:CarbonDioxide} aus. Pilze reifen nur mäßig schnell in der Dunkelheit, und langes Licht tötet sie.</Description>
+    <Description>Ein unschmackhaftes Nahrungsmittel. Anders als normale Pflanzen verbraucht es {GAS:Oxygen} und gibt {GAS:CarbonDioxide} aus. Pilze reifen nur mäßig schnell in der Dunkelheit, und langes Licht tötet sie.</Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemPumpkin</Key>
@@ -4137,14 +4137,14 @@ Ausgabe = 1 Export der Gegenstände im Inneren und schließlich des Hauptgegenst
   </RecordThing>
   <RecordThing>
     <Key>ItemHardBackpack</Key>
-    <Value>Hardsuit-Rucksack</Value>
+    <Value>Schutzanzug-Rucksack</Value>
     <Description>Dieser Rucksack kann nützlich sein, wenn du drinnen arbeitest und nicht herumfliegen musst.</Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemHardJetpack</Key>
-    <Value>Hardsuit Jetpack</Value>
+    <Value>Schutzanzug Jetpack</Value>
     <Description>Das {LINK:Norsec;Norsec} Jetpack ist eigentlich gar kein Jetpack, sondern ein Gasantrieb. Es kann mit jedem Gas betrieben werden, solange der Innendruck des {LINK:AtmosphericsPage;canister} höher ist als der Außendruck. Wenn der Außendruck höher ist, funktioniert das Spacepack nicht. Wenn du den Wert für die Schubkraft einstellst, kannst du die Beschleunigung verändern, und wenn du den Stabilisator aktivierst, schwebt das Spacepack, sobald eine bestimmte Höhe erreicht ist.
-Das Hardsuit-Jetpack kann viel höhere Geschwindigkeiten erreichen als das {THING:ItemJetpackBasic} - bis zu 15m/s. Es ist unentbehrlich für den Bau, den Bergbau und die allgemeine Fortbewegung und hat vierzehn Slots für die Lagerung.
+Das Schutzanzug-Jetpack kann viel höhere Geschwindigkeiten erreichen als das {THING:ItemJetpackBasic} - bis zu 15m/s. Es ist unentbehrlich für den Bau, den Bergbau und die allgemeine Fortbewegung und hat vierzehn Slots für die Lagerung.
 BENUTZEN: 'J' zum Aktivieren; 'Leertaste' zum Hochfliegen; 'Linke Strg' zum Absteigen; und 'WASD' zum Bewegen.</Description>
   </RecordThing>
   <RecordThing>
@@ -4169,7 +4169,7 @@ BENUTZEN: 'J' zum Aktivieren; 'Leertaste' zum Hochfliegen; 'Linke Strg' zum Abst
   </RecordThing>
   <RecordThing>
     <Key>CartridgeOreScannerColor</Key>
-    <Value>Erbscanner (Farbe)</Value>
+    <Value>Erzscanner (Farbe)</Value>
     <Description>Wenn der Scanner in ein {THING:ItemTablet} eingesetzt und in Verbindung mit einem {THING:DynamicGPR} benutzt wird, zeigt er unter der Erde verborgene Mineralien in verschiedenen Farben auf dem Tablet an.
 
 Eisen und Nickel = rot 
@@ -4216,17 +4216,17 @@ Flüchtige Stoffe und Uran = weiß</Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemBasketBall</Key>
-    <Value>Korbball</Value>
+    <Value>Basketball</Value>
     <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitBasket</Key>
-    <Value>Kit (Korb)</Value>
+    <Value>Kit (Basketballkorb)</Value>
     <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureBasketHoop</Key>
-    <Value>Basket Hoop (Korb)</Value>
+    <Value>Basketballkorb</Value>
     <Description/>
   </RecordThing>
   <RecordThing>
@@ -4465,7 +4465,7 @@ RobotMode.None = 6 = Automatisch zugewiesener Zustand, zeigt an, wenn die Slots 
   </RecordThing>
   <RecordThing>
     <Key>ItemKitAdvancedFurnace</Key>
-    <Value>Kit (Advanced Furnace)</Value>
+    <Value>Kit (Erweiterter Ofen)</Value>
     <Description/>
   </RecordThing>
   <RecordThing>
@@ -4535,22 +4535,22 @@ RobotMode.None = 6 = Automatisch zugewiesener Zustand, zeigt an, wenn die Slots 
   </RecordThing>
   <RecordThing>
     <Key>ElectronicPrinterMod</Key>
-    <Value>Elektronischer Drucker Mod</Value>
+    <Value>Elektronischer Drucker Upgrade</Value>
     <Description>Verbessere einen {THING:StructureElectronicsPrinter} mit einem {THING:ItemWeldingTorch} oder {THING:ItemArcWelder} für eine höhere Verarbeitungsgeschwindigkeit und mehr Rezeptoptionen.</Description>
   </RecordThing>
   <RecordThing>
     <Key>AutolathePrinterMod</Key>
-    <Value>Automatendrehmaschine Drucker Mod</Value>
+    <Value>Automatendrehmaschine Drucker Upgrade</Value>
     <Description>Verbessere eine {THING:StructureAutolathe} mit einem {THING:ItemWeldingTorch} oder {THING:ItemArcWelder}, um die Verarbeitungsgeschwindigkeit zu erhöhen und mehr Rezeptoptionen zu erhalten.</Description>
   </RecordThing>
   <RecordThing>
     <Key>PipeBenderMod</Key>
-    <Value>Rohrbiegemaschine Mod</Value>
+    <Value>Rohrbiegemaschine Upgrade</Value>
     <Description>Verbessere einen {THING:StructureHydraulicPipeBender} mit einem {THING:ItemWeldingTorch} oder {THING:ItemArcWelder}, um die Verarbeitungsgeschwindigkeit zu erhöhen und mehr Rezeptoptionen zu erhalten.</Description>
   </RecordThing>
   <RecordThing>
     <Key>ToolPrinterMod</Key>
-    <Value>Werkzeugdrucker Mod</Value>
+    <Value>Werkzeugdrucker Upgrade</Value>
     <Description>Wende eine {THING:StructureToolManufactory} mit einem {THING:ItemWeldingTorch} oder {THING:ItemArcWelder} an, um die Verarbeitungsgeschwindigkeit zu verbessern und mehr Rezeptoptionen zu erhalten.</Description>
   </RecordThing>
   <RecordThing>
@@ -4642,7 +4642,7 @@ BENUTZEN: 'J' zum Aktivieren; 'Leertaste' zum Hochfliegen; 'Linke Strg' zum Abst
   <RecordThing>
     <Key>ItemEmergencyToolBelt</Key>
     <Value>Notfall-Werkzeuggürtel</Value>
-    <Description/>
+    <Description>Nicht gefüllt mit Werkzeugen in den Recycler werfen!<Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemElectronicParts</Key>
@@ -4656,7 +4656,7 @@ BENUTZEN: 'J' zum Aktivieren; 'Leertaste' zum Hochfliegen; 'Linke Strg' zum Abst
   </RecordThing>
   <RecordThing>
     <Key>ManualGetResearchPodsRequired</Key>
-    <Value>PodTypeToSearchFor</Value>
+    <Value>Zu suchender Kapsel-Typ</Value>
     <Description/>
   </RecordThing>
   <RecordThing>
@@ -4912,7 +4912,7 @@ Bei der Landung setzt die Rakete einen Lander und die im Modul {THING:StructureM
   </RecordThing>
   <RecordThing>
     <Key>ItemAdvancedTablet</Key>
-    <Value>Erweiterte Tablette</Value>
+    <Value>Fortgeschrittenes Tablet</Value>
     <Description>Das fortschrittliche Padi 2 Tablet ist eine verbesserte Version des grundlegenden {THING:ItemTablet} und verfügt über zwei {LINK:CartridgePage;Cartridge} Slots. Das Padi 2 akzeptiert {THING:CartridgeAtmosAnalyser}, {THING:CartridgeTracker}, {THING:CartridgeMedicalAnalyser}, {THING:CartridgeOreScanner}, {THING:CartridgeElectronicReader} und verschiedene andere Patronen.</Description>
   </RecordThing>
   <RecordThing>
@@ -5109,7 +5109,7 @@ Bei der Landung setzt die Rakete einen Lander und die im Modul {THING:StructureM
   </RecordThing>
   <RecordThing>
     <Key>DynamicGasCanisterRocketFuel</Key>
-    <Value>Dynamischer Gaskanister Raketentreibstoff</Value>
+    <Value>Tragbarer Gaskanister Raketentreibstoff</Value>
     <Description/>
   </RecordThing>
   <RecordThing>
@@ -5124,12 +5124,12 @@ Bei der Landung setzt die Rakete einen Lander und die im Modul {THING:StructureM
   </RecordThing>
   <RecordThing>
     <Key>ItemSensorProcessingUnitOreScanner</Key>
-    <Value>Sensorbearbeitungseinheit (Erzscanner)</Value>
+    <Value>Sensorbrille-Chip (Erzscanner)</Value>
     <Description>Die Sensorverarbeitungseinheit kann in {THING:ItemSensorLenses} eingesetzt werden, um unterirdische Mineralien in einem HUD sichtbar zu machen.</Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemSensorLenses</Key>
-    <Value>Sensorlinsen</Value>
+    <Value>Sensorbrille</Value>
     <Description>Diese {LINK:Norsec;Norsec}-Brillen sind vielleicht nicht das Modischste, aber wenn eine {THING:ItemSensorProcessingUnitOreScanner} eingesetzt wird, können Stationeer diese handlichen Brillen benutzen, um den Boden zu röntgen und Erze zu finden, die unter der Oberfläche verborgen sind.</Description>
   </RecordThing>
   <RecordThing>
@@ -5329,38 +5329,38 @@ Bei der Landung setzt die Rakete einen Lander und die im Modul {THING:StructureM
   </RecordThing>
   <RecordThing>
     <Key>StructureLightRoundAngled</Key>
-    <Value>Leicht Rund (Eckig)</Value>
-    <Description>Beschreibung folgt.</Description>
+    <Value>Lampe (Eckig)</Value>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureLightRound</Key>
-    <Value>Leicht Rund</Value>
-    <Description>Beschreibung folgt.</Description>
+    <Value>Lampe Rund</Value>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureLightRoundSmall</Key>
-    <Value>Leicht Rund (Klein)</Value>
-    <Description>Beschreibung folgt.</Description>
+    <Value>Lampe Rund (Klein)</Value>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureSingleBed</Key>
     <Value>Einzelbett</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureBlockBed</Key>
     <Value>Block-Bett</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>TriggerZone</Key>
     <Value>Auslösezone</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureEmergencyButton</Key>
-    <Value>Wichtige Taste</Value>
-    <Description>Beschreibung folgt.</Description>
+    <Value>Notfall-Taste</Value>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitAirlockGate</Key>
@@ -5393,347 +5393,347 @@ Da sie bis zu 9000001 Watt Energie speichern kann, gibt es keine praktischen Gre
   <RecordThing>
     <Key>ItemKitBatteryLarge</Key>
     <Value>Kit (Batterie groß)</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageVendingMachine1</Key>
     <Value>Wrackteile-Automat</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageVendingMachine2</Key>
     <Value>Wrackteile-Automat</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageVendingMachine3</Key>
     <Value>Wrackteile-Automat</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageVendingMachine4</Key>
     <Value>Wrackteile-Automat</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageArcFurnace1</Key>
     <Value>Wrack-Lichtbogenofen</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageArcFurnace2</Key>
     <Value>Wrack-Lichtbogenofen</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageArcFurnace3</Key>
     <Value>Wrack-Lichtbogenofen</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageAreaPowerControl1</Key>
-    <Value>Flächenleistungsregler für Wrackteile</Value>
-    <Description>Beschreibung folgt.</Description>
+    <Value>Wrack-Flächenleistungsregler</Value>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageAreaPowerControl2</Key>
-    <Value>Flächenleistungsregler für Wrackteile</Value>
-    <Description>Beschreibung folgt.</Description>
+    <Value>Wrack-Flächenleistungsregler</Value>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageAreaPowerControlReversed1</Key>
-    <Value>Flächenleistungsregler für Wrackteile Umgekehrt</Value>
-    <Description>Beschreibung folgt.</Description>
+    <Value>Wrack-Flächenleistungsregler</Value>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageAreaPowerControlReversed2</Key>
-    <Value>Flächenleistungsregler für Wrackteile Umgekehrt</Value>
-    <Description>Beschreibung folgt.</Description>
+    <Value>Wrack-Flächenleistungsregler</Value>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageSolarPanel1</Key>
-    <Value>Wrack-Solarmodul</Value>
+    <Value>Wrack Solarmodul</Value>
     <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageSolarPanel2</Key>
-    <Value>Wrack-Solarmodul</Value>
+    <Value>Wrack Solarmodul</Value>
     <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageSolarPanel3</Key>
-    <Value>Wrack-Solarmodul</Value>
-    <Description>Beschreibung folgt.</Description>
+    <Value>Wrack Solarmodul</Value>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageTransformer1</Key>
-    <Value>Wrack-Transformator</Value>
-    <Description>Beschreibung folgt.</Description>
+    <Value>Wrack Transformator</Value>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageTransformer2</Key>
-    <Value>Wrack-Transformator</Value>
-    <Description>Beschreibung folgt.</Description>
+    <Value>Wrack Transformator</Value>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageTransformerMedium1</Key>
-    <Value>Wrack-Transformator Medium</Value>
+    <Value>Wrack Transformator Medium</Value>
     <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageTransformerMedium2</Key>
-    <Value>Wrack-Transformator Medium</Value>
+    <Value>Wrack Transformator Medium</Value>
     <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageTransformerSmall1</Key>
-    <Value>Wrack-Transformator Klein</Value>
-    <Description>Beschreibung folgt.</Description>
+    <Value>Wrack Transformator Klein</Value>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageTransformerSmall2</Key>
-    <Value>Wrack-Transformator Klein</Value>
-    <Description>Beschreibung folgt.</Description>
+    <Value>Wrack Transformator Klein</Value>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageSecurityPrinter1</Key>
-    <Value>Wrack-Sicherheitsdrucker</Value>
-    <Description>Beschreibung folgt.</Description>
+    <Value>Wrack Sicherheitsdrucker</Value>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageSecurityPrinter2</Key>
-    <Value>Wrack-Sicherheitsdrucker</Value>
-    <Description>Beschreibung folgt.</Description>
+    <Value>Wrack Sicherheitsdrucker</Value>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageSecurityPrinter3</Key>
-    <Value>Wrack-Sicherheitsdrucker</Value>
-    <Description>Beschreibung folgt.</Description>
+    <Value>Wrack Sicherheitsdrucker</Value>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageSecurityPrinter4</Key>
-    <Value>Wrack-Sicherheitsdrucker</Value>
-    <Description>Beschreibung folgt.</Description>
+    <Value>Wrack Sicherheitsdrucker</Value>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageSecurityPrinter5</Key>
-    <Value>Wrack-Sicherheitsdrucker</Value>
-    <Description>Beschreibung folgt.</Description>
+    <Value>Wrack Sicherheitsdrucker</Value>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageSecurityPrinter6</Key>
-    <Value>Wrack-Sicherheitsdrucker</Value>
-    <Description>Beschreibung folgt.</Description>
+    <Value>Wrack Sicherheitsdrucker</Value>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageAutolathe1</Key>
-    <Value>Wrack-Automatendrehmaschine</Value>
-    <Description>Beschreibung folgt.</Description>
+    <Value>Wrack Automatendrehmaschine</Value>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageAutolathe2</Key>
-    <Value>Wrack-Automatendrehmaschine</Value>
-    <Description>Beschreibung folgt.</Description>
+    <Value>Wrack Automatendrehmaschine</Value>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageAutolathe3</Key>
-    <Value>Wrack-Automatendrehmaschine</Value>
-    <Description>Beschreibung folgt.</Description>
+    <Value>Wrack Automatendrehmaschine</Value>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageAutolathe4</Key>
-    <Value>Wrack-Automatendrehmaschine</Value>
-    <Description>Beschreibung folgt.</Description>
+    <Value>Wrack Automatendrehmaschine</Value>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageAutolathe5</Key>
-    <Value>Wrack-Automatendrehmaschine</Value>
-    <Description>Beschreibung folgt.</Description>
+    <Value>Wrack Automatendrehmaschine</Value>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageAutolathe6</Key>
-    <Value>Wrack-Automatendrehmaschine</Value>
-    <Description>Beschreibung folgt.</Description>
+    <Value>Wrack Automatendrehmaschine</Value>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageAutolathe7</Key>
-    <Value>Wrack-Automatendrehmaschine</Value>
-    <Description>Beschreibung folgt.</Description>
+    <Value>Wrack Automatendrehmaschine</Value>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageElectronicsPrinter1</Key>
     <Value>Wrack Elektronik Drucker1</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageElectronicsPrinter2</Key>
     <Value>Wrack Elektronik Drucker2</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageElectronicsPrinter3</Key>
     <Value>Wrack Elektronik Drucker3</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageElectronicsPrinter4</Key>
     <Value>Wrack Elektronik Drucker4</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageElectronicsPrinter5</Key>
     <Value>Wrack Elektronik Drucker5</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageElectronicsPrinter6</Key>
-    <Value>Gegenstand Wrack Elektronik Drucker6</Value>
-    <Description>Beschreibung folgt.</Description>
+    <Value>Wrack Elektronikdrucker</Value>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageCentrifuge1</Key>
-    <Value>Wrack-Zentrifuge</Value>
+    <Value>Wrack Zentrifuge</Value>
     <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageCentrifuge2</Key>
-    <Value>Wrack-Zentrifuge</Value>
+    <Value>Wrack Zentrifuge</Value>
     <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageCentrifuge3</Key>
-    <Value>Wrack-Zentrifuge</Value>
+    <Value>Wrack Zentrifuge</Value>
     <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageCentrifuge4</Key>
-    <Value>Wrack-Zentrifuge</Value>
+    <Value>Wrack Zentrifuge</Value>
     <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageCentrifuge5</Key>
-    <Value>Wrack-Zentrifuge</Value>
+    <Value>Wrack Zentrifuge</Value>
     <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageGasGenerator1</Key>
-    <Value>Wrack-Gasgenerator</Value>
-    <Description>Beschreibung folgt.</Description>
+    <Value>Wrack Gasgenerator</Value>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageGasGenerator2</Key>
-    <Value>Wrack-Gasgenerator</Value>
-    <Description>Beschreibung folgt.</Description>
+    <Value>Wrack Gasgenerator</Value>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageVent1</Key>
-    <Value>Wrack-Entlüftung</Value>
-    <Description>Beschreibung folgt.</Description>
+    <Value>Wrack Entlüftung</Value>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageSatelliteDish1</Key>
     <Value>Wrack Mittlere Satellitenschüssel</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageSatelliteDish2</Key>
     <Value>Wrack Mittlere Satellitenschüssel</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageSatelliteDish3</Key>
     <Value>Wrack Mittlere Satellitenschüssel</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageElectrolysis1</Key>
     <Value>Wrack Elektrolyse</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageElectrolysis2</Key>
     <Value>Wrack Elektrolyse</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageLight1</Key>
     <Value>Wrack Licht</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageLight2</Key>
     <Value>Wrack Licht</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageLightLongAngled1</Key>
     <Value>Wrack Licht lang gewinkelt</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageLightLongAngled2</Key>
     <Value>Wrack Licht Lang gewinkelt</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageLightLongWide1</Key>
     <Value>Wrack Licht Lang Breit</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageLightLongWide2</Key>
     <Value>Wrack Licht Lang Breit</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageWallLightBatteryPowered1</Key>
     <Value>Wrack Wandlicht Batteriebetrieben</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageWallLightBatteryPowered2</Key>
     <Value>Wrack Wandlicht Batteriebetrieben</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageRecycler1</Key>
     <Value>Wrack Recycler</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageRecycler2</Key>
     <Value>Wrack Recycler</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageRecycler3</Key>
     <Value>Wrack Recycler</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageRecycler4</Key>
     <Value>Wrack Recycler</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageRecycler5</Key>
     <Value>Wrack Recycler</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageRecycler6</Key>
     <Value>Wrack Recycler</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageFlashingLight1</Key>
     <Value>Wrack Blinklicht</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageFlashingLight2</Key>
     <Value>Wrack Blinklicht</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageActiveVent1</Key>
@@ -5748,47 +5748,47 @@ Da sie bis zu 9000001 Watt Energie speichern kann, gibt es keine praktischen Gre
   <RecordThing>
     <Key>ItemWreckageCoalGenerator1</Key>
     <Value>Wrack Kohlegenerator</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageCoalGenerator2</Key>
     <Value>Wrack Kohlegenerator</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageCoalGenerator3</Key>
     <Value>Wrack Kohlegenerator</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageH2Combustor1</Key>
     <Value>Wrack H2 Combustor</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageHydroponicsAutomatic1</Key>
     <Value>Wrack Hydroponics Automatisch</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageHydroponicsAutomatic2</Key>
     <Value>Wrack Hydroponics Automatisch</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageHydroponicsAutomatic3</Key>
     <Value>Wrack Hydroponics Automatisch</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageHydroponicsStation1</Key>
     <Value>Wrack Hydroponics Station</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageHydroponicsStation2</Key>
     <Value>Wrack Hydroponics Station</Value>
-    <Description>Beschreibung folgt.</Description>
+    </Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageSDBSilo1</Key>
@@ -5912,17 +5912,17 @@ Da sie bis zu 9000001 Watt Energie speichern kann, gibt es keine praktischen Gre
   </RecordThing>
   <RecordThing>
     <Key>ItemKitHarvie</Key>
-    <Value>Kit (Harvie)</Value>
+    <Value>Kit (Automatischer Farmer)</Value>
     <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureHarvieReversed</Key>
-    <Value>Harvie</Value>
+    <Value>Automatischer Farmer</Value>
     <Description>Benutze es über einem {THING:StructureHydroponicsTray} oder {THING:StructureHydroponicsTrayData}, um die Anpflanzung und Ernte deiner Pflanzen zu verwalten. Er enthält eine Schaltfläche, mit der du seine Modi aktivieren kannst, oder du verbindest ihn mit einem Logiksystem, das dies für dich übernimmt. Die Modi zeigen den aktuellen Wachstumsstatus der Pflanze an. Der Import wird für das Pflanzen benutzt, und die geernteten Pflanzen werden an den Export geschickt.</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureHarvie</Key>
-    <Value>Harvie</Value>
+    <Value>Automatischer Farmer</Value>
     <Description>Benutze es über einem {THING:StructureHydroponicsTray} oder {THING:StructureHydroponicsTrayData}, um die Anpflanzung und Ernte deiner Pflanzen zu verwalten. Er enthält eine Schaltfläche, mit der du seine Modi aktivieren kannst, oder du verbindest ihn mit einem Logiksystem, das dies für dich übernimmt. Die Modi zeigen den aktuellen Wachstumsstatus der Pflanze an. Der Import wird für das Pflanzen benutzt, und die geernteten Pflanzen werden an den Export geschickt.</Description>
   </RecordThing>
   <RecordThing>
@@ -6058,12 +6058,12 @@ Eine Vierergruppe von an der Nabe montierten Elektromotoren treibt den verstärk
   </RecordThing>
   <RecordThing>
     <Key>StructureGrowLight</Key>
-    <Value>Grow Light</Value>
+    <Value>Pflanzen Licht</Value>
     <Description>{LINK:Agrizero;Agrizero's} führendes hydroponisches Beleuchtungssystem, das GrowUp UV-Licht ergänzt die Sonneneinstrahlung bei schwachem Licht oder sonnenfernen Bedingungen. Das Gerät ermöglicht den Anbau auf der Fläche eines Gitters und muss daher in unmittelbarer Nähe platziert werden, um zu funktionieren.</Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitGrowLight</Key>
-    <Value>Kit (Grow Light)</Value>
+    <Value>Kit (Pflanzen Licht)</Value>
     <Description>Dieser Kit produziert ein {LINK:Agrizero;Agrizero} {THING:StructureGrowLight}.</Description>
   </RecordThing>
   <RecordThing>
@@ -6078,12 +6078,12 @@ Eine Vierergruppe von an der Nabe montierten Elektromotoren treibt den verstärk
   </RecordThing>
   <RecordThing>
     <Key>ItemKitUprightWindTurbine</Key>
-    <Value>Kit (Aufrechte Windturbine)</Value>
+    <Value>Kit (kleine Windturbine)</Value>
     <Description>Dieses Kit produziert eine {THING:StructureUprightWindTurbine}.</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureUprightWindTurbine</Key>
-    <Value>Aufrechte Windturbine</Value>
+    <Value>Kleine Windturbine</Value>
     <Description>Die Norsec-Windturbine ist eine einfach herzustellende, schnell einsatzbereite Konstruktion, die stark genug ist, um den schlimmsten Umwelteinflüssen zu trotzen. 
 Obwohl die Windturbine so optimiert ist, dass sie auch bei niedriger Atmosphäre Energie produziert (bis zu 200 W), ist sie in dichteren Umgebungen am leistungsfähigsten. Die Ausgabe hängt von der Windgeschwindigkeit ab und kann bei Stürmen drastisch ansteigen (bis zu 800 W), also solltest du bei der Planung deiner Netzwerke darauf achten.</Description>
   </RecordThing>
@@ -6165,13 +6165,13 @@ Er kann automatisiert werden, indem du das {THING:StructureHarvie} benutzt. Beac
   </RecordThing>
   <RecordThing>
     <Key>ItemAstroloySheets</Key>
-    <Value>Gegenstand Astroloy-Platten</Value>
+    <Value>Astroloy-Platten</Value>
     <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemMiningBeltAdvanced</Key>
     <Value>Bergbau-Gürtel MK II</Value>
-    <Description>Der Bergbau-Gürtel Mk II ähnelt dem {THING:ItemMiningBelt}, hat aber 13 Slots statt der üblichen 8, um die Länge deiner Bergbaureisen zu erhöhen. Außerdem bietet er Platz für zwei Werkzeuge.</Description>
+    <Description>Der Bergbau-Gürtel Mk II ähnelt dem {THING:ItemMiningBelt}, hat aber 13 Slots statt der üblichen 8, um die Länge deiner Bergbaureisen zu erhöhen. Außerdem bietet er Platz für zwei Werkzeuge. Nicht gefüllt mit Werkzeugen in den Recycler werfen!</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureWindTurbine</Key>
@@ -6333,13 +6333,13 @@ Wenn der KoolAuger voll ist, nimmt er kein weiteres Eis mehr an, bis der Gas- od
   </RecordThing>
   <RecordThing>
     <Key>StructureLiquidPipeRadiator</Key>
-    <Value>Flüssigkeitsrohr-Konvektionsstrahler</Value>
+    <Value>Flüssigkeitsrohr-Radiator</Value>
     <Description>Rohrheizkörper sind ein einfacher Wärmetauscher, der an Rohren angebracht werden kann, um je nach Temperatur der umgebenden Atmosphäre Wärme abzugeben oder zu gewinnen. Wenn die Atmosphäre heißer ist, wird der Flüssigkeit im Netzwerk Wärme zugeführt, und umgekehrt, wenn sie kälter ist. In einem Vakuum wird die Wärme abgestrahlt. 
 Die Geschwindigkeit des Wärmegewinns oder -verlusts hängt von der jeweiligen Flüssigkeit ab. Wenn du mehrere Heizkörper hinzufügst, wird die Wärmeübertragung beschleunigt.</Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemPipeLiquidRadiator</Key>
-    <Value>Kit (Flüssigkeitsstrahler)</Value>
+    <Value>Kit (Flüssigkeitsradiator)</Value>
     <Description>Dieses Kit erstellt einen {THING: StructureLiquidPipeRadiator}.</Description>
   </RecordThing>
   <RecordThing>
@@ -6500,7 +6500,7 @@ Kommt demnächst</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureRocketModuleMiningJunk</Key>
-    <Value/>
+    <Value>Raketenmodul Bergbau-Schrott<Value/>
     <Description>Das Modul muss durch eine richtig platzierte {THING:StructureModularRocketCouplingDown} oder {THING:StructureModularRocketCouplingUp} mit einem {THING:StructureRocketModuleSilo} verbunden sein, damit {LINK:OrePage;ore} von der Kollektoreinheit in das Silo gelangen kann.</Description>
   </RecordThing>
   <RecordThing>
@@ -6980,7 +6980,7 @@ Hinweis: Der Kannifizierer zeigt eine Fehlermeldung auf seinem Aktivierungsschal
   <RecordThing>
     <Key>ItemCannedMushroom</Key>
     <Value>Dosenpilze</Value>
-    <Description>Hergestellt in einer {THING:StructureAdvancedPackagingMachine} oder {THING:AppliancePackagingMachine}, unter Verwendung von {THING:ItemCookedMushroom} und einer {THING:ItemEmptyCan}, ist die leckere Pilzsuppe ziemlich nahrhaft und {LINK:DecayPage;decay} nicht.</Description>
+    <Description>Hergestellt in einer {THING:StructureAdvancedPackagingMachine} oder {THING:AppliancePackagingMachine}, unter Verwendung von {THING:ItemCookedMushroom} und einer {THING:ItemEmptyCan}, ist die unleckere Pilzsuppe ziemlich nahrhaft und {LINK:DecayPage;decay} nicht.</Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemPowderedeggs</Key>
