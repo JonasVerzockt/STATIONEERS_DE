@@ -349,7 +349,7 @@
   </Record>
   <Record>
     <Key>Unpowered</Key>
-    <Value>Ungeschaltet</Value>
+    <Value>Ausgeschaltet</Value>
   </Record>
   <Record>
     <Key>False</Key>
@@ -413,7 +413,7 @@
   </Record>
   <Record>
     <Key>CallElevator</Key>
-    <Value>Aufrufen</Value>
+    <Value>Rufen</Value>
   </Record>
   <Record>
     <Key>Set</Key>
@@ -445,7 +445,7 @@
   </Record>
   <Record>
     <Key>ForceFeed</Key>
-    <Value>Vorschub erzwingen</Value>
+    <Value>Essen erzwingen</Value>
   </Record>
   <Record>
     <Key>FlipRover</Key>
@@ -474,12 +474,12 @@ Befestige ihn einfach mit einem {THING:ItemWrench} an einer {THING:StructureBenc
   </RecordThing>
   <RecordThing>
     <Key>BodyPartAstronautFemaleArmL</Key>
-    <Value>Körperteil Astronautin Arm</Value>
+    <Value>Körperteil Astronautin linker Arm</Value>
     <Description>Was linke Arme angeht, ist dies ein akzeptables, wenn auch etwas vergessliches Exemplar seiner Art. Er hat schon bessere Tage gesehen.</Description>
   </RecordThing>
   <RecordThing>
     <Key>BodyPartAstronautFemaleArmR</Key>
-    <Value>Körperteil Astronautin Arm R</Value>
+    <Value>Körperteil Astronautin rechter Arm</Value>
     <Description>Einer von einem Paar. Der andere ist wahrscheinlich in der Nähe.</Description>
   </RecordThing>
   <RecordThing>
@@ -489,12 +489,12 @@ Befestige ihn einfach mit einem {THING:ItemWrench} an einer {THING:StructureBenc
   </RecordThing>
   <RecordThing>
     <Key>BodyPartAstronautFemaleLegL</Key>
-    <Value>Körperteil Astronautin Bein L</Value>
+    <Value>Körperteil Astronautin linkes Bein L</Value>
     <Description>Ein Bein, ist ein Bein, ist ein Bein.</Description>
   </RecordThing>
   <RecordThing>
     <Key>BodyPartAstronautFemaleLegR</Key>
-    <Value>Körperteil Astronautin Bein R</Value>
+    <Value>Körperteil Astronautin rechtes Bein</Value>
     <Description>Dies ist das rechte Bein einer Frau. Nach ihrem Zustand zu urteilen, war sie ziemlich gesund, durchschnittlich groß und neigte dazu, auf den Fußballen zu gehen.</Description>
   </RecordThing>
   <RecordThing>
@@ -504,12 +504,12 @@ Befestige ihn einfach mit einem {THING:ItemWrench} an einer {THING:StructureBenc
   </RecordThing>
   <RecordThing>
     <Key>BodyPartAstronautMaleArmL</Key>
-    <Value>Körperteil Astronaut Arm L</Value>
+    <Value>Körperteil Astronaut linker Arm</Value>
     <Description>Dein Arm ist dein viertwichtigstes Körperteil.</Description>
   </RecordThing>
   <RecordThing>
     <Key>BodyPartAstronautMaleArmR</Key>
-    <Value>Körperteil Astronaut Arm R</Value>
+    <Value>Körperteil Astronaut rechter Arm</Value>
     <Description>Dieser Oberarmknochen hat nichts Komisches an sich.</Description>
   </RecordThing>
   <RecordThing>
@@ -519,12 +519,12 @@ Befestige ihn einfach mit einem {THING:ItemWrench} an einer {THING:StructureBenc
   </RecordThing>
   <RecordThing>
     <Key>BodyPartAstronautMaleLegL</Key>
-    <Value>Körperteil Astronaut Bein</Value>
+    <Value>Körperteil Astronaut linkes Bein</Value>
     <Description>Das ist ein Bein. Jemand vermisst es wahrscheinlich.</Description>
   </RecordThing>
   <RecordThing>
     <Key>BodyPartAstronautMaleLegR</Key>
-    <Value>Körperteil Astronaut Bein R</Value>
+    <Value>Körperteil Astronaut rechtes Bein</Value>
     <Description>Beine sind wirklich nützliche Dinge, aber Räder wären auch cool gewesen.</Description>
   </RecordThing>
   <RecordThing>
@@ -534,7 +534,7 @@ Befestige ihn einfach mit einem {THING:ItemWrench} an einer {THING:StructureBenc
   </RecordThing>
   <RecordThing>
     <Key>BodyPartChickBody</Key>
-    <Value>Körperteil Hühnerkörper</Value>
+    <Value>Körperteil Huhn Körper</Value>
     <Description>Das flauschige Herz eines harmlosen Proto-Huhns.</Description>
   </RecordThing>
   <RecordThing>
@@ -549,12 +549,12 @@ Befestige ihn einfach mit einem {THING:ItemWrench} an einer {THING:StructureBenc
   </RecordThing>
   <RecordThing>
     <Key>BodyPartChickenBrownLegL</Key>
-    <Value>Körperteil Huhn Braun Bein</Value>
+    <Value>Körperteil Huhn Braun linkes Bein</Value>
     <Description>Ein Hühnerbein.</Description>
   </RecordThing>
   <RecordThing>
     <Key>BodyPartChickenBrownLegR</Key>
-    <Value>Körperteil Huhn Braun Bein R</Value>
+    <Value>Körperteil Huhn Braun rechtes Bein</Value>
     <Description>Auch ein Hühnerbein.</Description>
   </RecordThing>
   <RecordThing>
@@ -564,12 +564,12 @@ Befestige ihn einfach mit einem {THING:ItemWrench} an einer {THING:StructureBenc
   </RecordThing>
   <RecordThing>
     <Key>BodyPartChickenBrownWingL</Key>
-    <Value>Körperteil Huhn Braun Flügel)</Value>
+    <Value>Körperteil Huhn Braun linker Flügel</Value>
     <Description>Ein Hühnerflügel.</Description>
   </RecordThing>
   <RecordThing>
     <Key>BodyPartChickenBrownWingR</Key>
-    <Value>Körperteil Huhn Braun Flügel R</Value>
+    <Value>Körperteil Huhn Braun rechter Flügel</Value>
     <Description>Ein Hühnerflügel.</Description>
   </RecordThing>
   <RecordThing>
@@ -584,12 +584,12 @@ Befestige ihn einfach mit einem {THING:ItemWrench} an einer {THING:StructureBenc
   </RecordThing>
   <RecordThing>
     <Key>BodyPartChickenWhiteLegL</Key>
-    <Value>Körperteil Huhn Weiß Bein</Value>
+    <Value>Körperteil Huhn Weiß linkes Bein</Value>
     <Description>Ein Hühnerbein.</Description>
   </RecordThing>
   <RecordThing>
     <Key>BodyPartChickenWhiteLegR</Key>
-    <Value>Körperteil Huhn Weiß Bein R</Value>
+    <Value>Körperteil Huhn Weiß rechtes Bein</Value>
     <Description>Ein Hühnerbein.</Description>
   </RecordThing>
   <RecordThing>
@@ -599,12 +599,12 @@ Befestige ihn einfach mit einem {THING:ItemWrench} an einer {THING:StructureBenc
   </RecordThing>
   <RecordThing>
     <Key>BodyPartChickenWhiteWingL</Key>
-    <Value>Körperteil Huhn Weiß Flügel</Value>
+    <Value>Körperteil Huhn Weiß linker Flügel</Value>
     <Description>Ein Hühnerflügel.</Description>
   </RecordThing>
   <RecordThing>
     <Key>BodyPartChickenWhiteWingR</Key>
-    <Value>Körperteil Huhn Weiß Flügel R</Value>
+    <Value>Körperteil Huhn Weiß rechter Flügel</Value>
     <Description>Ein Hühnerflügel.</Description>
   </RecordThing>
   <RecordThing>
@@ -614,12 +614,12 @@ Befestige ihn einfach mit einem {THING:ItemWrench} an einer {THING:StructureBenc
   </RecordThing>
   <RecordThing>
     <Key>BodyPartChickLegL</Key>
-    <Value>Körperteil Küken Bein)</Value>
+    <Value>Körperteil Küken linkes Bein)</Value>
     <Description>Ein Hühnerbein.</Description>
   </RecordThing>
   <RecordThing>
     <Key>BodyPartChickLegR</Key>
-    <Value>Körperteil Küken Bein R</Value>
+    <Value>Körperteil Küken rechtes Bein</Value>
     <Description>Ein Hühnerbein.</Description>
   </RecordThing>
   <RecordThing>
@@ -629,22 +629,22 @@ Befestige ihn einfach mit einem {THING:ItemWrench} an einer {THING:StructureBenc
   </RecordThing>
   <RecordThing>
     <Key>BodyPartChickWingL</Key>
-    <Value>Körperteil Küken Flügel</Value>
+    <Value>Körperteil Küken linker Flügel</Value>
     <Description>Ein Hühnerflügel.</Description>
   </RecordThing>
   <RecordThing>
     <Key>BodyPartChickWingR</Key>
-    <Value>Körperteil Küken Flügel R</Value>
+    <Value>Körperteil Küken rechter Flügel</Value>
     <Description>Ein Hühnerflügel.</Description>
   </RecordThing>
   <RecordThing>
     <Key>BodyPartGraylienArmL</Key>
-    <Value>Körperteil Graylien Arm L</Value>
+    <Value>Körperteil Graylien linker Arm L</Value>
     <Description>Der Arm eines Außerirdischen.</Description>
   </RecordThing>
   <RecordThing>
     <Key>BodyPartGraylienArmR</Key>
-    <Value>Körperteil Graylien Arm R</Value>
+    <Value>Körperteil Graylien rechter Arm</Value>
     <Description>Der Arm eines Außerirdischen.</Description>
   </RecordThing>
   <RecordThing>
@@ -659,12 +659,12 @@ Befestige ihn einfach mit einem {THING:ItemWrench} an einer {THING:StructureBenc
   </RecordThing>
   <RecordThing>
     <Key>BodyPartGraylienLegL</Key>
-    <Value>Körperteil Graylien Bein L</Value>
+    <Value>Körperteil Graylien linkes Bein</Value>
     <Description>Das Bein eines Außerirdischen.</Description>
   </RecordThing>
   <RecordThing>
     <Key>BodyPartGraylienLegR</Key>
-    <Value>Körperteil Graylien Bein R</Value>
+    <Value>Körperteil Graylien rechtes Bein</Value>
     <Description>Das andere Bein eines Außerirdischen.</Description>
   </RecordThing>
   <RecordThing>
@@ -684,12 +684,12 @@ Befestige ihn einfach mit einem {THING:ItemWrench} an einer {THING:StructureBenc
   </RecordThing>
   <RecordThing>
     <Key>BodyPartRoosterBlackLegL</Key>
-    <Value>Körperteil Hahn Schwarz Bein</Value>
+    <Value>Körperteil Hahn Schwarz linkes Bein</Value>
     <Description>Das Bein eines Hahns.</Description>
   </RecordThing>
   <RecordThing>
     <Key>BodyPartRoosterBlackLegR</Key>
-    <Value>Körperteil Hahn Schwarz Bein R</Value>
+    <Value>Körperteil Hahn Schwarz rechtes Bein</Value>
     <Description>Das Bein eines Hahns.</Description>
   </RecordThing>
   <RecordThing>
@@ -699,12 +699,12 @@ Befestige ihn einfach mit einem {THING:ItemWrench} an einer {THING:StructureBenc
   </RecordThing>
   <RecordThing>
     <Key>BodyPartRoosterBlackWingL</Key>
-    <Value>Körperteil Hahn Schwarz Flügel</Value>
+    <Value>Körperteil Hahn Schwarz linker Flügel</Value>
     <Description>Der Flügel eines Hahns.</Description>
   </RecordThing>
   <RecordThing>
     <Key>BodyPartRoosterBlackWingR</Key>
-    <Value>Körperteil Hahn Schwarz Flügel R</Value>
+    <Value>Körperteil Hahn Schwarz rechter Flügel</Value>
     <Description>Der Flügel eines Hahns.</Description>
   </RecordThing>
   <RecordThing>
@@ -719,12 +719,12 @@ Befestige ihn einfach mit einem {THING:ItemWrench} an einer {THING:StructureBenc
   </RecordThing>
   <RecordThing>
     <Key>BodyPartRoosterBrownLegL</Key>
-    <Value>Körperteil Hahn Braun Bein</Value>
+    <Value>Körperteil Hahn Braun linkes Bein</Value>
     <Description>Das Bein eines braunen Hahns.</Description>
   </RecordThing>
   <RecordThing>
     <Key>BodyPartRoosterBrownLegR</Key>
-    <Value>Körperteil Hahn Braun Bein R</Value>
+    <Value>Körperteil Hahn Braun rechtes Bein</Value>
     <Description>Das Bein eines Hahns.</Description>
   </RecordThing>
   <RecordThing>
@@ -734,12 +734,12 @@ Befestige ihn einfach mit einem {THING:ItemWrench} an einer {THING:StructureBenc
   </RecordThing>
   <RecordThing>
     <Key>BodyPartRoosterBrownWingL</Key>
-    <Value>Körperteil Hahn Braun Flügel</Value>
+    <Value>Körperteil Hahn Braun linker Flügel</Value>
     <Description>Der Flügel eines Hahns.</Description>
   </RecordThing>
   <RecordThing>
     <Key>BodyPartRoosterBrownWingR</Key>
-    <Value>Körperteil Hahn Braun Flügel R</Value>
+    <Value>Körperteil Hahn Braun rechter Flügel</Value>
     <Description>Der Flügel eines braunen Hahns. Naja, bräunlich.</Description>
   </RecordThing>
   <RecordThing>
