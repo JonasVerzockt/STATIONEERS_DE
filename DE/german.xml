@@ -9099,7 +9099,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
   </Record>
   <Record>
     <Key>GameMenuButtonReturn</Key>
-    <Value>Zurück zum Spie</Value>
+    <Value>Zurück zum Spiel</Value>
   </Record>
   <Record>
     <Key>GameMenuButtonSave</Key>
@@ -15733,7 +15733,7 @@ Status: {LOCAL:StatusValue}</Value>
   </Record>
   <Record>
     <Key>GeneDescriptionUndesiredGasResistance</Key>
-    <Value>Die PartialdruckSchlafkabine von giftigen Gasen, in der die Pflanze wachsen kann.</Value>
+    <Value>Die Partialdruck von giftigen Gasen, in der die Pflanze wachsen kann.</Value>
   </Record>
   <Record>
     <Key>GeneUndesiredGasTolerance</Key>
