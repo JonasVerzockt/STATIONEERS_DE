@@ -1301,7 +1301,7 @@ Achte darauf, den Druck nicht über 10MPa zu erhöhen, sonst könnte es knallen&
   <RecordThing>
     <Key>ItemKitChute</Key>
     <Value>Kit (Basisschächte)</Value>
-    <Description>Dieser Kit produziert eine Vielzahl von unmotorisierten Rutschen.</Description>
+    <Description>Dieser Kit produziert eine Vielzahl von unmotorisierten Schütten.</Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitComputer</Key>
@@ -1910,7 +1910,7 @@ Sei da, auch wenn du nicht da bist.</Description>
     <Key>StructureChuteBin</Key>
     <Value>Schachtbehälter</Value>
     <Description>Die {LINK:Stationeers;Stationeer's} haben sich zum Ziel gesetzt, das Überleben außerhalb der Welt für sich und ihre Nachkommen zu erleichtern.
-Wie die meisten von {LINK:Recurso;Recurso} entworfenen Systeme sind auch die Schachtbehälter einfache und robuste, mit Energie versorgte Gegenstände, die durch Ziehen eines Hebels manuell in die Netzwerke der Rutschen befördert werden können. Sie können auch mit {LINK:LogicUnitPage;logic} so programmiert werden, dass sie automatisch funktionieren, obwohl eine vollständige Automatisierung die Benutzung von Gegenständen wie einem {THING:StructureSDBHopper} erfordert.</Description>
+Wie die meisten von {LINK:Recurso;Recurso} entworfenen Systeme sind auch die Schachtbehälter einfache und robuste, mit Energie versorgte Gegenstände, die durch Ziehen eines Hebels manuell in die Netzwerke der Schütten befördert werden können. Sie können auch mit {LINK:LogicUnitPage;logic} so programmiert werden, dass sie automatisch funktionieren, obwohl eine vollständige Automatisierung die Benutzung von Gegenständen wie einem {THING:StructureSDBHopper} erfordert.</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureChuteCorner</Key>
@@ -2290,13 +2290,13 @@ Rohre verteilen ihren Inhalt gleichmäßig über das gesamte Netzwerk und könne
   <RecordThing>
     <Key>StructureStacker</Key>
     <Value>Stapler</Value>
-    <Description>Ein Stapler ist ein wichtiger Bestandteil jedes automatisierten Netzwerks von Rutschen. Der {LINK:Xigo;Xigo} ProKompile kann manuell oder über eine Logik eingestellt werden, um sicherzustellen, dass die Gegenstände, die durch den Stapler laufen, für deinen Lagerbedarf maximiert werden.
+    <Description>Ein Stapler ist ein wichtiger Bestandteil jedes automatisierten Netzwerks von Schütten. Der {LINK:Xigo;Xigo} ProKompile kann manuell oder über eine Logik eingestellt werden, um sicherzustellen, dass die Gegenstände, die durch den Stapler laufen, für deinen Lagerbedarf maximiert werden.
 Der ProKompile kann eine Vielzahl von Gegenständen stapeln, z. B. {LINK:IngotPage;ingots}, und die Stapel je nach Bedarf in passende Größen aufteilen.</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureStackerReverse</Key>
     <Value>Stapler</Value>
-    <Description>Ein Stapler ist ein wichtiger Bestandteil jedes automatisierten Netzwerks von Rutschen. Der {LINK:Xigo;Xigo} ProKompile kann manuell oder über eine Logik eingestellt werden, um sicherzustellen, dass die Gegenstände, die durch den Stapler laufen, für deinen Lagerbedarf maximiert werden. Bei dem umgekehrten Stapler befinden sich Energie und Daten auf der gegenüberliegenden Seite.
+    <Description>Ein Stapler ist ein wichtiger Bestandteil jedes automatisierten Netzwerks von Schütten. Der {LINK:Xigo;Xigo} ProKompile kann manuell oder über eine Logik eingestellt werden, um sicherzustellen, dass die Gegenstände, die durch den Stapler laufen, für deinen Lagerbedarf maximiert werden. Bei dem umgekehrten Stapler befinden sich Energie und Daten auf der gegenüberliegenden Seite.
 Der ProKompile kann eine Vielzahl von Gegenständen stapeln, z. B. {LINK:IngotPage;ingots}, und die Stapel je nach Bedarf in passende Größen aufteilen.</Description>
   </RecordThing>
   <RecordThing>
@@ -7240,12 +7240,12 @@ Hinweis: Der Kannifizierer zeigt eine Fehlermeldung auf seinem Aktivierungsschal
   <RecordThing>
     <Key>ItemMkIIToolbelt</Key>
     <Value>Werkzeuggürtel MK II</Value>
-    <Description>Ein großer Werkzeuggürtel mit zehn Slots und zwei zusätzlichen generischen Slots, in denen du alles transportieren kannst, was dir gefällt.</Description>
+    <Description>Ein großer Werkzeuggürtel mit zehn Slots und zwei zusätzlichen generischen Slots, in denen du alles transportieren kannst, was dir gefällt. Nicht gefüllt mit Werkzeugen in den Recycler werfen!</Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemMiningBeltMKII</Key>
     <Value>Bergbau-Gürtel MK II</Value>
-    <Description>Der Mk II ist ein größerer und geräumigerer Bergbau-Gürtel, der dem {THING:ItemMiningBelt} ähnelt, aber 13 Slots statt der üblichen 8 hat, um die Länge deiner Bergbaureisen zu erhöhen. Außerdem hat er Platz für zwei Werkzeuge.</Description>
+    <Description>Der Mk II ist ein größerer und geräumigerer Bergbau-Gürtel, der dem {THING:ItemMiningBelt} ähnelt, aber 13 Slots statt der üblichen 8 hat, um die Länge deiner Bergbaureisen zu erhöhen. Außerdem hat er Platz für zwei Werkzeuge. Nicht gefüllt mit Werkzeugen in den Recycler werfen!</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureLiquidPipeOneWayValve</Key>
@@ -7266,7 +7266,7 @@ Wenn es geschlossen ist, hat es die gleichen Wärmeübertragungseigenschaften wi
   </RecordThing>
   <RecordThing>
     <Key>ItemExplosiveBasic</Key>
-    <Value>Gegenstand Sprengstoff Standard</Value>
+    <Value>Sprengstoff Standard</Value>
     <Description>Ein preiswerter, hoch ergiebiger Sprengstoff mit einem 10-Sekunden-Timer.</Description>
   </RecordThing>
   <RecordThing>
@@ -7310,7 +7310,7 @@ Beendet - 4</Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemStelliteGlassSheets</Key>
-    <Value>Gegenstand Stellitglasscheiben</Value>
+    <Value>Stellite Glasscheiben</Value>
     <Description>Ein stärkerer Glasersatz.</Description>
   </RecordThing>
   <RecordThing>
@@ -7443,7 +7443,7 @@ Der Sender muss auf die Basisstation ausgerichtet werden, um Energie zu übertra
   </RecordThing>
   <RecordThing>
     <Key>StructureUnpoweredHatch</Key>
-    <Value>Struktur Unbetätigte Klappe</Value>
+    <Value>Passive Klappe</Value>
     <Description/>
   </RecordThing>
   <RecordThing>
@@ -7510,32 +7510,32 @@ Es ist sehr temperaturempfindlich und beginnt zu schmelzen, sobald es abgebaut w
   </RecordThing>
   <RecordThing>
     <Key>ItemKitPassiveLargeRadiator</Key>
-    <Value>Kit (Medium Heizkörper)</Value>
+    <Value>Kit (Mittlerer Radiator)</Value>
     <Description>Erzeugt {THING:StructureMediumRadiator} und {THING:StructureMediumConvectionRadiator}.</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructurePassiveLargeRadiator</Key>
-    <Value>Mittlerer Konvektionsheizkörper</Value>
+    <Value>Mittlerer Radiator</Value>
     <Description>Wurde ersetzt durch {THING:StructureMediumConvectionRadiator}.</Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitPassiveLargeRadiatorGas</Key>
-    <Value>Kit (Medium Heizkörper)</Value>
+    <Value>Kit (Mittlerer Heizkörper)</Value>
     <Description>Erzeugt {THING:StructureMediumRadiator} und {THING:StructureMediumConvectionRadiator}.</Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitPassiveLargeRadiatorLiquid</Key>
-    <Value>Kit (Medium Heizkörper Flüssigkeit)</Value>
+    <Value>Kit (Mittlerer Heizkörper Flüssigkeit)</Value>
     <Description>Erzeugt {THING:StructureMediumRadiatorLiquid} und {THING:StructureMediumConvectionRadiatorLiquid}.</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructurePassiveLargeRadiatorLiquid</Key>
-    <Value>Medium Konvektionsheizkörper Flüssigkeit</Value>
+    <Value>Mittlerer Radiator Flüssigkeit</Value>
     <Description>Wurde ersetzt durch {THING:StructureMediumConvectionRadiatorLiquid}.</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructurePassiveLargeRadiatorGas</Key>
-    <Value>Mittlerer Konvektionsheizkörper</Value>
+    <Value>Mittlerer Radiator</Value>
     <Description>Wurde ersetzt durch {THING:StructureMediumConvectionRadiator}.</Description>
   </RecordThing>
   <RecordThing>
@@ -7575,27 +7575,27 @@ Es ist sehr temperaturempfindlich und beginnt zu schmelzen, sobald es abgebaut w
   </RecordThing>
   <RecordThing>
     <Key>StructureMediumConvectionRadiator</Key>
-    <Value>Medium Konvektionsheizkörper</Value>
+    <Value>Mittlerer Konvektionsheizkörper</Value>
     <Description>Ein eigenständiger Heizkörper, der für den Wärmeaustausch mit der umgebenden Atmosphäre optimiert ist.</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureMediumRadiator</Key>
-    <Value>Medium Radiator</Value>
+    <Value>Mittlerer Radiator</Value>
     <Description>Ein eigenständiger Heizkörper, der für die Wärmeabstrahlung im Vakuum und in Niederdruckumgebungen optimiert ist.</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureMediumRadiatorLiquid</Key>
-    <Value>Medium Radiator Flüssigkeit</Value>
+    <Value>Mittlerer Radiator Flüssigkeit</Value>
     <Description>Ein eigenständiger Flüssigkeitsstrahler, der für die Wärmeabstrahlung im Vakuum und in Umgebungen mit niedrigem Druck optimiert ist.</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureMediumConvectionRadiatorLiquid</Key>
-    <Value>Medium Konvektionsheizkörper Flüssigkeit</Value>
+    <Value>Mittlerer Konvektionsheizkörper Flüssigkeit</Value>
     <Description>Ein eigenständiger Flüssigkeitsstrahler, der für den Wärmeaustausch mit der umgebenden Atmosphäre optimiert ist.</Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitPipeRadiator</Key>
-    <Value>Kit (Rohrheizkörper)</Value>
+    <Value>Kit (Rohrradiator)</Value>
     <Description>Dieses Kit erstellt einen {THING:StructurePipeRadiatorFlat} und einen {THING:StructurePipeRadiator}.</Description>
   </RecordThing>
   <RecordThing>
@@ -7620,22 +7620,22 @@ Es ist sehr temperaturempfindlich und beginnt zu schmelzen, sobald es abgebaut w
   </RecordThing>
   <RecordThing>
     <Key>StructureSleeperVertical</Key>
-    <Value>Schwelle Vertikal</Value>
+    <Value>Schlafkabine Vertikal</Value>
     <Description>Die vertikale Variante des Schläfers. Hält Spieler hydriert und ernährt, während sie ausgeloggt sind - solange eine atembare Atmosphäre vorhanden ist.</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureSleeperLeft</Key>
-    <Value>Schwelle links</Value>
+    <Value>Schlafkabine links</Value>
     <Description>Die horizontale Variante des Schläfers. Hält die Spieler hydriert und ernährt, während sie ausgeloggt sind - solange eine atembare Atmosphäre vorhanden ist.</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureSleeperRight</Key>
-    <Value>Schwelle rechts</Value>
+    <Value>Schlafkabine rechts</Value>
     <Description>Die horizontale Variante des Schläfers. Hält die Spieler hydriert und ernährt, während sie ausgeloggt sind - solange eine atembare Atmosphäre vorhanden ist.</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureProximitySensor</Key>
-    <Value>Näherungssensor</Value>
+    <Value>Annäherungssensor</Value>
     <Description>Wird ausgelöst, wenn sich ein Spieler in der Reichweite des Sensors befindet (wie mit dem Einstellrad festgelegt). Die Mengenvariable zeigt die Anzahl der Spieler an. Du kannst den Sensor so konfigurieren, dass er nur Spieler erkennt, die die richtige Zugangskarte besitzen, indem du einen {THING:CartridgeAccessController} in einem {THING:ItemTablet} benutzt.</Description>
   </RecordThing>
   <RecordThing>
@@ -7650,18 +7650,18 @@ Es ist sehr temperaturempfindlich und beginnt zu schmelzen, sobald es abgebaut w
   </RecordThing>
   <RecordThing>
     <Key>ItemDirtyOre</Key>
-    <Value>Gegenstand Schmutziges Erz</Value>
+    <Value>Schmutziges Erz</Value>
     <Description>Mit dem {THING:StructureDeepMiner} wird Erz aus dem Grundgestein abgebaut, das dann in der {THING:StructureCentrifuge} oder der {THING:StructureCombustionCentrifuge} benutzt werden kann. Nach der Verarbeitung produziert sie Erz in einem Verhältnis, das dem Durchschnitt auf der Planetenoberfläche entspricht.</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureChuteFlipFlopSplitter</Key>
-    <Value>Rutsche Flip Flop Splitter</Value>
-    <Description>Eine Rutsche, die zwischen zwei Ausgaben umschaltet</Description>
+    <Value>Schütte Flip Flop Splitter</Value>
+    <Description>Eine Schütte, die zwischen zwei Ausgaben umschaltet</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureChuteValve</Key>
-    <Value>Rutschenventil</Value>
-    <Description>Wenn das Ventil geschlossen ist, stoppt es den Materialfluss, wenn es geöffnet ist, funktioniert es wie eine gerade Rutsche.</Description>
+    <Value>Schüttenventil</Value>
+    <Description>Wenn das Ventil geschlossen ist, stoppt es den Materialfluss, wenn es geöffnet ist, funktioniert es wie eine gerade Schütte.</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureCombustionCentrifuge</Key>
@@ -7672,8 +7672,8 @@ Wenn du Erz aus der Verbrennungszentrifuge ausstößt, während sie mit hohen Dr
   </RecordThing>
   <RecordThing>
     <Key>StructureChuteOverflow</Key>
-    <Value>Rutsche Überlauf</Value>
-    <Description>Die Überlaufrutsche leitet Materialien zu ihrem Überlaufanschluss, wenn das Ding, das an ihrem Standardanschluss angeschlossen ist, bereits belegt ist.</Description>
+    <Value>Schütte Überlauf</Value>
+    <Description>Die Überlaufschütte leitet Materialien zu ihrem Überlaufanschluss, wenn das Ding, das an ihrem Standardanschluss angeschlossen ist, bereits belegt ist.</Description>
   </RecordThing>
   <RecordThing>
     <Key>KitStructureCombustionCentrifuge</Key>
@@ -7682,28 +7682,28 @@ Wenn du Erz aus der Verbrennungszentrifuge ausstößt, während sie mit hohen Dr
   </RecordThing>
   <RecordThing>
     <Key>StructureChuteDigitalValveLeft</Key>
-    <Value>Digitales Ventil für Rutsche links</Value>
-    <Description>Das digitale Rutschenventil stoppt den Materialfluss, wenn es geschlossen ist. Wenn es geöffnet ist, funktioniert es wie eine gerade Rutsche. Das Ventil schließt sich automatisch, wenn eine bestimmte Anzahl von Gegenständen durchgelaufen ist. Diese Schwelle kann mit dem Drehknopf eingestellt werden.</Description>
+    <Value>Digitales Ventil für Schütte links</Value>
+    <Description>Das digitale Schüttenventil stoppt den Materialfluss, wenn es geschlossen ist. Wenn es geöffnet ist, funktioniert es wie eine gerade Schütte. Das Ventil schließt sich automatisch, wenn eine bestimmte Anzahl von Gegenständen durchgelaufen ist. Diese Schlafkabine kann mit dem Drehknopf eingestellt werden.</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureChuteDigitalValveRight</Key>
-    <Value>Digitales Ventil für Rutsche rechts</Value>
-    <Description>Das digitale Rutschenventil stoppt den Materialfluss, wenn es geschlossen ist. Wenn es geöffnet ist, funktioniert es wie eine gerade Rutsche. Das Ventil schließt sich automatisch, wenn eine bestimmte Anzahl von Gegenständen durchgelaufen ist. Diese Schwelle kann mit dem Drehknopf eingestellt werden.</Description>
+    <Value>Digitales Ventil für Schütte rechts</Value>
+    <Description>Das digitale Schüttenventil stoppt den Materialfluss, wenn es geschlossen ist. Wenn es geöffnet ist, funktioniert es wie eine gerade Schütte. Das Ventil schließt sich automatisch, wenn eine bestimmte Anzahl von Gegenständen durchgelaufen ist. Diese Schlafkabine kann mit dem Drehknopf eingestellt werden.</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureChuteDigitalFlipFlopSplitterLeft</Key>
-    <Value>Digitaler Rutschen-Flip-Flop-Splitter links</Value>
+    <Value>Digitaler Schütten-Flip-Flop-Splitter links</Value>
     <Description>Das digitale Flipflop schaltet zwischen zwei Ausgaben um, indem es ein bestimmtes Verhältnis (n:1) benutzt. Wenn du den Drehknopf zum Beispiel auf 2 stellst, können zwei Gegenstände die primäre Ausgabe passieren, bevor sie auf die sekundäre Ausgabe umgeschaltet werden.</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureChuteDigitalFlipFlopSplitterRight</Key>
-    <Value>Digitaler Rutschen-Flip-Flop-Splitter rechts</Value>
+    <Value>Digitaler Schütten-Flip-Flop-Splitter rechts</Value>
     <Description>Das digitale Flipflop schaltet zwischen zwei Ausgaben um, indem es ein bestimmtes Verhältnis (n:1) benutzt. Wenn du den Drehknopf zum Beispiel auf 2 stellst, können zwei Gegenstände die primäre Ausgabe passieren, bevor sie auf die sekundäre Ausgabe umgeschaltet werden.</Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitStandardChute</Key>
-    <Value>Kit (Angetriebene Rutschen)</Value>
-    <Description>Dieses Kit produziert eine Vielzahl von Energie-Rutschen</Description>
+    <Value>Kit (Angetriebene Schütten)</Value>
+    <Description>Dieses Kit produziert eine Vielzahl von Energie-Schütten</Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemPlantSampler</Key>
@@ -7719,7 +7719,7 @@ Einzelne Widgets für Genwerte:
 Die meisten Genwerte werden als gleitender Balken zwischen einem Mindestwert auf der linken Seite und einem Höchstwert auf der rechten Seite angezeigt. Der tatsächliche Wert des Gens steht in der Mitte des Balkens, in orange.
 
 Widgets mit mehreren Genwerten: 
-Bei den Temperatur- und Druckbereichen werden vier Gene auf demselben Widget angezeigt. Die orangefarbenen Werte unterhalb des Balkens sind die Mindest- und Höchstwerte für das Wachstum. Außerhalb dieses Bereichs hört die Pflanze auf zu wachsen und stirbt schließlich. Die blauen Werte unter dem Balken sind die Mindest- und Höchstwerte für das ideale Wachstum. Innerhalb dieses Bereichs wird die Pflanze mit maximaler Geschwindigkeit wachsen. Die weißen Werte oberhalb des Balkens sind die minimal und maximal erreichbaren Werte für die Wachstumsschwelle.</Description>
+Bei den Temperatur- und Druckbereichen werden vier Gene auf demselben Widget angezeigt. Die orangefarbenen Werte unterhalb des Balkens sind die Mindest- und Höchstwerte für das Wachstum. Außerhalb dieses Bereichs hört die Pflanze auf zu wachsen und stirbt schließlich. Die blauen Werte unter dem Balken sind die Mindest- und Höchstwerte für das ideale Wachstum. Innerhalb dieses Bereichs wird die Pflanze mit maximaler Geschwindigkeit wachsen. Die weißen Werte oberhalb des Balkens sind die minimal und maximal erreichbaren Werte für die WachstumsSchlafkabine.</Description>
   </RecordThing>
   <RecordThing>
     <Key>CartridgePlantAnalyser</Key>
@@ -7742,7 +7742,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
   </RecordThing>
   <RecordThing>
     <Key>ApplianceSeedTray</Key>
-    <Value>Geräte-Samenkasten</Value>
+    <Value>Samenkasten</Value>
     <Description>Die Saatgutschale fasst bis zu zwölf Pflanzen oder Samen und kann benutzt werden, um schnelle Experimente und Tests der Pflanzengenetik zu ermöglichen.</Description>
   </RecordThing>
   <RecordThing>
@@ -7846,7 +7846,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
   </RecordThing>
   <RecordThing>
     <Key>Landingpad_ThreshholdPiece</Key>
-    <Value>Landeplatz Schwellenwert</Value>
+    <Value>Landeplatz-Schwellenwertstück</Value>
     <Description/>
   </RecordThing>
   <RecordThing>
@@ -8087,7 +8087,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
   </Record>
   <Record>
     <Key>Cartridge2</Key>
-    <Value>Patrone2</Value>
+    <Value>auswechselbarer Einsatz2</Value>
   </Record>
   <Record>
     <Key>Next</Key>
@@ -8099,11 +8099,11 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
   </Record>
   <Record>
     <Key>Cartridge0</Key>
-    <Value>Patrone0</Value>
+    <Value>auswechselbarer Einsatz0</Value>
   </Record>
   <Record>
     <Key>Cartridge1</Key>
-    <Value>Patrone1</Value>
+    <Value>auswechselbarer Einsatz1</Value>
   </Record>
   <Record>
     <Key>Previous</Key>
@@ -8111,7 +8111,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
   </Record>
   <Record>
     <Key>SensorProcessingUnit</Key>
-    <Value>Sensor-Verarbeitungseinheit</Value>
+    <Value>Sensorbrille-Chip</Value>
   </Record>
   <Record>
     <Key>LiquidCanister</Key>
@@ -8313,7 +8313,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
   </Record>
   <Record>
     <Key>Cartridge</Key>
-    <Value>Patrone</Value>
+    <Value>auswechselbarer Einsatz</Value>
   </Record>
   <Record>
     <Key>CaptainsChair</Key>
@@ -8537,11 +8537,11 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
   </Record>
   <Record>
     <Key>Cartridge2</Key>
-    <Value>Patrone2</Value>
+    <Value>auswechselbarer Einsatz2</Value>
   </Record>
   <Record>
     <Key>Cartridge1</Key>
-    <Value>Patrone1</Value>
+    <Value>auswechselbarer Einsatz1</Value>
   </Record>
   <Record>
     <Key>Next</Key>
@@ -8659,7 +8659,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
   </Record>
   <Record>
     <Key>Rpm</Key>
-    <Value>Rpm</Value>
+    <Value>U/min</Value>
   </Record>
   <Record>
     <Key>Stress</Key>
@@ -12732,7 +12732,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
   </Record>
   <Record>
     <Key>Chute</Key>
-    <Value>Rutsche</Value>
+    <Value>Schütte</Value>
   </Record>
   <Record>
     <Key>Elevator</Key>
@@ -13110,7 +13110,7 @@ Unabhängig davon, ob das stimmt oder nicht, hat Sinotai bei der Entwicklung des
   <Record>
     <Key>TKDesc</Key>
     <Value>Ursprünglich war das tansanische Unternehmen Kinetic Systems ein Verteidigungsunternehmen, das sich auf die Herstellung von Waffen mit hoher Leistung spezialisiert hatte, und wurde in Friedenszeiten zum führenden Konstrukteur von Hochgeschwindigkeits-Förderanlagen in Afrika.
-Heute produziert TK eine Reihe von Netzwerken und Komponenten für Rutschen und hat dank der afro-chinesischen Partnerschaften im späten 21. Jahrhundert eine starke außerweltliche Präsenz. Das Unternehmen mit Sitz im &quot;wiedererstandenen&quot; Kigamboni-Bezirk von Dar E Salaam geht regelmäßig Entwicklungspartnerschaften mit {LINK:CHAC;CHAC} ein, so dass viele ihrer Produkte deutliche Ähnlichkeiten aufweisen.
+Heute produziert TK eine Reihe von Netzwerken und Komponenten für Schütten und hat dank der afro-chinesischen Partnerschaften im späten 21. Jahrhundert eine starke außerweltliche Präsenz. Das Unternehmen mit Sitz im &quot;wiedererstandenen&quot; Kigamboni-Bezirk von Dar E Salaam geht regelmäßig Entwicklungspartnerschaften mit {LINK:CHAC;CHAC} ein, so dass viele ihrer Produkte deutliche Ähnlichkeiten aufweisen.
         Denn was ist eine Waffe anderes als ein &quot;Hochgeschwindigkeitsförderer&quot;.</Value>
   </Record>
   <Record>
@@ -15259,11 +15259,11 @@ Dies wird &lt;color=red&gt;nur das Backup von {LOCAL:WorldSaveName}&lt;/color&gt
   </Record>
   <Record>
     <Key>CloseThreshold</Key>
-    <Value>Schwellenwert schließen</Value>
+    <Value>Schlafkabinenwert schließen</Value>
   </Record>
   <Record>
     <Key>CloseThresholdToolTip</Key>
-    <Value>Schwellenwert schließen &lt;color=green&gt;{LOCAL:ThresholdValue}</Value>
+    <Value>Schlafkabinenwert schließen &lt;color=green&gt;{LOCAL:ThresholdValue}</Value>
   </Record>
   <Record>
     <Key>CryoN2OPressureOk</Key>
@@ -15733,7 +15733,7 @@ Status: {LOCAL:StatusValue}</Value>
   </Record>
   <Record>
     <Key>GeneDescriptionUndesiredGasResistance</Key>
-    <Value>Die Partialdruckschwelle von giftigen Gasen, in der die Pflanze wachsen kann.</Value>
+    <Value>Die PartialdruckSchlafkabine von giftigen Gasen, in der die Pflanze wachsen kann.</Value>
   </Record>
   <Record>
     <Key>GeneUndesiredGasTolerance</Key>
@@ -16849,7 +16849,7 @@ Status: {LOCAL:StatusValue}</Value>
   </Record>
   <Record>
     <Key>ContactTradeLandingNoThreshold</Key>
-    <Value>Händlerflugzeug kann ohne Schwelle nicht landen</Value>
+    <Value>Händlerflugzeug kann ohne Schlafkabine nicht landen</Value>
   </Record>
   <Record>
     <Key>ToggleVisualiser</Key>
