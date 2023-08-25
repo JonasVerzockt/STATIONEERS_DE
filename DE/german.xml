@@ -777,7 +777,6 @@ Um in den Einrichtungsmodus zu gelangen, steckst du das Board zusammen mit einer
   <RecordThing>
     <Key>ImGuiCircuitboardAirlockControl</Key>
     <Value>Luftschleuse (experimentell)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>CircuitboardCameraDisplay</Key>
@@ -829,22 +828,18 @@ Die Platine hat zwei Modi: 'Verbinden' schaltet alle Geräte ein oder aus; 'Umsc
   <RecordThing>
     <Key>DynamicCrateBuildingSupplies</Key>
     <Value>Kiste (Baubedarf)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>DynamicCrateCableSupplies</Key>
     <Value>Kiste (Verkabelungszubehör)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>DynamicCrateConveyorSupplies</Key>
     <Value>Kiste (Förderanlagen)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>DynamicCratePipeSupplies</Key>
     <Value>Kiste (Rohrleitungen)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>DynamicGasCanisterAir</Key>
@@ -911,7 +906,6 @@ Du kannst einen {THING:ItemGasCanisterWater} auffüllen, indem du ihn an den ges
   <RecordThing>
     <Key>EffectSplatEgg</Key>
     <Value>Effekt-Spiegelei</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>EntityAlien</Key>
@@ -1036,7 +1030,6 @@ Eine normale Spule hat eine maximale Wattzahl von 5 kW. Für höhere Stromstärk
   <RecordThing>
     <Key>ItemCompositeFloorGrating</Key>
     <Value>Komposit Bodenrost</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemCorn</Key>
@@ -1051,7 +1044,6 @@ Eine normale Spule hat eine maximale Wattzahl von 5 kW. Für höhere Stromstärk
   <RecordThing>
     <Key>ItemDataDisk</Key>
     <Value>Datendisk</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemDrill</Key>
@@ -1067,7 +1059,6 @@ Um es selbst zu benutzen: Nimm Klebeband in deine aktive Hand und halte die RECH
   <RecordThing>
     <Key>ItemDynamite</Key>
     <Value>Dynamit</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemEgg</Key>
@@ -1079,7 +1070,6 @@ Wenn ein Ei befruchtet wurde und zwischen 20C-30C gehalten wird, entsteht ein {T
   <RecordThing>
     <Key>ItemEggBottom</Key>
     <Value>Ei-Unterteil</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemEggCarton</Key>
@@ -1089,7 +1079,6 @@ Wenn ein Ei befruchtet wurde und zwischen 20C-30C gehalten wird, entsteht ein {T
   <RecordThing>
     <Key>ItemEggTop</Key>
     <Value>Ei-Oberteil</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemEvaSuit</Key>
@@ -1099,17 +1088,14 @@ Wenn ein Ei befruchtet wurde und zwischen 20C-30C gehalten wird, entsteht ein {T
   <RecordThing>
     <Key>ItemFertilizedEgg</Key>
     <Value>Befruchtetes Ei</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemFireExtinguisher</Key>
     <Value>Feuerlöscher</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemFlashingLight</Key>
     <Value>Kit (Blinklicht)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemFlour</Key>
@@ -1144,7 +1130,6 @@ Achte darauf, den Druck nicht über 10MPa zu erhöhen, sonst könnte es &quot;kn
   <RecordThing>
     <Key>ItemGasCanisterVolatiles</Key>
     <Value>Kanister (flüchtige Stoffe)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemGasCanisterNitrogen</Key>
@@ -1764,12 +1749,10 @@ Das {LINK:Norsec;Norsec-designed} K-cops 10-10 Sorter Motherboard erlaubt es {LI
   <RecordThing>
     <Key>NPCDummyCharacter</Key>
     <Value>NPC Charakter</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>NpcGrounder</Key>
     <Value>NPC Bodenpersonal</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>OrganBrain</Key>
@@ -2131,12 +2114,10 @@ Wenn Wasser im Ofen vorhanden ist, sammelt es sich dort, bis der Ofen an ein Net
   <RecordThing>
     <Key>StructureGlassDoor</Key>
     <Value>Glastür</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureGunTurret</Key>
     <Value>Geschützturm</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureGyroscope</Key>
@@ -2240,7 +2221,6 @@ Rohre verteilen ihren Inhalt gleichmäßig über das gesamte Netzwerk und könne
   <RecordThing>
     <Key>StructurePowerConnector</Key>
     <Value>Energie-Anschluss</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructurePressureRegulator</Key>
@@ -2255,17 +2235,14 @@ Rohre verteilen ihren Inhalt gleichmäßig über das gesamte Netzwerk und könne
   <RecordThing>
     <Key>StructureRocketEngine</Key>
     <Value>Raketentriebwerk</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureRocketEngineSmall</Key>
     <Value>Raketentriebwerk (klein)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureRocketEngineTiny</Key>
     <Value>Raketentriebwerk (winzig)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureRTG</Key>
@@ -2275,7 +2252,6 @@ Rohre verteilen ihren Inhalt gleichmäßig über das gesamte Netzwerk und könne
   <RecordThing>
     <Key>StructureSleeper</Key>
     <Value>Schlafkabine</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureSolarPanel</Key>
@@ -2302,12 +2278,10 @@ Der ProKompile kann eine Vielzahl von Gegenständen stapeln, z. B. {LINK:IngotPa
   <RecordThing>
     <Key>StructureStairs4x2</Key>
     <Value>Treppe</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureStellarAnchor</Key>
     <Value>Stellar-Anker</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureSuitStorage</Key>
@@ -2329,32 +2303,26 @@ Alle Rohre des Racks müssen angeschlossen sein, sonst zeigt das Gerät einen Fe
   <RecordThing>
     <Key>StructureTankSmall</Key>
     <Value>Kleiner Tank</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureTankSmallAir</Key>
     <Value>Kleiner Tank (Luft)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureTankSmallFuel</Key>
     <Value>Kleiner Tank (Treibstoff)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureTorpedoRack</Key>
     <Value>Torpedo-Rack</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureTorpedoTube</Key>
     <Value>Torpedo-Abschussvorrichtung</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureValve</Key>
     <Value>Ventil</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureVolumePump</Key>
@@ -2364,7 +2332,6 @@ Alle Rohre des Racks müssen angeschlossen sein, sonst zeigt das Gerät einen Fe
   <RecordThing>
     <Key>StructureLiquidValve</Key>
     <Value>Flüssigkeitsventil</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallCooler</Key>
@@ -2392,62 +2359,50 @@ Weitere Informationen über die Temperaturkontrolle findest du auf der Seite {LI
   <RecordThing>
     <Key>StructureWallLight</Key>
     <Value>Wandleuchte</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>UniformCommander</Key>
     <Value>Uniform Kommandant</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>UniformOrangeJumpSuit</Key>
     <Value>Sprunganzug (Orange)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>WeaponEnergy</Key>
     <Value>Energie Waffe</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>WeaponTorpedo</Key>
     <Value>Torpedo</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWasteIngot</Key>
     <Value>Barren (Abfall)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCableStraightBurnt</Key>
     <Value>Verbranntes Kabel (gerade)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCableCorner3Burnt</Key>
     <Value>Verbranntes Kabel (3-Wege-Ecke)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCableCornerBurnt</Key>
     <Value>Verbranntes Kabel (Ecke)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCableJunction4Burnt</Key>
     <Value>Verbranntes Kabel (4-Wege-Verzweigung)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCableJunction6Burnt</Key>
     <Value>Verbranntes Kabel (6-Wege-Verzweigung)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCableJunctionBurnt</Key>
     <Value>Verbranntes Kabel (Verzweigung)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureSolidFuelGenerator</Key>
@@ -2457,82 +2412,66 @@ Weitere Informationen über die Temperaturkontrolle findest du auf der Seite {LI
   <RecordThing>
     <Key>ItemKitGenerator</Key>
     <Value>Kit (Generator)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemCableFuse</Key>
     <Value>Kit (Kabelsicherungen)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCableStraightH</Key>
     <Value>Schweres Kabel (gerade)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCableJunctionH6</Key>
     <Value>Schweres Kabel (6-Wege-Verzweigung)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCableJunctionH4</Key>
     <Value>Schweres Kabel (4-Wege-Verzweigung)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCableJunctionH</Key>
     <Value>Schweres Kabel (3-Wege-Verzweigung)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCableJunction6HBurnt</Key>
     <Value>Verbranntes Kabel (6-Wege-Verzweigung)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCableJunction4HBurnt</Key>
     <Value>Verbranntes Kabel (4-Wege-Verzweigung)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCableStraightHBurnt</Key>
     <Value>Verbranntes Kabel (gerade)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCableJunctionHBurnt</Key>
     <Value>Verbranntes Kabel (Verzweigung)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCableCornerHBurnt</Key>
     <Value>Verbranntes Kabel (Ecke)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCableCornerH</Key>
     <Value>Schweres Kabel (Ecke)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCableFuse1k</Key>
     <Value>Sicherung (1kW)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCableFuse5k</Key>
     <Value>Sicherung (5kW)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCableFuse50k</Key>
     <Value>Sicherung (50kW)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCableFuse100k</Key>
     <Value>Sicherung (100kW)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureTransformer</Key>
@@ -2543,7 +2482,6 @@ Beachte, dass Transformatoren als Datenisolatoren funktionieren und verhindern, 
   <RecordThing>
     <Key>ItemKitTransformer</Key>
     <Value>Kit Transformator (groß)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureTransformerSmall</Key>
@@ -2554,7 +2492,6 @@ Beachte, dass Transformatoren als Datenisolatoren funktionieren und verhindern, 
   <RecordThing>
     <Key>WeaponPistolEnergy</Key>
     <Value>Energiepistole</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureChuteWindow</Key>
@@ -2577,17 +2514,14 @@ Anders als der fortschrittlichere {THING:StructureFurnace} kann der Lichtbogenof
   <RecordThing>
     <Key>ItemKitFabrication</Key>
     <Value>Kit (Herstellung)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitPipe</Key>
     <Value>Kit (Rohre)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>CartridgeElectronicReader</Key>
     <Value>eReader</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemCableCoilHeavy</Key>
@@ -2597,17 +2531,14 @@ Anders als der fortschrittlichere {THING:StructureFurnace} kann der Lichtbogenof
   <RecordThing>
     <Key>StructureFrameIron</Key>
     <Value>Eisenrahmen</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemIronFrames</Key>
     <Value>Eisenrahmen</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemIronSheets</Key>
     <Value>Eisenbleche</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemSilverOre</Key>
@@ -2627,52 +2558,42 @@ Anders als der fortschrittlichere {THING:StructureFurnace} kann der Lichtbogenof
   <RecordThing>
     <Key>WeaponRifleEnergy</Key>
     <Value>Energie-Gewehr</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemElectrumIngot</Key>
     <Value>Barren (Elektrum)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemSilverIngot</Key>
     <Value>Barren (Silber)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemLeadIngot</Key>
     <Value>Barren (Blei)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemNickelIngot</Key>
     <Value>Barren (Nickel)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemInvarIngot</Key>
     <Value>Barren (Invar)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemConstantanIngot</Key>
     <Value>Barren (Konstantan)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemSolderIngot</Key>
     <Value>Barren (Lötzinn)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ApplianceChemistryStation</Key>
     <Value>Chemiestation</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureDiode</Key>
     <Value>LED</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemSoybean</Key>
@@ -2692,7 +2613,6 @@ Anders als der fortschrittlichere {THING:StructureFurnace} kann der Lichtbogenof
   <RecordThing>
     <Key>ItemSiliconIngot</Key>
     <Value>Barren (Silizium)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemFern</Key>
@@ -2726,92 +2646,74 @@ Da Oxit sehr temperaturempfindlich ist, beginnt es zu schmelzen, sobald es abgeb
   <RecordThing>
     <Key>StructureWallIron</Key>
     <Value>Eisenwand (Typ 1)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitWallIron</Key>
     <Value>Kit (Eisenwand)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureStorageLocker</Key>
     <Value>Spind</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>SpawnPoint</Key>
     <Value>Spawn-Punkt</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitCube</Key>
     <Value>Kit (Würfel)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>Cube</Key>
     <Value>Würfel</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitTransformerSmall</Key>
     <Value>Kit (Transformator)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitSuitStorage</Key>
     <Value>Kit (Anzugaufbewahrung)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitSolidGenerator</Key>
     <Value>Kit (Feststoff Generator)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitLocker</Key>
     <Value>Kit (Spind)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitEngineSmall</Key>
     <Value>Kit (Triebwerk klein)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitEngineMedium</Key>
     <Value>Kit (Triebwerk Mittel)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitEngineLarge</Key>
     <Value>Kit (Triebwerk groß)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitElectronicsPrinter</Key>
     <Value>Kit (Elektronikdrucker)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitDoor</Key>
     <Value>Kit (Tür)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitAutolathe</Key>
     <Value>Kit (Automatendrehmaschine)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitBlastDoor</Key>
     <Value>Kit (Explosionsschutztür)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitArcFurnace</Key>
     <Value>Kit (Lichtbogenofen)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureHydraulicPipeBender</Key>
@@ -2821,32 +2723,26 @@ Da Oxit sehr temperaturempfindlich ist, beginnt es zu schmelzen, sobald es abgeb
   <RecordThing>
     <Key>ItemKitHydraulicPipeBender</Key>
     <Value>Kit (Hydraulische Rohrbiegemaschine)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitSorter</Key>
     <Value>Kit (Sortierer)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitStacker</Key>
     <Value>Kit (Stapler)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>CartridgeTracker</Key>
     <Value>Tracker</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemGasSensor</Key>
     <Value>Kit (Gassensor)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemBeacon</Key>
     <Value>Signalfeuer</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureToolManufactory</Key>
@@ -2857,7 +2753,6 @@ Verbessere das Gerät mit einem {THING: ToolPrinterMod}, um zusätzliche Rezepte
   <RecordThing>
     <Key>ItemKitToolManufactory</Key>
     <Value>Kit (Werkzeugmanufaktur)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureTransformerSmallReversed</Key>
@@ -2868,102 +2763,82 @@ Beachte, dass Transformatoren als Datenisolatoren funktionieren und verhindern, 
   <RecordThing>
     <Key>StructureLogicUnit</Key>
     <Value>Logik-Einheit</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitLogic</Key>
     <Value>Kit (Logikeinheit)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureLogicReader</Key>
     <Value>Logiklesegerät</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureLogicMemory</Key>
     <Value>Logik Speicher</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureLogicMath</Key>
     <Value>Logik Mathematik</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureLogicWriter</Key>
     <Value>Logik-Schreiber</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureLogicSelect</Key>
     <Value>Logik auswählen</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureLogicCompare</Key>
     <Value>Logik-Vergleich</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitLogicProcessor</Key>
     <Value>Kit (Logik-Prozessor)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitLogicMemory</Key>
     <Value>Kit (Logik-Speicher)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitLogicInputOutput</Key>
     <Value>Kit (Logik E/A)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitLogicSwitch</Key>
     <Value>Kit (Logikschalter)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureLogicSwitch</Key>
     <Value>Hebel</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureLogicMinMax</Key>
     <Value>Logik Min/Max</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureLogicDisplay5</Key>
     <Value>LED-Anzeige (klein)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureConsoleLED5</Key>
     <Value>LED-Anzeige (klein)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureConsoleLED8Large</Key>
     <Value>LED-Anzeige (groß)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureSign1x1</Key>
     <Value>Zeichen 1x1</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureSign2x1</Key>
     <Value>Zeichen 2x1</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureConsoleLED5Large</Key>
     <Value>LED-Anzeige (Mittel)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureSolarPanelDual</Key>
@@ -2973,22 +2848,18 @@ Beachte, dass Transformatoren als Datenisolatoren funktionieren und verhindern, 
   <RecordThing>
     <Key>StructureLogicBatchWriter</Key>
     <Value>Batch-Schreiber</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureLogicButton</Key>
     <Value>Taste</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureLogicSwitch2</Key>
     <Value>Schalter</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureLogicMathUnary</Key>
     <Value>Logik Mathematik Unär</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureRecycler</Key>
@@ -2998,17 +2869,14 @@ Beachte, dass Transformatoren als Datenisolatoren funktionieren und verhindern, 
   <RecordThing>
     <Key>ItemKitRecycler</Key>
     <Value>Kit (Recycler)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemCableAnalyser</Key>
     <Value>Kit (Kabel-Analysator)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCableAnalysizer</Key>
     <Value>Kabel-Analysator</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureLogicDial</Key>
@@ -3018,42 +2886,34 @@ Beachte, dass Transformatoren als Datenisolatoren funktionieren und verhindern, 
   <RecordThing>
     <Key>StructureConsoleLED1x2</Key>
     <Value>LED-Anzeige (mittel)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureConsoleLED1x3</Key>
     <Value>LED-Anzeige (groß)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>NpcChick</Key>
     <Value>Küken</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>NpcChicken</Key>
     <Value>Huhn</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>DynamicSkeleton</Key>
     <Value>Skelett</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureBeacon</Key>
     <Value>Signal</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitBeacon</Key>
     <Value>Kit (Signal)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureTankBig</Key>
     <Value>Großer Tank</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemPotato</Key>
@@ -3068,12 +2928,10 @@ Beachte, dass Transformatoren als Datenisolatoren funktionieren und verhindern, 
   <RecordThing>
     <Key>StructureGasGenerator</Key>
     <Value>Gas-Treibstoff-Generator</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitGasGenerator</Key>
     <Value>Kit (Gas-Treibstoff-Generator)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>DynamicGPR</Key>
@@ -3090,7 +2948,6 @@ Stecke eine Kassette oder einen Farbscanner in das Tablet und drücke dann die A
   <RecordThing>
     <Key>ItemPotatoBaked</Key>
     <Value>Gebackene Kartoffel</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemTomatoSoup</Key>
@@ -3100,187 +2957,150 @@ Stecke eine Kassette oder einen Farbscanner in das Tablet und drücke dann die A
   <RecordThing>
     <Key>ItemSoyOil</Key>
     <Value>Sojaöl</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemFries</Key>
     <Value>Pommes</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCableCornerH3</Key>
     <Value>Schweres Kabel (3-Wege-Ecke)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCableCornerH4</Key>
     <Value>Schweres Kabel (4-Wege-Ecke)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCableCorner4HBurnt</Key>
     <Value>Verbranntes Starkstromkabel (4-Wege-Ecke)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>PortableSolarPanel</Key>
     <Value>Tragbares Solarpanel</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCableJunction5</Key>
     <Value>Kabel (5-Wege-Verzweigung)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCableCorner4</Key>
     <Value>Kabel (4-Wege-Ecke)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCableCorner4Burnt</Key>
     <Value>Verbranntes Kabel (4-Wege-Ecke)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCableJunction5Burnt</Key>
     <Value>Verbranntes Kabel (5-Wege-Verzweigung)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCableJunctionH5</Key>
     <Value>Schweres Kabel (5-Wege-Verzweigung)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCableJunctionH5Burnt</Key>
     <Value>Verbranntes schweres Kabel (5-Wege-Verzweigung)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>WallFrameCornerCut</Key>
     <Value>Stahlrahmen (geschliffene Ecke)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureFlagSmall</Key>
     <Value>Kleine Flagge</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemFlagSmall</Key>
     <Value>Kit (Kleine Flagge)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCompositeCladdingAngled</Key>
     <Value>Komposit-Verkleidung (abgewinkelt)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCompositeCladdingAngledCorner</Key>
     <Value>Komposit-Verkleidung (abgewinkelte Ecke)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCompositeCladdingAngledCornerLong</Key>
     <Value>Komposit-Verkleidung (lange abgewinkelte Ecke)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCompositeCladdingAngledLong</Key>
     <Value>Komposit-Verkleidung (lang gewinkelt)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCompositeCladdingCylindrical</Key>
     <Value>Komposit-Verkleidung (zylindrisch)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCompositeCladdingCylindricalPanel</Key>
     <Value>Komposit-Verkleidung (Zylindrische Platte)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCompositeCladdingSphericalCorner</Key>
     <Value>Komposit-Verkleidung (kugelförmige Ecke)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCompositeCladdingSphericalCap</Key>
     <Value>Komposit-Verkleidung (kugelförmige Obergrenze)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCompositeCladdingSpherical</Key>
     <Value>Komposit-Verkleidung (kugelförmig)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCompositeCladdingRoundedCorner</Key>
     <Value>Komposit-Verkleidung (abgerundete Ecke)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCompositeCladdingRounded</Key>
     <Value>Komposit-Verkleidung (abgerundet)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCompositeCladdingPanel</Key>
     <Value>Komposit-Verkleidung (Platte)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitCompositeCladding</Key>
     <Value>Kit (Ummantelung)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCompositeCladdingAngledCornerLongR</Key>
     <Value>Komposit-Verkleidung (lange, gewinkelte, verspiegelte Ecke)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureDockPortSide</Key>
     <Value>Dock (Backbordseite)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitDockingPort</Key>
     <Value>Kit (Docking Port)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureDockShipSide</Key>
     <Value>Dock Schiffsseite</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureLightLong</Key>
     <Value>Wandleuchte (lang)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureLightLongAngled</Key>
     <Value>Wandleuchte (lang gewinkelt)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureLightLongWide</Key>
     <Value>Wandleuchte (lang, breit)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>CircuitboardAdvancedAirlockControl</Key>
     <Value>Erweiterte Luftschleuse</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitOrganicsPrinter</Key>
     <Value>Kit (Organik-Drucker)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureOrganicsPrinter</Key>
@@ -3290,427 +3110,342 @@ Stecke eine Kassette oder einen Farbscanner in das Tablet und drücke dann die A
   <RecordThing>
     <Key>StructureCompositeWindowIron</Key>
     <Value>Eisenfenster</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>CompositeFloorGrating1</Key>
     <Value>Komposit-Bodenrost (Typ 1)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>CompositeFloorGrating2</Key>
     <Value>Komposit-Bodenrost (Typ 2)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCompositeFloorGrating2</Key>
     <Value>Komposit-Bodenrost (Typ 2)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCompositeFloorGrating3</Key>
     <Value>Komposit-Bodenrost (Typ 3)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCompositeFloorGrating4</Key>
     <Value>Komposit-Bodenrost (Typ 4)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitWallPanels</Key>
     <Value>Kit (Wandpaneele)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCompositeWallPanelling1</Key>
     <Value>Komposit-Wandpaneele</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitCompositeFloorGrating</Key>
     <Value>Kit (Bodenroste)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>CompositeRollCover</Key>
     <Value>Komposit-Rollabdeckung</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitLadder</Key>
     <Value>Kit (Leiter)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureFrameCornerCut</Key>
     <Value>Stahlrahmen (geschliffene Ecken)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>CompositeWallPanelling1</Key>
     <Value>Komposit-Wandverkleidung</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>CompositeWallPanelling2</Key>
     <Value>Komposit-Wandverkleidung 2</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>CompositeWallPanelling3</Key>
     <Value>Komposit-Wandverkleidung 3</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>CompositeWallPanelling4</Key>
     <Value>Komposit-Wandverkleidung 4</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>CompositeWallPanelling5</Key>
     <Value>Komposit-Wandverkleidung 5</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>CompositeWallPanelling6</Key>
     <Value>Komposit-Wandverkleidung 6</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>CompositeWallPanelling7</Key>
     <Value>Komposit-Wandverkleidung 7</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>CompositeWallPanelling8</Key>
     <Value>Komposit-Wandverkleidung 8</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>CompositeWallPanelling9</Key>
     <Value>Komposit-Wandverkleidung 9</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>CompositeWallPanelling10</Key>
     <Value>Komposit-Wandverkleidung 10</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>CompositeWallPanelling11</Key>
     <Value>Komposit-Wandverkleidung 11</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>CompositeWallPanelling12</Key>
     <Value>Komposit-Wandverkleidung 12</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>CompositeWallPanelling13</Key>
     <Value>Komposit-Wandverkleidung 13</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>CompositeWallPanelling14</Key>
     <Value>Komposit-Wandverkleidung 14</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>CompositeWallPanelling15</Key>
     <Value>Komposit-Wandverkleidung 15</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>CompositeWallPanelling16</Key>
     <Value>Komposit-Wandverkleidung 16</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>CompositeWallPanelling17</Key>
     <Value>Komposit-Wandverkleidung 17</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>CompositeWallPanelling18</Key>
     <Value>Komposit-Wandverkleidung 18</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>CompositeWallPanelling19</Key>
     <Value>Komposit-Wandverkleidung 19</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>CompositeWallPanelling20</Key>
     <Value>Komposit-Wandverkleidung 20</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>CompositeWallPanelling21</Key>
     <Value>Komposit-Wandverkleidung 21</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>Corner1</Key>
     <Value>Ecke</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallFlat</Key>
     <Value>Wand (flach)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallArch</Key>
     <Value>Wand (Bogen)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallArchArrow</Key>
     <Value>Wand (Bogenpfeil)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallArchPlating</Key>
     <Value>Wand (Bogenplattierung)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallArchTwoTone</Key>
     <Value>Wand (Bogen zweifarbig)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallGeometryCorner</Key>
     <Value>Wand (Geometrie Ecke)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallGeometryStreight</Key>
     <Value>Wand (Geometrie gerade)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallGeometryT</Key>
     <Value>Wand (Geometrie T)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallGeometryTMirrored</Key>
     <Value>Wand (Geometrie T Gespiegelt)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallPaddedArch</Key>
     <Value>Wand (Bogen gepolstert)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallPaddedArchLightsFittings</Key>
     <Value>Wand (gepolstertes Bogenlicht)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallPadding</Key>
     <Value>Wand (Polsterung)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallPaddingArchVent</Key>
     <Value>Wand (Polsterung Bogenentlüftung)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallPaddingLightFitting</Key>
     <Value>Wand (Polsterleuchte)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallPaddingThin</Key>
     <Value>Wand (Polsterung dünn)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallPlating</Key>
     <Value>Wand (Überzug)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallSimple</Key>
     <Value>Wand (Einfach)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallSmallPanels</Key>
     <Value>Wand (Kleine Paneele)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallLargePanel</Key>
     <Value>Wand (Große Paneele)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallSmallPanelsAndHatch</Key>
     <Value>Wand (Kleine Paneele und Schraffur)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallSmallPanelsArrow</Key>
     <Value>Wand (Kleine Paneele Pfeil)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallSmallPanelsMonoChrome</Key>
     <Value>Wand (Kleine Paneele Einfarbig Chrom)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallSmallPanelsTwoTone</Key>
     <Value>Wand (Kleine Paneele Zweifarbig)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallLargePanelArrow</Key>
     <Value>Wand (Großes Paneel Pfeil)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitWallArch</Key>
     <Value>Kit (gewölbte Wand)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitWallFlat</Key>
     <Value>Kit (flache Wand)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitWallGeometry</Key>
     <Value>Kit (geometrische Wand)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitWallPadded</Key>
     <Value>Kit (gepolsterte Wand)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureLadder</Key>
     <Value>Leiter</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>CartridgeGuide</Key>
     <Value>Führung</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructurePipeCrossJunction4</Key>
     <Value>Rohr (4-Wege-Ecke)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemAuthoringTool</Key>
     <Value>Werkzeug zum Erstellen von Gegenständen</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureRocketEngineDestroyed</Key>
     <Value>Raketentriebwerk (Zerstört)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageConstructor</Key>
     <Value>Wrack-Konstruktor debuggen</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckage1</Key>
     <Value>Wrackteile</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckage2</Key>
     <Value>Wrackteile</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckage3</Key>
     <Value>Wrackteile</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckage4</Key>
     <Value>Wrackteile</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>CartridgeAccessController</Key>
     <Value>Kartusche (Zugangssteuerung)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>AccessCardBlack</Key>
     <Value>Zugangskarte (Schwarz)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>AccessCardBlue</Key>
     <Value>Zugangskarte (Blau)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>AccessCardBrown</Key>
     <Value>Zugangskarte (Braun)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>AccessCardGray</Key>
     <Value>Zugangskarte (Grau)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>AccessCardGreen</Key>
     <Value>Zugangskarte (Grün)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>AccessCardKhaki</Key>
     <Value>Zugangskarte (Khaki)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>AccessCardOrange</Key>
     <Value>Zugangskarte (Orange)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>AccessCardPink</Key>
     <Value>Zugangskarte (Rosa)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>AccessCardPurple</Key>
     <Value>Zugangskarte (Violett)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>AccessCardRed</Key>
     <Value>Zugangskarte (Rot)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>AccessCardWhite</Key>
     <Value>Zugangskarte (Weiß)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>AccessCardYellow</Key>
     <Value>Zugangskarte (Gelb)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureSecurityPrinter</Key>
@@ -3720,32 +3455,26 @@ Stecke eine Kassette oder einen Farbscanner in das Tablet und drücke dann die A
   <RecordThing>
     <Key>ItemKitSecurityPrinter</Key>
     <Value>Kit (Sicherheitsdrucker)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>Handgun</Key>
     <Value>Handfeuerwaffe</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemAmmoBox</Key>
     <Value>Munitionskiste</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>HandgunMagazine</Key>
     <Value>Handfeuerwaffen-Magazin</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>SMGMagazine</Key>
     <Value>SMG-Magazin</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>FireArmSMG</Key>
     <Value>Feuerwaffe SMG</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureElectrolyzer</Key>
@@ -3755,102 +3484,82 @@ Stecke eine Kassette oder einen Farbscanner in das Tablet und drücke dann die A
   <RecordThing>
     <Key>StructureElevatorShaft</Key>
     <Value>Aufzugsschacht</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitElevator</Key>
     <Value>Kit (Aufzug)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ElevatorCarrage</Key>
     <Value>Aufzug</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureElevatorLevelFront</Key>
     <Value>Aufzug Level</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCrateMount</Key>
     <Value>Container-Montage</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitCrateMount</Key>
     <Value>Kit (Container-Montage)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureLogicMirror</Key>
     <Value>Logik-Spiegel</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>CircuitboardHashDisplay</Key>
     <Value>Hash-Anzeige</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureHydroponicsStation</Key>
     <Value>Hydroponische Station</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitHydroponicStation</Key>
     <Value>Kit (Hydroponische Station)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureDiodeSlide</Key>
     <Value>Diodenschieber</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemGasCanisterSmart</Key>
     <Value>Gaskanister (Smart)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>CartridgeConfiguration</Key>
     <Value>Konfiguration</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitCrate</Key>
     <Value>Kit (Kiste)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>CircuitboardGraphDisplay</Key>
     <Value>Graphische Anzeige</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitMotherShipCore</Key>
     <Value>Kit (Mutterschiff)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemDynamicScrubber</Key>
     <Value>Kit (Tragbarer Luftwäscher)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemDynamicAirCon</Key>
     <Value>Kit (Tragbare Klimaanlage)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitPipeValve</Key>
     <Value>Kit (Rohrleitungsventil)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitDynamicGenerator</Key>
     <Value>Kit (Tragbarer Generator)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureVendingMachine</Key>
@@ -3860,27 +3569,22 @@ Stecke eine Kassette oder einen Farbscanner in das Tablet und drücke dann die A
   <RecordThing>
     <Key>ItemKitVendingMachine</Key>
     <Value>Kit (Verkaufsautomat)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureLogicSlotReader</Key>
     <Value>Slot Lesegerät</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureLogicBatchReader</Key>
     <Value>Batch Lesegerät</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureLogicReagentReader</Key>
     <Value>Lesegerät für Reagenzien</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemHardSuit</Key>
     <Value>Schutzanzug</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemHardsuitHelmet</Key>
@@ -3890,42 +3594,34 @@ Stecke eine Kassette oder einen Farbscanner in das Tablet und drücke dann die A
   <RecordThing>
     <Key>ItemWearLamp</Key>
     <Value>Scheinwerfer</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureTurbineGenerator</Key>
     <Value>Turbinengenerator</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitTurbineGenerator</Key>
     <Value>Kit (Turbinengenerator)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ReagentSilver</Key>
     <Value>Silber-Pulver</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ReagentPotassiumIodide</Key>
     <Value>Kaliumjodid-Pulver</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ReagentInvar</Key>
     <Value>Invar-Pulver</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ReagentElectrum</Key>
     <Value>Elektrum-Pulver</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ReagentGold</Key>
     <Value>Gold-Pulver</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureUnloader</Key>
@@ -3943,52 +3639,42 @@ Ausgabe = 1 Export der Gegenstände im Inneren und schließlich des Hauptgegenst
   <RecordThing>
     <Key>StructurePlatformLadderOpen</Key>
     <Value>Leiterplattform</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureLadderEnd</Key>
     <Value>Leiterende</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureLockerSmall</Key>
     <Value>Spind (klein)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureLogicBatchSlotReader</Key>
     <Value>Batch Slot Lesegerät</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>CircuitboardAdvAirlockControl</Key>
     <Value>Erweiterte Luftschleuse</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitPressurePlate</Key>
     <Value>Kit (Auslöseplatte)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructurePressurePlateLarge</Key>
     <Value>Auslöseplatte (groß)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructurePressurePlateMedium</Key>
     <Value>Auslöseplatte (Mittel)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructurePressurePlateSmall</Key>
     <Value>Auslöseplatte (klein)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitDynamicCanister</Key>
     <Value>Kit (Tragbarer Gastank)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitDynamicLiquidCanister</Key>
@@ -3998,122 +3684,98 @@ Ausgabe = 1 Export der Gegenstände im Inneren und schließlich des Hauptgegenst
   <RecordThing>
     <Key>ItemFlowerBlue</Key>
     <Value>Blume (Blau)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemFlowerOrange</Key>
     <Value>Blume (Orange)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemFlowerRed</Key>
     <Value>Blume (Rot)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemFlowerYellow</Key>
     <Value>Blume (Gelb)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>AppliancePaintMixer</Key>
     <Value>Farbmischgerät</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ReagentColorBlue</Key>
     <Value>Farbstoff (Blau)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ReagentCarbon</Key>
     <Value>Kohlepulver</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ReagentColorGreen</Key>
     <Value>Farbstoff (Grün)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ReagentColorOrange</Key>
     <Value>Farbstoff (Orange)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ReagentColorRed</Key>
     <Value>Farbstoff (Rot)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ReagentColorYellow</Key>
     <Value>Farbstoff (Gelb)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemFlowerGreen</Key>
     <Value>Blume (Grün)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemGasFilterCarbonDioxideL</Key>
     <Value>Schwerer Filter (Kohlendioxid)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemGasFilterCarbonDioxideM</Key>
     <Value>Mittlerer Filter (Kohlendioxid)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemGasFilterNitrogenL</Key>
     <Value>Schwerer Filter (Stickstoff)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemGasFilterNitrogenM</Key>
     <Value>Mittlerer Filter (Stickstoff)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemGasFilterOxygenL</Key>
     <Value>Schwerer Filter (Sauerstoff)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemGasFilterOxygenM</Key>
     <Value>Mittlerer Filter (Sauerstoff)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemGasFilterPollutantsL</Key>
     <Value>Schwerer Filter (Schadstoffe)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemGasFilterPollutantsM</Key>
     <Value>Mittlerer Filter (Schadstoffe)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemGasFilterVolatilesL</Key>
     <Value>Schwerer Filter (flüchtige Stoffe)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemGasFilterVolatilesM</Key>
     <Value>Mittlerer Filter (flüchtige Stoffe)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemGasFilterWaterL</Key>
     <Value>Schwerer Filter (Wasser)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemGasFilterWaterM</Key>
     <Value>Mittlerer Filter (Wasser)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemMushroom</Key>
@@ -4133,7 +3795,6 @@ Ausgabe = 1 Export der Gegenstände im Inneren und schließlich des Hauptgegenst
   <RecordThing>
     <Key>ItemPumpkinPie</Key>
     <Value>Kürbiskuchen</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemHardBackpack</Key>
@@ -4150,12 +3811,10 @@ BENUTZEN: 'J' zum Aktivieren; 'Leertaste' zum Hochfliegen; 'Linke Strg' zum Abst
   <RecordThing>
     <Key>DynamicHydroponics</Key>
     <Value>Tragbare Hydroponik</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitDynamicHydroponics</Key>
     <Value>Kit (Tragbare Hydrokulturen)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureKlaxon</Key>
@@ -4165,7 +3824,6 @@ BENUTZEN: 'J' zum Aktivieren; 'Leertaste' zum Hochfliegen; 'Linke Strg' zum Abst
   <RecordThing>
     <Key>ItemKitSpeaker</Key>
     <Value>Kit (Lautsprecher)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>CartridgeOreScannerColor</Key>
@@ -4182,7 +3840,6 @@ Flüchtige Stoffe und Uran = weiß</Description>
   <RecordThing>
     <Key>StructureLogicWriterSwitch</Key>
     <Value>Logik-Schreiber Schalter</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>MotherboardProgrammableChip</Key>
@@ -4192,77 +3849,62 @@ Flüchtige Stoffe und Uran = weiß</Description>
   <RecordThing>
     <Key>ItemKitLogicCircuit</Key>
     <Value>Kit (IC-Gehäuse)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCircuitHousing</Key>
     <Value>IC-Gehäuse</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemIntegratedCircuit10</Key>
     <Value>Integrierte Schaltung (IC10)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureHydroponicsAutomated</Key>
     <Value>Automatisierte Hydroponik</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitHydroponicAutomated</Key>
     <Value>Kit (Automatisierte Hydrokulturen)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemBasketBall</Key>
     <Value>Basketball</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitBasket</Key>
     <Value>Kit (Basketballkorb)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureBasketHoop</Key>
     <Value>Basketballkorb</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemGasFilterNitrousOxide</Key>
     <Value>Filter (Distickstoffmonoxid)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemGasFilterNitrousOxideL</Key>
     <Value>Schwerer Filter (Distickstoffmonoxid)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemGasFilterNitrousOxideM</Key>
     <Value>Mittlerer Filter (Lachgas)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemGasCanisterNitrousOxide</Key>
     <Value>Gaskanister (Schlafen)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemNVG</Key>
     <Value>Nachtsichtbrille</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemGlasses</Key>
     <Value>Brille</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureLogicHashGen</Key>
     <Value>Logischer Hash-Generator</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureShuttleLandingPad</Key>
@@ -4272,7 +3914,6 @@ Flüchtige Stoffe und Uran = weiß</Description>
   <RecordThing>
     <Key>ItemKitLandingPad</Key>
     <Value>Kit (Landeplatz)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureSatelliteDish</Key>
@@ -4284,17 +3925,14 @@ Wenn es an einen {THING:StructureComputer} angeschlossen ist, der eine {THING:Mo
   <RecordThing>
     <Key>ItemKitSatelliteDish</Key>
     <Value>Kit (Mittlere Satellitenschüssel)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemPlasticSheets</Key>
     <Value>Plastik-Platten</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemAlienMushroom</Key>
     <Value>Alien-Pilz (Alien Mushroom)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>MotherboardComms</Key>
@@ -4304,37 +3942,30 @@ Wenn es an einen {THING:StructureComputer} angeschlossen ist, der eine {THING:Mo
   <RecordThing>
     <Key>ItemMarineBodyArmor</Key>
     <Value>Marine-Rüstung</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemMarineHelmet</Key>
     <Value>Marine-Helm</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>UniformMarine</Key>
     <Value>Marine-Uniform</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>CardboardBox</Key>
     <Value>Pappschachtel</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallLightBattery</Key>
     <Value>Wandleuchte (Batterie)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>DynamicPortal</Key>
     <Value>Dynamisches Portal</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemArcWelder</Key>
     <Value>Lichtbogenschweißer</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemMiningDrillHeavy</Key>
@@ -4344,17 +3975,14 @@ Wenn es an einen {THING:StructureComputer} angeschlossen ist, der eine {THING:Mo
   <RecordThing>
     <Key>RoverCargo</Key>
     <Value>Rover (Fracht)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemCreditCard</Key>
     <Value>Kreditkarte</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureRover</Key>
     <Value>Rover-Rahmen</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitRoverFrame</Key>
@@ -4364,57 +3992,46 @@ Wenn es an einen {THING:StructureComputer} angeschlossen ist, der eine {THING:Mo
   <RecordThing>
     <Key>StructureStairs4x2Rails</Key>
     <Value>Treppe mit Geländer</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureStairs4x2RailL</Key>
     <Value>Treppe mit Schiene (links)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureStairs4x2RailR</Key>
     <Value>Treppe mit Schiene (rechts)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>Phobos</Key>
     <Value>Phobos</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>Meteorite</Key>
     <Value>Meteorit</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitAutoMiner</Key>
     <Value>Kit (Auto Schürfer)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>DynamicGasCanisterNitrousOxide</Key>
     <Value>Tragbarer Gastank (Distickstoffmonoxid)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>DynamicGasCanisterPollutants</Key>
     <Value>Tragbarer Gastank (Schadstoffe)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>Lander</Key>
     <Value>Lander</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemRemoteDetonator</Key>
     <Value>Fernzünder</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemExplosive</Key>
     <Value>Fernsprengstoff</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureSolarPanelFused</Key>
@@ -4424,7 +4041,6 @@ Wenn es an einen {THING:StructureComputer} angeschlossen ist, der eine {THING:Mo
   <RecordThing>
     <Key>ItemCoffeeMug</Key>
     <Value>Kaffeebecher</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>Robot</Key>
@@ -4446,17 +4062,14 @@ RobotMode.None = 6 = Automatisch zugewiesener Zustand, zeigt an, wenn die Slots 
   <RecordThing>
     <Key>CartridgeGPS</Key>
     <Value>GPS</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureLogicTransmitter</Key>
     <Value>Logik-Sender</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitLogicTransmitter</Key>
     <Value>Kit (Logiksender)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureAdvancedFurnace</Key>
@@ -4466,27 +4079,22 @@ RobotMode.None = 6 = Automatisch zugewiesener Zustand, zeigt an, wenn die Slots 
   <RecordThing>
     <Key>ItemKitAdvancedFurnace</Key>
     <Value>Kit (Erweiterter Ofen)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemStelliteIngot</Key>
     <Value>Barren (Stellite)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWaspaloyIngot</Key>
     <Value>Barren (Waspaloy)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemHastelloyIngot</Key>
     <Value>Barren (Hastelloy)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemInconelIngot</Key>
     <Value>Barren (Inconel)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemAstroloyIngot</Key>
@@ -4501,37 +4109,30 @@ RobotMode.None = 6 = Automatisch zugewiesener Zustand, zeigt an, wenn die Slots 
   <RecordThing>
     <Key>ItemCobaltIngot</Key>
     <Value>Barren (Kobalt)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ReagentCobalt</Key>
     <Value>Kobalt-Pulver</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCompositeCladdingRoundedCornerInner</Key>
     <Value>Komposit-Verkleidung (abgerundete Ecke innen)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCompositeCladdingAngledCornerInnerLongR</Key>
     <Value>Komposit-Verkleidung (abgewinkelte Ecke innen lang R)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCompositeCladdingAngledCornerInnerLongL</Key>
     <Value>Komposit-Verkleidung (abgewinkelte Ecke innen lang L)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCompositeCladdingAngledCornerInnerLong</Key>
     <Value>Komposit-Verkleidung (abgewinkelte Ecke innen lang)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCompositeCladdingAngledCornerInner</Key>
     <Value>Komposit-Verkleidung (abgewinkelte Ecke innen)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ElectronicPrinterMod</Key>
@@ -4570,7 +4171,6 @@ Beachte, dass Transformatoren auch als Datentrenner funktionieren und verhindern
   <RecordThing>
     <Key>StructureTransformerMedium(Reversed)</Key>
     <Value>Umgekehrter Transformator (Medium)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemJetpackBasic</Key>
@@ -4582,227 +4182,182 @@ BENUTZEN: 'J' zum Aktivieren; 'Leertaste' zum Hochfliegen; 'Linke Strg' zum Abst
   <RecordThing>
     <Key>StructureRTGSurvival</Key>
     <Value>RTG</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemEmergencyHelmet</Key>
     <Value>Notfall-Helm</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemEmergencyArcWelder</Key>
     <Value>Notfall-Lichtbogenschweißer</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemEmergencyDrill</Key>
     <Value>Notfall-Bohrer</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemEmergencyAngleGrinder</Key>
     <Value>Notfall-Winkelschleifer</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemEmergencyCrowbar</Key>
     <Value>Notfall-Brechstange</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemEmergencyPickaxe</Key>
     <Value>Notfall-Spitzhacke</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemEmergencyWrench</Key>
     <Value>Notfall-Schraubenschlüssel</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemEmergencyWireCutters</Key>
     <Value>Notfall-Drahtschneider</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemEmergencyScrewdriver</Key>
     <Value>Notfall-Schraubendreher</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemEmergencyEvaSuit</Key>
     <Value>Notfall-Eva-Anzug</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemEmergencySpaceHelmet</Key>
     <Value>Notfall-Weltraum-Helm</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemEmergencyToolBelt</Key>
     <Value>Notfall-Werkzeuggürtel</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemElectronicParts</Key>
     <Value>Elektronische Teile</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitResearchMachine</Key>
     <Value>Kit Forschungsmaschine</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ManualGetResearchPodsRequired</Key>
     <Value>Zu suchender Kapsel-Typ</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureResearchMachine</Key>
     <Value>Forschungsmaschine</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureShelf</Key>
     <Value>Regal</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>HumanSkull</Key>
     <Value>Menschlicher Schädel</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructurePictureFrameThinMountLandscapeLarge</Key>
     <Value>Bilderrahmen Dünnes Querformat Groß</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructurePictureFrameThinMountLandscapeSmall</Key>
     <Value>Bilderrahmen Dünnes Querformat Klein</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructurePictureFrameThinMountPortraitLarge</Key>
     <Value>Bilderrahmen Dünnes Hochformat Groß</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructurePictureFrameThinMountPortraitSmall</Key>
     <Value>Bilderrahmen Dünnes Hochformat Klein</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructurePictureFrameThinPortraitSmall</Key>
     <Value>Bilderrahmen Dünnes Hochformat Klein</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructurePictureFrameThinLandscapeSmall</Key>
     <Value>Bilderrahmen Dünnes Querformat Klein</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructurePictureFrameThinLandscapeLarge</Key>
     <Value>Bilderrahmen Dünnes Querformat Groß</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructurePictureFrameThickPortraitSmall</Key>
     <Value>Bilderrahmen Dickes Hochformat Klein</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructurePictureFrameThickMountPortraitSmall</Key>
     <Value>Bilderrahmen Dickes Passepartout Hochformat Klein</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructurePictureFrameThickMountPortraitLarge</Key>
     <Value>Bilderrahmen Dickes Passepartout Hochformat Groß</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructurePictureFrameThickMountLandscapeSmall</Key>
     <Value>Bilderrahmen Dickes Querformat Klein</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructurePictureFrameThickMountLandscapeLarge</Key>
     <Value>Bilderrahmen Dickes Querformat Groß</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructurePictureFrameThickLandscapeSmall</Key>
     <Value>Bilderrahmen Dickes Querformat Klein</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructurePictureFrameThickLandscapeLarge</Key>
     <Value>Bilderrahmen Dickes Querformat Groß</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructurePictureFrameThickPortraitLarge</Key>
     <Value>Bilderrahmen Dickes Hochformat Groß</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructurePictureFrameThinPortraitLarge</Key>
     <Value>Bilderrahmen Dünnes Hochformat Groß</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ApplianceDeskLampLeft</Key>
     <Value>Schreibtischlampe links</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ApplianceDeskLampRight</Key>
     <Value>Schreibtischlampe rechts</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>QuarryDrillBitBasic</Key>
     <Value>Steinbruch-Bohrer Basic</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemResearchCapsuleRed</Key>
     <Value>Forschungskapsel Rot</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemResearchCapsuleYellow</Key>
     <Value>Forschungskapsel Gelb</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemResearchCapsuleGreen</Key>
     <Value>Forschungskapsel Grün</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemResearchCapsule</Key>
     <Value>Forschungskapsel Blau</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitPictureFrame</Key>
     <Value>Kit Bilderrahmen</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemVoxelTool</Key>
     <Value>Voxel-Werkzeug</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitAIMeE</Key>
     <Value>Kit (AIMeE)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureAutoMinerSmall</Key>
@@ -4812,12 +4367,10 @@ BENUTZEN: 'J' zum Aktivieren; 'Leertaste' zum Hochfliegen; 'Linke Strg' zum Abst
   <RecordThing>
     <Key>ItemKitAutoMinerSmall</Key>
     <Value>Kit (Auto-Schürfer klein)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemDirtCannister</Key>
     <Value>Schmutzkanister</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemDirtCanister</Key>
@@ -4827,12 +4380,10 @@ BENUTZEN: 'J' zum Aktivieren; 'Leertaste' zum Hochfliegen; 'Linke Strg' zum Abst
   <RecordThing>
     <Key>ItemTerrainManipulator</Key>
     <Value>Geländemanipulator</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureLaunchPad</Key>
     <Value>Modulare Raketenstartrampe</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureModularRocketCargo01</Key>
@@ -4858,12 +4409,10 @@ Bei der Landung setzt die Rakete einen Lander und die im Modul {THING:StructureM
   <RecordThing>
     <Key>DynamicModularRocketCommand01</Key>
     <Value>Modulares Raketenkommando</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureReverseElectrolyzer</Key>
     <Value>Umgekehrter Elektrolysator</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>H2Combustor</Key>
@@ -4960,142 +4509,114 @@ Bei der Landung setzt die Rakete einen Lander und die im Modul {THING:StructureM
   <RecordThing>
     <Key>StructureWallIron02</Key>
     <Value>Eisenwand (Typ 2)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallIron03</Key>
     <Value>Eisenwand (Typ 3)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallIron04</Key>
     <Value>Eisenwand (Typ 4)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCompositeWall02</Key>
     <Value>Kompositwand (Typ 2)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCompositeWall03</Key>
     <Value>Kompositwand (Typ 3)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCompositeWall04</Key>
     <Value>Kompositwand (Typ 4)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCompositeWallWindow</Key>
     <Value>Komposit-Fenster</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>RailingElegant01</Key>
     <Value>Geländer Elegant (Typ 1)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>RailingElegant02</Key>
     <Value>Geländer Elegant (Typ 2)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>RailingIndustrial02</Key>
     <Value>Geländer Industriell (Typ 2)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitRailing</Key>
     <Value>Kit (Geländer)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallArchCornerRound</Key>
     <Value>Wand (Bogenecke rund)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallArchCornerSquare</Key>
     <Value>Wand (Bogenecke Quadratisch)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallArchCornerTriangle</Key>
     <Value>Wand (Bogenecke Dreieck)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallFlatCornerRound</Key>
     <Value>Wand (Flache Ecke rund)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallFlatCornerSquare</Key>
     <Value>Wand (Flache Ecke Quadratisch)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallFlatCornerTriangle</Key>
     <Value>Wand (Flache Ecke Dreieck)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallFlatCornerTriangleFlat</Key>
     <Value>Wand (Flache Ecke Dreieck Flach)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallPaddedArchLightFittingTop</Key>
     <Value>Wand (gepolsterte Bogenleuchte oben)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallPaddedNoBorder</Key>
     <Value>Wand (gepolstert ohne Rand)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallPaddedThinNoBorder</Key>
     <Value>Wand (gepolstert, dünn, ohne Rand)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallPaddedWindowThin</Key>
     <Value>Wand (gepolstertes Fenster, dünn)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallPaddedThinNoBorderCorner</Key>
     <Value>Wand (gepolstert, dünn, ohne Rand, Ecke)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallPaddedNoBorderCorner</Key>
     <Value>Wand (gepolsterte Ecke ohne Rand)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallPaddedCorner</Key>
     <Value>Wand (gepolsterte Ecke)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallPaddedCornerThin</Key>
     <Value>Wand (gepolsterte Ecke, dünn)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallPaddedArchCorner</Key>
     <Value>Wand (gepolsterte Bogenecke)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWallPaddedWindow</Key>
     <Value>Wand (gepolstertes Fenster)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructurePipeOrgan</Key>
@@ -5110,17 +4631,14 @@ Bei der Landung setzt die Rakete einen Lander und die im Modul {THING:StructureM
   <RecordThing>
     <Key>DynamicGasCanisterRocketFuel</Key>
     <Value>Tragbarer Gaskanister Raketentreibstoff</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ModularRocketCommand01Lander</Key>
     <Value>Raketenkommando Lander</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ModularRocketCargo01</Key>
     <Value>Raketenfracht</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemSensorProcessingUnitOreScanner</Key>
@@ -5135,12 +4653,10 @@ Bei der Landung setzt die Rakete einen Lander und die im Modul {THING:StructureM
   <RecordThing>
     <Key>StructureBatteryChargerSmall</Key>
     <Value>Batterieladegerät klein</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemBatteryChargerSmall</Key>
     <Value>Batterieladegerät klein</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureSolarPanelFlat</Key>
@@ -5160,17 +4676,14 @@ Bei der Landung setzt die Rakete einen Lander und die im Modul {THING:StructureM
   <RecordThing>
     <Key>StructureSDBHopperAdvanced</Key>
     <Value>SDB Trichter Erweitert</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureSDBHopper</Key>
     <Value>SDB Trichter</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitSDBHopper</Key>
     <Value>Kit (SDB Trichter)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureSDBSilo</Key>
@@ -5185,147 +4698,118 @@ Bei der Landung setzt die Rakete einen Lander und die im Modul {THING:StructureM
   <RecordThing>
     <Key>StructureTankSmallInsulated</Key>
     <Value>Aufbau Tank Klein (isoliert)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureTankBigInsulated</Key>
     <Value>Tank groß (isoliert)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitTankInsulated</Key>
     <Value>Kit (Tank isoliert)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitDebug</Key>
     <Value>Kit (Debug)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureChairThickSingle</Key>
     <Value>Stuhl (Dick, Einzelner)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureChairThickDouble</Key>
     <Value>Stuhl (Dickes, Zweier)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureChairRectangleSingle</Key>
     <Value>Stuhl (Rechteckig, Einzelner)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureChairRectangleDouble</Key>
     <Value>Stuhl (Rechteckig, Zweier)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureChairBoothMiddle</Key>
     <Value>Stuhl (Stand Mitte)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureChairBoothCornerRight</Key>
     <Value>Stuhl (Stand Ecke Rechts)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureChairBoothCornerLeft</Key>
     <Value>Stuhl (Stand Ecke Links)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureChairBacklessSingle</Key>
     <Value>Stuhl (Rückenlos, Einzelner)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureChairBacklessDouble</Key>
     <Value>Stuhl (Rückenlos, Zweier)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureFlatBench</Key>
     <Value>Bank (flach)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureAngledBench</Key>
     <Value>Bank (gewinkelt)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitTables</Key>
     <Value>Kit (Tische)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>KitchenTableTall</Key>
     <Value>Küchentisch (hoch)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>KitchenTableSimpleTall</Key>
     <Value>Küchentisch (einfach hoch)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>KitchenTableSimpleShort</Key>
     <Value>Küchentisch (einfach kurz)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>KitchenTableShort</Key>
     <Value>Küchentisch (kurz)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureSmallTableThickSingle</Key>
     <Value>Kleiner Tisch (Dick, Einzelner)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureSmallTableThickDouble</Key>
     <Value>Klein (Tisch Dick, Zweier)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureSmallTableRectangleSingle</Key>
     <Value>Klein (Tisch Rechteckig Einzelner)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureSmallTableRectangleDouble</Key>
     <Value>Klein (Tisch Rechteckig Zweier)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureSmallTableDinnerSingle</Key>
     <Value>Klein (Tisch Dinner Einzelner)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureSmallTableBacklessSingle</Key>
     <Value>Klein (Tisch Rückenlos Einzelner)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureSmallTableBacklessDouble</Key>
     <Value>Klein (Tisch Rückenlos Zweier)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitChairs</Key>
     <Value>Kit (Stühle)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitBeds</Key>
     <Value>Kit (Betten)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureLightRoundAngled</Key>
@@ -5434,12 +4918,10 @@ Da sie bis zu 9000001 Watt Energie speichern kann, gibt es keine praktischen Gre
   <RecordThing>
     <Key>ItemWreckageSolarPanel1</Key>
     <Value>Wrack Solarmodul</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageSolarPanel2</Key>
     <Value>Wrack Solarmodul</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageSolarPanel3</Key>
@@ -5456,12 +4938,10 @@ Da sie bis zu 9000001 Watt Energie speichern kann, gibt es keine praktischen Gre
   <RecordThing>
     <Key>ItemWreckageTransformerMedium1</Key>
     <Value>Wrack Transformator Medium</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageTransformerMedium2</Key>
     <Value>Wrack Transformator Medium</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageTransformerSmall1</Key>
@@ -5550,27 +5030,22 @@ Da sie bis zu 9000001 Watt Energie speichern kann, gibt es keine praktischen Gre
   <RecordThing>
     <Key>ItemWreckageCentrifuge1</Key>
     <Value>Wrack Zentrifuge</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageCentrifuge2</Key>
     <Value>Wrack Zentrifuge</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageCentrifuge3</Key>
     <Value>Wrack Zentrifuge</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageCentrifuge4</Key>
     <Value>Wrack Zentrifuge</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageCentrifuge5</Key>
     <Value>Wrack Zentrifuge</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageGasGenerator1</Key>
@@ -5671,12 +5146,10 @@ Da sie bis zu 9000001 Watt Energie speichern kann, gibt es keine praktischen Gre
   <RecordThing>
     <Key>ItemWreckageActiveVent1</Key>
     <Value>Wrack Aktive Entlüftung</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckagePassiveVent1</Key>
     <Value>Wrack Passive Entlüftung</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageCoalGenerator1</Key>
@@ -5717,127 +5190,102 @@ Da sie bis zu 9000001 Watt Energie speichern kann, gibt es keine praktischen Gre
   <RecordThing>
     <Key>ItemWreckageSDBSilo1</Key>
     <Value>Wrack SDB Silo</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageSDBSilo2</Key>
     <Value>Wrack SDB Silo</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageSDBSilo3</Key>
     <Value>Wrack SDB Silo</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageSDBSilo4</Key>
     <Value>Wrack SDB Silo</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageSDBSilo5</Key>
     <Value>Wrack SDB Silo</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageShuttleLandingPad1</Key>
     <Value>Wrack Shuttle Landeplatz</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageShuttleLandingPad2</Key>
     <Value>Wrack Shuttle Landeplatz</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageShuttleLandingPad3</Key>
     <Value>Wrack Shuttle Landeplatz</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageShuttleLandingPad4</Key>
     <Value>Wrack Shuttle Landeplatz</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageShuttleLandingPad5</Key>
     <Value>Wrack Shuttle Landeplatz</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageBlastDoor1</Key>
     <Value>Wrack Sprengtür</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageBlastDoor2</Key>
     <Value>Wrack Sprengtür</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageCompositeDoor1</Key>
     <Value>Wrack Komposit-Tür</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageCompositeDoor2</Key>
     <Value>Wrack Komposit-Tür</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageCompositeDoor3</Key>
     <Value>Wrack Komposit-Tür</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageAirlock1</Key>
     <Value>Wrack Luftschleuse</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageAirlock2</Key>
     <Value>Wrack Luftschleuse</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageCompositeDoorGlass1</Key>
     <Value>Wrack Komposit-Tür Glas</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageCompositeDoorGlass2</Key>
     <Value>Wrack Komposit-Tür Glas</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageElevatorShaftIndustrial1</Key>
     <Value>Wrack Aufzugsschacht Industrie</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageElevatorShaftIndustrial2</Key>
     <Value>Wrack Aufzugsschacht Industrie</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageElevatorShaftIndustrial3</Key>
     <Value>Wrack Aufzugsschacht Industrie</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageElevatorLevelFront1</Key>
     <Value>Wrack Aufzug Level vorne</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageElevatorLevelFront2</Key>
     <Value>Wrack Aufzug Level vorne</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitHarvie</Key>
     <Value>Kit (Automatischer Farmer)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureHarvieReversed</Key>
@@ -5852,32 +5300,26 @@ Da sie bis zu 9000001 Watt Energie speichern kann, gibt es keine praktischen Gre
   <RecordThing>
     <Key>SpecialBlocks</Key>
     <Value>Spezielle Blöcke</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureBlocker</Key>
     <Value>Blocker</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageHydroponicsTray1</Key>
     <Value>Wrack Hydroponische Schale</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>DynamicGasTankAdvanced</Key>
     <Value>Gastank Mk II</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitDynamicGasTankAdvanced</Key>
     <Value>Kit (Tragbarer Gastank Mk II)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructurePlinth</Key>
     <Value>Sockel</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>Rover_MkI</Key>
@@ -5888,7 +5330,6 @@ Eine Vierergruppe von an der Nabe montierten Elektromotoren treibt den verstärk
   <RecordThing>
     <Key>StructureSpawnPoint</Key>
     <Value>Spawn-Punkt</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>RespawnPoint</Key>
@@ -5898,77 +5339,62 @@ Eine Vierergruppe von an der Nabe montierten Elektromotoren treibt den verstärk
   <RecordThing>
     <Key>RespawnPointWallMounted</Key>
     <Value>Respawn-Punkt (montiert)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitRespawnPointWallMounted</Key>
     <Value>Kit (Respawn)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitFlagODA</Key>
     <Value>Kit (ODA-Flagge)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>Flag_ODA_10m</Key>
     <Value>Flagge (ODA 10m)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>Flag_ODA_8m</Key>
     <Value>Flagge (ODA 8m)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>Flag_ODA_6m</Key>
     <Value>Flagge (ODA 6m)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>Flag_ODA_4m</Key>
     <Value>Flagge (ODA 4m)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageStructureRTG1</Key>
     <Value>Wrack Struktur RTG</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageTurbineGenerator1</Key>
     <Value>Wrack Turbinengenerator</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageTurbineGenerator2</Key>
     <Value>Wrack Turbinengenerator</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageTurbineGenerator3</Key>
     <Value>Wrack Turbinengenerator</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageAirConditioner1</Key>
     <Value>Wrack Klimaanlage</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageAirConditioner2</Key>
     <Value>Wrack Klimaanlage</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageWallCooler1</Key>
     <Value>Wrack Wandkühler</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageWallCooler2</Key>
     <Value>Wrack Wandkühler</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitRoverMKI</Key>
@@ -5978,7 +5404,6 @@ Eine Vierergruppe von an der Nabe montierten Elektromotoren treibt den verstärk
   <RecordThing>
     <Key>Rover_MkI_build_states</Key>
     <Value>Rover MKI</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureGrowLight</Key>
@@ -5993,12 +5418,10 @@ Eine Vierergruppe von an der Nabe montierten Elektromotoren treibt den verstärk
   <RecordThing>
     <Key>StructureWeatherStation</Key>
     <Value>Wetterstation</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitWeatherStation</Key>
     <Value>Kit (Wetterstation)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitUprightWindTurbine</Key>
@@ -6039,7 +5462,6 @@ Obwohl die Windturbine so optimiert ist, dass sie auch bei niedriger Atmosphäre
   <RecordThing>
     <Key>ItemBreadLoaf</Key>
     <Value>Laib Brot</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemBiomass</Key>
@@ -6090,7 +5512,6 @@ Er kann automatisiert werden, indem du das {THING:StructureHarvie} benutzt. Beac
   <RecordThing>
     <Key>ItemAstroloySheets</Key>
     <Value>Astroloy-Platten</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemMiningBeltAdvanced</Key>
@@ -6156,67 +5577,54 @@ Obwohl die Windturbine so optimiert ist, dass sie auch auf Welten mit niedriger 
   <RecordThing>
     <Key>ItemWreckageWindTurbine001</Key>
     <Value>Wrack Windturbine</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageWindTurbine002</Key>
     <Value>Wrack Windturbine</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageWindTurbine003</Key>
     <Value>Wrack Windturbine</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageWindTurbine004</Key>
     <Value>Wrack Windturbine</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageWindTurbine005</Key>
     <Value>Wrack Windturbine</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageStructureWeatherStation001</Key>
     <Value>Wrack Struktur Wetterstation</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageStructureWeatherStation002</Key>
     <Value>Wrack Struktur Wetterstation</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageStructureWeatherStation003</Key>
     <Value>Wrack Struktur Wetterstation</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageStructureWeatherStation004</Key>
     <Value>Wrack Struktur Wetterstation</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageStructureWeatherStation005</Key>
     <Value>Wrack Struktur Wetterstation</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageStructureWeatherStation006</Key>
     <Value>Wrack Struktur Wetterstation</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageStructureWeatherStation007</Key>
     <Value>Wrack Struktur Wetterstation</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWreckageStructureWeatherStation008</Key>
     <Value>Wrack Struktur Wetterstation</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWaterBottle</Key>
@@ -6231,7 +5639,6 @@ Obwohl die Windturbine so optimiert ist, dass sie auch auf Welten mit niedriger 
   <RecordThing>
     <Key>StructureWaterBottleFiller</Key>
     <Value>Wasserflaschenfüller</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureIceCrusher</Key>
@@ -6248,7 +5655,6 @@ Wenn der KoolAuger voll ist, nimmt er kein weiteres Eis mehr an, bis der Gas- od
   <RecordThing>
     <Key>DynamicGasTankAdvancedOxygen</Key>
     <Value>Tragbarer Gastank Mk II (Sauerstoff)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>DynamicGasTankAdvancedWater</Key>
@@ -6274,7 +5680,6 @@ Die Geschwindigkeit des Wärmegewinns oder -verlusts hängt von der jeweiligen F
   <RecordThing>
     <Key>ItemKitDynamicMKIILiquidCanister</Key>
     <Value>Kit (Tragbarer Flüssigkeitstank Mk II)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>DynamicMKIILiquidCanisterWater</Key>
@@ -6284,32 +5689,26 @@ Die Geschwindigkeit des Wärmegewinns oder -verlusts hängt von der jeweiligen F
   <RecordThing>
     <Key>StructureLiquidVolumePump</Key>
     <Value>Flüssigkeitspumpe</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemLiquidPipeVolumePump</Key>
     <Value>Kit (Flüssigkeitspumpe)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitLiquidRegulator</Key>
     <Value>Kit (Flüssigkeitsregulator)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureBackLiquidPressureRegulator</Key>
     <Value>Flüssigkeitsgegendruckregulator</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureLiquidPressureRegulator</Key>
     <Value>Flüssigkeitsdruckregler</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemLiquidCanisterSmart</Key>
     <Value>Flüssigkeitskanister (Smart)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemMKIIScrewdriver</Key>
@@ -6329,7 +5728,6 @@ Die Geschwindigkeit des Wärmegewinns oder -verlusts hängt von der jeweiligen F
   <RecordThing>
     <Key>ItemMKIIArcWelder</Key>
     <Value>Mk II Lichtbogenschweißgerät</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemMKIIDrill</Key>
@@ -6360,42 +5758,34 @@ Für dich selbst benutzen: Nimm Isolierband in deine aktive Hand und halte die r
   <RecordThing>
     <Key>ItemKitWaterBottleFiller</Key>
     <Value>Kit (Wasserflaschenfüller)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureLiquidTankBig</Key>
     <Value>Flüssigkeitstank groß</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureLiquidTankSmall</Key>
     <Value>Flüssigkeitstank klein</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitLiquidTank</Key>
     <Value>Kit (Flüssigkeitstank)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitLiquidTankInsulated</Key>
     <Value>Kit (Isolierter Flüssigkeitstank)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureLiquidTankBigInsulated</Key>
     <Value>Isolierter Flüssigkeitstank groß</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureLiquidTankSmallInsulated</Key>
     <Value>Isolierter Flüssigkeitstank klein</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureModularRocketLiquidTank</Key>
     <Value>Automatisiertes Raketensilomodul für Flüssigkeiten</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureRocketModuleSilo</Key>
@@ -6437,7 +5827,6 @@ Sie hat zwei Modi - aktiv (1) und inaktiv (0), die nur ausgelöst werden sollten
   <RecordThing>
     <Key>StructureModularRocketAutonomous</Key>
     <Value>Modulares autonomes Raketenmodul</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureRocketModuleCollectorLiquid</Key>
@@ -6507,42 +5896,34 @@ Das Modul muss durch eine richtig platzierte {THING:StructureModularRocketCoupli
   <RecordThing>
     <Key>ItemWaterPipeMeter</Key>
     <Value>Kit (Flüssigkeitsrohrzähler)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWaterPipeMeter</Key>
     <Value>Flüssigkeitsrohrzähler</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWaterPipeDigitalValve</Key>
     <Value>Kit (Digitales Flüssigkeitsventil)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWaterDigitalValve</Key>
     <Value>Digitales Flüssigkeitsventil</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemWaterWallCooler</Key>
     <Value>Kit (Flüssigkeits-Wandkühler)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWaterWallCooler</Key>
     <Value>Flüssigkeits-Wandkühler</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWaterBottleFillerBottom</Key>
     <Value>Wasserflascheneinfüllstutzen unten</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemLiquidDrain</Key>
     <Value>Kit (Flüssigkeitsablass)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureLiquidDrain</Key>
@@ -6552,12 +5933,10 @@ Das Modul muss durch eine richtig platzierte {THING:StructureModularRocketCoupli
   <RecordThing>
     <Key>ItemLiquidPipeAnalyzer</Key>
     <Value>Kit (Flüssigkeitsrohranalysator)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureLiquidPipeAnalyzer</Key>
     <Value>Flüssigkeitsrohr-Analysator</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitModularRocketGasMining</Key>
@@ -6599,7 +5978,6 @@ Da der N Flow-P ein passives System ist, gleicht er den Druck in jedem einzelnen
   <RecordThing>
     <Key>StructureHeatExchangeLiquidAndGas</Key>
     <Value>Wärmeaustausch Flüssigkeit und Gas</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>LogicStepSequencer8</Key>
@@ -6631,57 +6009,46 @@ Der Step-Sequenzer, mit dem Stationeer kurze musikalische Muster oder Schleifen 
   <RecordThing>
     <Key>DeviceStepUnit</Key>
     <Value>Gerät Step-Unit</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StopWatch</Key>
     <Value>Stoppuhr</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemSoundCartridgeBass</Key>
     <Value>Tonkassette Bass</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemSoundCartridgeDrums</Key>
     <Value>Tonkassette Schlagzeug</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemSoundCartridgeLeads</Key>
     <Value>Tonkassette Leads</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemSoundCartridgeSynth</Key>
     <Value>Tonkassette Synth</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitMusicMachines</Key>
     <Value>Kit (Musikmaschinen)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemInsulatedTankConnector</Key>
     <Value>Isoliert (Tankanschluss)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureInsulatedTankConnector</Key>
     <Value>Isolierter Tankanschluss</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemInsulatedTankConnectorLiquid</Key>
     <Value>Kit (Isolierter Tankanschluss Flüssigkeit)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureInsulatedTankConnectorLiquid</Key>
     <Value>Isolierter Tankanschluss Flüssigkeit</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>DecayedFood</Key>
@@ -6713,7 +6080,6 @@ Der Step-Sequenzer, mit dem Stationeer kurze musikalische Muster oder Schleifen 
   <RecordThing>
     <Key>PassiveSpeaker</Key>
     <Value>Passiver Lautsprecher</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>DeviceLfoVolume</Key>
@@ -6764,7 +6130,6 @@ HINWEIS: Das Ändern der Stack-Größen aktualisiert NICHT die bestehenden Stack
   <RecordThing>
     <Key>ItemKitVendingMachineRefrigerated</Key>
     <Value>Kit (Verkaufsautomat gekühlt)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>SeedBag_Potato</Key>
@@ -6889,17 +6254,14 @@ Hinweis: Der Kannifizierer zeigt eine Fehlermeldung auf seinem Aktivierungsschal
   <RecordThing>
     <Key>ItemKitPlanter</Key>
     <Value>Kit (Pflanzgefäß)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureAutomatedOven</Key>
     <Value>Automatik-Ofen</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitAutomatedOven</Key>
     <Value>Kit (Automatik-Ofen)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemCannedMushroom</Key>
@@ -6914,7 +6276,6 @@ Hinweis: Der Kannifizierer zeigt eine Fehlermeldung auf seinem Aktivierungsschal
   <RecordThing>
     <Key>ItemPoweredEggs</Key>
     <Value>Eier mit Energie</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemFrenchFries</Key>
@@ -7014,52 +6375,42 @@ Hinweis: Der Kannifizierer zeigt eine Fehlermeldung auf seinem Aktivierungsschal
   <RecordThing>
     <Key>ItemKitInsulatedWaterPipe</Key>
     <Value>Isolierte Wasserleitung (Kit)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitInsulatedLiquidPipe</Key>
     <Value>Isoliertes Flüssigkeitsrohr (Kit)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>InsulatedLiquidPipeCorner</Key>
     <Value>Isoliertes Flüssigkeitsrohr Ecke</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>InsulatedLiquidPipeCrossJunction</Key>
     <Value>Isoliertes Flüssigkeitsrohr Kreuzungspunkt</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>InsulatedLiquidPipeCrossJunction3</Key>
     <Value>Isoliertes Flüssigkeitsrohr Kreuzungspunkt3</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>InsulatedLiquidPipeCrossJunction4</Key>
     <Value>Isoliertes Flüssigkeitsrohr Kreuzungspunkt4</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>InsulatedLiquidPipeCrossJunction5</Key>
     <Value>Isoliertes Flüssigkeitsrohr Kreuzungspunkt5</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>InsulatedLiquidPipeCrossJunction6</Key>
     <Value>Isoliertes Flüssigkeitsrohr Kreuzungspunkt6</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>InsulatedLiquidPipeJunction</Key>
     <Value>Isoliertes Flüssigkeitsrohr Kreuzungspunkt</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>InsulatedLiquidPipeStraight</Key>
     <Value>Isoliertes Flüssigkeitsrohr gerade</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureInsulatedPipeLiquidCorner</Key>
@@ -7303,102 +6654,82 @@ Der Sender muss auf die Basisstation ausgerichtet werden, um Energie zu übertra
   <RecordThing>
     <Key>StructureOverheadShortCornerLocker</Key>
     <Value>Überkopf-Eckspind</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureOverheadShortLocker</Key>
     <Value>Überkopf-Spind</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureShortCornerLocker</Key>
     <Value>Kurzer Eckspind</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureShortLocker</Key>
     <Value>Kurzer Spind</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureCornerLocker</Key>
     <Value>Eckschließfach</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemPlantEndothermic_Creative</Key>
     <Value>Endotherme Pflanze Kreativ</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemPlantThermogenic_Creative</Key>
     <Value>Thermogenische Anlage Kreativ</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitPowerTransmitter</Key>
     <Value>Kit (Energie-Transmitter)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureInteriorDoorTriangle</Key>
     <Value>Innentür Dreieck</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureInteriorDoorPaddedThin</Key>
     <Value>Innentür gepolstert dünn</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureInteriorDoorPadded</Key>
     <Value>Innentür gepolstert</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureInteriorDoorGlass</Key>
     <Value>Innentür Glas</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitInteriorDoors</Key>
     <Value>Kit (Innentüren)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureUnpoweredHatch</Key>
     <Value>Passive Klappe</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureManualHatch</Key>
     <Value>Manuelle Luke</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitPowerTransmitterOmni</Key>
     <Value>Kit (Energie-Sender Omni)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructurePowerTransmitterOmni</Key>
     <Value>Struktur Energie-Sender Omni</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>Battery_Wireless_cell</Key>
     <Value>Batterie Funkzelle</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>Battery_Wireless_cell_Big</Key>
     <Value>Batterie Drahtlose Zelle (groß)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>DynamicLightNetworkTest</Key>
     <Value>Dynamischer Test des Lichtnetzwerks</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitLargeExtendableRadiator</Key>
@@ -7413,17 +6744,14 @@ Der Sender muss auf die Basisstation ausgerichtet werden, um Energie zu übertra
   <RecordThing>
     <Key>ItemWreckageLargeExtendableRadiator01</Key>
     <Value>Wrack Großer ausziehbarer Heizkörper</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWaterBottleFillerPoweredBottom</Key>
     <Value>Wasserflaschenfüller</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureWaterBottleFillerPowered</Key>
     <Value>Wasserflaschenfüller</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemNitrice</Key>
@@ -7475,12 +6803,10 @@ Es ist sehr temperaturempfindlich und beginnt zu schmelzen, sobald es abgebaut w
   <RecordThing>
     <Key>ItemMiningBackPack</Key>
     <Value>Bergbau-Rucksack</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemHardMiningBackPack</Key>
     <Value>Harter Bergbau-Rucksack</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureH2Combustor</Key>
@@ -7602,7 +6928,6 @@ Wenn du Erz aus der Verbrennungszentrifuge ausstößt, während sie mit hohen Dr
   <RecordThing>
     <Key>KitStructureCombustionCentrifuge</Key>
     <Value>Kit (Verbrennungszentrifuge)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureChuteDigitalValveLeft</Key>
@@ -7648,7 +6973,6 @@ Bei den Temperatur- und Druckbereichen werden vier Gene auf demselben Widget ang
   <RecordThing>
     <Key>CartridgePlantAnalyser</Key>
     <Value>Kartuschen-Pflanzenanalysator</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>AppliancePlantGeneticStabilizer</Key>
@@ -7697,17 +7021,14 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
   <RecordThing>
     <Key>SeedBag_Switchgrass</Key>
     <Value>Switchgrass-Samen</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemPlantSwitchGrass</Key>
     <Value>Rutenhirse</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemCropHay</Key>
     <Value>Heu</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>Landingpad_GasCylinderTankPiece</Key>
@@ -7734,7 +7055,6 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
   <RecordThing>
     <Key>ItemKitSmallSatelliteDish</Key>
     <Value>Kit (kleine Satellitenschüssel)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>StructureLargeSatelliteDish</Key>
@@ -7746,17 +7066,14 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
   <RecordThing>
     <Key>ItemKitLargeSatelliteDish</Key>
     <Value>Kit (große Satellitenschüssel)</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>Landingpad_GasConnectorInwardPiece</Key>
     <Value>Landeplatz Gas-Eingang</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>Landingpad_LiquidConnectorInwardPiece</Key>
     <Value>Landeplatz Flüssigkeitseingang</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>Landingpad_2x2CenterPiece01</Key>
@@ -7766,27 +7083,22 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
   <RecordThing>
     <Key>StructureTraderWaypoint</Key>
     <Value>Struktur Händler Wegpunkt</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>Landingpad_ThreshholdPiece</Key>
     <Value>Landeplatz-Schwellenwertstück</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>Landingpad_TaxiPieceHold</Key>
     <Value>Landeplatz Taxi Halt</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>Landingpad_TaxiPieceStraight</Key>
     <Value>Landeplatz Taxi Gerade</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>Landingpad_TaxiPieceCorner</Key>
     <Value>Landeplatz Taxi Ecke</Value>
-    <Description/>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitLandingPadBasic</Key>
