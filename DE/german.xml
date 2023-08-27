@@ -7232,6 +7232,54 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
 </Things>
 <Slots>
   <Record>
+    <Key>UnitSeconds</Key>
+    <Value>{LOCAL:Value} Sekunden</Value>
+  </Record>
+  <Record>
+    <Key>UnitSecond</Key>
+    <Value>{LOCAL:Value} Sekunde</Value>
+  </Record>
+  <Record>
+    <Key>UnitMinutes</Key>
+    <Value>{LOCAL:Value} Minuten</Value>
+  </Record>
+  <Record>
+    <Key>UnitMinute</Key>
+    <Value>{LOCAL:Value} Minute</Value>
+  </Record>
+  <Record>
+    <Key>UnitHours</Key>
+    <Value>{LOCAL:Value} Stunden</Value>
+  </Record>
+  <Record>
+    <Key>UnitHour</Key>
+    <Value>{LOCAL:Value} Stunde</Value>
+  </Record>
+  <Record>
+    <Key>UnitDays</Key>
+    <Value>{LOCAL:Value} Tage</Value>
+  </Record>
+  <Record>
+    <Key>UnitDay</Key>
+    <Value>{LOCAL:Value} Tag</Value>
+  </Record>
+  <Record>
+    <Key>UnitMonths</Key>
+    <Value>{LOCAL:Value} Monate</Value>
+  </Record>
+  <Record>
+    <Key>UnitMonth</Key>
+    <Value>{LOCAL:Value} Monat</Value>
+  </Record>
+  <Record>
+    <Key>UnitYears</Key>
+    <Value>{LOCAL:Value} Jahre</Value>
+  </Record>
+  <Record>
+    <Key>UnitYear</Key>
+    <Value>{LOCAL:Value} Jahr</Value>
+  </Record>
+  <Record>
     <Key>LogicTypeRatioLiquidNitrousOxideInput</Key>
     <Value>Das Verhältnis von {GAS:LiquidNitrousOxide} in der Input-Atmosphäre des Geräts.</Value>
   </Record>
