@@ -6871,17 +6871,17 @@ Es ist sehr temperaturempfindlich und beginnt zu schmelzen, sobald es abgebaut w
   <RecordThing>
     <Key>StructureSleeperVertical</Key>
     <Value>Schlafkabine Vertikal</Value>
-    <Description>Die vertikale Variante des Schläfers. Hält Spieler hydriert und ernährt, während sie ausgeloggt sind - solange eine atembare Atmosphäre vorhanden ist.</Description>
+    <Description>Die vertikale Variante der Schlafkabine. Hält Spieler hydriert und ernährt, während sie ausgeloggt sind - solange eine atembare Atmosphäre vorhanden ist.</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureSleeperLeft</Key>
     <Value>Schlafkabine links</Value>
-    <Description>Die horizontale Variante des Schläfers. Hält die Spieler hydriert und ernährt, während sie ausgeloggt sind - solange eine atembare Atmosphäre vorhanden ist.</Description>
+    <Description>Die horizontale Variante der Schlafkabine. Hält die Spieler hydriert und ernährt, während sie ausgeloggt sind - solange eine atembare Atmosphäre vorhanden ist.</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureSleeperRight</Key>
     <Value>Schlafkabine rechts</Value>
-    <Description>Die horizontale Variante des Schläfers. Hält die Spieler hydriert und ernährt, während sie ausgeloggt sind - solange eine atembare Atmosphäre vorhanden ist.</Description>
+    <Description>Die horizontale Variante der Schlafkabine. Hält die Spieler hydriert und ernährt, während sie ausgeloggt sind - solange eine atembare Atmosphäre vorhanden ist.</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureProximitySensor</Key>
@@ -6932,12 +6932,12 @@ Wenn du Erz aus der Verbrennungszentrifuge ausstößt, während sie mit hohen Dr
   <RecordThing>
     <Key>StructureChuteDigitalValveLeft</Key>
     <Value>Digitales Ventil für Schütte links</Value>
-    <Description>Das digitale Schüttenventil stoppt den Materialfluss, wenn es geschlossen ist. Wenn es geöffnet ist, funktioniert es wie eine gerade Schütte. Das Ventil schließt sich automatisch, wenn eine bestimmte Anzahl von Gegenständen durchgelaufen ist. Diese Schlafkabine kann mit dem Drehknopf eingestellt werden.</Description>
+    <Description>Das digitale Schüttenventil stoppt den Materialfluss, wenn es geschlossen ist. Wenn es geöffnet ist, funktioniert es wie eine gerade Schütte. Das Ventil schließt sich automatisch, wenn eine bestimmte Anzahl von Gegenständen durchgelaufen ist. Dieser Schwellwert kann mit dem Drehknopf eingestellt werden.</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureChuteDigitalValveRight</Key>
     <Value>Digitales Ventil für Schütte rechts</Value>
-    <Description>Das digitale Schüttenventil stoppt den Materialfluss, wenn es geschlossen ist. Wenn es geöffnet ist, funktioniert es wie eine gerade Schütte. Das Ventil schließt sich automatisch, wenn eine bestimmte Anzahl von Gegenständen durchgelaufen ist. Diese Schlafkabine kann mit dem Drehknopf eingestellt werden.</Description>
+    <Description>Das digitale Schüttenventil stoppt den Materialfluss, wenn es geschlossen ist. Wenn es geöffnet ist, funktioniert es wie eine gerade Schütte. Das Ventil schließt sich automatisch, wenn eine bestimmte Anzahl von Gegenständen durchgelaufen ist. Dieser Schwellwert kann mit dem Drehknopf eingestellt werden.</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureChuteDigitalFlipFlopSplitterLeft</Key>
@@ -6968,7 +6968,7 @@ Einzelne Widgets für Genwerte:
 Die meisten Genwerte werden als gleitender Balken zwischen einem Mindestwert auf der linken Seite und einem Höchstwert auf der rechten Seite angezeigt. Der tatsächliche Wert des Gens steht in der Mitte des Balkens, in orange.
 
 Widgets mit mehreren Genwerten: 
-Bei den Temperatur- und Druckbereichen werden vier Gene auf demselben Widget angezeigt. Die orangefarbenen Werte unterhalb des Balkens sind die Mindest- und Höchstwerte für das Wachstum. Außerhalb dieses Bereichs hört die Pflanze auf zu wachsen und stirbt schließlich. Die blauen Werte unter dem Balken sind die Mindest- und Höchstwerte für das ideale Wachstum. Innerhalb dieses Bereichs wird die Pflanze mit maximaler Geschwindigkeit wachsen. Die weißen Werte oberhalb des Balkens sind die minimal und maximal erreichbaren Werte für die WachstumsSchlafkabine.</Description>
+Bei den Temperatur- und Druckbereichen werden vier Gene auf demselben Widget angezeigt. Die orangefarbenen Werte unterhalb des Balkens sind die Mindest- und Höchstwerte für das Wachstum. Außerhalb dieses Bereichs hört die Pflanze auf zu wachsen und stirbt schließlich. Die blauen Werte unter dem Balken sind die Mindest- und Höchstwerte für das ideale Wachstum. Innerhalb dieses Bereichs wird die Pflanze mit maximaler Geschwindigkeit wachsen. Die weißen Werte oberhalb des Balkens sind die minimal und maximal erreichbaren Werte für die Wachstumsschwellenwert.</Description>
   </RecordThing>
   <RecordThing>
     <Key>CartridgePlantAnalyser</Key>
@@ -7185,6 +7185,26 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
   </RecordThing>
 </Things>
 <Slots>
+  <Record>
+    <Key>PixelLightCount</Key>
+    <Value>Pixel Licht Anzahl</Value>
+  </Record>
+  <Record>
+    <Key>ActionWeld</Key>
+    <Value>Schweißen</Value>
+  </Record>
+  <Record>
+    <Key>CannotMergeTwoOperationalElevatorShafts</Key>
+    <Value>Zwei in Betrieb befindliche Aufzugsschächte können nicht zusammengelegt werden</Value>
+  </Record>
+  <Record>
+    <Key>LogicTypeRatioLiquidPollutantOutput</Key>
+    <Value>Das Verhältnis von {GAS:LiquidPollutant} in der Output-Atmosphäre des Geräts</Value>
+  </Record>
+  <Record>
+    <Key>LogicTypeRatioLiquidPollutantOutput2</Key>
+    <Value>Das Verhältnis von {GAS:LiquidPollutant} in der Output2-Atmosphäre des Geräts</Value>
+  </Record>
   <Record>
     <Key>FaceBlockedByStructure</Key>
     <Value>Die Platzierung wird durch &lt;color=green&gt;{LOCAL:Structure}&lt;/color&gt blockiert;</Value>
@@ -14663,11 +14683,11 @@ Dies wird &lt;color=red&gt;nur das Backup von {LOCAL:WorldSaveName}&lt;/color&gt
   </Record>
   <Record>
     <Key>CloseThreshold</Key>
-    <Value>Schlafkabinenwert schließen</Value>
+    <Value>Schwellenwert schließen</Value>
   </Record>
   <Record>
     <Key>CloseThresholdToolTip</Key>
-    <Value>Schlafkabinenwert schließen &lt;color=green&gt;{LOCAL:ThresholdValue}</Value>
+    <Value>Schwellenwert schließen &lt;color=green&gt;{LOCAL:ThresholdValue}</Value>
   </Record>
   <Record>
     <Key>CryoN2OPressureOk</Key>
@@ -16253,7 +16273,7 @@ Status: {LOCAL:StatusValue}</Value>
   </Record>
   <Record>
     <Key>ContactTradeLandingNoThreshold</Key>
-    <Value>Händlerflugzeug kann ohne Schlafkabine nicht landen</Value>
+    <Value>Händlerflugzeug kann ohne Schwellenwert nicht landen</Value>
   </Record>
   <Record>
     <Key>ToggleVisualiser</Key>
