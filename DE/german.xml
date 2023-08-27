@@ -7119,8 +7119,52 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     <Key>ItemClothingBagOveralls_Russia</Key>
     <Value>Schutzanzug (Russland)</Value>
   </RecordThing>
+  <RecordThing>
+    <Key>ApplianceBobbleHeadHardSuit</Key>
+    <Value>Wackelkopf (Hartschalenanzug)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureLowVolumePipeCrossJunction</Key>
+    <Value>Niedrigvolumiges Rohr (Kreuzung)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureLowVolumePipeCrossJunction3</Key>
+    <Value>Niedrigvolumiges Rohr (3-Wege-Kreuzung)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureLowVolumePipeCrossJunction4</Key>
+    <Value>Niedrigvolumiges Rohr (4-Wege-Kreuzung)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureLowVolumePipeCrossJunction5</Key>
+    <Value>Niedrigvolumiges Rohr (5-Wege-Kreuzung)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureLowVolumePipeCrossJunction6</Key>
+    <Value>Niedrigvolumiges Rohr (6-Wege-Kreuzung)</Value>
+  </RecordThing>
 </Things>
 <Slots>
+  <Record>
+    <Key>LogicTypeContactTypeId</Key>
+    <Value>Die Typ-ID des Kontakts</Value>
+  </Record>
+  <Record>
+    <Key>TypeOfSlot</Key>
+    <Value>Dies ist ein &lt;color=yellow&gt;{LOCAL:SlotType}&lt;/color&gt; Steckplatz.</Value>
+  </Record>
+  <Record>
+    <Key>OnlyHumansCanDragThings</Key>
+    <Value>{LOCAL:Thing} erlaubt kein Ziehen!</Value>
+  </Record>
+  <Record>
+    <Key>ButtonReCenter</Key>
+    <Value>Karte neu zentrieren</Value>
+  </Record>
+  <Record>
+    <Key>SlotOccupiedBy</Key>
+    <Value>Derzeit besetzt durch {LOCAL:DynamicThing}.</Value>
+  </Record>
     <Record>
     <Key>LogicTypeRatioLiquidNitrousOxideOutput</Key>
     <Value>Das Verhältnis von {GAS:LiquidNitrousOxide} in der Ausgangsatmosphäre des Geräts.</Value>
