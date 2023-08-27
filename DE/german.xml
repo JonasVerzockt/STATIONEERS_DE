@@ -7183,8 +7183,37 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     <Value>Großer direkter Wärmetauscher - Gas + Gas</Value>
     <Description>Direkte Wärmetauscher gleichen die Temperatur der beiden Eingangsnetze aus.</Description>
   </RecordThing>
+  <RecordThing>
+    <Key>ItemPureIceLiquidCarbonDioxide</Key>
+    <Value>Pure Ice Liquid Carbon Dioxide</Value>
+    <Description>Ein gefrorener Klumpen aus purem {GAS:LiquidCarbonDioxide}</Description>
+  </RecordThing>
 </Things>
 <Slots>
+  <Record>
+    <Key>MoleLiquidCarbonDioxideDescription</Key>
+    <Value>{GAS:CarbonDioxide} in flüssiger Form. Es kann erzeugt werden, indem die Temperatur des Gases {GAS:CarbonDioxide} unter seinen Siedepunkt gesenkt wird. Dies kann mit einem {THING:StructureHeatExchangerGastoGas} oder einem {THING:StructureAirConditioner} erreicht werden. In die Atmosphäre eingeleitetes {GAS:LiquidCarbonDioxide} verdampft schnell wieder zu {GAS:CarbonDioxide}.</Value>
+  </Record>
+  <Record>
+    <Key>LogicTypeRatioLiquidCarbonDioxideInput2</Key>
+    <Value>Das Verhältnis von {GAS:LiquidCarbonDioxide} in der Input2-Atmosphäre des Geräts.</Value>
+  </Record>
+  <Record>
+    <Key>LogicTypeRatioLiquidCarbonDioxide</Key>
+    <Value>Das Verhältnis von {GAS:LiquidCarbonDioxide} in der Atmosphäre des Geräts.</Value>
+  </Record>
+  <Record>
+    <Key>LogicTypeRatioLiquidCarbonDioxideOutput</Key>
+    <Value>Das Verhältnis von {GAS:LiquidCarbonDioxide} in der Ausgangsatmosphäre des Geräts.</Value>
+  </Record>
+  <Record>
+    <Key>LiquidCarbonDioxide</Key>
+    <Value>Flüssiges Kohlendioxid</Value>
+  </Record>
+  <Record>
+    <Key>TraderCrashedEvent</Key>
+    <Value>Der Händler {LOCAL:Name} ist an der Position {LOCAL:Position} in {LOCAL:Collision} gestürzt.</Value>
+  </Record>
   <Record>
     <Key>PixelLightCount</Key>
     <Value>Pixel Licht Anzahl</Value>
