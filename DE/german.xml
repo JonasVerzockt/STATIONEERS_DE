@@ -5713,7 +5713,7 @@ Die Geschwindigkeit des Wärmegewinns oder -verlusts hängt von der jeweiligen F
   <RecordThing>
     <Key>ItemMKIIScrewdriver</Key>
     <Value>Mk II Schraubendreher</Value>
-    <Description>Dieser Standard-Klemmschraubendreher ist ein hochwertiges, bi-rotierendes Modell mit einer Reihe von Unigriffen. Er ist definitiv nicht nur ein Schraubenzieher. Benutze ihn für den Auf- und Abbau bestimmter Kits und zum Einstellen von Werten an {LINK:LogicUnitPage;logic} Einheiten. Der MK II ist widerstandsfähiger gegen Temperatur und Druck.</Description>
+    <Description>Dieser Standard-Klemmschraubendreher ist ein hochwertiges, bi-rotierendes Modell mit einer Reihe von Unigriffen. Er ist definitiv nicht nur ein Schraubendreher. Benutze ihn für den Auf- und Abbau bestimmter Kits und zum Einstellen von Werten an {LINK:LogicUnitPage;logic} Einheiten. Der MK II ist widerstandsfähiger gegen Temperatur und Druck.</Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemMKIIAngleGrinder</Key>
@@ -5990,7 +5990,7 @@ Der Step-Sequenzer, mit dem Stationeer kurze musikalische Muster oder Schleifen 
 
 1: Schließe 8 {THING: DeviceStepUnit}s über den Datenanschluss auf der linken Seite an deinen Step-Sequenzer an.
 
-2: Beschrifte jede Step-Unit und weise die Step-Units 1 bis 8 am Step-Sequenzer mit dem Schraubenzieher zu.
+2: Beschrifte jede Step-Unit und weise die Step-Units 1 bis 8 am Step-Sequenzer mit dem Schraubendreher zu.
 
 3: Wähle den Ausgabe-Lautsprecher (z.B. {THING:PassiveSpeaker}), über den der Sequenzer die Sounds abspielen soll. Dieser muss mit dem logischen Netzwerk auf der rechten Seite des Sequenzers verbunden werden.
 
@@ -15903,11 +15903,11 @@ Status: {LOCAL:StatusValue}</Value>
   </Record>
   <Record>
     <Key>RequiresScrewdriver</Key>
-    <Value>Erfordert einen Schraubenzieher</Value>
+    <Value>Erfordert einen Schraubendreher</Value>
   </Record>
   <Record>
     <Key>RequiresScrewdriverOrLabeler</Key>
-    <Value>Du brauchst einen Schraubenzieher oder Etikettierer, um die Einstellungen zu ändern</Value>
+    <Value>Du brauchst einen Schraubendreher oder Etikettierer, um die Einstellungen zu ändern</Value>
   </Record>
   <Record>
     <Key>NoAudioReceiverDevices</Key>

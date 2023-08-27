@@ -135,7 +135,7 @@
 
         1: Schließe 8 {THING:DeviceStepUnit}s über den Datenanschluss auf der linken Seite an deinen Stepsequenzer an.
 
-        2: Beschrifte jede Step-Unit und weise dann die Step-Units 1 bis 8 mit dem Schraubenzieher auf dem Step-Sequenzer zu.
+        2: Beschrifte jede Step-Unit und weise dann die Step-Units 1 bis 8 mit dem Schraubendreher auf dem Step-Sequenzer zu.
 
         3: Wähle den Ausgangslautsprecher (z.B. {THING:PassiveSpeaker}), über den der Sequenzer die Sounds abspielen soll. Dieser muss mit dem Logiknetzwerk auf der rechten Seite des Sequenzers verbunden werden.
 
