@@ -7301,7 +7301,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
   </Record>
   <Record>
     <Key>FaceBlockedByStructure</Key>
-    <Value>Die Platzierung wird durch &lt;color=green&gt;{LOCAL:Structure}&lt;/color&gt blockiert;</Value>
+    <Value>Die Platzierung wird durch {LOCAL:Structure} blockiert</Value>
   </Record>
   <Record>
     <Key>ActionFixLeak</Key>
@@ -7357,7 +7357,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
   </Record>
   <Record>
     <Key>DoorIsWelded</Key>
-    <Value>Das {LOCAL:Thing} kann nicht betrieben werden, solange es &lt;color=yellow&gt;geschweißt&lt;/color&gt ist;</Value>
+    <Value>Das {LOCAL:Thing} kann nicht betrieben werden, solange es geschweißt ist</Value>
   </Record>
   <Record>
     <Key>EvaporationChamberGasConnection</Key>
