@@ -7188,8 +7188,73 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     <Value>Pure Ice Liquid Carbon Dioxide</Value>
     <Description>Ein gefrorener Klumpen aus purem {GAS:LiquidCarbonDioxide}</Description>
   </RecordThing>
+  <RecordThing>
+    <Key>StructureDuctCorner</Key>
+    <Value>Duct Corner</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureDuctCrossJunction</Key>
+    <Value>Duct Cross Junction</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureDuctCrossJunction3</Key>
+    <Value>Duct Cross Junction3</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureDuctCrossJunction4</Key>
+    <Value>Duct Cross Junction4</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureDuctCrossJunction5</Key>
+    <Value>Duct Cross Junction5</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureDuctCrossJunction6</Key>
+    <Value>Duct Cross Junction6</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureDuctStraight</Key>
+    <Value>Duct Straight</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureDuctTJunction</Key>
+    <Value>Duct T Junction</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureSphericalTank</Key>
+    <Value>Struktur Kugeltank</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemPipeCowl</Key>
+    <Value>Rohrkutte</Value>
+    <Description>Dies erzeugt eine {THING:ItemPipeCowl}, die auf das Ende von Rohren gesetzt werden kann, um sie der Weltatmosphäre auszusetzen.</Description>
+  </RecordThing>
 </Things>
 <Slots>
+  <Record>
+    <Key>LogicTypeRatioLiquidNitrousOxideInput</Key>
+    <Value>Das Verhältnis von {GAS:LiquidNitrousOxide} in der Input-Atmosphäre des Geräts.</Value>
+  </Record>
+  <Record>
+    <Key>LogicTypeRatioLiquidNitrousOxideInput2</Key>
+    <Value>Das Verhältnis von {GAS:LiquidNitrousOxide} in der Input2-Atmosphäre des Geräts.</Value>
+  </Record>
+  <Record>
+    <Key>UnitWeeks</Key>
+    <Value>{LOCAL:Value} Wochen</Value>
+  </Record>
+  <Record>
+    <Key>UnitWeek</Key>
+    <Value>{LOCAL:Value} Woche</Value>
+  </Record>
+  <Record>
+    <Key>DoNothing</Key>
+    <Value>Nichts tun</Value>
+  </Record>
+  <Record>
+    <Key>StationpediaConnectionsHeader</Key>
+    <Value>Verbindungen</Value>
+  </Record>
   <Record>
     <Key>MoleLiquidCarbonDioxideDescription</Key>
     <Value>{GAS:CarbonDioxide} in flüssiger Form. Es kann erzeugt werden, indem die Temperatur des Gases {GAS:CarbonDioxide} unter seinen Siedepunkt gesenkt wird. Dies kann mit einem {THING:StructureHeatExchangerGastoGas} oder einem {THING:StructureAirConditioner} erreicht werden. In die Atmosphäre eingeleitetes {GAS:LiquidCarbonDioxide} verdampft schnell wieder zu {GAS:CarbonDioxide}.</Value>
