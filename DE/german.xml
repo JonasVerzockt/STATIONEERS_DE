@@ -7143,8 +7143,112 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     <Key>StructureLowVolumePipeCrossJunction6</Key>
     <Value>Niedrigvolumiges Rohr (6-Wege-Kreuzung)</Value>
   </RecordThing>
+  <RecordThing>
+    <Key>StructureExpansionValve</Key>
+    <Value>Expansionsventil</Value>
+    <Description>Ermöglicht den Übergang von Flüssigkeiten aus einer Flüssigkeitsleitung in eine Gasleitung. Erlaubt den Durchfluss von Flüssigkeiten nur in eine Richtung. Dies geschieht in der Regel, damit die Flüssigkeit als Teil eines Klimatisierungskreislaufs in ein Gas verdampfen kann.</Description>
+  </RecordThing>
+  <RecordThing>
+	<Key>ItemKitPassthroughHeatExchanger</Key>
+    <Value>Kit (Gegenstromwärmetauscher)</Value>
+    <Description />
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemKitLargeDirectHeatExchanger</Key>
+    <Value>Kit (Großer direkter Wärmetauscher)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureSmallDirectHeatExchangeLiquidtoLiquid</Key>
+    <Value>Kleiner direkter Wärmetauscher - Flüssigkeit + Flüssigkeit</Value>
+    <Description>Direkte Wärmetauscher gleichen die Temperatur der beiden Eingangsnetze aus.</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureBench1</Key>
+    <Value>Werkbank (Thekenstil)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureBench2</Key>
+    <Value>Werkbank (Hightech-Stil)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureBench3</Key>
+    <Value>Werkbank (Rahmen-Stil)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureBench4</Key>
+    <Value>Werkbank (Werkbankstil)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureLargeDirectHeatExchangeGastoGas</Key>
+    <Value>Großer direkter Wärmetauscher - Gas + Gas</Value>
+    <Description>Direkte Wärmetauscher gleichen die Temperatur der beiden Eingangsnetze aus.</Description>
+  </RecordThing>
 </Things>
 <Slots>
+  <Record>
+    <Key>FaceBlockedByStructure</Key>
+    <Value>Die Platzierung wird durch &lt;color=green&gt;{LOCAL:Structure}&lt;/color&gt blockiert;</Value>
+  </Record>
+  <Record>
+    <Key>ActionFixLeak</Key>
+    <Value>Leck beheben</Value>
+  </Record>
+  <Record>
+    <Key>ScriptDescriptionSrl</Key>
+    <Value>Führt eine bitweise logische Rechtsverschiebung an der binären Darstellung eines Wertes durch. Sie verschiebt die Bits nach rechts und füllt die frei gewordenen Bits ganz links mit Nullen auf.</Value>
+  </Record>
+  <Record>
+    <Key>ScriptDescriptionSra</Key>
+    <Value>Führt eine bitweise arithmetische Rechtsverschiebungsoperation an der binären Darstellung eines Wertes durch. Sie verschiebt die Bits nach rechts und füllt die frei gewordenen Bits ganz links mit einer Kopie des Vorzeichenbits (dem höchstwertigen Bit).</Value>
+  </Record>
+  <Record>
+    <Key>ScriptDescriptionSll</Key>
+    <Value>Führt eine bitweise logische Linksverschiebung an der binären Darstellung eines Wertes durch. Sie verschiebt die Bits nach links und füllt die freigewordenen Bits ganz rechts mit Nullen auf.</Value>
+  </Record>
+  <Record>
+    <Key>ScriptDescriptionSla</Key>
+    <Value>Führt eine bitweise arithmetische Linksverschiebungsoperation an der binären Darstellung eines Wertes durch. Sie verschiebt die Bits nach links und füllt die freigewordenen Bits ganz rechts mit einer Kopie des Vorzeichenbits (dem höchstwertigen Bit).</Value>
+  </Record>
+  <Record>
+    <Key>ScriptDescriptionNot</Key>
+    <Value>Führt eine bitweise logische NICHT-Operation durch, bei der jedes Bit des Eingabewerts umgedreht wird, so dass ein Binärkomplement entsteht. Wenn ein Bit 1 ist, wird es zu 0, und wenn ein Bit 0 ist, wird es zu 1.</Value>
+  </Record>
+  <Record>
+    <Key>ScriptDescriptionAnd</Key>
+    <Value>Führt eine bitweise logische UND-Verknüpfung der binären Darstellung von zwei Werten durch. Jedes Bit des Ergebnisses wird durch Auswertung der entsprechenden Bits der Eingangswerte bestimmt. Wenn beide Bits 1 sind, wird das resultierende Bit auf 1 gesetzt. Andernfalls wird das resultierende Bit auf 0 gesetzt.</Value>
+  </Record>
+  <Record>
+    <Key>ScriptDescriptionOr</Key>
+    <Value>Führt eine bitweise logische ODER-Verknüpfung der binären Darstellung von zwei Werten durch. Jedes Bit des Ergebnisses wird durch Auswertung der entsprechenden Bits der Eingangswerte bestimmt. Wenn eines der beiden Bits 1 ist, wird das resultierende Bit auf 1 gesetzt, wenn beide Bits 0 sind, wird das resultierende Bit auf 0 gesetzt.</Value>
+  </Record>
+  <Record>
+    <Key>ScriptDescriptionXor</Key>
+    <Value>Führt eine bitweise logische XOR-Operation (exklusives ODER) an der binären Darstellung zweier Werte durch. Jedes Bit des Ergebnisses wird durch Auswertung der entsprechenden Bits der Eingangswerte bestimmt. Wenn die Bits unterschiedlich sind (ein Bit ist 0 und das andere ist 1), wird das resultierende Bit auf 1 gesetzt. Wenn die Bits gleich sind (beide 0 oder beide 1), wird das resultierende Bit auf 0 gesetzt.</Value>
+  </Record>
+  <Record>
+    <Key>ScriptDescriptionNor</Key>
+    <Value>Führt eine bitweise logische NOR (NOT OR)-Operation an der binären Darstellung von zwei Werten durch. Jedes Bit des Ergebnisses wird durch Auswertung der entsprechenden Bits der Eingangswerte bestimmt. Wenn beide Bits 0 sind, wird das Ergebnisbit auf 1 gesetzt. Andernfalls, wenn mindestens ein Bit 1 ist, wird das resultierende Bit auf 0 gesetzt.</Value>
+  </Record>
+  <Record>
+    <Key>ScriptDescriptionSbn</Key>
+    <Value>Speichert den Registerwert LogicType auf allen Ausgangsnetzgeräten mit dem angegebenen Typ-Hash und Namen.</Value>
+  </Record>
+  <Record>
+    <Key>MergeRequiresTool</Key>
+    <Value>Zusammenführen erfordert &lt;color=green&gt;{LOCAL:Tool}&lt;/color&gt; in der anderen Hand</Value>
+  </Record>
+  <Record>
+    <Key>ProcessedMoles</Key>
+    <Value>Verarbeitete Mole {LOCAL:Moles} moles</Value>
+  </Record>
+  <Record>
+    <Key>DoorIsWelded</Key>
+    <Value>Das {LOCAL:Thing} kann nicht betrieben werden, solange es &lt;color=yellow&gt;geschweißt&lt;/color&gt ist;</Value>
+  </Record>
+  <Record>
+    <Key>EvaporationChamberGasConnection</Key>
+    <Value>Anschluss Gasausgang</Value>
+  </Record>
   <Record>
     <Key>LogicTypeContactTypeId</Key>
     <Value>Die Typ-ID des Kontakts</Value>
@@ -7179,7 +7283,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
   </Record>
   <Record>
     <Key>PowerControlSetTo</Key>
-    <Value>Set &lt;b&gt;{LOCAL:Category}&lt;/b&gt; {LOCAL:OnState}</Value>
+    <Value>Einstellung &lt;b&gt;{LOCAL:Category}&lt;/b&gt; {LOCAL:OnState}</Value>
   </Record>
   <Record>
     <Key>Output</Key>
