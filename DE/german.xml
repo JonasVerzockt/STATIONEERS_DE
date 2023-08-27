@@ -7115,8 +7115,28 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     <Value>Kit (Landeplatz Landebahn)</Value>
     <Description>Teile, die den Anflug des Händlers auf den Landeplatz steuern und den Bau von Landebahnen ermöglichen.</Description>
   </RecordThing>
+  <RecordThing>
+    <Key>ItemClothingBagOveralls_Russia</Key>
+    <Value>Schutzanzug (Russland)</Value>
+  </RecordThing>
 </Things>
 <Slots>
+    <Record>
+    <Key>LogicTypeRatioLiquidNitrousOxideOutput</Key>
+    <Value>Das Verhältnis von {GAS:LiquidNitrousOxide} in der Ausgangsatmosphäre des Geräts.</Value>
+  </Record>
+  <Record>
+    <Key>LogicTypeRatioLiquidNitrousOxideOutput2</Key>
+    <Value>Das Verhältnis von {GAS:LiquidNitrousOxide} in der Output2-Atmosphäre des Geräts.</Value>
+  </Record>
+  <Record>
+    <Key>CartridgeAtmosAnalyserLiquidTitle</Key>
+    <Value>FLÜSSIGKEIT</Value>
+  </Record>
+  <Record>
+    <Key>PowerControlSetTo</Key>
+    <Value>Set &lt;b&gt;{LOCAL:Category}&lt;/b&gt; {LOCAL:OnState}</Value>
+  </Record>
   <Record>
     <Key>Output</Key>
     <Value>Ausgabe</Value>
