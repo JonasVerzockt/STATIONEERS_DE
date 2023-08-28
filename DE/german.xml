@@ -2864,7 +2864,7 @@ Beachte, dass Transformatoren als Datenisolatoren funktionieren und verhindern, 
   <RecordThing>
     <Key>StructureRecycler</Key>
     <Value>Recycler</Value>
-    <Description>Ein Gerät zum Sammeln von Rohstoffen bei der Zerstörung eines Gegenstandes. Produziert {THING:ItemReagentMix} mit Paketen von Reagenzien. Lasse diese durch die {THING:StructureCentrifuge} laufen, um die Ausgangserze zurückzugewinnen. Pflanzen und organische Stoffe erzeugen Biomasse, die, wenn sie durch die {THING:StructureCentrifuge} geleitet werden, {THING:ItemBiomass} produzieren.</Description>
+    <Description>Ein Gerät zum Sammeln von Rohstoffen bei der Zerstörung eines Gegenstandes. Produziert {THING:ItemReagentMix} mit Paketen von Reagenzien. Lasse diese durch die {THING:StructureCentrifuge} laufen, um die Ausgangserze zurückzugewinnen. Pflanzen und organische Stoffe erzeugen Biomasse, die, wenn sie durch die {THING:StructureCentrifuge} geleitet werden, {THING:ItemBiomass} produzieren. Vielleicht keine vollen Werkzeuggürtel reinwerfen. Außer man will sie wirklich zerstören!</Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitRecycler</Key>
@@ -3780,7 +3780,7 @@ Ausgabe = 1 Export der Gegenstände im Inneren und schließlich des Hauptgegenst
   <RecordThing>
     <Key>ItemMushroom</Key>
     <Value>Pilz</Value>
-    <Description>Ein unschmackhaftes Nahrungsmittel. Anders als normale Pflanzen verbraucht es {GAS:Oxygen} und gibt {GAS:CarbonDioxide} aus. Pilze reifen nur mäßig schnell in der Dunkelheit, und langes Licht tötet sie.</Description>
+    <Description>Ein unschmackhaftes Nahrungsmittel. Anders als normale Pflanzen verbraucht es {GAS:Oxygen} und gibt {GAS:CarbonDioxide} aus. Pilze reifen nur mäßig schnell in der Dunkelheit, und langes Licht tötet sie. NEIN KONNY, NUR PILZE ESSEN IST KEINE AUSGEWOGENE ERNÄHRUNG</Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemPumpkin</Key>
@@ -6266,7 +6266,7 @@ Hinweis: Der Kannifizierer zeigt eine Fehlermeldung auf seinem Aktivierungsschal
   <RecordThing>
     <Key>ItemCannedMushroom</Key>
     <Value>Dosenpilze</Value>
-    <Description>Hergestellt in einer {THING:StructureAdvancedPackagingMachine} oder {THING:AppliancePackagingMachine}, unter Verwendung von {THING:ItemCookedMushroom} und einer {THING:ItemEmptyCan}, ist die unleckere Pilzsuppe ziemlich nahrhaft und {LINK:DecayPage;decay} nicht.</Description>
+    <Description>Hergestellt in einer {THING:StructureAdvancedPackagingMachine} oder {THING:AppliancePackagingMachine}, unter Verwendung von {THING:ItemCookedMushroom} und einer {THING:ItemEmptyCan}, ist die unleckere Pilzsuppe ziemlich nahrhaft und {LINK:DecayPage;decay} nicht. NEIN KONNY, NUR PILZE ESSEN IST KEINE AUSGEWOGENE ERNÄHRUNG</Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemPowderedeggs</Key>
@@ -6340,7 +6340,7 @@ Hinweis: Der Kannifizierer zeigt eine Fehlermeldung auf seinem Aktivierungsschal
   <RecordThing>
     <Key>ItemCookedMushroom</Key>
     <Value>Gekochte Pilze</Value>
-    <Description>Ein nährstoffreiches gekochtes Essen, das in Dosen abgefüllt werden kann.</Description>
+    <Description>Ein nährstoffreiches gekochtes Essen, das in Dosen abgefüllt werden kann. NEIN KONNY, NUR PILZE ESSEN IST KEINE AUSGEWOGENE ERNÄHRUNG</Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemCookedPowderedEggs</Key>
@@ -7519,7 +7519,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
   </Record>
   <Record>
     <Key>PipeContentTypeIncorrect</Key>
-    <Value>Der Inhaltstyp des Rohrs stimmt nicht mit dem Inhaltstyp von &lt;color=green&gt;{LOCAL:DevicePipeMounted}&lt;/color&g;</Value>
+    <Value>Der Inhaltstyp des Rohrs stimmt nicht mit dem Inhaltstyp von {LOCAL:DevicePipeMounted}</Value>
   </Record>
   <Record>
     <Key>LogicTypeRatioLiquidCarbonDioxideOutput2</Key>
@@ -7615,7 +7615,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
   </Record>
   <Record>
     <Key>PressureSafteySetTo</Key>
-    <Value>Die &lt;color=green&gt;{LOCAL:Location} Sicherheit&lt;/color&gt; ist auf &lt;color=yellow&gt;{LOCAL:Value}&lt;/color&gt eingestellt;</Value>
+    <Value>Die {LOCAL:Location} Sicherheit ist auf {LOCAL:Value} eingestellt</Value>
   </Record>
   <Record>
     <Key>CartridgeAtmosAnalyserCapacityTitle</Key>
