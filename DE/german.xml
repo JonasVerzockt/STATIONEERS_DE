@@ -7360,8 +7360,331 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     <Value>Treppenhaus Unten</Value>
     <Description>Ein in sich geschlossenes Treppenhaus mit 3x1 Stufen und einer Tür.</Description>
   </RecordThing>
+  <RecordThing>
+    <Key>ItemSprayGun</Key>
+    <Value>Sprühpistole</Value>
+    <Description>Verwenden Sie die Sprühdosen im {SLOT:SprayCan}, um Strukturen, Kabel und Rohre zu lackieren. Viel effizienter und schneller als mit einzelnen Sprühdosen.</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemGasFilterVolatilesInfinite</Key>
+    <Value>Filter für flüchtige Stoffe (Volatiles)</Value>
+    <Description>Ein Filter, der selektiv auf flüchtige Stoffe abzielt. Er nutzt interne Druckunterschiede, um einen einzigartigen Phasenwechselkatalysator zu regenerieren, was ihm einen unbegrenzten Lebenszyklus verleiht.</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureWallVent</Key>
+    <Value>Wandlüfter</Value>
+    <Description>Wird verwendet, um Atmosphären passiv zwischen zwei Wänden zu mischen.</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemGasFilterNitrogenInfinite</Key>
+    <Value>Filter für Stickstoff</Value>
+    <Description>Ein Filter, der selektiv auf Stickstoff wirkt. Er nutzt interne Druckunterschiede, um einen einzigartigen Phasenwechselkatalysator zu regenerieren, was ihm eine unbegrenzte Lebensdauer verleiht.</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>LiquidRocketEngineBasic</Key>
+    <Value>Flüssigkeitsraketentriebwerk Basic</Value>
+    <Description>Ein kleines flüssigkeitsbetriebenes Raketentriebwerk mit einer elektrischen Turbopumpe. Die Flüssigkeitszufuhr sollte mit einem Treibstoffgemisch aus flüchtigen Stoffen und Sauerstoff versorgt werden. Es hat einen Schubbereich von etwa 6kN bis 30kN und eine erwartete Isp von 230s (Ausstoßgeschwindigkeit: 2,2km/s).</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemKitSmallDirectHeatExchanger</Key>
+    <Value>Bausatz (Kleiner direkter Wärmetauscher)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureLowVolumePipeTJunction</Key>
+    <Value>Rohr mit geringem Volumen (T-Kreuzung)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemClothingBagOveralls_Germany</Key>
+    <Value>Overall (Deutsch)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemKitLowVolumePipes</Key>
+    <Value>Bausatz (Rohr mit geringem Volumen)</Value>
+    <Description />
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureLowVolumePipeCrossJunction6</Key>
+    <Value>Niedrigvolumige Rohre (6-Wege-Kreuzung)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemClothingBagOveralls_UK</Key>
+    <Value>Overalls (UK)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureInLineTankGas1x1</Key>
+    <Value>Kleiner In-Line Gastank</Value>
+    <Description>Ein kleiner Gastank, das das Volumen eines Rohrnetzes vergrößert.</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemKitEvaporationChamber</Key>
+    <Value>Bausatz (Phasenwechselgerät)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemKitDuct</Key>
+    <Value>Kit (Duct)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>ToyLuna</Key>
+    <Value>Spielzeug Mond</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemGasFilterNitrousOxideInfinite</Key>
+    <Value>Catalytic Filter (Nitrous Oxide)</Value>
+    <Description>Ein Filter, der selektiv auf Distickstoffoxid abzielt. Er nutzt interne Druckunterschiede, um einen einzigartigen Phasenwechselkatalysator zu regenerieren, was ihm eine unbegrenzte Lebensdauer verleiht.</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemClothingBagOveralls_Japan</Key>
+    <Value>Overall (Japan)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureLowVolumeLiquidPipeCrossJunction4</Key>
+    <Value>Flüssigkeitsleitung mit geringem Volumen (4-Wege-Verzweigung)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructurePassiveLiquidDrain</Key>
+    <Value>Passiver Flüssigkeitsabfluss</Value>
+    <Description>Transportiert Flüssigkeiten aus einem Rohrnetz in die Atmosphäre.</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureSleeperVerticalDroid</Key>
+    <Value>Droidenladegerät vertikal</Value>
+    <Description>Der Droidenlader lädt Roboterbatterien und die Batterien des Anzugs auf, falls vorhanden. Diese Variante ist nur für Roboter sicher. Wenn Sie ihn als Nicht-Roboter-Charakter betreten, erleiden Sie Schaden.</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructurePassthroughHeatExchangerGasToLiquid</Key>
+    <Value>Gegenflusswärmetauscher - Gas + Flüssigkeit</Value>
+    <Description>Wärmeaustausch von einem Rohrnetz zum anderen. Indem der Druck der Ausgänge mit einer Pumpe oder einem Regler gesenkt und die Eingangsdrücke reguliert werden, können die Temperaturen zweier gegenläufiger Netze effektiv ausgetauscht werden. Der Ausgleich des Durchsatzes beider Eingänge ist der Schlüssel für einen guten Temperaturaustausch.</Description>
+  </RecordThing>
 </Things>
 <Slots>
+  <Record>
+    <Key>ElevatorShaftRotationFail</Key>
+    <Value>Alle Gebäudeteile des Fahrstuhls müssen in die gleiche Richtung gedreht werden.</Value>
+  </Record>
+  <Record>
+    <Key>MoleSteamDescription</Key>
+    <Value>Verdampftes {GAS:Wasser}. Er kann durch Erhöhen der Temperatur von {GAS:Wasser} auf seinen Siedepunkt erzeugt werden. Wenn {GAS:Dampf} in eine Leitung eingeleitet wird, kondensiert er wieder zu {GAS:Wasser}, wenn seine Temperatur unter dem Siedepunkt liegt. Dampf kann durch Verbrennung von {GAS:Volatiles} und Sauerstoff mit dem {THING:H2Combustor} erzeugt werden.</Value>
+  </Record>
+  <Record>
+    <Key>LiquidVolatiles</Key>
+    <Value>Flüssige flüchtige Stoffe</Value>
+  </Record>
+  <Record>
+    <Key>StateChangePopup</Key>
+    <Value>Gas-zu-Flüssig-Zustandsänderung: Dieser Spielstand stammt aus Version 0.2.4120.19431 oder älter und ist möglicherweise nicht mit dem neuen System zur Änderung des atmosphärischen Zustands kompatibel. Möchten Sie, dass Stationeers versucht, den Inhalt der atmosphärischen Netze im geladenen Spiel zu ändern, um sofortige Explosionen und Überdruckereignisse aufgrund der Änderung des Flüssiggaszustands zu verhindern? (einige Gase/Flüssigkeiten könnten durch diesen Prozess gelöscht und/oder in ihrer Temperatur verändert werden)</Value>
+  </Record>
+  <Record>
+    <Key>StateChangePopup</Key>
+    <Value>Zustandsänderung: Möchten Sie, dass Stationeers versucht, den Inhalt der atmosphärischen Netze im geladenen Spiel zu ändern, um sofortige Explosionen und Überdruckereignisse aufgrund von Flüssiggas-Festkörper-Zustandsänderungen zu verhindern?</Value>
+  </Record>
+  <Record>
+    <Key>RequiredUpgradeDevice</Key>
+    <Value>required to &lt;color=yellow&gt;upgrade the device&lt;/color&gt;</Value>
+  </Record>
+  <Record>
+    <Key>ScriptDescriptionNor</Key>
+    <Value>Führt eine bitweise logische NOR (NOT OR)-Operation an der binären Darstellung von zwei Werten durch. Jedes Bit des Ergebnisses wird durch Auswertung der entsprechenden Bits der Eingangswerte bestimmt. Wenn beide Bits 0 sind, wird das Ergebnisbit auf 1 gesetzt. Andernfalls, wenn mindestens ein Bit 1 ist, wird das resultierende Bit auf 0 gesetzt.</Value>
+  </Record>
+  <Record>
+    <Key>ThingWillDecayIn</Key>
+    <Value>Zerfällt vollständig in &lt;color=yellow&gt;{0}&lt;/color&gt;</Value>
+  </Record>
+  <Record>
+    <Key>LogicTypeRatioLiquidNitrogenInput2</Key>
+    <Value>Das Verhältnis von {GAS:Flüssigstickstoff} im Input2-Netzwerk des Gerät</Value>
+  </Record>
+  <Record>
+    <Key>BoilingTemperature</Key>
+    <Value>Siedetemperatur:</Value>
+  </Record>
+  <Record>
+    <Key>ButtonRocket</Key>
+    <Value>Rakete</Value>
+  </Record>
+  <Record>
+    <Key>ItemInSlotStack</Key>
+    <Value>Stapel von &lt;color=yellow&gt;{LOCAL:StackSize}&lt;/color&gt; x {LOCAL:Thing}</Value>
+  </Record>
+  <Record>
+    <Key>FullyCharged</Key>
+    <Value>Vollständig aufgeladen</Value>
+  </Record>
+  <Record>
+    <Key>LogicTypeRatioLiquidOxygenOutput</Key>
+    <Value>Das Verhältnis von {GAS:Flüssigsauerstoff} in der Ausgangsatmosphäre des Geräts des Geräts</Value>
+  </Record>
+  <Record>
+    <Key>LiquidStress</Key>
+    <Value>Flüssige Belastung: </Value>
+  </Record>
+  <Record>
+    <Key>PipeContentTypeIncorrect</Key>
+    <Value>Der Inhaltstyp des Rohrs stimmt nicht mit dem Inhaltstyp von &lt;color=green&gt;{LOCAL:DevicePipeMounted}&lt;/color&g;</Value>
+  </Record>
+  <Record>
+    <Key>LogicTypeRatioLiquidCarbonDioxideOutput2</Key>
+    <Value>Das Verhältnis von {GAS:FlüssigKohlenstoffdioxid} in der Output2-Atmosphäre des Geräts</Value>
+  </Record>
+  <Record>
+    <Key>UnitDay</Key>
+    <Value>{LOCAL:Value} Tag</Value>
+  </Record>
+  <Record>
+    <Key>ItemInSlotValue</Key>
+    <Value>Das {LOCAL:Thing} ist bei &lt;color=yellow&gt;{LOCAL:Value}&lt;/color&gt;</Value>
+  </Record>
+  <Record>
+    <Key>PipeLiquid</Key>
+    <Value>Rohre Flüssigkeit</Value>
+  </Record>
+  <Record>
+    <Key>StationpediaTypeName</Key>
+    <Value>Type Name:</Value>
+  </Record>
+  <Record>
+    <Key>ToxicLiquidsInPipe</Key>
+    <Value>&lt;color=red&gt;Error!&lt;/color&gt; Giftstoffe im Rohrleitungsnetz</Value>
+  </Record>
+  <Record>
+    <Key>UnitMonth</Key>
+    <Value>{LOCAL:Value} Monat</Value>
+  </Record>
+  <Record>
+    <Key>LogicTypeRatioLiquidCarbonDioxideInput</Key>
+    <Value>Das Verhältnis von {GAS:FlüssigKohlenstoffdioxid} in der Eingangsatmosphäre des Gerät</Value>
+  </Record>
+  <Record>
+    <Key>LogicTypeRatioLiquidNitrousOxide</Key>
+    <Value>Das Verhältnis von {GAS:LiquidNitrousOxide} in der Atmosphäre des Gerätes</Value>
+  </Record>
+  <Record>
+    <Key>CondensationInGasPipe</Key>
+    <Value>Kondensation in der Rohrleitung</Value>
+  </Record>
+  <Record>
+    <Key>CannotPlaceOnCommandModule</Key>
+    <Value>Dieses Raketenteil kann nicht über einem Kommandomodulteil platziert werden</Value>
+  </Record>
+  <Record>
+    <Key>Repair</Key>
+    <Value>Reparatur</Value>
+  </Record>
+  <Record>
+    <Key>Steam</Key>
+    <Value>Dampf</Value>
+  </Record>
+  <Record>
+    <Key>RequiredToRepair</Key>
+    <Value>erforderlich zur &lt;color=yellow&gt;Reparatur&lt;/color&gt;</Value>
+  </Record>
+  <Record>
+    <Key>MoleLiquidVolatilesDescription</Key>
+    <Value>{GAS:Volatiles} in flüssiger Form. Es kann erzeugt werden, indem die Temperatur des Gases {GAS:Volatiles} unter seinen Siedepunkt gesenkt wird. Dies kann mit einem {THING:StructureHeatExchangerGastoGas} oder einem {THING:StructureAirConditioner} erreicht werden. In die Atmosphäre eingeleitetes {GAS:LiquidVolatiles} wird schnell wieder zu {GAS:Volatiles} verdampfen.</Value>
+  </Record>
+  <Record>
+    <Key>ScriptDescriptionSbn</Key>
+    <Value>Speichert den Registerwert LogicType auf allen Ausgangsnetzgeräten mit dem angegebenen Typ-Hash und Namen</Value>
+  </Record>
+  <Record>
+    <Key>DarknessDeficient</Key>
+    <Value>Dunkelheit Defizitär</Value>
+  </Record>
+  <Record>
+    <Key>PlacementBlockedByUnknownDevice</Key>
+    <Value>Kann nicht neben einem anderen Gerät platziert werden</Value>
+  </Record>
+  <Record>
+    <Key>NotEnoughSprayPaint</Key>
+    <Value>Nicht genug Farbe im {LOCAL:SprayCanister}</Value>
+  </Record>
+  <Record>
+    <Key>CurrentlyOnFire</Key>
+    <Value>Brennt &lt;color=red&gt;derzeit&lt;/color&gt;</Value>
+  </Record>
+  <Record>
+    <Key>HandSlotOccupied</Key>
+    <Value>Hand Slot ist besetzt</Value>
+  </Record>
+  <Record>
+    <Key>LogicTypeBypass</Key>
+    <Value>Umgeht einige interne Verhaltensweisen des atmosphärischen Geräts</Value>
+  </Record>
+  <Record>
+    <Key>MoleLiquidPollutantDescription</Key>
+    <Value>{GAS:Schadstoff} in seiner flüssigen Form. Es kann erzeugt werden, indem die Temperatur des Gases {GAS:Schadstoff} unter seinen Siedepunkt gesenkt wird. Dies kann mit einem {THING:StructureHeatExchangerGastoGas} oder einem {THING:StructureAirConditioner} erreicht werden. In die Atmosphäre eingeleitetes {GAS:LiquidPollutant} verdampft schnell wieder zu {GAS:Schadstoff}.</Value>
+  </Record>
+  <Record>
+    <Key>PressureSafteySetTo</Key>
+    <Value>Die &lt;color=green&gt;{LOCAL:Location} Sicherheit&lt;/color&gt; ist auf &lt;color=yellow&gt;{LOCAL:Value}&lt;/color&gt eingestellt;</Value>
+  </Record>
+  <Record>
+    <Key>CartridgeAtmosAnalyserCapacityTitle</Key>
+    <Value>KAPAZITÄT</Value>
+  </Record>
+  <Record>
+    <Key>Poke</Key>
+    <Value>Anstubs</Value>
+  </Record>
+  <Record>
+    <Key>Thrust</Key>
+    <Value>Schubkraft</Value>
+  </Record>
+  <Record>
+    <Key>AtmosphereExternal</Key>
+    <Value>Extern</Value>
+  </Record>
+  <Record>
+    <Key>ExhaustVelocity</Key>
+    <Value>Auslassgeschwindigkeit</Value>
+  </Record>
+  <Record>
+    <Key>CartridgeAtmosAnalyserLatentTitle</Key>
+    <Value>LATENT</Value>
+  </Record>
+  <Record>
+    <Key>CannotPlaceOnBrokenCable</Key>
+    <Value>Kann nicht auf defektes Kabel platzieren</Value>
+  </Record>
+  <Record>
+    <Key>CannotUseWhenNotOn</Key>
+    <Value>Kann {LOCAL:Thing} nicht verwenden, da es nicht &lt;color=yellow&gt;eingeschaltet ist&lt;/color&gt;</Value>
+  </Record>
+  <Record>
+    <Key>NoDeficiency</Key>
+    <Value>Kein Mangel</Value>
+  </Record>
+  <Record>
+    <Key>UnweldingWillUnLockDoor</Key>
+    <Value>&lt;color=yellow&gt;Entschweißen&lt;/color&gt; des {LOCAL:Thing} wird es entsperren</Value>
+  </Record>
+  <Record>
+    <Key>ActionUnweld</Key>
+    <Value>Entschweißen</Value>
+  </Record>
+  <Record>
+    <Key>LogicTypeRatioLiquidNitrogen</Key>
+    <Value>Das Verhältnis von {GAS:Flüssigstickstoff} in der Geräteatmosphäre</Value>
+  </Record>
+  <Record>
+    <Key>PhaseChangeCelsius</Key>
+    <Value>Celsius verwenden</Value>
+  </Record>
+  <Record>
+    <Key>ButtonContacts</Key>
+    <Value>Kontakte</Value>
+  </Record>
+  <Record>
+    <Key>ManufacturesAtTier</Key>
+    <Value>Hergestellt bei &lt;color=yellow&gt;{LOCAL:MachineTier}&lt;/color&gt;</Value>
+  </Record>
+  <Record>
+    <Key>HeatExchangerHeatExchangeAreaTooltip</Key>
+    <Value>Wärmeaustauschrate: {LOCAL:EnergyResult} W</Value>
+  </Record>
+  <Record>
+    <Key>NoWaterAvailable</Key>
+    <Value>&lt;color=red&gt;Fehler!&lt;/color&gt; es ist kein &lt;color=yellow&gt;Wasserdruck&lt;/color&gt;</Value>
+  </Record>
   <Record>
     <Key>SettingsServerName</Key>
     <Value>Server Name</Value>
