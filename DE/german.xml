@@ -7363,6 +7363,10 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
 </Things>
 <Slots>
   <Record>
+    <Key>SettingsServerName</Key>
+    <Value>Server Name</Value>
+  </Record>
+  <Record>
     <Key>TraderLeftRangeEvent</Key>
     <Value>Der Gewerbetreibende {LOCAL:Name} hat den Kontaktbereich verlassen.</Value>
   </Record>
