@@ -7345,8 +7345,47 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     <Value>Reines Eis Flüssiger Schadstoff</Value>
     <Description>Ein gefrorener Klumpen aus purem {GAS:LiquidPollutant}</Description>
   </RecordThing>
+  <RecordThing>
+    <Key>StructureSmallDirectHeatExchangeGastoGas</Key>
+    <Value>Kleiner direkter Wärmetauscher - Gas + Gas</Value>
+    <Description>Direkte Wärmetauscher gleichen die Temperatur der beiden Eingangsnetze aus.</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureLargeDirectHeatExchangeGastoLiquid</Key>
+    <Value>Großer direkter Wärmetauscher - Gas + Flüssigkeit</Value>
+    <Description>Direkte Wärmetauscher gleichen die Temperatur der beiden Eingangsnetze aus.</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureStairwellBottom</Key>
+    <Value>Treppenhaus Unten</Value>
+    <Description>Ein in sich geschlossenes Treppenhaus mit 3x1 Stufen und einer Tür.</Description>
+  </RecordThing>
 </Things>
 <Slots>
+  <Record>
+    <Key>TraderLeftRangeEvent</Key>
+    <Value>Der Gewerbetreibende {LOCAL:Name} hat den Kontaktbereich verlassen.</Value>
+  </Record>
+  <Record>
+    <Key>MoleLiquidNitrousOxideDescription</Key>
+    <Value>{GAS:NitrousOxide} in seiner flüssigen Form. Es kann erzeugt werden, indem die Temperatur des Gases {GAS:NitrousOxide} unter seinen Siedepunkt gesenkt wird. Dies kann mit einem {THING:StructureHeatExchangerGastoGas} oder einem {THING:StructureAirConditioner} erreicht werden. In die Atmosphäre eingeleitetes {GAS:LiquidNitrousOxide} wird schnell wieder zu {GAS:NitrousOxide} verdampfen.</Value>
+  </Record>
+  <Record>
+    <Key>QuantityOfGasTypeInMix</Key>
+    <Value>&lt;color=yellow&gt;{LOCAL:Quantity}&lt;/color&gt; x {LOCAL:GasType}</Value>
+  </Record>
+  <Record>
+    <Key>PhaseChangeLogScale</Key>
+    <Value>Log-Skala</Value>
+  </Record>
+  <Record>
+    <Key>MustMountToPipe</Key>
+    <Value>Muss an einem geraden Rohr montiert werden</Value>
+  </Record>
+  <Record>
+    <Key>PipeFailModeLiquid</Key>
+    <Value>Zerstört durch das &lt;color=red&gt;Vorhandensein von Flüssigkeit&lt;/color&gt;</Value>
+  </Record>
   <Record>
     <Key>JoinMenuButtonDirectConnect</Key>
     <Value>Direktverbindung</Value>
