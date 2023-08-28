@@ -7229,8 +7229,170 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     <Value>Rohrkutte</Value>
     <Description>Dies erzeugt eine {THING:ItemPipeCowl}, die auf das Ende von Rohren gesetzt werden kann, um sie der Weltatmosphäre auszusetzen.</Description>
   </RecordThing>
+  <RecordThing>
+    <Key>ItemGasFilterPollutantsInfinite</Key>
+    <Value>Katalytischer Filter (Schadstoffe)</Value>
+    <Description>Ein Filter, der selektiv auf Schadstoffe abzielt. Er nutzt interne Druckunterschiede, um einen einzigartigen Phasenwechselkatalysator zu regenerieren, was ihm eine unbegrenzte Lebensdauer verleiht.</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemPureIceVolatiles</Key>
+    <Value>Reines Eis Flüchtige Stoffe</Value>
+    <Description>Ein gefrorener Klumpen aus purem {GAS:Volatiles}</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureLowVolumePipeStraight</Key>
+    <Value>Niedrigvolumige Rohre (gerade)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemClothingBagOveralls_Brazil</Key>
+    <Value>Overall (Brasilien)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureBatterySmall</Key>
+    <Value>Struktur Batterie Klein</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemKitLowVolumeLiquidPipes</Key>
+    <Value>Bausatz (Niedervolumen-Flüssigkeitsrohr)</Value>
+  </RecordThing>
 </Things>
 <Slots>
+  <Record>
+    <Key>ManufacturesAppliesMultiplier</Key>
+    <Value>&lt;color=orange&gt;{LOCAL:ModifierName}&lt;/color&gt; arbeitet bei &lt;color=yellow&gt;{LOCAL:Percent}&lt;/color&gt;</Value>
+  </Record>
+  <Record>
+    <Key>LogicTypeRatioLiquidNitrogenOutput2</Key>
+    <Value>Das Verhältnis von {GAS:LiquidNitrogen} im Output2-Netzwerk des Geräts</Value>
+  </Record>
+  <Record>
+    <Key>LogicTypeRatioLiquidOxygenInput2</Key>
+    <Value>Das Verhältnis von {GAS:LiquidOxygen} in der Input2-Atmosphäre des Geräts</Value>
+  </Record>
+  <Record>
+    <Key>LogicTypeRatioLiquidVolatilesInput2</Key>
+    <Value>Das Verhältnis von {GAS:LiquidVolatiles} in der Input2-Atmosphäre des Geräts</Value>
+  </Record>
+  <Record>
+    <Key>ButtonMap</Key>
+    <Value>Karte</Value>
+  </Record>
+  <Record>
+    <Key>OutputVolumeRatio</Key>
+    <Value>Ausgabe Fülle &lt;color=green&gt;{0}%&lt;/color&gt;</Value>
+  </Record>
+   <Record>
+    <Key>CannotBePickedUpRightNow</Key>
+    <Value>Kann im Moment nicht aufgehoben werden.</Value>
+  </Record>
+  <Record>
+    <Key>LogicTypeSolarConstant</Key>
+    <Value>Solarkonstante der Welt</Value>
+  </Record>
+  <Record>
+    <Key>RequireDlcToFabricate</Key>
+    <Value>Sie verfügen nicht über den erforderlichen DLC, um diesen Artikel zu drucken.</Value>
+  </Record>
+  <Record>
+    <Key>PipeDamageModeFrozen</Key>
+    <Value>Beschädigung durch &lt;color=red&gt;Gefrieren von Flüssigkeiten oder Gasen&lt;/color&gt;</Value>
+  </Record>
+  <Record>
+    <Key>LogicTypeLineNumber</Key>
+    <Value>Die Zeilennummer der aktuellen Ausführung für eine integrierte Schaltung, die auf diesem Gerät läuft. Diese Nummer kann zwar geschrieben werden, ist aber mit Vorsicht zu verwenden!</Value>
+  </Record>
+  <Record>
+    <Key>AttemptToFix</Key>
+    <Value>Versuch der Korrektur</Value>
+  </Record>
+  <Record>
+    <Key>ScriptCommandLBS</Key>
+    <Value>Lädt LogicSlotType aus slotIndex von allen Ausgangsnetzgeräten mit angegebenem Typ-Hash unter Verwendung des bereitgestellten Batch-Modus. Durchschnitt (0), Summe (1), Minimum (2), Maximum (3). Kann entweder das Wort oder die Zahl verwenden.</Value>
+  </Record>
+  <Record>
+    <Key>ScriptCommandSnanz</Key>
+    <Value>Register = 0, wenn NaN, sonst 1</Value>
+  </Record>
+  <Record>
+    <Key>ScriptCommandLBNS</Key>
+    <Value>Lädt LogicSlotType aus slotIndex von allen Ausgangsnetzgeräten mit angegebenen Typ- und Namenshashes unter Verwendung des bereitgestellten Batch-Modus. Durchschnitt (0), Summe (1), Minimum (2), Maximum (3). Kann entweder das Wort oder die Zahl verwenden.</Value>
+  </Record>
+  <Record>
+    <Key>ScriptCommandSnan</Key>
+    <Value>Register = 1, wenn NaN, sonst 0</Value>
+  </Record>
+  <Record>
+    <Key>ScriptCommandBnan</Key>
+    <Value>Verzweigung zur Zeile b, wenn a keine Zahl ist (NaN)</Value>
+  </Record>
+  <Record>
+    <Key>ScriptCommandSBS</Key>
+    <Value>Speichert den Registerwert LogicSlotType auf allen Ausgangsnetzgeräten mit dem angegebenen Typ Hash im angegebenen Steckplatz.</Value>
+  </Record>
+  <Record>
+    <Key>ScriptCommandSS</Key>
+    <Value>Speichert den Wert eines Regist</Value>
+  </Record>
+  <Record>
+    <Key>ScriptCommandLBN</Key>
+    <Value>Lädt LogicType von allen Ausgangsnetzgeräten mit den angegebenen Typ- und Namenshashes unter Verwendung des bereitgestellten Batch-Modus. Durchschnitt (0), Summe (1), Minimum (2), Maximum (3). Kann entweder das Wort oder die Zahl verwenden.</Value>
+  </Record>
+  <Record>
+    <Key>ScriptCommandBrnan</Key>
+    <Value>Relative Verzweigung zur Zeile b, wenn a keine Zahl ist (NaN)</Value>
+  </Record>
+  <Record>
+    <Key>CryoPressureTooLow</Key>
+    <Value>&lt;color=red&gt;Druck zu niedrig&lt;/color&gt;</Value>
+  </Record>
+  <Record>
+    <Key>PipeFailModePressure</Key>
+    <Value>Zerstört durch ein &lt;color=red&gt;Überdruck&lt;/color&gt; Ereignis</Value>
+  </Record>
+  <Record>
+    <Key>LoadingScreenDeserializeWorldLog</Key>
+    <Value>Deserialisierung des Weltprotokolls</Value>
+  </Record>
+  <Record>
+    <Key>CannotPlaceOnBurstPipe</Key>
+    <Value>Kann nicht auf geplatztes Rohr platziert werden.</Value>
+  </Record>
+  <Record>
+    <Key>SprayCan</Key>
+    <Value>Sprühdose</Value>
+  </Record>
+  <Record>
+    <Key>PipeStressed</Key>
+    <Value>Der Druck in der Leitung ist gefährlich hoch!</Value>
+  </Record>
+  <Record>
+    <Key>FlowRate</Key>
+    <Value>Durchflussrate</Value>
+  </Record>
+  <Record>
+    <Key>EntityIsCurrentlyState</Key>
+    <Value>{LOCAL:Thing} ist derzeit &lt;color=yellow&gt;{LOCAL:State}&lt;/color&gt;</Value>
+  </Record>
+  <Record>
+    <Key>SaveVersionWarning</Key>
+    <Value>WARNUNG! Alte Speicherversion entdeckt!</Value>
+  </Record>
+  <Record>
+    <Key>CondensationChamberLiquidConnection</Key>
+    <Value>Anschluss des Flüssigkeitsausgangs</Value>
+  </Record>
+  <Record>
+    <Key>PipeVolumeChangePopup</Key>
+    <Value>Rohrvolumen ändern: Möchten Sie, dass Stationeers versucht, den Inhalt aller Rohrnetze zu verändern, um Rohrbrüche zu verhindern?Value>
+  </Record>
+  <Record>
+    <Key>PipeVolumeChangePopup</Key>
+    <Value>Änderung der Rohrvolumen-Balance: Dieser Spielstand stammt aus Version 0.2.4120.19448 oder älter und ist möglicherweise nicht mit den neuen Balance-Änderungen an den Rohrvolumina kompatibel. Möchten Sie, dass Stationeers versucht, den Inhalt atmosphärischer Netze im geladenen Spiel zu ändern, um sofortige Explosionen und Überdruckereignisse aufgrund dieser Änderungen zu verhindern? (einige Gase/Flüssigkeiten können durch diesen Prozess gelöscht werden)</Value>
+  </Record>
+  <Record>
+    <Key>PressureDifferential</Key>
+    <Value>Druckdifferenz &lt;color=green&gt;{LOCAL:PressureDelta} kPa&lt;/color&gt;</Value>
+  </Record>
   <Record>
     <Key>UnitSeconds</Key>
     <Value>{LOCAL:Value} Sekunden</Value>
