@@ -7455,8 +7455,274 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     <Value>Gegenflusswärmetauscher - Gas + Flüssigkeit</Value>
     <Description>Wärmeaustausch von einem Rohrnetz zum anderen. Indem der Druck der Ausgänge mit einer Pumpe oder einem Regler gesenkt und die Eingangsdrücke reguliert werden, können die Temperaturen zweier gegenläufiger Netze effektiv ausgetauscht werden. Der Ausgleich des Durchsatzes beider Eingänge ist der Schlüssel für einen guten Temperaturaustausch.</Description>
   </RecordThing>
+  <RecordThing>
+    <Key>ItemKitPassiveVent</Key>
+    <Value>Bausatz (Passive Entlüftung)</Value>
+    <Description>Dieses Kit erstellt unter anderem ein {THING:ItemPassiveVent}.</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemClothingBagOveralls_US</Key>
+    <Value>Overall (US)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureNosecone1x1</Key>
+    <Value>Nasenkonus 1x1</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemKitPipeUtility</Key>
+    <Value>Bausatz (Rohrleitung Utility Gas)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemKitPipeUtilityLiquid</Key>
+    <Value>Bausatz (Rohrleitung Utility Flüssigkeit)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemHEMDroidRepairKit</Key>
+    <Value>HEMDroid Reparaturset</Value>
+    <Description>Repariert beschädigte HEM-Droiden bis zur vollen Gesundheit.</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureLowVolumeLiquidPipeTJunction</Key>
+    <Value>Flüssigkeitsleitung mit geringem Volumen (T-Verteiler)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemClothingBagOveralls_Aus</Key>
+    <Value>Overall (Australien)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemGasFilterOxygenInfinite</Key>
+    <Value>Katalytischer Filter (Sauerstoff)</Value>
+    <Description>Ein Filter, der selektiv auf Sauerstoff abzielt. Er nutzt interne Druckunterschiede, um einen einzigartigen Phasenwechselkatalysator zu regenerieren, was ihm eine unbegrenzte Lebensdauer verleiht.</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureRocketAvionics</Key>
+    <Value>Raketen Bordelektronik</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureEvaporationChamber</Key>
+    <Value>Evaporation Chamber</Value>
+    <Description>Ein Gerät zur sicheren Verdampfung von Flüssigkeiten in Gase. Sowohl Flüssigkeiten als auch Gase befinden sich sicher im Inneren des Geräts. Durch Absenken des Drucksollwerts des eingebauten Gegendruckreglers mit dem Einstellrad wird die Siedetemperatur der Flüssigkeiten im Gerät verändert. Der sekundäre Gaseingang auf der linken Seite ist ein Wärmetauschereingang und ermöglicht den Wärmeaustausch zwischen dem sekundären Eingangsrohr und der internen Atmosphäre der Verdunstungskammer. In Verbindung mit {THING:StructureCondensationChamber} können Stationeers die Phasenänderungseigenschaften von Gasen nutzen, um eine DIY-Klimaanlage zu bauen.</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureLowVolumeLiquidPipeCorner</Key>
+    <Value>Niedrigvolumiges Flüssigkeitsrohr (Ecke)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemClothingBagOveralls_NZ</Key>
+    <Value>Overall (Neuseeland)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructurePassthroughHeatExchangerLiquidToLiquid</Key>
+    <Value>Gegenstromwärmetauscher - Flüssigkeit + Flüssigkeit</Value>
+    <Description>Wärmeaustausch von einem Rohrnetz zum anderen. Indem der Druck der Ausgänge mit einer Pumpe oder einem Regler gesenkt und die Eingangsdrücke reguliert werden, können die Temperaturen zweier gegenläufiger Netze effektiv ausgetauscht werden. Der Ausgleich des Durchsatzes beider Eingänge ist der Schlüssel für einen guten Temperaturaustausch.</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>ApplianceBobbleHeadBasicSuit</Key>
+    <Value>Wackelkopf (Basisanzug)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureLargeDirectHeatExchangeLiquidtoLiquid</Key>
+    <Value>Großer direkter Wärmeaustausch - Flüssigkeit + Flüssigkeit</Value>
+    <Description>Direkte Wärmetauscher gleichen die Temperatur der beiden Eingangsnetze aus.</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemGasFilterWaterInfinite</Key>
+    <Value>Katalytischer Filter (Wasser)</Value>
+    <Description>Ein Filter, der selektiv auf Wasser wirkt. Er nutzt interne Druckunterschiede, um einen einzigartigen Phasenwechselkatalysator zu regenerieren, was ihm eine unbegrenzte Lebensdauer verleiht.</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructurePassthroughHeatExchangerGasToGas</Key>
+    <Value>Gegenstrom-Wärmetauscher - Gas + Gas</Value>
+    <Description>Wärmeaustausch von einem Rohrnetz zum anderen. Indem der Druck der Ausgänge mit einer Pumpe oder einem Regler gesenkt und die Eingangsdrücke reguliert werden, können die Temperaturen zweier gegenläufiger Netze effektiv ausgetauscht werden. Der Ausgleich des Durchsatzes beider Eingänge ist der Schlüssel für einen guten Temperaturaustausch.</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureWallSmallPanelsOpen</Key>
+    <Value>Wand (kleine Paneele offen)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemClothingBagOveralls_Korea</Key>
+    <Value>Overall (Südkorea)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureLowVolumeLiquidPipeCrossJunction3</Key>
+    <Value>Niedrigvolumiges Flüssigkeitsrohr (3-Wege-Kreuzung)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureLaunchPadCenter</Key>
+    <Value>Struktur Startrampe Zentrum</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureFloorDrain</Key>
+    <Value>Passiver Flüssigkeitseinlass</Value>
+    <Description>Ein passiver Flüssigkeitsbodeneinlass, der Flüssigkeiten schnell in eine Richtung aus der Welt in das angeschlossene Rohrnetz ableitet. Er gleicht auch Gase mit der Weltatmosphäre aus.</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemKitLaunchPad</Key>
+    <Value>Bausatz (Startrampe)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructurePurgeValve</Key>
+    <Value>Entlüftungsventil</Value>
+    <Description>Ermöglicht die Entfernung von Druckgas und verdampften Flüssigkeiten aus einer Flüssigkeitsleitung. Ähnlich wie ein {THING:StructureBackPressureRegulator} leitet das {THING:StructurePurgeValve} Gas aus der Flüssigkeitsleitung am Eingang in die Gasleitung am Ausgang, um den Druck am Eingang auf dem Zielwert zu halten.</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureLaunchPadModule</Key>
+    <Value>Struktur Startrampe Modul</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>MotherboardRockets</Key>
+    <Value>Raketen-Motherboard</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemClothingBagOveralls_EU</Key>
+    <Value>Overall (EU)</Value>
+  </RecordThing>
 </Things>
 <Slots>
+  <Record>
+    <Key>LogicTypeRatioLiquidNitrogenOutput</Key>
+    <Value>Das Verhältnis von {GAS:LiquidNitrogen} im Ausgangsnetz des Geräts</Value>
+  </Record>
+  <Record>
+    <Key>TraderEnteredRangeEvent</Key>
+    <Value>Der Gewerbetreibende {LOCAL:Name} hat den Kontaktbereich betreten.</Value>
+  </Record>
+  <Record>
+    <Key>CannotConstructWhenDamaged</Key>
+    <Value>Die Konstruktion von {LOCAL:Thing} kann nicht fortgesetzt werden, wenn es beschädigt ist</Value>
+  </Record>
+  <Record>
+    <Key>DeviceDoesNotAllowInternals</Key>
+    <Value>Das Gerät kann nicht betreten werden, wenn Sie eine {LOCAL:Thing}</Value>
+  </Record>
+  <Record>
+    <Key>MoleLiquidOxygenDescription</Key>
+    <Value>{GAS:Oxygen} in seiner flüssigen Form. Es kann erzeugt werden, indem die Temperatur von {GAS:Oxygen} unter seinen Siedepunkt gesenkt wird. Dies kann mit einem {THING:StructureHeatExchangerGastoGas} oder einem {THING:StructureAirConditioner} erreicht werden. In die Atmosphäre eingeleitetes {GAS:LiquidOxygen} verdampft schnell wieder zu {GAS:Oxygen}.</Value>
+  </Record>
+  <Record>
+    <Key>LogicTypeSoundAlert</Key>
+    <Value>Gibt einen Warnton über den Lautsprecher des Geräts wieder</Value>
+  </Record>
+  <Record>
+    <Key>ActionExtinguish</Key>
+    <Value>Löschen</Value>
+  </Record>
+  <Record>
+    <Key>CouplerBetweenTwoRocketPieces</Key>
+    <Value>Die Kupplungseinheit muss am Schnittpunkt zweier Raketenteile angebracht werden.</Value>
+  </Record>
+  <Record>
+    <Key>ThingWillBeSprayed</Key>
+    <Value>Das {LOCAL:Thing} wird {LOCAL:Color} lackiert sein</Value>
+  </Record>
+  <Record>
+    <Key>LogicTypeFlush</Key>
+    <Value>Auf 1 setzen, um die Spülfunktion des Geräts zu aktivieren</Value>
+  </Record>
+  <Record>
+    <Key>LogicTypeRatioLiquidOxygen</Key>
+    <Value>Das Verhältnis von {GAS:LiquidOxygen} in der Atmosphäre des Geräts</Value>
+  </Record>
+  <Record>
+    <Key>PlacementRequiresFrame</Key>
+    <Value>Die Platzierung erfordert einen Rahmen darunter zur Unterstützung</Value>
+  </Record>
+  <Record>
+    <Key>LiquidNitrousOxide</Key>
+    <Value>Flüssiges Distickstoffoxid</Value>
+  </Record>
+  <Record>
+    <Key>StationpediaLatentHeatHeader</Key>
+    <Value>Latente Hitze:</Value>
+  </Record>
+  <Record>
+    <Key>IsDestroyed</Key>
+    <Value>Ist &lt;color=red&gt;Zerstört&lt;/color&gt;</Value>
+  </Record>
+  <Record>
+    <Key>CannotMergeWithSmallGrid</Key>
+    <Value>Kann nicht zusammengeführt werden mit &lt;color=green&gt;{LOCAL:SmallGrid}&lt;/color&gt;</Value>
+  </Record>
+  <Record>
+    <Key>ClearStacker</Key>
+    <Value>Klarer Stapler</Value>
+  </Record>
+  <Record>
+    <Key>CannotMergeIMergeableOfDifferentType</Key>
+    <Value>Kann nicht mit {LOCAL:IMergeable} zusammengeführt werden, da es sich um einen anderen Typ handelt</Value>
+  </Record>
+  <Record>
+    <Key>LiquidNitrogen</Key>
+    <Value>Flüssiger Stickstoff</Value>
+  </Record>
+  <Record>
+    <Key>LogicTypeRatioLiquidVolatilesOutput</Key>
+    <Value>Das Verhältnis von {GAS:LiquidVolatiles} in der Output-Atmosphäre des Geräts</Value>
+  </Record>
+  <Record>
+    <Key>StationpediaBuildStateUpgrade</Key>
+    <Value>&lt;color=yellow&gt;Geräte-Upgrade&lt;/color&gt;</Value>
+  </Record>
+  <Record>
+    <Key>ActionDrag</Key>
+    <Value>Ziehen</Value>
+  </Record>
+  <Record>
+    <Key>PlacementRequiresModularRocket</Key>
+    <Value>Die Platzierung erfordert ein modulares Raketenteil unten</Value>
+  </Record>
+  <Record>
+    <Key>InputChatMessage</Key>
+    <Value>Nachricht zum Senden eingeben</Value>
+  </Record>
+  <Record>
+    <Key>PureIceHeader</Key>
+    <Value>Reines Eis</Value>
+  </Record>
+  <Record>
+    <Key>DeviceDoesNotAllowItemsInHands</Key>
+    <Value>Gerät kann nicht zugegriffen werden, wenn {LOCAL:Thing} in {LOCAL:Slot} ist</Value>
+  </Record>
+  <Record>
+    <Key>StationpediaMolesPerLitreHeader</Key>
+    <Value>Mols pro Liter:</Value>
+  </Record>
+  <Record>
+    <Key>PlacementBlockedBySmallGrid</Key>
+    <Value>Die Platzierung wird blockiert durch &lt;color=green&gt;{LOCAL:SmallGrid}&lt;/color&gt;</Value>
+  </Record>
+  <Record>
+    <Key>MoleLiquidNitrogenDescription</Key>
+    <Value>{GAS:Nitrogen} in flüssiger Form. Es kann erzeugt werden, indem die Temperatur von {GAS:Nitrogen} unter seinen Siedepunkt gesenkt wird. Dies kann mit einem {THING:StructureHeatExchangerGastoGas} oder einem {THING:StructureAirConditioner} erreicht werden. In die Atmosphäre eingeleitetes {GAS:LiquidNitrogen} verdampft schnell wieder zu {GAS:Nitrogen}.</Value>
+  </Record>
+  <Record>
+    <Key>FreezeTemperature</Key>
+    <Value>Gefriertemperatur:</Value>
+  </Record>
+  <Record>
+    <Key>LogicTypeRatioLiquidVolatiles</Key>
+    <Value>Das Verhältnis von {GAS:LiquidVolatiles} in der Atmosphäre des Geräts</Value>
+  </Record>
+  <Record>
+    <Key>MinLiquidPressure</Key>
+    <Value>Minimaler Kondensationsdruck:</Value>
+  </Record>
+  <Record>
+    <Key>PlacementBlockedByStructure</Key>
+    <Value>Die Platzierung wird blockiert durch &lt;color=green&gt;{LOCAL:Structure}&lt;/color&gt;</Value>
+  </Record>
+  <Record>
+    <Key>PlacementRequiresLaunchPad</Key>
+    <Value>Platzierung erfordert Launchpad unten</Value>
+  </Record>
+  <Record>
+    <Key>IngotIsType</Key>
+    <Value>Dies ist ein &lt;color=yellow&gt;{LOCAL:Type}&lt;/color&gt;</Value>
+  </Record>
+  <Record>
+    <Key>CannotMergeIMergeableOfDifferentType</Key>
+    <Value>Kann nicht mit {LOCAL:IMergeable} zusammengeführt werden, da es sich um einen anderen Typ handelt</Value>
+  </Record>
   <Record>
     <Key>ElevatorShaftRotationFail</Key>
     <Value>Alle Gebäudeteile des Fahrstuhls müssen in die gleiche Richtung gedreht werden.</Value>
