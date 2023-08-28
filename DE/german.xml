@@ -7255,8 +7255,82 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     <Key>ItemKitLowVolumeLiquidPipes</Key>
     <Value>Bausatz (Niedervolumen-Flüssigkeitsrohr)</Value>
   </RecordThing>
+  <RecordThing>
+    <Key>StructureCapsuleTank</Key>
+    <Value>Struktur Kapseltank</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureSmallDirectHeatExchangeLiquidtoGas</Key>
+    <Value>Kleiner direkter Wärmetauscher - Flüssigkeit + Gas</Value>
+    <Description>Direkte Wärmetauscher gleichen die Temperatur der beiden Eingangsnetze aus.</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemKitPoweredVent</Key>
+    <Value>Bausatz (elektrischer Entlüfter)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemPureIceOxygen</Key>
+    <Value>Reiner Eissauerstoff</Value>
+    <Description>Ein gefrorener Klumpen aus purem {GAS:Oxygen}</Description>
+  </RecordThing>
 </Things>
 <Slots>
+  <Record>
+    <Key>InternalPressureIs</Key>
+    <Value>Der Druck ist &lt;color=yellow&gt;{LOCAL:Value}&lt;/color&gt;</Value>
+  </Record>
+  <Record>
+    <Key>LogicTypeChannel</Key>
+    <Value>Kanal in einem Kabelnetz, der als flüchtig angesehen werden sollte</Value>
+  </Record>
+  <Record>
+    <Key>ButtonLog</Key>
+    <Value>Protokoll</Value>
+  </Record>
+  <Record>
+    <Key>LightDeficient</Key>
+    <Value>Unzureichendes Licht</Value>
+  </Record>
+  <Record>
+    <Key>LogicTypeRatioLiquidVolatilesInput</Key>
+    <Value>Das Verhältnis von {GAS:LiquidVolatiles} in der Eingangsatmosphäre des Geräts</Value>
+  </Record>
+  <Record>
+    <Key>AtmosphereInternal</Key>
+    <Value>Intern</Value>
+  </Record>
+  <Record>
+    <Key>PipeDamageModeLiquid</Key>
+    <Value>Beschädigt durch die &lt;color=red&gt;Anwesenheit von Flüssigkeit&lt;/color&gt;</Value>
+  </Record>
+  <Record>
+    <Key>LogicTypeUnknown</Key>
+    <Value>Keine Beschreibung verfügbar</Value>
+  </Record>
+  <Record>
+    <Key>LogicTypeRatioLiquidOxygenInput</Key>
+    <Value>Das Verhältnis von {GAS:LiquidOxygen} in der Eingangsatmosphäre des Geräts</Value>
+  </Record>
+  <Record>
+    <Key>GridBlockedByStructure</Key>
+    <Value>Die Platzierung wird blockiert durch &lt;color=green&gt;{LOCAL:Structure}&lt;/color&gt;</Value>
+  </Record>
+  <Record>
+    <Key>PlacementRequiresHydroponicsTray</Key>
+    <Value>Für die Platzierung ist ein Hydroponisches Beet unten erforderlich</Value>
+  </Record>
+  <Record>
+      <Key>LogicTypeRatioLiquidPollutant</Key>
+    <Value>Das Verhältnis von {GAS:LiquidPollutant} in der Atmosphäre des Geräts</Value>
+  </Record>
+  <Record>
+    <Key>LogicTypeRatioLiquidPollutantInput</Key>
+    <Value>Das Verhältnis von {GAS:LiquidPollutant} in der Eingangsatmosphäre des Geräts</Value>
+  </Record>
+  <Record>
+    <Key>LogicTypeRatioLiquidPollutantInput2</Key>
+    <Value>Das Verhältnis von {GAS:LiquidPollutant} in der Input2-Atmosphäre des Geräts</Value>
+  </Record>
   <Record>
     <Key>ManufacturesAppliesMultiplier</Key>
     <Value>&lt;color=orange&gt;{LOCAL:ModifierName}&lt;/color&gt; arbeitet bei &lt;color=yellow&gt;{LOCAL:Percent}&lt;/color&gt;</Value>
