@@ -7273,8 +7273,112 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     <Value>Reiner Eissauerstoff</Value>
     <Description>Ein gefrorener Klumpen aus purem {GAS:Oxygen}</Description>
   </RecordThing>
+  <RecordThing>
+    <Key>ItemClothingBagOveralls_Canada</Key>
+    <Value>Overall (Kanada)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemPureIcePollutant</Key>
+    <Value>Reiner Eisschadstoff</Value>
+    <Description>Ein gefrorener Klumpen aus purem {GAS:Pollutant}</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemPureIce</Key>
+    <Value>Reines Eiswasser</Value>
+    <Description>Ein gefrorener Klumpen aus purem {GAS:Water}</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructurePoweredVentLarge</Key>
+    <Value>Elektrischer Entlüftung Groß</Value>
+    <Description>Für den Bau von großen Schleusensystemen und druckbeaufschlagten Hängern, eine größere und kühnere Version des {THING:StructurePoweredVent}, die effizient ein Vakuum in großen Räumen erzeugen kann.</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureCompositeFloorGratingOpen</Key>
+    <Value>Komposit-Bodenroste Offen</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureCompositeFloorGratingOpenRotated</Key>
+    <Value>Komposit-Bodenroste Offen gedreht</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemPureIceNitrogen</Key>
+    <Value>Reiner Eisstickstoff</Value>
+    <Description>Ein gefrorener Klumpen aus purem {GAS:Nitrogen}</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemPureIceNitrous</Key>
+    <Value>Reines Eis Distickstoffmonoxid</Value>
+    <Description>Ein gefrorener Klumpen aus purem {GAS:NitrousOxide}</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemPureIceSteam</Key>
+    <Value>Reiner Eisdampf</Value>
+    <Description>Ein gefrorener Klumpen aus purem {GAS:Steam}</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemPureIceLiquidNitrogen</Key>
+    <Value>Reines Eis Flüssiger Stickstoff</Value>
+    <Description>Ein gefrorener Klumpen aus purem {GAS:LiquidNitrogen}</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemPureIceLiquidNitrous</Key>
+    <Value>Reines Eis Flüssig-Stickstoff</Value>
+    <Description>Ein gefrorener Klumpen aus purem {GAS:LiquidNitrousOxide}</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemPureIceCarbonDioxide</Key>
+    <Value>Reines Eiskohlendioxid</Value>
+    <Description>Ein gefrorener Klumpen aus purem {GAS:CarbonDioxide}</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemPureIceLiquidOxygen</Key>
+    <Value>Reines Eis Flüssigsauerstoff</Value>
+    <Description>Ein gefrorener Klumpen aus purem {GAS:LiquidOxygen}</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemPureIceLiquidVolatiles</Key>
+    <Value>Reines Eis Flüssige flüchtige Stoffe</Value>
+    <Description>Ein gefrorener Klumpen aus purem {GAS:LiquidVolatiles}</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemPureIceLiquidPollutant</Key>
+    <Value>Reines Eis Flüssiger Schadstoff</Value>
+    <Description>Ein gefrorener Klumpen aus purem {GAS:LiquidPollutant}</Description>
+  </RecordThing>
 </Things>
 <Slots>
+  <Record>
+    <Key>JoinMenuButtonDirectConnect</Key>
+    <Value>Direktverbindung</Value>
+  </Record>
+  <Record>
+    <Key>PipeDamageModePressure</Key>
+    <Value>Beschädigt durch ein &lt;color=red&gt;Überdruck&lt;/color&gt; Ereignis</Value>
+  </Record>
+  <Record>
+    <Key>PlacementBlockedByAdjacentDevice</Key>
+    <Value>Kann nicht angrenzend platziert werden an &lt;color=green&gt;{LOCAL:Device}&lt;/color&gt;</Value>
+  </Record>
+  <Record>
+    <Key>LogicTypeRatioSteam</Key>
+    <Value>Das Verhältnis von {GAS:Steam} in der Atmosphäre des Geräts</Value>
+  </Record>
+  <Record>
+    <Key>LogicTypeRatioSteamInput</Key>
+    <Value>Das Verhältnis von {GAS:Steam} in der Eingabe-Atmosphäre des Geräts</Value>
+  </Record>
+  <Record>
+    <Key>LogicTypeRatioSteamInput2</Key>
+    <Value>Das Verhältnis von {GAS:Steam} in der Eingabe2-Atmosphäre des Geräts</Value>
+  </Record>
+  <Record>
+    <Key>LogicTypeRatioSteamOutput</Key>
+    <Value>Das Verhältnis von {GAS:Steam} in der Ausgabe-Atmopshäre des Geräts</Value>
+  </Record>
+  <Record>
+    <Key>LogicTypeRatioSteamOutput2</Key>
+    <Value>Das Verhältnis von {GAS:Steam} in der Ausgabe2-Atmopshäre des Geräts</Value>
+  </Record>
   <Record>
     <Key>InternalPressureIs</Key>
     <Value>Der Druck ist &lt;color=yellow&gt;{LOCAL:Value}&lt;/color&gt;</Value>
