@@ -49,7 +49,7 @@ Ich möchte mich bei allen bedanken, die zu diesem Projekt beigetragen haben, se
 
 [rogerwatersx]: Für die iniziale Idee das zu machen.  
 
-[zynischerboomer]: Für die Ideen was man noch so ergänzen kann an beschreibungen und in der Zukunft Teile der Hilfeartikel verbesserungen (Nicht in dieser Beta).  
+[zynischerboomer]: Für die Ideen was man noch so ergänzen kann an Beschreibungen, Übersetzungen und in der Zukunft Teile der Hilfeartikel Verbesserungen (Nicht in dieser Beta).  
 
 Ihre Beteiligung hat dazu beigetragen, dieses Projekt voranzubringen und es für die Community besser zu machen. Ich bin für jede Unterstützung und Zusammenarbeit dankbar!
 
