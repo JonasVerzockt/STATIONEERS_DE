@@ -14,9 +14,9 @@ Game Version: v0.2.4297.19997
 
 ## Backup-Empfehlung: Vor der Installation und Verwendung dieser Beta-Version wird dringend empfohlen, ein vollständiges Backup Ihrer Spielstände und Dateien zu erstellen. Dies gewährleistet, dass Sie im Falle von Problemen oder unerwarteten Ergebnissen auf eine vorherige Version zurückgreifen können.
 
-## Beta-Version: Diese Version des Projekts ist eine Beta-Version und kann Fehler, Unstimmigkeiten oder unerwartete Verhaltensweisen aufweisen. Nutzen Sie sie auf eigenes Risiko. Wir sind dankbar für Ihr Feedback, um die Qualität zu verbessern.
+## Beta-Version: Diese Version des Projekts ist eine Beta-Version und kann Fehler, Unstimmigkeiten oder unerwartete Verhaltensweisen aufweisen. Nutzen Sie sie auf eigenes Risiko. Ich bin dankbar für Ihr Feedback, um die Qualität zu verbessern.
 
-## Haftungsausschluss: Der Entwickler übernimmt keinerlei Haftung für Schäden oder Datenverluste, die durch die Verwendung dieser Software entstehen könnten. Die Verwendung geschieht auf eigene Verantwortung.
+## Haftungsausschluss: Der Entwickler (Ich; JonasVerzockt) übernimmt keinerlei Haftung für Schäden oder Datenverluste, die durch die Verwendung dieser Software entstehen könnten. Die Verwendung geschieht auf eigene Verantwortung.
 
 ## Getestet für Spiel Version: Diese Version wurde erfolgreich mit der Spiel Version v0.2.4297.19997 getestet.
 
@@ -37,6 +37,20 @@ Game Version: v0.2.4297.19997
 
 6. Bestätigung: Starten Sie das Spiel neu, um die neuen Übersetzungen zu laden. Stellen Sie sicher, dass die Übersetzungen ordnungsgemäß funktionieren und keine unerwarteten Probleme auftreten.
 
-## Bitte beachten Sie, dass diese Anleitung allgemein ist und je nach Systemkonfiguration und Spielinstallation variieren kann. Falls Sie Unterstützung benötigen oder auf Schwierigkeiten stoßen, wenden Sie sich bitte an unsere Support-Kanäle (https://github.com/JonasVerzockt/STATIONEERS_DE/issues).
+## Bitte beachten Sie, dass diese Anleitung allgemein ist und je nach Systemkonfiguration und Spielinstallation variieren kann. Falls Sie Unterstützung benötigen oder auf Schwierigkeiten stoßen, wenden Sie sich bitte an die Support-Kanäle (https://github.com/JonasVerzockt/STATIONEERS_DE/issues).
 
-## Vielen Dank für Ihre Unterstützung und Ihr Interesse an diesem Projekt! Wir hoffen, dass Sie von den Übersetzungen profitieren können.
+# Danksagungen
+
+Ich möchte mich bei allen bedanken, die zu diesem Projekt beigetragen haben, sei es durch Ideen, Feedback oder Unterstützung:
+
+(Discord Namen)
+
+[konny87]: Für die iniziale Idee und für das Testen und Melden von Fehlern im Twitch Stream, die zur Verbesserung beigetragen haben und werden.  
+
+[rogerwatersx]: Für die iniziale Idee das zu machen.  
+
+[zynischerboomer]: Für die Ideen was man noch so ergänzen kann an beschreibungen und in der Zukunft Teile der Hilfeartikel verbesserungen (Nicht in dieser Beta).  
+
+Ihre Beteiligung hat dazu beigetragen, dieses Projekt voranzubringen und es für die Community besser zu machen. Ich bin für jede Unterstützung und Zusammenarbeit dankbar!
+
+## Vielen Dank für Ihre Unterstützung und Ihr Interesse an diesem Projekt! Ich hoffe, dass Sie von den Übersetzungen profitieren können.
