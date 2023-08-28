@@ -27,7 +27,7 @@ Game Version: v0.2.4297.19997
 
 1. Backup: Bevor Sie fortfahren, stellen Sie sicher, dass Sie eine Sicherungskopie aller relevanten Dateien haben, um Verluste zu vermeiden.
 
-2. Herunterladen: Laden Sie die entsprechenden Übersetzungsdateien herunter, die Sie verwenden möchten.
+2. Herunterladen: Laden Sie die entsprechenden Übersetzungsdateien herunter, die Sie verwenden möchten (https://github.com/JonasVerzockt/STATIONEERS_DE/releases).
 
 3. Installationsort: Navigieren Sie zu Ihrem Steam Installationsverzeichnis. Standardmäßig ist dies C:\Program Files (x86)\Steam\steamapps\common\Stationeers.
 
