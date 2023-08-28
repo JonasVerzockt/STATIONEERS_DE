@@ -37,6 +37,6 @@ Game Version: v0.2.4297.19997
 
 6. Bestätigung: Starten Sie das Spiel neu, um die neuen Übersetzungen zu laden. Stellen Sie sicher, dass die Übersetzungen ordnungsgemäß funktionieren und keine unerwarteten Probleme auftreten.
 
-## Bitte beachten Sie, dass diese Anleitung allgemein ist und je nach Systemkonfiguration und Spielinstallation variieren kann. Falls Sie Unterstützung benötigen oder auf Schwierigkeiten stoßen, wenden Sie sich bitte an unsere Support-Kanäle.
+## Bitte beachten Sie, dass diese Anleitung allgemein ist und je nach Systemkonfiguration und Spielinstallation variieren kann. Falls Sie Unterstützung benötigen oder auf Schwierigkeiten stoßen, wenden Sie sich bitte an unsere Support-Kanäle (https://github.com/JonasVerzockt/STATIONEERS_DE/issues).
 
 ## Vielen Dank für Ihre Unterstützung und Ihr Interesse an diesem Projekt! Wir hoffen, dass Sie von den Übersetzungen profitieren können.
