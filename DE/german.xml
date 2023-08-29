@@ -7577,8 +7577,155 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     <Key>ItemClothingBagOveralls_EU</Key>
     <Value>Overall (EU)</Value>
   </RecordThing>
+  <RecordThing>
+    <Key>ItemWirelessBatteryCellExtraLarge</Key>
+    <Value>Drahtlose Batteriezelle Extra Groß</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructurePressurantValve</Key>
+    <Value>Druckbeaufschlagungsventil</Value>
+    <Description>Pumpt Gas in eine Flüssigkeitsleitung, um den Druck zu erhöhen</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureLowVolumeLiquidPipeCrossJunction6</Key>
+    <Value>Niedrigvolumiges Flüssigkeitsrohr (6-Wege-Kreuzung)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureStairwellMiddle</Key>
+    <Value>Treppenhaus Mitte</Value>
+    <Description>Ein in sich geschlossenes 3x1-Treppenhaus.</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemSolidFuel</Key>
+    <Value>Fester Brennstoff (Kohlenwasserstoff)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemKitRockets</Key>
+    <Value>Bausatz (Raketen)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemGasFilterCarbonDioxideInfinite</Key>
+    <Value>Katalytischer Filter (Kohlendioxid)</Value>
+    <Description>Ein Filter, der selektiv auf Kohlendioxid abzielt. Er nutzt interne Druckunterschiede, um einen einzigartigen Phasenwechselkatalysator zu regenerieren, was ihm eine unbegrenzte Lebensdauer verleiht.</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureInLineTankGas1x2</Key>
+    <Value>Leitungsgebundener Tank Gas</Value>
+    <Description>Ein kleines Ausdehnungsgefäß, das das Volumen eines Rohrnetzes vergrößert.</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureCondensationValve</Key>
+    <Value>Kondensationsventil</Value>
+    <Description>Ermöglicht die Ableitung von Flüssigkeiten aus einer Gasleitung in eine Flüssigkeitsleitung. Lässt Flüssigkeiten nur in eine Richtung passieren.</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemHighVolumeGasCanisterEmpty</Key>
+    <Value>Großvolumiger Gaskanister</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructurePoweredVent</Key>
+    <Value>Elektrischer Entlüfter</Value>
+    <Description>Hervorragend geeignet, um große Luftmengen in ein Rohrnetz zu leiten. Sein Hauptzweck ist die Schaffung von Schleusen mit mehreren Gittern. Es kann effizient ein Vakuum in einem kleinen bis mittelgroßen Raum erzeugen.</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructurePlatformLadderOpenRotated</Key>
+    <Value>Leiterplattform gedreht</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemClothingBagOveralls_China</Key>
+    <Value>Overall (China)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureLowVolumePipeCorner</Key>
+    <Value>Niedrigvolumige Rohre (Ecke)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureCondensationChamber</Key>
+    <Value>Kondensationskammer</Value>
+    <Description>Ein Gerät zur sicheren Kondensation von Gasen in Flüssigkeiten. Sowohl Flüssigkeiten als auch Gase befinden sich sicher im Inneren des Geräts. Die Kammer wird mit Hilfe des eingebauten Druckreglers auf den mit dem Stellrad eingestellten Sollwert unter Druck gesetzt. Der sekundäre Gaseingang auf der linken Seite ist ein Wärmetauschereingang und ermöglicht den Wärmeaustausch zwischen dem sekundären Eingangsrohr und der internen Atmosphäre der Kondensationskammer. In Verbindung mit {THING:StructureEvaporationChamber} können Stationeers die Phasenwechseleigenschaften von Gasen nutzen, um eine DIY-Klimaanlage zu bauen.</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructurePipeCowl</Key>
+    <Value>Pfeifenkopf</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureLowVolumeLiquidPipeStraight</Key>
+    <Value>Niedervolumige Flüssigkeitsleitung (gerade)<Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureFuselage1x1</Key>
+    <Value>Rumpf 1x1</Value>
+  </RecordThing>
 </Things>
 <Slots>
+  <Record>
+    <Key>Recharge</Key>
+    <Value>Aufladen</Value>
+  </Record>
+  <Record>
+    <Key>ThingOverPressure</Key>
+    <Value>{LOCAL:Thing} hat Überdruck!</Value>
+  </Record>
+  <Record>
+    <Key>WeldingWillLockDoor</Key>
+    <Value>Durch Schweißen wird das {LOCAL:Thing} an seinem Platz fixiert</Value>
+  </Record>
+  <Record>
+    <Key>PlacementBlockedByRocket</Key>
+    <Value>Platzierung wird durch eine Rakete blockiert</Value>
+  </Record>
+  <Record>
+    <Key>PlacementRequiresFrameOrGround</Key>
+    <Value>Die Platzierung erfordert einen Rahmen oder einen festen Untergrund zur Unterstützung</Value>
+  </Record>
+  <Record>
+    <Key>CartridgeAtmosAnalyserStressTitle</Key>
+    <Value>STRESS</Value>
+  </Record>
+  <Record>
+    <Key>EvaporationChamberHeatConnection</Key>
+    <Value>Anschluss für Gaswärmeaustausch</Value>
+  </Record>
+  <Record>
+    <Key>PlacementRequiresPipeValve</Key>
+    <Value>Muss hinter einem Rohrleitungsventil (oder einem anderen atmosphärischen Gerät) angebracht werden</Value>
+  </Record>
+  <Record>
+    <Key>CondensationChamberGasConnection</Key>
+    <Value>Anschluss für Gaseingang</Value>
+  </Record>
+  <Record>
+    <Key>RocketRotationFail</Key>
+    <Value>Alle Raketenteile müssen in die gleiche Richtung gedreht werden.</Value>
+  </Record>
+  <Record>
+    <Key>MoleMixtureMustBePure</Key>
+    <Value>Erfordert ein &lt;color=#44AD83&gt;reines Gasgemisch&lt;/color&gt; nur aus den aufgeführten Typen</Value>
+  </Record>
+  <Record>
+    <Key>InputSetting</Key>
+    <Value>Einstellung</Value>
+  </Record>
+  <Record>
+    <Key>LiquidInGasPipe</Key>
+    <Value>Es befindet sich &lt;color=red&gt;Flüssigkeit&lt;/color&gt; in der Leitung</Value>
+  </Record>
+  <Record>
+    <Key>EvaporationChamberLiquidConnection</Key>
+    <Value>Anschluss für Flüssigkeitseingang</Value>
+  </Record>
+  <Record>
+    <Key>RequiredContinueConstruction</Key>
+    <Value>Erforderlich, um den Bau fortzusetzen</Value>
+  </Record>
+  <Record>
+    <Key>PhaseDiagramTemperatureDisplay</Key>
+    <Value>Temperatur:</Value>
+  </Record>
+  <Record>
+    <Key>LiquidPollutant</Key>
+    <Value>Flüssiger Schadstoff</Value>
+  </Record>
   <Record>
     <Key>LogicTypeRatioLiquidNitrogenOutput</Key>
     <Value>Das Verhältnis von {GAS:LiquidNitrogen} im Ausgangsnetz des Geräts</Value>
