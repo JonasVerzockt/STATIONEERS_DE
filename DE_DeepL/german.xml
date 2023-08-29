@@ -146,7 +146,7 @@
     </RecordReagent>
     <RecordReagent>
       <Key>ColorYellow</Key>
-      <Value>Gelb Färbung</Value>
+      <Value>Gelbe Färbung</Value>
       <Unit>g</Unit>
     </RecordReagent>
     <RecordReagent>
@@ -239,7 +239,7 @@
     </Record>
     <Record>
       <Key>Pollutant</Key>
-      <Value>Verursacher</Value>
+      <Value>Schadstoff</Value>
     </Record>
     <Record>
       <Key>Water</Key>
@@ -255,11 +255,11 @@
     </Record>
     <Record>
       <Key>LiquidOxygen</Key>
-      <Value>Flüssig-Sauerstoff</Value>
+      <Value>Flüssiger Sauerstoff</Value>
     </Record>
     <Record>
       <Key>LiquidVolatiles</Key>
-      <Value>Flüssige flüchtige Stoffe</Value>
+      <Value>Flüssiger flüchtige Stoffe</Value>
     </Record>
     <Record>
       <Key>Steam</Key>
@@ -267,7 +267,7 @@
     </Record>
     <Record>
       <Key>LiquidCarbonDioxide</Key>
-      <Value>Flüssiges Kohlendioxid</Value>
+      <Value>Flüssiger Kohlendioxid</Value>
     </Record>
     <Record>
       <Key>LiquidPollutant</Key>
@@ -275,7 +275,7 @@
     </Record>
     <Record>
       <Key>LiquidNitrousOxide</Key>
-      <Value>Flüssiges Distickstoffoxid</Value>
+      <Value>Flüssiger Distickstoffoxid</Value>
     </Record>
   </Gases>
   <Actions>
@@ -289,19 +289,19 @@
     </Record>
     <Record>
       <Key>Mine</Key>
-      <Value>Mine</Value>
+      <Value>Schachtn</Value>
     </Record>
     <Record>
       <Key>Swap</Key>
-      <Value>Tauschen Sie</Value>
+      <Value>Tauschen</Value>
     </Record>
     <Record>
       <Key>Clear</Key>
-      <Value>Klar</Value>
+      <Value>Löschen</Value>
     </Record>
     <Record>
       <Key>Collect</Key>
-      <Value>Sammeln Sie</Value>
+      <Value>Sammeln</Value>
     </Record>
     <Record>
       <Key>Add</Key>
@@ -309,7 +309,7 @@
     </Record>
     <Record>
       <Key>Insert</Key>
-      <Value>Einsatz</Value>
+      <Value>einfügen</Value>
     </Record>
     <Record>
       <Key>Remove</Key>
@@ -317,19 +317,19 @@
     </Record>
     <Record>
       <Key>Pickup</Key>
-      <Value>Pickup</Value>
+      <Value>Aufheben</Value>
     </Record>
     <Record>
       <Key>Take</Key>
-      <Value>Nehmen Sie</Value>
+      <Value>Nehmen</Value>
     </Record>
     <Record>
       <Key>Build</Key>
-      <Value>Bauen Sie</Value>
+      <Value>Bauen</Value>
     </Record>
     <Record>
       <Key>Consume</Key>
-      <Value>Verbrauchen Sie</Value>
+      <Value>Verbrauchen</Value>
     </Record>
     <Record>
       <Key>ConsumeFail</Key>
@@ -337,7 +337,7 @@
     </Record>
     <Record>
       <Key>Plant</Key>
-      <Value>Pflanze</Value>
+      <Value>Pflanzen</Value>
     </Record>
     <Record>
       <Key>Water</Key>
@@ -349,11 +349,11 @@
     </Record>
     <Record>
       <Key>Open</Key>
-      <Value>Öffnen Sie</Value>
+      <Value>Öffnen</Value>
     </Record>
     <Record>
       <Key>Close</Key>
-      <Value>Schließen Sie</Value>
+      <Value>Schließen</Value>
     </Record>
     <Record>
       <Key>Opened</Key>
@@ -369,7 +369,7 @@
     </Record>
     <Record>
       <Key>On</Key>
-      <Value>Auf</Value>
+      <Value>An</Value>
     </Record>
     <Record>
       <Key>Powered</Key>
@@ -389,23 +389,23 @@
     </Record>
     <Record>
       <Key>Construct</Key>
-      <Value>Konstruieren Sie</Value>
+      <Value>Konstruieren</Value>
     </Record>
     <Record>
       <Key>Deconstruct</Key>
-      <Value>Dekonstruieren Sie</Value>
+      <Value>Dekonstruieren</Value>
     </Record>
     <Record>
       <Key>Disconnect</Key>
-      <Value>Trennen Sie die Verbindung</Value>
+      <Value>Trennen</Value>
     </Record>
     <Record>
       <Key>Connect</Key>
-      <Value>Verbinden Sie</Value>
+      <Value>Verbinden</Value>
     </Record>
     <Record>
       <Key>Load</Key>
-      <Value>Laden Sie</Value>
+      <Value>Laden</Value>
     </Record>
     <Record>
       <Key>Unload</Key>
@@ -421,11 +421,11 @@
     </Record>
     <Record>
       <Key>Lock</Key>
-      <Value>Schloss</Value>
+      <Value>Sperren</Value>
     </Record>
     <Record>
       <Key>Unlock</Key>
-      <Value>freischalten</Value>
+      <Value>entsperren</Value>
     </Record>
     <Record>
       <Key>Rename</Key>
@@ -433,19 +433,19 @@
     </Record>
     <Record>
       <Key>Up</Key>
-      <Value>Nach oben</Value>
+      <Value>oben</Value>
     </Record>
     <Record>
       <Key>Down</Key>
-      <Value>Daunen</Value>
+      <Value>unten</Value>
     </Record>
     <Record>
       <Key>CallElevator</Key>
-      <Value>Rufen Sie  an.</Value>
+      <Value>Rufen</Value>
     </Record>
     <Record>
       <Key>Set</Key>
-      <Value>Satz</Value>
+      <Value>setzen</Value>
     </Record>
     <Record>
       <Key>Cycle</Key>
@@ -461,23 +461,23 @@
     </Record>
     <Record>
       <Key>Vend</Key>
-      <Value>Vend</Value>
+      <Value>verkaufen</Value>
     </Record>
     <Record>
       <Key>Link</Key>
-      <Value>Link</Value>
+      <Value>verbinden</Value>
     </Record>
     <Record>
       <Key>UnLink</Key>
-      <Value>UnLink</Value>
+      <Value>entkoppeln</Value>
     </Record>
     <Record>
       <Key>ForceFeed</Key>
-      <Value>Zwangsvorschub</Value>
+      <Value>Essen erzwingen</Value>
     </Record>
     <Record>
       <Key>FlipRover</Key>
-      <Value>Flip Rover</Value>
+      <Value>Rover Umdrehen</Value>
     </Record>
     <Record>
       <Key>Idle</Key>
@@ -642,71 +642,71 @@ Einfach mit einem {THING:StructureBench} und einem {THING:ItemWrench} an den Str
     <RecordThing>
       <Key>BodyPartChickHead</Key>
       <Value>Körperteil Küken Kopf</Value>
-      <Description>Der Kopf eines Huhns. Einst hatte es das Herz eines Tigers.</Description>
+      <Description>Der Kopf eines Kücken. Einst hatte es das Herz eines Tigers.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickLegL</Key>
       <Value>Körperteil Küken Bein)</Value>
-      <Description>A chicken leg.</Description>
+      <Description>Ein Kücken Bein.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickLegR</Key>
       <Value>Körperteil Küken Bein R</Value>
-      <Description>A chicken leg.</Description>
+      <Description>Ein Kücken Bein.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickTail</Key>
       <Value>Körperteil Kükenschwanz</Value>
-      <Description>Der Schwanz eines Huhns.</Description>
+      <Description>Der Schwanz eines Kücken.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickWingL</Key>
       <Value>Körperteil Kükenflügel)</Value>
-      <Description>Ein Hühnerflügel.</Description>
+      <Description>Ein Kückenflügel.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickWingR</Key>
-      <Value>Körperteil Chick Wing R</Value>
-      <Description>Ein Hühnerflügel.</Description>
+      <Value>Körperteil Kückenflügel R</Value>
+      <Description>Ein Kückenflügel.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartGraylienArmL</Key>
-      <Value>Körperteil Graylien Arm L</Value>
+      <Value>Körperteil Außerirdischen Arm L</Value>
       <Description>Der Arm eines Außerirdischen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartGraylienArmR</Key>
-      <Value>Körperteil Graylien Arm R</Value>
+      <Value>Körperteil Außerirdischen Arm R</Value>
       <Description>Der Arm eines Außerirdischen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartGraylienBody</Key>
-      <Value>Körperteil Graylien Körper</Value>
+      <Value>Körperteil Außerirdischen Körper</Value>
       <Description>Der Körper eines Außerirdischen oder eine sehr überzeugende Fälschung.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartGraylienHead</Key>
-      <Value>Körperteil Graylien Kopf</Value>
+      <Value>Körperteil Außerirdischen Kopf</Value>
       <Description>Der Kopf eines Außerirdischen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartGraylienLegL</Key>
-      <Value>Körperteil Graylien Bein L</Value>
+      <Value>Körperteil Außerirdischen Bein L</Value>
       <Description>Das Bein eines Außerirdischen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartGraylienLegR</Key>
-      <Value>Körperteil Graylien Bein R</Value>
+      <Value>Körperteil Außerirdischen Bein R</Value>
       <Description>Das andere Bein eines Aliens.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartGraylienPelvis</Key>
-      <Value>Körperteil Graylien Becken</Value>
+      <Value>Körperteil Außerirdischen Becken</Value>
       <Description>Das Becken eines Außerirdischen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBlackBody</Key>
-      <Value>Körperteil Rooster Black Body</Value>
+      <Value>Körperteil Hahn Schwarz Körper</Value>
       <Description>Der Körper eines Hahns.</Description>
     </RecordThing>
     <RecordThing>
@@ -736,12 +736,12 @@ Einfach mit einem {THING:StructureBench} und einem {THING:ItemWrench} an den Str
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBlackWingR</Key>
-      <Value>Körperteil Rooster Black Wing R</Value>
+      <Value>Körperteil Hahn Schwarz Flügel R</Value>
       <Description>Der Flügel eines Hahns.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBrownBody</Key>
-      <Value>Körperteil Rooster Brown Body</Value>
+      <Value>Körperteil Hahn Braun Körper</Value>
       <Description>Der Körper eines Hahns.</Description>
     </RecordThing>
     <RecordThing>
@@ -771,13 +771,13 @@ Einfach mit einem {THING:StructureBench} und einem {THING:ItemWrench} an den Str
     </RecordThing>
     <RecordThing>
       <Key>BodyPartRoosterBrownWingR</Key>
-      <Value>Körperteil Rooster Brown Wing R</Value>
+      <Value>Körperteil Hahn Braun Flügel R</Value>
       <Description>Der Flügel eines braunen Hahns. Nun, bräunlich.</Description>
     </RecordThing>
     <RecordThing>
       <Key>CartridgeAtmosAnalyser</Key>
-      <Value>Atmos Analyzer</Value>
-      <Description>Der Lorenz atmos Analysator ist ein multifunktionales Massenspektrometer, das von {LINK:ExMin;ExMin} für die Verwendung mit dem OreCore {THING:ItemTablet} entwickelt wurde. Er zeigt den Druck, die Konzentration und die molare Menge von {LINK:GasPage;gas} in Räumen, Tanks oder Rohrnetzen an.</Description>
+      <Value>Atmos Analysator</Value>
+      <Description>Der Lorenz Atmos Analysator ist ein multifunktionales Massenspektrometer, das von {LINK:ExMin;ExMin} für die Verwendung mit dem OreCore {THING:ItemTablet} entwickelt wurde. Er zeigt den Druck, die Konzentration und die molare Menge von {LINK:GasPage;gas} in Räumen, Tanks oder Rohrnetzen an.</Description>
     </RecordThing>
     <RecordThing>
       <Key>CartridgeMedicalAnalyser</Key>
@@ -791,7 +791,7 @@ Einfach mit einem {THING:StructureBench} und einem {THING:ItemWrench} an den Str
     </RecordThing>
     <RecordThing>
       <Key>Character</Key>
-      <Value>Zeichen</Value>
+      <Value>Charakter</Value>
       <Description>Das bist du.</Description>
     </RecordThing>
     <RecordThing>
@@ -801,7 +801,7 @@ Einfach mit einem {THING:StructureBench} und einem {THING:ItemWrench} an den Str
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardAirlockControl</Key>
-      <Value>Schleuse</Value>
+      <Value>Schleusenkontrolle</Value>
       <Description>Gerüchten zufolge wurde die Exgress-Luftschleusensteuerungsplatine von einem verärgerten Ingenieur zuerst auf einer {LINK:Norsec;Norsec} Toilettenwand skizziert. Ihre Vielseitigkeit und einfache Herstellung haben sie zum {LINK:Stationeers;Stationeers} bevorzugten Steuerungssystem für {THING:StructureAirlock} Zyklusprotokolle gemacht.
 
 Um in den Einrichtungsmodus zu gelangen, setzen Sie die Platine zusammen mit einer Datendiskette in einen {THING:StructureConsole} ein. In diesem Modus sehen Sie alle Objekte, auf die Daten zugreifen können und die derzeit mit dem {THING:StructureConsole} verbunden sind. Türen, Lichter, Gassensoren und Nebenkonsolen können ausgewählt werden (grün hervorgehoben) und werden gesteuert, sobald die Datendiskette entfernt wird.</Description>
@@ -817,7 +817,7 @@ Um in den Einrichtungsmodus zu gelangen, setzen Sie die Platine zusammen mit ein
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardDoorControl</Key>
-      <Value>Durch Kontrolle</Value>
+      <Value>Tür Kontrolle</Value>
       <Description>Als Basiswerkzeug der {LINK:Stationeers;Stationeer}-Basis-Konstruktion ermöglicht diese Platine das Öffnen und Schließen eines {THING:StructureCompositeDoor}, {THING:StructureBlastDoor} oder {THING:StructureGlassDoor} aus der Ferne, wenn sie mit einem {THING:StructureConsole} verbunden ist. Dieses System kann weiter mit {THING:StructureMotionSensor} verbunden werden, um automatische Türen zu schaffen.</Description>
     </RecordThing>
     <RecordThing>
@@ -854,8 +854,8 @@ Die Platine verfügt über zwei Modi: "Link" schaltet alle Geräte ein oder aus;
     </RecordThing>
     <RecordThing>
       <Key>DynamicCrate</Key>
-      <Value>Dynamische Kiste</Value>
-      <Description>Die bescheidene dynamische Kiste ist zu einem Symbol für {LINK:Stationeers;Stationeer} Erfindung und Unabhängigkeit geworden. Mit zwölf Schlitzen und Griffen an beiden Enden für einen einfachen Transport gehört sie zur Standardausrüstung von Kadetten und Kommandanten gleichermaßen.</Description>
+      <Value>Tragbare Kiste</Value>
+      <Description>Die bescheidene tragbare Kiste ist zu einem Symbol für {LINK:Stationeers;Stationeer} Erfindung und Unabhängigkeit geworden. Mit zwölf Schlitzen und Griffen an beiden Enden für einen einfachen Transport gehört sie zur Standardausrüstung von Kadetten und Kommandanten gleichermaßen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicCrateBuildingSupplies</Key>
@@ -868,7 +868,7 @@ Die Platine verfügt über zwei Modi: "Link" schaltet alle Geräte ein oder aus;
     </RecordThing>
     <RecordThing>
       <Key>DynamicCrateConveyorSupplies</Key>
-      <Value>Kiste (Förderbandzubehör)</Value>
+      <Value>Kiste (Schachtbandzubehör)</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicCratePipeSupplies</Key>
@@ -876,38 +876,38 @@ Die Platine verfügt über zwei Modi: "Link" schaltet alle Geräte ein oder aus;
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterAir</Key>
-      <Value>Portable Gas Tank (Air)</Value>
+      <Value>Tragbarer Gastank (Sauerstoff)</Value>
       <Description>Tragbare Gastanks dienen vor allem einem Zweck: der Lagerung von Gas. Aber man kann viel mit ihnen machen. Um den Tank aufzufüllen, schraubst du ihn an einen {THING:ItemTankConnector} und schließt ihn dann an ein Rohrnetz an. Vermeide es, den Druck auf über 10 MPa zu erhöhen, sonst passieren schlimme Dinge. Wenn er voll ist, kannst du einen {THING:ItemGasCanisterOxygen} auffüllen, indem du ihn an den gestreiften Teil des Tanks anschließt. Oder du kannst das Ventil mit variabler Durchflussrate des Tanks in einen Raum entlüften und eine Atmosphäre erzeugen. Sie lassen sich auch an Rovern und Raketen befestigen. Oder du kannst ihn umstoßen und das Rollen von Fässern üben. Die Möglichkeiten sind endlos.</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterCarbonDioxide</Key>
-      <Value>Portable Gas Tank (CO2)</Value>
-      <Description>Ortsbewegliche Gastanks dienen vor allem einem Zweck: der Lagerung von Gas. Um den Tank aufzufüllen, schrauben Sie ihn an einen {THING:ItemTankConnector} und schließen ihn dann an ein Rohrnetz an. Vermeide es, den Druck über 10 MPa zu erhöhen, sonst ... bumm. Wenn er voll ist, kannst du einen {THING:ItemGasCanisterCarbonDioxide} auffüllen, indem du ihn an den gestreiften Teil des Tanks anschließt. Oder du könntest das Ventil mit variabler Durchflussrate des Tanks in einen Raum entlüften und eine Atmosphäre schaffen ... sozusagen.</Description>
+      <Value>Tragbarer Gastank (CO2)</Value>
+      <Description>Tragbare Gastanks dienen vor allem einem Zweck: der Lagerung von Gas. Um den Tank aufzufüllen, schrauben Sie ihn an einen {THING:ItemTankConnector} und schließen ihn dann an ein Rohrnetz an. Vermeide es, den Druck über 10 MPa zu erhöhen, sonst ... bumm. Wenn er voll ist, kannst du einen {THING:ItemGasCanisterCarbonDioxide} auffüllen, indem du ihn an den gestreiften Teil des Tanks anschließt. Oder du könntest das Ventil mit variabler Durchflussrate des Tanks in einen Raum entlüften und eine Atmosphäre schaffen ... sozusagen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterEmpty</Key>
-      <Value>Portable Gas Tank</Value>
+      <Value>Tragbarer Gastank</Value>
       <Description>Tragbare Gasbehälter speichern Gas. Um einen solchen Tank aufzufüllen, schrauben Sie ihn an einen {THING:ItemTankConnector} und schließen ihn dann an ein Rohrnetz an. Vermeide es, den Druck über 10 MPa zu erhöhen, sonst passiert etwas Schlimmes. Wenn er voll ist, kannst du einen {THING:ItemGasCanisterEmpty} nachfüllen, indem du ihn an den gestreiften Teil des Tanks anschließt. Oder du kannst das Ventil mit variabler Durchflussrate des Tanks in einen Raum entlüften und eine Atmosphäre erzeugen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterFuel</Key>
-      <Value>Portable Gas Tank (Fuel)</Value>
-      <Description>Ortsbewegliche Tanks speichern Gas. Das können sie gut. Wenn Sie einen Tank auffüllen müssen, schrauben Sie ihn an einen {THING:ItemTankConnector} und schließen ihn dann an ein Rohrnetz an. Vermeide es, den Druck über 10 MPa zu erhöhen, sonst wird es unübersichtlich. Du kannst einen {THING:ItemGasCanisterFuel} auffüllen, indem du ihn an den gestreiften Teil des Tanks anschließt. Oder du kannst einen {THING:ItemWrench} verwenden, um ihn für später an einem Rover oder einer Rakete zu befestigen. Das bleibt wirklich dir überlassen.</Description>
+      <Value>Tragbarer Gastank (Treibstoff)</Value>
+      <Description>Tragbare Gastanks speichern Gas. Das können sie gut. Wenn Sie einen Tank auffüllen müssen, schrauben Sie ihn an einen {THING:ItemTankConnector} und schließen ihn dann an ein Rohrnetz an. Vermeide es, den Druck über 10 MPa zu erhöhen, sonst wird es unübersichtlich. Du kannst einen {THING:ItemGasCanisterFuel} auffüllen, indem du ihn an den gestreiften Teil des Tanks anschließt. Oder du kannst einen {THING:ItemWrench} verwenden, um ihn für später an einem Rover oder einer Rakete zu befestigen. Das bleibt wirklich dir überlassen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterNitrogen</Key>
-      <Value>Portable Gas Tank (Nitrogen)</Value>
-      <Description>Ortsbewegliche Tanks speichern Gas. Wenn du einen Tank auffüllen musst, schraube ihn mit einem {THING:ItemWrench} an einen {THING:ItemTankConnector} und schließe ihn dann an ein Rohrnetz an. Vermeiden Sie es, den Druck über 10 MPa zu erhöhen, sonst haben Sie {GAS:Nitrogen} an Stellen, die Sie nicht erwartet haben. Du kannst einen {THING:ItemGasCanisterNitrogen} nachfüllen, indem du ihn an den gestreiften Abschnitt des Tanks anschließt. Oder du kannst einen {THING:ItemWrench} verwenden, um ihn für später an einem Rover oder einer Rakete zu befestigen.</Description>
+      <Value>Tragbarer Gastank (Stickstoff)</Value>
+      <Description>Tragbare Gastanks speichern Gas. Wenn du einen Tank auffüllen musst, schraube ihn mit einem {THING:ItemWrench} an einen {THING:ItemTankConnector} und schließe ihn dann an ein Rohrnetz an. Vermeiden Sie es, den Druck über 10 MPa zu erhöhen, sonst haben Sie {GAS:Nitrogen} an Stellen, die Sie nicht erwartet haben. Du kannst einen {THING:ItemGasCanisterNitrogen} nachfüllen, indem du ihn an den gestreiften Abschnitt des Tanks anschließt. Oder du kannst einen {THING:ItemWrench} verwenden, um ihn für später an einem Rover oder einer Rakete zu befestigen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterOxygen</Key>
-      <Value>Portable Gas Tank (Sauerstoff)</Value>
-      <Description>Ortsbewegliche Tanks speichern Gas. Wenn du einen Tank auffüllen musst, schraube ihn mit einem {THING:ItemWrench} an einen {THING:ItemTankConnector} und schließe ihn dann an ein Rohrnetz an. Vermeiden Sie es, den Druck über 10 MPa zu erhöhen, da Sie sich sonst die Scherben des Tanks aus dem Gesicht reißen müssen. Du kannst einen {THING:ItemGasCanisterOxygen} nachfüllen, indem du ihn an den gestreiften Teil des Tanks anschließt. Oder du könntest ihn in einen versiegelten Raum entlüften, um eine Atmosphäre zu schaffen. Oder du malst ihn rosa an, nennst ihn Steve und füllst den traurigen Platz in deinem Herzen.</Description>
+      <Value>Tragbare Gastanks (Sauerstoff)</Value>
+      <Description>Tragbare Gastanks speichern Gas. Wenn du einen Tank auffüllen musst, schraube ihn mit einem {THING:ItemWrench} an einen {THING:ItemTankConnector} und schließe ihn dann an ein Rohrnetz an. Vermeiden Sie es, den Druck über 10 MPa zu erhöhen, da Sie sich sonst die Scherben des Tanks aus dem Gesicht reißen müssen. Du kannst einen {THING:ItemGasCanisterOxygen} nachfüllen, indem du ihn an den gestreiften Teil des Tanks anschließt. Oder du könntest ihn in einen versiegelten Raum entlüften, um eine Atmosphäre zu schaffen. Oder du malst ihn rosa an, nennst ihn Steve und füllst den traurigen Platz in deinem Herzen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterVolatiles</Key>
-      <Value>Portable Gas Tank (Volatiles)</Value>
-      <Description>Tragbare Tanks speichern Gas. Um ihn aufzufüllen, schrauben Sie ihn mit einem {THING:ItemWrench} an einen {THING:ItemTankConnector} und schließen ihn dann an ein Rohrnetz an. Füllen Sie ihn nicht über 10 MPa, es sei denn, Sie lieben komplizierte, brennbare Notfälle. Du kannst einen {THING:ItemGasCanisterVolatiles} nachfüllen, indem du ihn an den gestreiften Teil des Tanks anschließt. Oder du kannst einen {THING:ItemWrench} an einer Rakete befestigen und sie durch das Sonnensystem fliegen lassen.</Description>
+      <Value>Tragbare Gastanks (Flüchtige Stoffe)</Value>
+      <Description>Tragbare Gastanks speichern Gas. Um ihn aufzufüllen, schrauben Sie ihn mit einem {THING:ItemWrench} an einen {THING:ItemTankConnector} und schließen ihn dann an ein Rohrnetz an. Füllen Sie ihn nicht über 10 MPa, es sei denn, Sie lieben komplizierte, brennbare Notfälle. Du kannst einen {THING:ItemGasCanisterVolatiles} nachfüllen, indem du ihn an den gestreiften Teil des Tanks anschließt. Oder du kannst einen {THING:ItemWrench} an einer Rakete befestigen und sie durch das Sonnensystem fliegen lassen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterWater</Key>
@@ -924,7 +924,7 @@ Du kannst einen {THING:ItemGasCanisterWater} nachfüllen, indem du ihn an den ge
     <RecordThing>
       <Key>DynamicGenerator</Key>
       <Value>Tragbarer Generator</Value>
-      <Description>Der tragbare Generator ist der beste Freund jedes {LINK:Stationeers;Stationeer's} und bringt Sie schnell wieder zum Laufen. Füllen Sie ihn mit einem {THING:ItemGasCanisterFuel}, um einen {THING:ItemBatteryCell} zu betreiben und aufzuladen, oder schließen Sie ihn an einen {THING:StructurePowerConnector} an, um ihn mit Ihrem Stromnetz zu verbinden. Er ist druckbetrieben, funktioniert also bei niedrigeren Temperaturen effizienter und bei Unterkühlung WIRKLICH effizient. Die Perfektionierung der Kraftstoffmischung macht ebenfalls einen großen Unterschied.</Description>
+      <Description>Der tragbare Generator ist der beste Freund jedes {LINK:Stationeers;Stationeer's} und bringt Sie schnell wieder zum Laufen. Füllen Sie ihn mit einem {THING:ItemGasCanisterFuel}, um einen {THING:ItemBatteryCell} zu betreiben und aufzuladen, oder schließen Sie ihn an einen {THING:StructurePowerConnector} an, um ihn mit Ihrem Stromnetz zu verbinden. Er ist druckbetrieben, funktioniert also bei niedrigeren Temperaturen effizienter und bei Unterkühlung WIRKLICH effizient. Die Perfektionierung der Treibstoffmischung macht ebenfalls einen großen Unterschied.</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicLight</Key>
@@ -938,7 +938,7 @@ Du kannst einen {THING:ItemGasCanisterWater} nachfüllen, indem du ihn an den ge
     </RecordThing>
     <RecordThing>
       <Key>EffectSplatEgg</Key>
-      <Value>Effekt Splat-Ei</Value>
+      <Value>Effekt Spiegelei</Value>
     </RecordThing>
     <RecordThing>
       <Key>EntityAlien</Key>
@@ -947,12 +947,12 @@ Du kannst einen {THING:ItemGasCanisterWater} nachfüllen, indem du ihn an den ge
     </RecordThing>
     <RecordThing>
       <Key>EntityChick</Key>
-      <Value>Entität Chick</Value>
+      <Value>Entität Kücken</Value>
       <Description>Sobald ein Küken geschlüpft ist, wird es hungrig. Es wird Sojabohnen, Mais und Weizen fressen und Eier legen. Einige werden befruchtet und bringen weitere Hühner hervor. Andere wiederum nicht.</Description>
     </RecordThing>
     <RecordThing>
       <Key>EntityChickenBrown</Key>
-      <Value>Entität Chicken Brown</Value>
+      <Value>Entität Huhn Braun</Value>
       <Description>Wie so viele seiner Artgenossen ist auch dieses ein Huhn. Ein braunes Huhn. Es wird Sojabohnen, Mais und Weizen fressen und Eier legen. Einige werden befruchtet und bringen weitere Hühner hervor. Andere wiederum nicht.</Description>
     </RecordThing>
     <RecordThing>
@@ -967,27 +967,27 @@ Du kannst einen {THING:ItemGasCanisterWater} nachfüllen, indem du ihn an den ge
     </RecordThing>
     <RecordThing>
       <Key>EntityRoosterBlack</Key>
-      <Value>Entität Rooster Black</Value>
+      <Value>Entität Hahn Schwarz</Value>
       <Description>Dies ist ein Hahn. Er ist schwarz. Das hat etwas Würde.</Description>
     </RecordThing>
     <RecordThing>
       <Key>EntityRoosterBrown</Key>
-      <Value>Entität Rooster Brown</Value>
+      <Value>Entität Hahn Braun</Value>
       <Description>Der gewöhnliche braune Hahn. Lass ihn das nicht hören.</Description>
     </RecordThing>
     <RecordThing>
       <Key>GasTankAir</Key>
-      <Value>Gas Tank (Air)</Value>
-      <Description>Ortsbewegliche Gastanks speichern Gas, und zwar nur Gas. Um einen solchen Tank aufzufüllen, schrauben Sie ihn mit einem {THING:ItemWrench} an einen {THING:ItemTankConnector} und schließen ihn dann an ein Rohrnetz an. Vermeiden Sie es, den Druck über 100 Atmosphären zu erhöhen, oder Sie werden den feinen Geschmack des Bedauerns schmecken. Verwenden Sie Tanks, um einen {THING:ItemGasCanisterEmpty} zu füllen, indem Sie ihn an den gestreiften Abschnitt des Tanks anschließen. Du kannst ihn auch in einen versiegelten Raum entlüften, um eine Atmosphäre zu erzeugen, ihn an einem Rover befestigen und damit herumfahren oder ihn einfach für laute, teure Zielübungen verwenden.</Description>
+      <Value>Gas Tank (Sauerstoff)</Value>
+      <Description>Tragbare Gastanks speichern Gas, und zwar nur Gas. Um einen solchen Tank aufzufüllen, schrauben Sie ihn mit einem {THING:ItemWrench} an einen {THING:ItemTankConnector} und schließen ihn dann an ein Rohrnetz an. Vermeiden Sie es, den Druck über 100 Atmosphären zu erhöhen, oder Sie werden den feinen Geschmack des Bedauerns schmecken. Verwenden Sie Tanks, um einen {THING:ItemGasCanisterEmpty} zu füllen, indem Sie ihn an den gestreiften Abschnitt des Tanks anschließen. Du kannst ihn auch in einen versiegelten Raum entlüften, um eine Atmosphäre zu erzeugen, ihn an einem Rover befestigen und damit herumfahren oder ihn einfach für laute, teure Zielübungen verwenden.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemActiveVent</Key>
-      <Value>Bausatz (Active Vent)</Value>
+      <Value>Bausatz (Aktive Entlüftung)</Value>
       <Description>Wenn dieser Bausatz gebaut wird, legt er eine {THING:StructureActiveVent} auf eine beliebige Stützstruktur.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemAreaPowerControl</Key>
-      <Value>Bausatz (Leistungssteller)</Value>
+      <Value>Bausatz (Stromversorgungs-Controller)</Value>
       <Description>Dieser Bausatz platziert einen {THING:StructureAreaPowerControl} (APC) auf einer beliebigen Trägerstruktur. Der APC-Bausatz bietet zwei Optionen zur Auswahl der Richtung, in die der APC-Strom fließen soll.</Description>
     </RecordThing>
     <RecordThing>
@@ -1022,7 +1022,7 @@ Mit einer Ladung von 2,3 Megawatt (2304000W) stößt der "Nuke" an seine Grenzen
     </RecordThing>
     <RecordThing>
       <Key>ItemBook</Key>
-      <Value>Buchen Sie</Value>
+      <Value>Buch</Value>
       <Description>Im Gegensatz zu 8-Tracks, Laser-Disks und E-Mail sind Bücher nie ganz verschwunden. Die Technologie mag sich weiterentwickelt haben, aber etwas an der Beschaffenheit und Attraktivität des physischen Buches hat dafür gesorgt, dass es in einer einzigartigen, wenn auch leicht irrationalen Informationsnische überlebt hat.</Description>
     </RecordThing>
     <RecordThing>
@@ -1033,17 +1033,17 @@ Normale Spulen haben eine maximale Wattleistung von 5 kW. Für Anwendungen mit h
     </RecordThing>
     <RecordThing>
       <Key>ItemChemLightBlue</Key>
-      <Value>Chem Light (Blue)</Value>
+      <Value>Chemisches Licht (Blau)</Value>
       <Description>Eine sichere und leicht rabiate Quelle für blaues Licht. Schnell zu aktivieren.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemChemLightGreen</Key>
-      <Value>Chemisches Licht (grün)</Value>
+      <Value>Chemisches Licht (Grün)</Value>
       <Description>Belebe den tristen, luftleeren Felsen mit diesem leuchtenden grünen Licht. Zum Aktivieren einrasten.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemChemLightRed</Key>
-      <Value>Chemisches Licht (rot)</Value>
+      <Value>Chemisches Licht (Rot)</Value>
       <Description>Ein roter Leuchtstab. Zum Aktivieren einrasten. Dann greife nach den Lasern.</Description>
     </RecordThing>
     <RecordThing>
@@ -1053,7 +1053,7 @@ Normale Spulen haben eine maximale Wattleistung von 5 kW. Für Anwendungen mit h
     </RecordThing>
     <RecordThing>
       <Key>ItemChemLightYellow</Key>
-      <Value>Chemisches Licht (gelb)</Value>
+      <Value>Chemisches Licht (Gelb)</Value>
       <Description>Vertreibe die Dunkelheit mit diesem gelben Leuchtstab.</Description>
     </RecordThing>
     <RecordThing>
@@ -1063,7 +1063,7 @@ Normale Spulen haben eine maximale Wattleistung von 5 kW. Für Anwendungen mit h
     </RecordThing>
     <RecordThing>
       <Key>ItemCompositeFloorGrating</Key>
-      <Value>Verbundwerkstoff-Bodenroste</Value>
+      <Value>Komposit-Bodenroste</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -1083,7 +1083,7 @@ Normale Spulen haben eine maximale Wattleistung von 5 kW. Für Anwendungen mit h
     </RecordThing>
     <RecordThing>
       <Key>ItemDrill</Key>
-      <Value>Hand Drill</Value>
+      <Value>Handbohrmaschine</Value>
       <Description>Die abgewinkelte Handbohrmaschine {LINK:ExMin;ExMin} ist seit Jahrzehnten ein Begleiter von {LINK:Stationeers;Stationeers}. Unverzichtbar für den Zusammenbau und die Demontage verschiedener Gegenstände und Strukturen, unabhängig von Schwerkraft, Druck oder Temperatur.</Description>
     </RecordThing>
     <RecordThing>
@@ -1094,7 +1094,7 @@ Anwendung: Klebeband in die aktive Hand nehmen und die rechte Maustaste gedrück
     </RecordThing>
     <RecordThing>
       <Key>ItemDynamite</Key>
-      <Value>Dynamite</Value>
+      <Value>Dynamit</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -1106,7 +1106,7 @@ Wenn ein Ei befruchtet wurde und zwischen 20C-30C gehalten wird, entsteht ein {T
     </RecordThing>
     <RecordThing>
       <Key>ItemEggBottom</Key>
-      <Value>Ei-Boden</Value>
+      <Value>Ei-Unten</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -1116,7 +1116,7 @@ Wenn ein Ei befruchtet wurde und zwischen 20C-30C gehalten wird, entsteht ein {T
     </RecordThing>
     <RecordThing>
       <Key>ItemEggTop</Key>
-      <Value>Eierkreisel</Value>
+      <Value>Ei-Oben</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -1165,17 +1165,17 @@ Achten Sie darauf, den Druck nicht über 10 MPa zu erhöhen, da es sonst zu eine
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterFuel</Key>
-      <Value>Kanister (Kraftstoff)</Value>
-      <Description>The orange portable {LINK:GasPage;fuel} {SLOT:GasCanister} supplies a 64L mixture of 66% {GAS:Volatiles}/34% {GAS:Oxygen} for powering such items such as the {THING:ItemWeldingTorch} and the {THING:DynamicGenerator}. Alle Gasbehälter sind voll, wenn sie bei einem Druck von 8000kPa (80 Atmosphären) hergestellt werden, und können zum Auffüllen an eine {THING:DynamicGasCanisterAir} oder {THING:StructureGasTankStorage} angeschlossen werden.
+      <Value>Kanister (Treibstoff)</Value>
+      <Description>Der orangefarbene tragbare {LINK:GasPage;fuel} {SLOT:GasCanister} liefert ein 64L-Gemisch aus 66% {GAS:Volatiles}/34% {GAS:Oxygen} für den Antrieb von Gegenständen wie dem {THING:ItemWeldingTorch} und dem {THING:DynamicGenerator}. Alle Gasbehälter sind voll, wenn sie bei einem Druck von 8000kPa (80 Atmosphären) hergestellt werden, und können zum Auffüllen an eine {THING:DynamicGasCanisterAir} oder {THING:StructureGasTankStorage} angeschlossen werden.
 Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst zu einem "Knall" kommen kann.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterVolatiles</Key>
-      <Value>Kanister (flüchtige Stoffe)</Value>
+      <Value>Kanister (Flüchtige Stoffe)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterNitrogen</Key>
-      <Value>Kanister (Nitrogen)</Value>
+      <Value>Kanister (Stickstoff)</Value>
       <Description>Das grüne tragbare {GAS:Nitrogen} {SLOT:GasCanister} liefert Treibmittel für die {THING:ItemSpacepack} und die {THING:ItemHardJetpack}. Alle Gaskanister sind voll, wenn sie bei einem Druck von 8000 kPa (80 Atmosphären) hergestellt werden, und können zum Auffüllen an eine {THING:DynamicGasCanisterAir} oder {THING:StructureGasTankStorage} angebracht werden.
 Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst zu einem "Knall" kommen kann.</Description>
     </RecordThing>
@@ -1197,17 +1197,17 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterCarbonDioxide</Key>
-      <Value>Filter (Carbon Dioxide)</Value>
+      <Value>Filter (Kohlendioxid)</Value>
       <Description>Angesichts der Besessenheit der Menschheit, {GAS:CarbonDioxide} auszuatmen, erhalten alle {LINK:Stationeers;Stationeers} zwei grundlegende {LINK:Sinotai;Sinotai} {GAS:CarbonDioxide} {SLOT:GasFilter} als Teil ihres Standard-Einsatzkits (SDK). Diese Filter ermöglichen den Durchgang von {GAS:CarbonDioxide} in den Abfall {THING:ItemGasCanisterEmpty} des Anzugs, sind aber auch wichtige Bestandteile der {THING:DynamicScrubber} und {THING:StructureFiltration}. Die {THING:ItemGasFilterCarbonDioxideM} und {THING:ItemGasFilterCarbonDioxideL} sind ebenfalls erhältlich.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterPollutants</Key>
-      <Value>Filter (Pollutant)</Value>
+      <Value>Filter (Schadstoff)</Value>
       <Description>Filter werden verwendet, um verschiedene Gase aufzufangen, z. B. Abgase aus einem {THING:StructureFurnace} oder {THING:StructureArcFurnace}. Durch Hinzufügen von {LINK:Sinotai;Sinotai} konzipierten {GAS:Pollutant} Filtern zu einem {THING:ItemDynamicScrubber} können Sie dieses Gas isolieren, es dann in ein Rohrnetz einspeisen und seine ausgezeichneten Kühlmitteleigenschaften in einem {THING:StructureWallCooler} nutzen. Versuchen Sie, es nicht einzuatmen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterNitrogen</Key>
-      <Value>Filter (Nitrogen)</Value>
+      <Value>Filter (Stickstoff)</Value>
       <Description>Mit Filtern werden verschiedene Gase aufgefangen, die entsorgt oder anderweitig verwendet werden können. {GAS:Nitrogen} ist ein Nebenprodukt der Verhüttung verschiedener Erze, insbesondere {THING:ItemNitrice}, das mit {GAS:Oxygen} kombiniert werden kann, um eine atembare - und wesentlich weniger entflammbare - Atmosphäre zu schaffen.</Description>
     </RecordThing>
     <RecordThing>
@@ -1217,12 +1217,12 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterVolatiles</Key>
-      <Value>Filter (Volatiles)</Value>
+      <Value>Filter (Flüchtige Stoffe)</Value>
       <Description>Filter werden verwendet, um verschiedene Gase aufzufangen, die dann entsorgt oder anderweitig verwendet werden können. {GAS:Volatiles} werden erzeugt, indem {THING:ItemVolatiles} der Hitze ausgesetzt wird. Das Produkt kann dann gesammelt und mit {GAS:Oxygen} kombiniert werden, um Brennstoff zu erzeugen, oder in einem {THING:StructureFurnace} verwendet werden, um Erze zu schmelzen und {LINK:IngotPage;alloys} zu erzeugen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterWater</Key>
-      <Value>Filter (Water)</Value>
+      <Value>Filter (Wasser)</Value>
       <Description>{LINK:Sinotai;Sinotai} Filter werden zum Auffangen verschiedener Gase verwendet, die entsorgt oder anderweitig verwendet werden können. {GAS:Water} kann durch Filtern von geschmolzenem {THING:ItemIce} gesammelt werden</Description>
     </RecordThing>
     <RecordThing>
@@ -1262,7 +1262,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     </RecordThing>
     <RecordThing>
       <Key>ItemGrenade</Key>
-      <Value>Hand Grenade</Value>
+      <Value>Handgranate</Value>
       <Description>Das Wort "Granate" wurde von den Römern erfunden, die das Griechische Feuer in Keramikgefäßen auf ihre Feinde warfen. Es leitet sich vom altfranzösischen Wort für "Granatapfel" ab, da viele moderne Granaten dieser runden, vielsamigen Frucht ähneln. Wie viele Granaten vor ihr macht auch diese bumm und zerbricht Dinge.</Description>
     </RecordThing>
     <RecordThing>
@@ -1272,7 +1272,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     </RecordThing>
     <RecordThing>
       <Key>ItemHealPill</Key>
-      <Value>Pille heilen</Value>
+      <Value>Heilpille</Value>
       <Description>Drei Jahrhunderte pharmazeutischer Technologie komprimiert in einer kleinen, leicht einzunehmenden Pille: Die Heal Pill, auch bekannt als Proton Pill, auch bekannt als Mr. Happy, enthält aktive Enzyme, therapeutische Proteine, modifizierte mikrobielle Stämme und Säugetierzelllinien-Analoga in einer Einzeldosis von hoher Reinheit, Wirksamkeit und Potenz, die eine schnelle parasympathische Immunantwort potenziert.</Description>
     </RecordThing>
     <RecordThing>
@@ -1287,7 +1287,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     </RecordThing>
     <RecordThing>
       <Key>ItemHydroponicTray</Key>
-      <Value>Bausatz (Hydroponische Schale)</Value>
+      <Value>Bausatz (Hydroponisches Beet)</Value>
       <Description>Diese Kits schaffen eine {THING:StructureHydroponicsTray} für den Anbau verschiedener Pflanzen.</Description>
     </RecordThing>
     <RecordThing>
@@ -1297,7 +1297,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     </RecordThing>
     <RecordThing>
       <Key>ItemIgniter</Key>
-      <Value>Bausatz (Igniter)</Value>
+      <Value>Bausatz (Zündvorrichtung)</Value>
       <Description>Dieser Bausatz erzeugt eine {THING:ItemIgniter} Einheit.</Description>
     </RecordThing>
     <RecordThing>
@@ -1337,7 +1337,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     </RecordThing>
     <RecordThing>
       <Key>ItemKitChute</Key>
-      <Value>Bausatz (Basisrutschen)</Value>
+      <Value>Bausatz (Basisschächte)</Value>
       <Description>Mit diesem Bausatz lassen sich verschiedene unmotorisierte Schächte herstellen.</Description>
     </RecordThing>
     <RecordThing>
@@ -1352,12 +1352,12 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     </RecordThing>
     <RecordThing>
       <Key>ItemKitConveyor</Key>
-      <Value>Bausatz (Förderbänder)</Value>
-      <Description>Mit diesem Bausatz werden Förderelemente, wie z. B. die {THING:StructureConveyorStraight}.</Description>
+      <Value>Bausatz (Schachtbänder)</Value>
+      <Description>Mit diesem Bausatz werden Schachtelemente, wie z. B. die {THING:StructureConveyorStraight}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitCryoTube</Key>
-      <Value>Bausatz (Kryoröhrchen)</Value>
+      <Value>Bausatz (Kryoröhren)</Value>
       <Description>Dieser Bausatz stellt eine Reihe von Kryoröhren her, die zur Heilung von Spielern und Spielerorganen sowie zur Wiederbelebung toter Spieler verwendet werden können</Description>
     </RecordThing>
     <RecordThing>
@@ -1367,17 +1367,17 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFabricator</Key>
-      <Value>Bausatz (Fabricator)</Value>
+      <Value>Bausatz (Verarbeiter)</Value>
       <Description>Dieses Kit erzeugt eine einzelne {THING:StructureFabricator}. (nur im Kreativ-Modus)</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFurnace</Key>
-      <Value>Bausatz (Furnace)</Value>
+      <Value>Bausatz (Ofen)</Value>
       <Description>Dieser Bausatz erzeugt eine einzige {THING:StructureFurnace}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFurniture</Key>
-      <Value>Bausatz (Furniture)</Value>
+      <Value>Bausatz (Möbel)</Value>
       <Description>Dieser Satz ergibt einen Bereich von {LINK:FurniturePage;furniture}.</Description>
     </RecordThing>
     <RecordThing>
@@ -1397,13 +1397,13 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSign</Key>
-      <Value>Bausatz (Sign)</Value>
+      <Value>Bausatz (Schilder)</Value>
       <Description>Dieser Satz ergibt eine {THING:StructureSign1x1} oder {THING:StructureSign2x1}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSleeper</Key>
-      <Value>Bausatz (Schläfer)</Value>
-      <Description>Dieser Bausatz enthält eine Reihe von Schläfern, die die Spieler mit Flüssigkeit und Nahrung versorgen, während sie ausgeloggt sind - vorausgesetzt, es wird eine atmungsaktive Atmosphäre geschaffen.</Description>
+      <Value>Bausatz (Schlafkabine)</Value>
+      <Description>Dieser Bausatz enthält eine Reihe von Schlafkabinen, die die Spieler mit Flüssigkeit und Nahrung versorgen, während sie ausgeloggt sind - vorausgesetzt, es wird eine atmungsaktive Atmosphäre geschaffen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSolarPanel</Key>
@@ -1412,12 +1412,12 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStairs</Key>
-      <Value>Bausatz (Stairs)</Value>
+      <Value>Bausatz (Treppe)</Value>
       <Description>Dieser Bausatz enthält eine {THING:StructureStairs4x2} und mehrere Varianten.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStellarAnchor</Key>
-      <Value>Bausatz (Stellar Anchor)</Value>
+      <Value>Bausatz (Stellaranker)</Value>
       <Description>Dieser Bausatz erzeugt eine einzige {THING:StructureStellarAnchor}.</Description>
     </RecordThing>
     <RecordThing>
@@ -1442,7 +1442,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWall</Key>
-      <Value>Bausatz (Wall)</Value>
+      <Value>Bausatz (Wand)</Value>
       <Description>Mit diesem Bausatz lassen sich eine Reihe von zusammengesetzten Wandelementen und Fenstern herstellen.</Description>
     </RecordThing>
     <RecordThing>
@@ -1477,7 +1477,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     </RecordThing>
     <RecordThing>
       <Key>ItemPickaxe</Key>
-      <Value>Pickaxe</Value>
+      <Value>Spitzhacke</Value>
       <Description>Wenn die Sonne untergeht und der {THING:ItemMiningDrill} leer läuft, seine Batterien leer sind und dein {THING:StructureSolarPanel} kalt und leblos ist, der {THING:StructureAutolathe} leer, der Weg nach vorne unklar, hält eine Sache die endlose Nacht der Niederlage zurück: die treue Spitzhacke.</Description>
     </RecordThing>
     <RecordThing>
@@ -1487,12 +1487,12 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     </RecordThing>
     <RecordThing>
       <Key>ItemPillStun</Key>
-      <Value>Pille (Lähmung)</Value>
+      <Value>Pille (giftig)</Value>
       <Description>Die Existenz dieser Pille ist ein offenes Geheimnis, auch wenn sie kaum bekannt gemacht wird. Das Sayonara-Zäpfchen wird verwendet, wenn alles andere versagt hat, und macht den durchschnittlichen {LINK:Stationeers;Stationeer} schnell unschädlich. Die Art der Verabreichung stellt sicher, dass ein Stationeer, der sich für die Einnahme dieser Pille entscheidet, sie auch wirklich wollen muss.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeAnalyizer</Key>
-      <Value>Bausatz (Pipe Analyzer)</Value>
+      <Value>Bausatz (Rohranalysegerät)</Value>
       <Description>Dieser Bausatz erzeugt eine {THING:StructurePipeAnalysizer}.</Description>
     </RecordThing>
     <RecordThing>
@@ -1507,17 +1507,17 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeCrossJunction3</Key>
-      <Value>Bausatz (Rohr 3-Wege-Kreuzung)</Value>
+      <Value>Bausatz (Gasrohr 3-Wege-Kreuzung)</Value>
       <Description>Dieser Bausatz erzeugt eine {THING:StructurePipeCrossJunction3}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeCrossJunction5</Key>
-      <Value>Bausatz (Rohr 5-Wege-Verzweigung)</Value>
+      <Value>Bausatz (Gasrohr 5-Wege-Verzweigung)</Value>
       <Description>Dieser Bausatz erzeugt eine {THING:StructurePipeCrossJunction5}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeCrossJunction6</Key>
-      <Value>Bausatz (Rohr 6-Wege-Verbindung)</Value>
+      <Value>Bausatz (Gasrohr 6-Wege-Kreuzung)</Value>
       <Description>Dieser Bausatz erzeugt eine {THING:StructurePipeCrossJunction6}.</Description>
     </RecordThing>
     <RecordThing>
@@ -1532,12 +1532,12 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeLabel</Key>
-      <Value>Bausatz (Pipe Label)</Value>
+      <Value>Bausatz (Gasrohr-Etikett)</Value>
       <Description>Dieser Bausatz erzeugt eine {THING:StructurePipeLabel}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeMeter</Key>
-      <Value>Bausatz (Pipe Meter)</Value>
+      <Value>Bausatz (Rohrzähler)</Value>
       <Description>Dieser Bausatz erzeugt eine {THING:StructurePipeMeter}.</Description>
     </RecordThing>
     <RecordThing>
@@ -1552,7 +1552,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeTJunction</Key>
-      <Value>Bausatz (Rohr-T-Abzweigung)</Value>
+      <Value>Bausatz (Gasrohr-T-Abzweigung)</Value>
       <Description>Dieser Bausatz erzeugt eine {THING:StructurePipeTJunction}.</Description>
     </RecordThing>
     <RecordThing>
@@ -1562,7 +1562,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeVolumePump</Key>
-      <Value>Bausatz (Volume Pump)</Value>
+      <Value>Bausatz (Volumen Pumpe)</Value>
       <Description>Dieser Bausatz erzeugt eine {THING:StructureVolumePump}.</Description>
     </RecordThing>
     <RecordThing>
@@ -1587,7 +1587,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     </RecordThing>
     <RecordThing>
       <Key>ItemRTG</Key>
-      <Value>Bausatz (Creative RTG)</Value>
+      <Value>Bausatz (Kreatives RTG)</Value>
       <Description>Dieser Bausatz erzeugt das Wunder der modernen Wissenschaft, eine {THING:ItemRTG}.</Description>
     </RecordThing>
     <RecordThing>
@@ -1603,7 +1603,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemScrewdriver</Key>
       <Value>Schraubendreher</Value>
-      <Description>Dieser Standard-Klemmschraubendreher ist ein hochwertiges, bi-rotierendes Modell mit einem säulenförmigen Griff. Er ist definitiv nicht nur ein Schraubendreher. Verwenden Sie ihn für den Auf- und Abbau bestimmter Bausätze und zum Einstellen von Werten für {LINK:LogicUnitPage;logic} Einheiten.</Description>
+      <Description>Dieser Schraubendreher ist ein hochwertiges, bi-rotierendes Modell mit einem säulenförmigen Griff. Er ist definitiv nicht nur ein Schraubendreher. Verwenden Sie ihn für den Auf- und Abbau bestimmter Bausätze und zum Einstellen von Werten für {LINK:LogicUnitPage;logic} Einheiten.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemSecurityCamera</Key>
@@ -1623,7 +1623,7 @@ Außerdem verfügt er über eine Ver-/Entriegelungsfunktion, um ein versehentlic
     </RecordThing>
     <RecordThing>
       <Key>ItemSpacepack</Key>
-      <Value>Raumpaket</Value>
+      <Value>Weltraum-Rucksack</Value>
       <Description>Das grundlegende {LINK:CHAC;CHAC} Spacepack ist 'technisch' kein Jetpack, sondern ein Gasantrieb. Es kann mit jedem Gas betrieben werden, solange der Innendruck des {LINK:AtmosphericsPage;canister} höher ist als der Außendruck. Wenn der Außendruck höher ist, funktioniert das Spacepack nicht.
 Es ist unentbehrlich für den Bau, den Bergbau und die allgemeine Fortbewegung, hat zehn Speicherplätze und lässt {LINK:Stationeers;Stationeers} mit 3m/s fliegen, verglichen mit den stärkeren {THING:ItemJetpackBasic} oder {THING:ItemHardJetpack}. Durch Einstellen des Schubwerts wird die Beschleunigung verändert, während die Aktivierung des Stabilisators das Spacepack bei Erreichen einer bestimmten Höhe zum Schweben bringt.
 ANWENDUNG: 'J' zum Aktivieren; 'Leertaste' zum Hochfliegen; 'Linke STRG' zum Absteigen; und 'WASD' zum Bewegen.</Description>
@@ -1635,7 +1635,7 @@ ANWENDUNG: 'J' zum Aktivieren; 'Leertaste' zum Hochfliegen; 'Linke STRG' zum Abs
     </RecordThing>
     <RecordThing>
       <Key>ItemSprayCanBlue</Key>
-      <Value>Sprühfarbe (blau)</Value>
+      <Value>Sprühfarbe (Blau)</Value>
       <Description>Was für eine Farbe ist Blau? Die Art von Farbe, die sagt: "Hey, was ist mit mir?</Description>
     </RecordThing>
     <RecordThing>
@@ -1645,7 +1645,7 @@ ANWENDUNG: 'J' zum Aktivieren; 'Leertaste' zum Hochfliegen; 'Linke STRG' zum Abs
     </RecordThing>
     <RecordThing>
       <Key>ItemSprayCanGreen</Key>
-      <Value>Sprühfarbe (grün)</Value>
+      <Value>Sprühfarbe (Grün)</Value>
       <Description>Grün ist die Farbe des Lebens und der Sehnsucht. Paradoxerweise ist es auch die Farbe des Neids und der Toleranz. Sie steht für Krankheit, Jugend und Reichtum. Aber eigentlich ist es nur das, was das Licht bei etwa 500 Milliardstel Metern macht.</Description>
     </RecordThing>
     <RecordThing>
@@ -1706,7 +1706,7 @@ Es mag nicht elegant sein, aber {THING:ItemOxite} und {THING:ItemVolatiles} kön
     </RecordThing>
     <RecordThing>
       <Key>ItemSuitStorage</Key>
-      <Value>Bausatz (Suit Storage)</Value>
+      <Value>Bausatz (Anzug Aufbewahrung)</Value>
       <Description>Dieser Bausatz erzeugt eine {THING:StructureSuitStorage}.</Description>
     </RecordThing>
     <RecordThing>
@@ -1732,7 +1732,7 @@ Der Werkzeuggürtel wurde entwickelt, um die strengsten ODA-Sicherheitsstandards
     </RecordThing>
     <RecordThing>
       <Key>ItemUraniumOre</Key>
-      <Value>Erz (Uranium)</Value>
+      <Value>Erz (Uran)</Value>
       <Description>1934 stellte Enrico Fermi fest, dass der Beschuss von Uran mit Neutronen einen Ausbruch von Betastrahlen und ein neues Material erzeugt. Dieser Prozess wurde als "Kernspaltung" bezeichnet und führte zu billiger Energie, dem Kalten Krieg und zigtausend Todesopfern. Obwohl es im gesamten Sonnensystem relativ häufig vorkommt, sind die {LINK:Stationeers;Stationeers} vorsichtig mit diesem Material.</Description>
     </RecordThing>
     <RecordThing>
@@ -1779,7 +1779,7 @@ Die {LINK:Norsec;Norsec-designed} K-cops Logik-Hauptplatine ermöglicht {LINK:St
     </RecordThing>
     <RecordThing>
       <Key>MotherboardManufacturing</Key>
-      <Value>Herstellung Motherboard</Value>
+      <Value>Herstellung-Motherboard</Value>
       <Description>Veraltet.</Description>
     </RecordThing>
     <RecordThing>
@@ -1799,7 +1799,7 @@ Die {LINK:Norsec;Norsec-designed} K-cops 10-10 Sorter-Hauptplatine ermöglicht {
     </RecordThing>
     <RecordThing>
       <Key>NpcGrounder</Key>
-      <Value>Npc Bodenleger</Value>
+      <Value>NPC Bodenleger</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -1809,12 +1809,12 @@ Die {LINK:Norsec;Norsec-designed} K-cops 10-10 Sorter-Hauptplatine ermöglicht {
     </RecordThing>
     <RecordThing>
       <Key>OrganLungs</Key>
-      <Value>Human Lungs</Value>
+      <Value>Menschliche Lunge</Value>
       <Description>Die Lunge ist ein empfindliches Organ. Es ist ratsam, sie bei der richtigen Temperatur und dem richtigen Druck zu halten.</Description>
     </RecordThing>
     <RecordThing>
       <Key>SpaceShuttle</Key>
-      <Value>Space Shuttle</Value>
+      <Value>Raumfähre</Value>
       <Description>Ein veraltetes {LINK:Sinotai;Sinotai} Transportschiff, das schon lange ausgemustert wurde.</Description>
     </RecordThing>
     <RecordThing>
@@ -1842,7 +1842,7 @@ Weitere Informationen zur Verwendung des Klimageräts finden Sie auf der Seite {
     </RecordThing>
     <RecordThing>
       <Key>StructureAreaPowerControl</Key>
-      <Value>Bereich Leistungskontrolle</Value>
+      <Value>Stromversorgungs-Controller</Value>
       <Description>Ein Area Power Control (APC) hat drei Hauptfunktionen:
 Sein Hauptzweck ist die Regulierung des Stromflusses, um eine ununterbrochene Leistung von Geräten und Maschinen zu gewährleisten, insbesondere von solchen mit schwankendem Stromverbrauch.
 APCs schaffen auch Subnetze, da die Geräte auf der anderen Seite eines APCs im Hauptnetz nicht sichtbar sind.
@@ -1850,7 +1850,7 @@ Schließlich lädt ein APC Batterien auf, die im Falle eines Ausfalls das Subnet
     </RecordThing>
     <RecordThing>
       <Key>StructureAreaPowerControlReversed</Key>
-      <Value>Bereich Leistungskontrolle</Value>
+      <Value>Stromversorgungs-Controller Umgekehrt</Value>
       <Description>Ein Area Power Control (APC) hat drei Hauptfunktionen.
 Sein Hauptzweck ist die Regulierung des Stromflusses, um eine ununterbrochene Leistung von Geräten und Maschinen zu gewährleisten, insbesondere von solchen mit schwankendem Stromverbrauch.
 APCs schaffen auch Subnetze, da die Geräte auf der anderen Seite eines APCs im Hauptnetz nicht sichtbar sind.
@@ -1873,7 +1873,7 @@ Schließlich lädt ein APC Batterien auf, die im Falle eines Ausfalls das Subnet
     </RecordThing>
     <RecordThing>
       <Key>StructureCondensationValve</Key>
-      <Value>Condensation Valve</Value>
+      <Value>Kondensationsventil</Value>
       <Description>Ermöglicht die Ableitung von Flüssigkeiten aus einer Gasleitung in eine Flüssigkeitsleitung. Lässt Flüssigkeiten nur in eine Richtung passieren.</Description>
     </RecordThing>
     <RecordThing>
@@ -1896,12 +1896,12 @@ Mit einer Speicherkapazität von bis zu 3600000 W gibt es keine praktischen Gren
     </RecordThing>
     <RecordThing>
       <Key>StructureBench</Key>
-      <Value>Angetriebene Bank</Value>
-      <Description>Wenn es Zeit zum Sitzen ist, unterstützt Sie nichts so gut wie eine Bank. Diese Bank ist elektrisch, so dass Sie Geräte wie den {THING:ApplianceMicrowave} verwenden können.</Description>
+      <Value>Angetriebene Werkbank</Value>
+      <Description>Wenn es Zeit zum Sitzen ist, unterstützt Sie nichts so gut wie eine Bank. Diese Werkbank ist elektrisch, so dass Sie Geräte wie den {THING:ApplianceMicrowave} verwenden können.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureBlastDoor</Key>
-      <Value>Sprengtür</Value>
+      <Value>Explosionsschutztür</Value>
       <Description>Die luftdichten und nahezu unzerstörbaren Sprengtüren der ursprünglichen "Millmar"-Serie wurden vom Bergbaugiganten {LINK:Recurso;Recurso} entwickelt, um Asteroidenabbauanlagen vor explosiver Dekompression auf dem Niveau eines nuklearen Unfalls zu schützen.
 Wenn nicht gerade eine taschengroße Singularität in den lokalen Raum-Zeit-Rahmen blinkt, gibt es praktisch keine Grenze für den Druck, den diese Schutztüren aushalten können - ideal für den Bau von Schleusen in druckempfindlichen Umgebungen.</Description>
     </RecordThing>
@@ -1961,20 +1961,20 @@ Von der Zentrifuge verarbeitete Gegenstände werden entgast</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteBin</Key>
-      <Value>Chute Bin</Value>
+      <Value>Schacht Behälter</Value>
       <Description>Das Ziel von {LINK:Stationeers;Stationeer's} ist es, das Überleben außerhalb der Welt für sich selbst und für diejenigen, die in ihre Fußstapfen treten werden, weniger schwierig zu machen.
 Wie die meisten von {LINK:Recurso;Recurso} entworfenen Systeme sind auch die Abfallbehälter einfache und robuste, elektrisch betriebene Geräte, die es ermöglichen, Gegenstände durch Ziehen eines Hebels manuell in die Abfallschächte zu befördern. Sie können auch mit {LINK:LogicUnitPage;logic} programmiert werden, um automatisch zu funktionieren, obwohl eine vollständige Automatisierung den Einsatz von Geräten wie einem {THING:StructureSDBHopper} erfordert.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteCorner</Key>
-      <Value>Chute (Corner)</Value>
+      <Value>Schacht (Ecke)</Value>
       <Description>Schächte dienen als Rohre für Gegenstände. Verwenden Sie sie, um verschiedene {LINK:ImportExportPage;import/export} Geräte wie den {THING:StructureVendingMachine} und Drucker wie den {THING:StructureAutolathe} miteinander zu verbinden.
 Das Ziel eines jeden {LINK:Stationeers;Stationeer} ist es, das Überleben außerhalb der Welt für sich selbst und diejenigen, die in seine Fußstapfen treten werden, weniger schwierig zu machen.
 Schächte-Ecken sind grundlegende Komponenten von Schächte-Netzwerken, die den Transport von Gegenständen zwischen Maschinen mit {LINK:ImportExportPage;import/export}-Steckplätzen, wie dem {THING:StructureFurnace} und anderen automatisierbaren Strukturen, ermöglichen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteInlet</Key>
-      <Value>Chute Inlet</Value>
+      <Value>Schacht Eingang</Value>
       <Description>Das Ziel eines jeden {LINK:Stationeers;Stationeer} ist es, das Überleben außerhalb der Welt für sich selbst und für diejenigen, die in seine Fußstapfen treten werden, weniger schwierig zu machen.
 Der Rutscheneinlass ist eine Öffnung, durch die Gegenstände in {LINK:ImportExportPage;import/export}-Netzwerke eingeführt werden können. Aufgrund seiner Herkunft aus dem Schwerelosigkeitsbergbau sind Rutscheneinlässe nicht mit Strom versorgt und permanent geöffnet, sondern können nicht interaktiv genutzt werden, so dass Gegenstände hineingeworfen werden können. Sie können mit {LINK:LogicUnitPage;logic} Systemen verbunden werden, um den Durchsatz zu überwachen.</Description>
     </RecordThing>
@@ -1986,7 +1986,7 @@ Rutschenabzweigungen sind grundlegende Bestandteile von Rutschennetzen, die eine
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteOutlet</Key>
-      <Value>Outlet Fall</Value>
+      <Value>Schacht Ausgang</Value>
       <Description>Das Ziel eines jeden {LINK:Stationeers;Stationeer} ist es, das Überleben außerhalb der Welt für sich selbst und diejenigen, die in seine Fußstapfen treten werden, weniger schwierig zu machen.
 Der Schachtausgang ist eine Öffnung für den Austritt von Gegenständen aus {LINK:ImportExportPage;import/export}-Netzwerken. Da der Auslass aus dem Schwerelosigkeitsbergbau stammt, ist er permanent geöffnet und nicht interaktiv, kann aber mit {LINK:LogicUnitPage;logic}-Systemen verbunden werden, um den Durchsatz zu überwachen.</Description>
     </RecordThing>
@@ -2004,7 +2004,7 @@ Schächte sind grundlegende Komponenten von Rutschennetzwerken, die den Transpor
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeFloorGrating</Key>
-      <Value>Verbundwerkstoff-Bodenroste</Value>
+      <Value>Komposit-Bodenroste</Value>
       <Description>Auch wenn die Ästhetik auf der Rangliste der {LINK:Stationeers;Stationeer} Anliegen ganz unten steht, ermöglichen Verbundroste das Verbergen unansehnlicher Kabel auf Böden, an Wänden und Decken.</Description>
     </RecordThing>
     <RecordThing>
@@ -2024,22 +2024,22 @@ Schächte sind grundlegende Komponenten von Rutschennetzwerken, die den Transpor
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWallType2</Key>
-      <Value>Composite Wall (Type 2)</Value>
+      <Value>Kompositwand (Type 2)</Value>
       <Description>Luftdicht und widerstandsfähig gegen extreme Temperaturen, gibt es Verbundstoffwände in mehreren charmanten, nahezu identischen Varianten, die den Vorrang der Form vor der Funktion widerspiegeln.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWallType3</Key>
-      <Value>Composite Wall (Type 3)</Value>
+      <Value>Kompositwand (Type 3)</Value>
       <Description>Luftdicht und widerstandsfähig gegen extreme Temperaturen gibt es Verbundwände in mehreren charmanten, nahezu identischen Varianten, die den Vorrang der Form vor der Funktion widerspiegeln.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWallType4</Key>
-      <Value>Composite Wall (Type 4)</Value>
+      <Value>Kompositwand (Type 4)</Value>
       <Description>Luftdicht und widerstandsfähig gegen extreme Temperaturen, gibt es Verbundstoffwände in mehreren charmanten, nahezu identischen Varianten, die zeigen, dass der Designer die Form über die Funktion stellt.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWindow</Key>
-      <Value>Composite Window</Value>
+      <Value>Kompositfenster</Value>
       <Description>Luftdicht und widerstandsfähig gegen extreme Temperaturen, gibt es Verbundstoffwände in mehreren charmanten, nahezu identischen Varianten, die zeigen, dass der Designer die Form über die Funktion stellt.</Description>
     </RecordThing>
     <RecordThing>
@@ -2062,7 +2062,7 @@ In einer ausgefüllten Konsole werden alle Geräte angezeigt, die an das aktuell
     </RecordThing>
     <RecordThing>
       <Key>StructureConsoleDual</Key>
-      <Value>Konsole Dual</Value>
+      <Value>Konsole Zweifach</Value>
       <Description>Dieses Steuergerät {LINK:Norsec;Norsec-designed} verwaltet Geräte wie {THING:StructureActiveVent}, {THING:StructureGasSensor}, {THING:StructureCompositeDoor} und andere, je nachdem, welches {LINK:LogicPage;circuitboard} in das Gerät eingesetzt ist. Sie verfügt über separate Daten- und Stromanschlüsse.
 Eine vollständige Konsole zeigt alle Geräte an, die an das aktuelle Stromnetz angeschlossen sind. Alle Geräte, die nicht mit der installierten Leiterplatte verbunden sind, werden ausgegraut und sind nicht funktionsfähig. Konsolen werden gesperrt, sobald eine {THING:ItemDataDisk} entfernt wird.</Description>
     </RecordThing>
@@ -2079,37 +2079,37 @@ Eine vollständige Konsole zeigt alle Geräte an, die mit dem aktuellen Stromnet
     </RecordThing>
     <RecordThing>
       <Key>StructureConveyorCorner</Key>
-      <Value>Förderer (Ecke)</Value>
-      <Description>Ursprünglich von {LINK:Recurso;Recurso} für die Erzverschiebung entwickelt, können Flexi-belt-Förderlösungen an spezifische Anwendungen angepasst werden, um effiziente Transportabläufe zu ermöglichen. Mit anderen Worten: Sie transportieren Dinge von einem Ort zum anderen.
-Eine immer wiederkehrende {LINK:Stationeers;Stationeer} Beschwerde konzentriert sich auf die Tatsache, dass jede Stufe eines Fördersystems einzeln angetrieben werden muss. Um es mit den Worten der Kundendienstmitarbeiter von Recurso zu sagen: 'Daran arbeiten wir.'</Description>
+      <Value>Schacht (Ecke)</Value>
+      <Description>Ursprünglich von {LINK:Recurso;Recurso} für die Erzverschiebung entwickelt, können Flexi-belt-Schachtlösungen an spezifische Anwendungen angepasst werden, um effiziente Transportabläufe zu ermöglichen. Mit anderen Worten: Sie transportieren Dinge von einem Ort zum anderen.
+Eine immer wiederkehrende {LINK:Stationeers;Stationeer} Beschwerde konzentriert sich auf die Tatsache, dass jede Stufe eines Schachtsystems einzeln angetrieben werden muss. Um es mit den Worten der Kundendienstmitarbeiter von Recurso zu sagen: 'Daran arbeiten wir.'</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureConveyorRiser</Key>
-      <Value>Förderer (Steigleitung)</Value>
-      <Description>Ursprünglich von {LINK:Recurso;Recurso} für den Erzumschlag entwickelt, können Flexi-belt-Förderlösungen an spezifische Anwendungen angepasst werden, um effiziente Transportabläufe zu ermöglichen. Mit anderen Worten: Sie befördern Dinge von einem Ort zum anderen - und im Falle der Steigleitung auch ein wenig nach oben.
-Eine immer wiederkehrende {LINK:Stationeers;Stationeer} Beschwerde konzentriert sich auf die Tatsache, dass jede Stufe einer Förderanlage einzeln angetrieben werden muss. Um es mit den Worten der Kundendienstmitarbeiter von Recurso zu sagen: 'Daran arbeiten wir.</Description>
+      <Value>Schacht (Steigleitung)</Value>
+      <Description>Ursprünglich von {LINK:Recurso;Recurso} für den Erzumschlag entwickelt, können Flexi-belt-Schachtlösungen an spezifische Anwendungen angepasst werden, um effiziente Transportabläufe zu ermöglichen. Mit anderen Worten: Sie befördern Dinge von einem Ort zum anderen - und im Falle der Steigleitung auch ein wenig nach oben.
+Eine immer wiederkehrende {LINK:Stationeers;Stationeer} Beschwerde konzentriert sich auf die Tatsache, dass jede Stufe einer Schachtanlage einzeln angetrieben werden muss. Um es mit den Worten der Kundendienstmitarbeiter von Recurso zu sagen: 'Daran arbeiten wir.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureConveyorStraight</Key>
-      <Value>Förderer (gerade)</Value>
-      <Description>Ursprünglich von {LINK:Recurso;Recurso} für die Erzverschiebung entwickelt, können Flexi-belt-Förderlösungen an spezifische Anwendungen angepasst werden, um effiziente Transportabläufe zu ermöglichen. Mit anderen Worten: Sie transportieren Dinge von einem Ort zum anderen.
-Eine immer wiederkehrende {LINK:Stationeers;Stationeer} Beschwerde konzentriert sich auf die Tatsache, dass jede Stufe eines Fördersystems einzeln angetrieben werden muss. Um es mit den Worten der Kundendienstmitarbeiter von Recurso zu sagen: 'Daran arbeiten wir.'</Description>
+      <Value>Schacht (gerade)</Value>
+      <Description>Ursprünglich von {LINK:Recurso;Recurso} für die Erzverschiebung entwickelt, können Flexi-belt-Schachtlösungen an spezifische Anwendungen angepasst werden, um effiziente Transportabläufe zu ermöglichen. Mit anderen Worten: Sie transportieren Dinge von einem Ort zum anderen.
+Eine immer wiederkehrende {LINK:Stationeers;Stationeer} Beschwerde konzentriert sich auf die Tatsache, dass jede Stufe eines Schachtsystems einzeln angetrieben werden muss. Um es mit den Worten der Kundendienstmitarbeiter von Recurso zu sagen: 'Daran arbeiten wir.'</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureConveyorStraightLong</Key>
-      <Value>Förderer (gerade lang)</Value>
-      <Description>Ursprünglich von {LINK:Recurso;Recurso} für die Erzverschiebung entwickelt, können Flexi-belt-Förderlösungen an spezifische Anwendungen angepasst werden, um effiziente Transportabläufe zu ermöglichen. Mit anderen Worten: Sie transportieren Dinge von einem Ort zum anderen.
-Eine immer wiederkehrende {LINK:Stationeers;Stationeer} Beschwerde konzentriert sich auf die Tatsache, dass jede Stufe eines Fördersystems einzeln angetrieben werden muss. Um es mit den Worten der Kundendienstmitarbeiter von Recurso zu sagen: 'Daran arbeiten wir.'</Description>
+      <Value>Schacht (gerade lang)</Value>
+      <Description>Ursprünglich von {LINK:Recurso;Recurso} für die Erzverschiebung entwickelt, können Flexi-belt-Schachtlösungen an spezifische Anwendungen angepasst werden, um effiziente Transportabläufe zu ermöglichen. Mit anderen Worten: Sie transportieren Dinge von einem Ort zum anderen.
+Eine immer wiederkehrende {LINK:Stationeers;Stationeer} Beschwerde konzentriert sich auf die Tatsache, dass jede Stufe eines Schachtsystems einzeln angetrieben werden muss. Um es mit den Worten der Kundendienstmitarbeiter von Recurso zu sagen: 'Daran arbeiten wir.'</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureConveyorStraightShort</Key>
-      <Value>Förderer (gerade kurz)</Value>
-      <Description>Ursprünglich von {LINK:Recurso;Recurso} für die Erzverschiebung entwickelt, können Flexi-belt-Förderlösungen an spezifische Anwendungen angepasst werden, um effiziente Transportabläufe zu ermöglichen. Mit anderen Worten: Sie transportieren Dinge von einem Ort zum anderen.
-Eine immer wiederkehrende {LINK:Stationeers;Stationeer} Beschwerde konzentriert sich auf die Tatsache, dass jede Stufe eines Fördersystems einzeln angetrieben werden muss. Um es mit den Worten der Kundendienstmitarbeiter von Recurso zu sagen: 'Daran arbeiten wir.'</Description>
+      <Value>Schacht (gerade kurz)</Value>
+      <Description>Ursprünglich von {LINK:Recurso;Recurso} für die Erzverschiebung entwickelt, können Flexi-belt-Schachtlösungen an spezifische Anwendungen angepasst werden, um effiziente Transportabläufe zu ermöglichen. Mit anderen Worten: Sie transportieren Dinge von einem Ort zum anderen.
+Eine immer wiederkehrende {LINK:Stationeers;Stationeer} Beschwerde konzentriert sich auf die Tatsache, dass jede Stufe eines Schachtsystems einzeln angetrieben werden muss. Um es mit den Worten der Kundendienstmitarbeiter von Recurso zu sagen: 'Daran arbeiten wir.'</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCryoTube</Key>
-      <Value>CryoTube</Value>
+      <Value>Kryoröhre</Value>
       <Description>Die genaue Funktionsweise der Longsleep-Kryoröhre bleibt ein Geschäftsgeheimnis, denn {LINK:Norsec;Norsec} hat lediglich eine Lizenz für das Design erworben. Der Longsleep ist in der Lage, Organschäden zu regenerieren, wenn er mit Strom und einer Atmosphäre versorgt wird, und ist ein kleines Wunder der modernen Medizintechnik.</Description>
     </RecordThing>
     <RecordThing>
@@ -2157,7 +2157,7 @@ Die von der Gotik inspirierte Silhouette des Eckrahmens ermöglicht mit ein weni
     </RecordThing>
     <RecordThing>
       <Key>StructureFurnace</Key>
-      <Value>Furnace</Value>
+      <Value>Ofen</Value>
       <Description>Im Zhurong-Ofen wird ein Hochtemperatur-Gasgemisch aus {GAS:Oxygen} und {GAS:Volatiles} zum Schmelzen von {LINK:IngotPage;ingots} und einer Reihe von {LINK:IngotPage;alloys} als Rohmaterial für {LINK:FabricatorPage;fabricators} verwendet.
 Ein einfaches Gasgemisch kann durch Zugabe von {THING:ItemOxite} und {THING:ItemVolatiles} im Verhältnis 1:2 direkt in den Ofen erreicht werden, aber komplexere Legierungen erfordern ein sorgfältiges Management eines speziellen Gasmischnetzes. Die genauen Verhältnisse der Bestandteile müssen eingehalten werden. Ebenso entsteht beim Schmelzen von Erzen bei unzureichenden Temperaturen {LINK:ReagentPage;reagents}, das zurückgeführt werden muss.
 Wenn Flüssigkeiten im Ofen vorhanden sind, sammeln sie sich dort, bis der Ofen an ein Flüssigkeitsrohrnetz angeschlossen wird.</Description>
@@ -2189,7 +2189,7 @@ Wenn Flüssigkeiten im Ofen vorhanden sind, sammeln sie sich dort, bis der Ofen 
     </RecordThing>
     <RecordThing>
       <Key>StructureGunTurret</Key>
-      <Value>Gun Standort</Value>
+      <Value>Geschützturm</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureGyroscope</Key>
@@ -2198,13 +2198,13 @@ Wenn Flüssigkeiten im Ofen vorhanden sind, sammeln sie sich dort, bis der Ofen 
     </RecordThing>
     <RecordThing>
       <Key>StructureHydroponicsTray</Key>
-      <Value>Hydroponische Schale</Value>
+      <Value>Hydroponisches Beet</Value>
       <Description>Das {LINK:Agrizero;Agrizero} Hydroponik-Tablett ist das ideale Gefäß für den Anbau einer Reihe von {LINK:OrganicPage;plantlife}. Es muss über ein Leitungsnetz mit Wasser und ausreichend Licht für die Photosynthese versorgt werden.
 Sie kann mit dem {THING:StructureHarvie} automatisiert werden.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureIgniter</Key>
-      <Value>Zünder</Value>
+      <Value>Zündvorrichtung</Value>
       <Description>Das bringt die Party in Gang. Vor allem, wenn diese Party ein explosives Gasgemisch ist.</Description>
     </RecordThing>
     <RecordThing>
@@ -2225,43 +2225,43 @@ Der Sensor wird aktiviert, sobald ein Spieler das Gitter betritt, auf dem er pla
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeAnalysizer</Key>
-      <Value>Rohr-Analysator</Value>
+      <Value>Gasrohr-Analysator</Value>
       <Description>Der angeblich aus einem Wochenendprojekt eines übereifrigen {{LINK:ExMin;ExMin}-Ingenieurs zwischen Vater und Tochter hervorgegangene Rohranalysator ist im Wesentlichen eine weiterentwickelte Version des {THING:StructurePipeMeter}.
 Er zeigt den Innendruck von Rohrnetzen an, misst auch die Temperatur und den Gasgehalt und kann über ein {{LINK:LogicPage;Logic}-System an ein {THING:StructureConsole}- oder {THING:StructureComputer}-System angeschlossen werden.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeCorner</Key>
-      <Value>Rohr (Ecke)</Value>
+      <Value>Gasrohr (Ecke)</Value>
       <Description>Das erste, was ein Stationeer lernt, ist, dass er allein ist. Das zweite ist, dass Rohre Gas speichern.
 Rohre verteilen ihren Inhalt gleichmäßig über das gesamte Netzwerk und können mit einer Vielzahl von Geräten und Strukturen verbunden werden. Einfache Rohre können einem Druck von bis zu 60 MPa standhalten. Darüber hinaus werden die Dinge "interessant".</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeCrossJunction</Key>
-      <Value>Rohr (Kreuzungspunkt)</Value>
+      <Value>Gasrohr (Kreuzungspunkt)</Value>
       <Description>Das erste, was ein Stationeer lernt, ist, dass er allein ist. Das zweite ist, dass Rohre Gas speichern.
 Rohre verteilen ihren Inhalt gleichmäßig über das gesamte Netzwerk und können mit einer Vielzahl von Geräten und Strukturen verbunden werden. Einfache Rohre können einem Druck von bis zu 60 MPa standhalten. Darüber hinaus werden die Dinge "interessant".</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeCrossJunction3</Key>
-      <Value>Rohr (3-Wege-Abzweigung)</Value>
+      <Value>Gasrohr (3-Wege-Abzweigung)</Value>
       <Description>Das erste, was ein Stationeer lernt, ist, dass er allein ist. Das zweite ist, dass Rohre Gas speichern.
 Rohre verteilen ihren Inhalt gleichmäßig über das gesamte Netzwerk und können mit einer Vielzahl von Geräten und Strukturen verbunden werden. Einfache Rohre können einem Druck von bis zu 60 MPa standhalten. Darüber hinaus werden die Dinge "interessant".</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeCrossJunction5</Key>
-      <Value>Rohr (5-Wege-Kreuzung)</Value>
+      <Value>Gasrohr (5-Wege-Kreuzung)</Value>
       <Description>Das erste, was ein Stationeer lernt, ist, dass er allein ist. Das zweite ist, dass Rohre Gas speichern.
 Rohre verteilen ihren Inhalt gleichmäßig über das gesamte Netzwerk und können mit einer Vielzahl von Geräten und Strukturen verbunden werden. Einfache Rohre können einem Druck von bis zu 60 MPa standhalten. Darüber hinaus werden die Dinge "interessant".</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeCrossJunction6</Key>
-      <Value>Rohr (6-fache Verzweigung)</Value>
+      <Value>Gasrohr (6-fache Verzweigung)</Value>
       <Description>Das erste, was ein Stationeer lernt, ist, dass er allein ist. Das zweite ist, dass Rohre Gas speichern.
 Rohre verteilen ihren Inhalt gleichmäßig über das gesamte Netzwerk und können mit einer Vielzahl von Geräten und Strukturen verbunden werden. Einfache Rohre können einem Druck von bis zu 60 MPa standhalten. Darüber hinaus werden die Dinge "interessant".</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeLabel</Key>
-      <Value>Pfeifen-Etikett</Value>
+      <Value>Gasrohr-Etikett</Value>
       <Description>Wie der Name schon vermuten lässt, ist das Rohrleitungsetikett dafür gedacht, an einem geraden Rohrstück angebracht zu werden. Der Benutzer kann dann das Etikett mit dem {THING:ItemLabeller}.</Description>
     </RecordThing>
     <RecordThing>
@@ -2270,23 +2270,23 @@ Rohre verteilen ihren Inhalt gleichmäßig über das gesamte Netzwerk und könne
       <Description>Während das Stationeers-Programm bisher nur wenig klassische Poesie hervorgebracht hat, wurde das folgende Haiku ironischerweise auf einem auf Vulkan gefundenen Rohrwrackteil gefunden:
 "Bescheidener Rohrzähler
 spricht die Wahrheit, überträgt den Druck
-in jedem Rohr"</Description>
+in jedem Gasrohr"</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeRadiator</Key>
-      <Value>Rohr-Konvektionsheizkörper</Value>
+      <Value>Gasrohr-Konvektionsheizkörper</Value>
       <Description>Rohrheizkörper sind ein einfacher Wärmetauscher, der an Rohren angebracht werden kann, um je nach der Temperatur der umgebenden Atmosphäre Wärme abzugeben oder zu gewinnen. Wenn die Atmosphäre wärmer ist, wird dem Gas im Rohrnetz Wärme zugeführt, und umgekehrt, wenn sie kälter ist. In einem Vakuum wird die Wärme abgestrahlt.
 Die Geschwindigkeit des Wärmegewinns oder -verlusts hängt von dem jeweiligen Gas ab. Durch den Einbau mehrerer Heizkörper wird die Wärmeübertragung beschleunigt.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeStraight</Key>
-      <Value>Rohr (gerade)</Value>
+      <Value>Gasrohr (gerade)</Value>
       <Description>Das erste, was ein Stationeer lernt, ist, dass er allein ist. Das zweite ist, dass Rohre Gas speichern.
 Rohre verteilen ihren Inhalt gleichmäßig über das gesamte Netzwerk und können mit einer Vielzahl von Geräten und Strukturen verbunden werden. Einfache Rohre können einem Druck von bis zu 60 MPa standhalten. Darüber hinaus werden die Dinge "interessant".</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeTJunction</Key>
-      <Value>Rohr (T-Verzweigung)</Value>
+      <Value>Gasrohr (T-Verzweigung)</Value>
       <Description>Das erste, was ein Stationeer lernt, ist, dass er allein ist. Das zweite ist, dass Rohre Gas speichern.
 Rohre verteilen ihren Inhalt gleichmäßig über das gesamte Netzwerk und können mit einer Vielzahl von Geräten und Strukturen verbunden werden. Einfache Rohre können einem Druck von bis zu 60 MPa standhalten. Darüber hinaus werden die Dinge "interessant".</Description>
     </RecordThing>
@@ -2324,7 +2324,7 @@ Rohre verteilen ihren Inhalt gleichmäßig über das gesamte Netzwerk und könne
     </RecordThing>
     <RecordThing>
       <Key>StructureSleeper</Key>
-      <Value>Schläfer</Value>
+      <Value>Schlafkabine</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSolarPanel</Key>
@@ -2333,7 +2333,7 @@ Rohre verteilen ihren Inhalt gleichmäßig über das gesamte Netzwerk und könne
     </RecordThing>
     <RecordThing>
       <Key>StructureSorter</Key>
-      <Value>Sortieren nach</Value>
+      <Value>Sortierer</Value>
       <Description>Keine Automatisierung ist vollständig, wenn es nicht eine Möglichkeit gibt, verschiedene Artikel zu verschiedenen Teilen eines Systems zu befördern. Der A2B Sorter {LINK:Xigo;Xigo} kann über einen Computer mit einem {THING:MotherboardSorter} programmiert werden, um verschiedene Artikel in verschiedene Rutschennetze zu leiten. Gefilterte Artikel werden immer auf der rechten Seite des Sortierers ausgeschleust, während nicht gefilterte Artikel direkt durchlaufen.</Description>
     </RecordThing>
     <RecordThing>
@@ -2344,13 +2344,13 @@ Der ProKompile kann eine Vielzahl von Gegenständen stapeln, wie z. B. {LINK:Ing
     </RecordThing>
     <RecordThing>
       <Key>StructureStackerReverse</Key>
-      <Value>Stapler</Value>
+      <Value>Stapler Umgekehrt</Value>
       <Description>Ein Stapler ist ein wichtiger Bestandteil jedes automatisierten Rutschennetzes. Der {LINK:Xigo;Xigo} ProKompile kann manuell oder über eine Logik eingestellt werden, um sicherzustellen, dass die den Stapler durchlaufenden Artikel für Ihren Lagerbedarf maximiert werden. Der umgekehrte Stapler hat Strom und Daten auf der gegenüberliegenden Seite.
 Der ProKompile kann eine Vielzahl von Gegenständen stapeln, z. B. {LINK:IngotPage;ingots}, und die Stapel je nach Bedarf in geeignete Größen aufteilen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureStairs4x2</Key>
-      <Value>Stairs</Value>
+      <Value>Treppe</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureStellarAnchor</Key>
@@ -2358,9 +2358,9 @@ Der ProKompile kann eine Vielzahl von Gegenständen stapeln, z. B. {LINK:IngotPa
     </RecordThing>
     <RecordThing>
       <Key>StructureSuitStorage</Key>
-      <Value>Suit Storage</Value>
+      <Value>Anzug Aufbewahrung</Value>
       <Description>Das ebenso aufgeräumte wie nützliche Anzugregal fasst einen {THING:ItemEvaSuit}, {THING:ItemSpaceHelmet} und einen {THING:ItemJetpackBasic}.
-Wenn er mit Strom versorgt und an {THING:Oxygen} und {THING:Propellant} angeschlossen wird, lädt er die Anzugbatterien auf, füllt die {THING:ItemGasCanisterOxygen} und deine {THING:ItemGasFilterNitrogen} {SLOT:GasCanister}. Der Abfalltank wird in das Rohr gepumpt, das mit dem Abfallauslass verbunden ist.
+Wenn er mit Strom versorgt und an {THING:Oxygen} und {THING:Propellant} angeschlossen wird, lädt er die Anzugbatterien auf, füllt die {THING:ItemGasCanisterOxygen} und deine {THING:ItemGasFilterNitrogen} {SLOT:GasCanister}. Der Abfalltank wird in das Gasrohr gepumpt, das mit dem Abfallauslass verbunden ist.
 Alle Rohre des Racks müssen angeschlossen sein, sonst zeigt das Gerät eine Fehlermeldung an, lädt aber trotzdem die Batterie auf.</Description>
     </RecordThing>
     <RecordThing>
@@ -2383,7 +2383,7 @@ Alle Rohre des Racks müssen angeschlossen sein, sonst zeigt das Gerät eine Feh
     </RecordThing>
     <RecordThing>
       <Key>StructureTankSmallFuel</Key>
-      <Value>Kleiner Tank (Kraftstoff)</Value>
+      <Value>Kleiner Tank (Treibstoff)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureTorpedoRack</Key>
@@ -2399,7 +2399,7 @@ Alle Rohre des Racks müssen angeschlossen sein, sonst zeigt das Gerät eine Feh
     </RecordThing>
     <RecordThing>
       <Key>StructureVolumePump</Key>
-      <Value>Volume Pump</Value>
+      <Value>Volumen Pumpe</Value>
       <Description>Die Volumenpumpe fördert pumpfähige Gase. Außerdem trennt sie Leitungsnetze in separate Netze auf.</Description>
     </RecordThing>
     <RecordThing>
@@ -2439,11 +2439,11 @@ Weitere Informationen zur Temperaturregelung finden Sie auf der Seite {LINK:Temp
     </RecordThing>
     <RecordThing>
       <Key>UniformOrangeJumpSuit</Key>
-      <Value>Jump Suit (Orange)</Value>
+      <Value>Jump Anzug (Orange)</Value>
     </RecordThing>
     <RecordThing>
       <Key>WeaponEnergy</Key>
-      <Value>Waffenenergie</Value>
+      <Value>Energie Waffe</Value>
     </RecordThing>
     <RecordThing>
       <Key>WeaponTorpedo</Key>
@@ -2488,23 +2488,23 @@ Weitere Informationen zur Temperaturregelung finden Sie auf der Seite {LINK:Temp
     </RecordThing>
     <RecordThing>
       <Key>ItemCableFuse</Key>
-      <Value>Bausatz (Cable Fuses)</Value>
+      <Value>Bausatz (Kabel Sicherungen)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableStraightH</Key>
-      <Value>Schweres Kabel (gerade)</Value>
+      <Value>Starkstromkabel (gerade)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunctionH6</Key>
-      <Value>Schweres Kabel (6-polige Verzweigung)</Value>
+      <Value>Starkstromkabel (6-polige Verzweigung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunctionH4</Key>
-      <Value>Schweres Kabel (4-Wege-Verteiler)</Value>
+      <Value>Starkstromkabel (4-Wege-Verteiler)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunctionH</Key>
-      <Value>Schweres Kabel (3-Wege-Verteiler)</Value>
+      <Value>Starkstromkabel (3-Wege-Verteiler)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction6HBurnt</Key>
@@ -2528,11 +2528,11 @@ Weitere Informationen zur Temperaturregelung finden Sie auf der Seite {LINK:Temp
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCornerH</Key>
-      <Value>Schweres Kabel (Ecke)</Value>
+      <Value>Starkstromkabel (Ecke)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableFuse1k</Key>
-      <Value>Spindel (1kW)</Value>
+      <Value>Sicherung (1kW)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableFuse5k</Key>
@@ -2544,7 +2544,7 @@ Weitere Informationen zur Temperaturregelung finden Sie auf der Seite {LINK:Temp
     </RecordThing>
     <RecordThing>
       <Key>StructureCableFuse100k</Key>
-      <Value>Fuse (100kW)</Value>
+      <Value>Sicherung (100kW)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureTransformer</Key>
@@ -2554,7 +2554,7 @@ Beachten Sie, dass Transformatoren als Datenisolatoren fungieren und verhindern,
     </RecordThing>
     <RecordThing>
       <Key>ItemKitTransformer</Key>
-      <Value>Bausatz Transformer (Large)</Value>
+      <Value>Bausatz Transformer (groß)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureTransformerSmall</Key>
@@ -2568,12 +2568,12 @@ Beachten Sie, dass Transformatoren als Datenisolatoren fungieren und verhindern,
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteWindow</Key>
-      <Value>Sturz (Window)</Value>
+      <Value>Schacht (Fenster)</Value>
       <Description>Bei Schächten mit Fenstern können Sie sehen, was Ihr {LINK:ImportExportPage;import/export} Netz durchläuft. Aber seien Sie gewarnt, sie sind nicht isoliert wie andere Schächte. Eis wird schmelzen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureArcFurnace</Key>
-      <Value>Arc Furnace</Value>
+      <Value>Lichtbogenofen</Value>
       <Description>Das einfachste Schmelzsystem, das dem durchschnittlichen {LINK:Stationeers;Stationeer} zur Verfügung steht, der {LINK:Recurso;Recurso's}-Lichtbogenofen, wurde in den Tiefen des Sonnensystems selbst geschmiedet, um Geologen bei der Erkundung der Reinheit potenzieller asteroider Abbauziele zu helfen.
 Er wurde von den {LINK:ODA;ODA} übernommen und bietet den Stationsbewohnern nun eine Möglichkeit, reine Barren verschiedener Ressourcen herzustellen.
 Der Schmelzprozess setzt auch eine Reihe von Nebenprodukten {LINK:GasPage;gases} frei, vor allem {GAS:Nitrogen}, {GAS:CarbonDioxide}, {GAS:Volatiles} und {GAS:Oxygen} in unterschiedlichen Verhältnissen. Diese können durch Filterung aus der Atmosphäre zurückgewonnen werden, machen den Lichtbogenofen aber auch zu einem Risiko in geschlossenen Umgebungen.
@@ -2591,7 +2591,7 @@ Im Gegensatz zu den weiter entwickelten {THING:StructureFurnace} kann der Lichtb
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPipe</Key>
-      <Value>Bausatz (Pipe)</Value>
+      <Value>Bausatz (Gasrohr)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CartridgeElectronicReader</Key>
@@ -2690,7 +2690,7 @@ Im Gegensatz zu den weiter entwickelten {THING:StructureFurnace} kann der Lichtb
     </RecordThing>
     <RecordThing>
       <Key>ItemFern</Key>
-      <Value>Fern</Value>
+      <Value>Farn</Value>
       <Description>Es gab eine Zeit, in der Stationeers {THING:ReagentFenoxitone} mit dem {THING:ApplianceReagentProcessor} herstellen mussten. Jüngste Fortschritte in der Technologie ermöglichen es, gleichwertige Mengen an Farn direkt in Rezepten zu verwenden.</Description>
     </RecordThing>
     <RecordThing>
@@ -2721,7 +2721,7 @@ Da Oxit sehr temperaturempfindlich ist, beginnt es zu schmelzen, sobald es abgeb
     </RecordThing>
     <RecordThing>
       <Key>StructureWallIron</Key>
-      <Value>Iron Wall (Type 1)</Value>
+      <Value>Eisenwand (Type 1)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWallIron</Key>
@@ -2733,7 +2733,7 @@ Da Oxit sehr temperaturempfindlich ist, beginnt es zu schmelzen, sobald es abgeb
     </RecordThing>
     <RecordThing>
       <Key>SpawnPoint</Key>
-      <Value>Laichplatz</Value>
+      <Value>Spawn-Punkt</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitCube</Key>
@@ -2749,7 +2749,7 @@ Da Oxit sehr temperaturempfindlich ist, beginnt es zu schmelzen, sobald es abgeb
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSuitStorage</Key>
-      <Value>Bausatz (Suit Storage)</Value>
+      <Value>Bausatz (Anzug Aufbewahrung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSolidGenerator</Key>
@@ -2757,7 +2757,7 @@ Da Oxit sehr temperaturempfindlich ist, beginnt es zu schmelzen, sobald es abgeb
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLocker</Key>
-      <Value>Bausatz (Locker)</Value>
+      <Value>Bausatz (Schließfach)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitEngineSmall</Key>
@@ -2765,7 +2765,7 @@ Da Oxit sehr temperaturempfindlich ist, beginnt es zu schmelzen, sobald es abgeb
     </RecordThing>
     <RecordThing>
       <Key>ItemKitEngineMedium</Key>
-      <Value>Bausatz (Motor Medium)</Value>
+      <Value>Bausatz (Motor Normal)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitEngineLarge</Key>
@@ -2781,11 +2781,11 @@ Da Oxit sehr temperaturempfindlich ist, beginnt es zu schmelzen, sobald es abgeb
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAutolathe</Key>
-      <Value>Bausatz (Autolathe)</Value>
+      <Value>Bausatz (Autodrehmaschine)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitBlastDoor</Key>
-      <Value>Bausatz (Sprengtür)</Value>
+      <Value>Bausatz (Explosionsschutztür)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitArcFurnace</Key>
@@ -2798,15 +2798,15 @@ Da Oxit sehr temperaturempfindlich ist, beginnt es zu schmelzen, sobald es abgeb
     </RecordThing>
     <RecordThing>
       <Key>ItemKitHydraulicPipeBender</Key>
-      <Value>Bausatz (Hydraulic Pipe Bender)</Value>
+      <Value>Bausatz (Hydraulische Rohrbiegemaschine)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSorter</Key>
-      <Value>Bausatz (Sorter)</Value>
+      <Value>Bausatz (Sortierer)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStacker</Key>
-      <Value>Bausatz (Stacker)</Value>
+      <Value>Bausatz (Stapler)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CartridgeTracker</Key>
@@ -2862,7 +2862,7 @@ Beachten Sie, dass Transformatoren als Datenisolatoren fungieren und verhindern,
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicSelect</Key>
-      <Value>Logik wählen</Value>
+      <Value>Logik Wähler</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicCompare</Key>
@@ -2906,15 +2906,15 @@ Beachten Sie, dass Transformatoren als Datenisolatoren fungieren und verhindern,
     </RecordThing>
     <RecordThing>
       <Key>StructureSign1x1</Key>
-      <Value>Zeichen 1x1</Value>
+      <Value>Schild 1x1</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSign2x1</Key>
-      <Value>Zeichen 2x1</Value>
+      <Value>Schild 2x1</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureConsoleLED5Large</Key>
-      <Value>LED-Anzeige (Medium)</Value>
+      <Value>LED-Anzeige (Normal)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSolarPanelDual</Key>
@@ -2923,7 +2923,7 @@ Beachten Sie, dass Transformatoren als Datenisolatoren fungieren und verhindern,
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicBatchWriter</Key>
-      <Value>Stapelverfasser</Value>
+      <Value>Batch-Schreiber</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicButton</Key>
@@ -2935,16 +2935,16 @@ Beachten Sie, dass Transformatoren als Datenisolatoren fungieren und verhindern,
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicMathUnary</Key>
-      <Value>Math Unary</Value>
+      <Value>Mathe Unary</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureRecycler</Key>
-      <Value>Verwerter</Value>
+      <Value>Recycler</Value>
       <Description>Eine Vorrichtung zum Sammeln von Rohstoffen bei der Zerstörung eines Gegenstands. Erzeugt {THING:ItemReagentMix} mit Paketen von Reagenzien. Lassen Sie diese durch den {THING:StructureCentrifuge} laufen, um die Ausgangserze zurückzugewinnen. Aus Pflanzen und organischen Stoffen entsteht Biomasse, die, wenn sie durch den {THING:StructureCentrifuge} geleitet wird, {THING:ItemBiomass} erzeugt.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitRecycler</Key>
-      <Value>Bausatz (Recyceln)</Value>
+      <Value>Bausatz (Recycler)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemCableAnalyser</Key>
@@ -2961,7 +2961,7 @@ Beachten Sie, dass Transformatoren als Datenisolatoren fungieren und verhindern,
     </RecordThing>
     <RecordThing>
       <Key>StructureConsoleLED1x2</Key>
-      <Value>LED-Anzeige (Medium)</Value>
+      <Value>LED-Anzeige (Normal)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureConsoleLED1x3</Key>
@@ -2973,7 +2973,7 @@ Beachten Sie, dass Transformatoren als Datenisolatoren fungieren und verhindern,
     </RecordThing>
     <RecordThing>
       <Key>NpcChicken</Key>
-      <Value>Chicken</Value>
+      <Value>Huhn</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicSkeleton</Key>
@@ -2985,11 +2985,11 @@ Beachten Sie, dass Transformatoren als Datenisolatoren fungieren und verhindern,
     </RecordThing>
     <RecordThing>
       <Key>ItemKitBeacon</Key>
-      <Value>Bausatz (Leuchtfeuer)</Value>
+      <Value>Bausatz (Bake)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureTankBig</Key>
-      <Value>Large Tank</Value>
+      <Value>Großer Tank</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPotato</Key>
@@ -3003,11 +3003,11 @@ Beachten Sie, dass Transformatoren als Datenisolatoren fungieren und verhindern,
     </RecordThing>
     <RecordThing>
       <Key>StructureGasGenerator</Key>
-      <Value>Gas-Kraftstoff-Generator</Value>
+      <Value>Gas-Treibstoff-Generator</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitGasGenerator</Key>
-      <Value>Bausatz (Gas Fuel Generator)</Value>
+      <Value>Bausatz (Gas-Treibstoff-Generator)</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGPR</Key>
@@ -3018,7 +3018,7 @@ Setzen Sie eine Kassette oder einen Farbscanner in das Tablet ein und drücken S
     </RecordThing>
     <RecordThing>
       <Key>CartridgeOreScanner</Key>
-      <Value>Erbscanner</Value>
+      <Value>Sensorbrille-Chip (Erzscanner)</Value>
       <Description>Wenn der Scanner in ein {THING:ItemTablet} eingesteckt und in Verbindung mit einem {THING:DynamicGPR} verwendet wird, zeigt er auf dem Tablet versteckte Mineralien an.</Description>
     </RecordThing>
     <RecordThing>
@@ -3036,15 +3036,15 @@ Setzen Sie eine Kassette oder einen Farbscanner in das Tablet ein und drücken S
     </RecordThing>
     <RecordThing>
       <Key>ItemFries</Key>
-      <Value>Pommes frites</Value>
+      <Value>Pommes</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCornerH3</Key>
-      <Value>Schweres Kabel (3-Wege-Ecke)</Value>
+      <Value>Starkstromkabel (3-Wege-Ecke)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCornerH4</Key>
-      <Value>Schweres Kabel (4-Wege-Ecke)</Value>
+      <Value>Starkstromkabel (4-Wege-Ecke)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCorner4HBurnt</Key>
@@ -3068,11 +3068,11 @@ Setzen Sie eine Kassette oder einen Farbscanner in das Tablet ein und drücken S
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction5Burnt</Key>
-      <Value>Verbranntes Kabel (5-polige Verzweigung)</Value>
+      <Value>Verbranntes Kabel (5-Wege Verzweigung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunctionH5</Key>
-      <Value>Schweres Kabel (5-polige Verzweigung)</Value>
+      <Value>Starkstromkabel (5-Wege Verzweigung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunctionH5Burnt</Key>
@@ -3092,43 +3092,43 @@ Setzen Sie eine Kassette oder einen Farbscanner in das Tablet ein und drücken S
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingAngled</Key>
-      <Value>Verbundwerkstoff-Verkleidung (abgewinkelt)</Value>
+      <Value>Komposit-Verkleidung (abgewinkelt)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingAngledCorner</Key>
-      <Value>Verbundwerkstoff-Verkleidung (abgewinkelte Ecke)</Value>
+      <Value>Komposit-Verkleidung (abgewinkelte Ecke)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingAngledCornerLong</Key>
-      <Value>Kompositverkleidung (lange gewinkelte Ecke)</Value>
+      <Value>Komposit-Verkleidung (lange gewinkelte Ecke)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingAngledLong</Key>
-      <Value>Kompositverkleidung (lang gewinkelt)</Value>
+      <Value>Komposit-Verkleidung (lang gewinkelt)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingCylindrical</Key>
-      <Value>Verbundwerkstoff-Verkleidung (zylindrisch)</Value>
+      <Value>Komposit-Verkleidung (zylindrisch)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingCylindricalPanel</Key>
-      <Value>Verbundwerkstoff-Verkleidung (zylindrische Platte)</Value>
+      <Value>Komposit-Verkleidung (zylindrische Platte)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingSphericalCorner</Key>
-      <Value>Verbundwerkstoff-Verkleidung (kugelförmige Ecke)</Value>
+      <Value>Komposit-Verkleidung (kugelförmige Ecke)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingSphericalCap</Key>
-      <Value>Kompositverkleidung (Kalotte)</Value>
+      <Value>Komposit-Verkleidung (Kugelhaube)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingSpherical</Key>
-      <Value>Verbundwerkstoff-Verkleidung (kugelförmig)</Value>
+      <Value>Komposit-Verkleidung (kugelförmig)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingRoundedCorner</Key>
-      <Value>Kompositverkleidung (abgerundete Ecke)</Value>
+      <Value>Komposit-Verkleidung (abgerundete Ecke)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingRounded</Key>
@@ -3136,7 +3136,7 @@ Setzen Sie eine Kassette oder einen Farbscanner in das Tablet ein und drücken S
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingPanel</Key>
-      <Value>Verbundwerkstoff-Verkleidung (Platte)</Value>
+      <Value>Komposit-Verkleidung (Platte)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitCompositeCladding</Key>
@@ -3144,7 +3144,7 @@ Setzen Sie eine Kassette oder einen Farbscanner in das Tablet ein und drücken S
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingAngledCornerLongR</Key>
-      <Value>Kompositverkleidung (lange, gewinkelte, gespiegelte Ecke)</Value>
+      <Value>Komposit-Verkleidung (lange, gewinkelte, gespiegelte Ecke)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureDockPortSide</Key>
@@ -3176,36 +3176,36 @@ Setzen Sie eine Kassette oder einen Farbscanner in das Tablet ein und drücken S
     </RecordThing>
     <RecordThing>
       <Key>ItemKitOrganicsPrinter</Key>
-      <Value>Bausatz (Organics-Drucker)</Value>
+      <Value>Bausatz (Organik-Drucker)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureOrganicsPrinter</Key>
-      <Value>Organics Drucker</Value>
+      <Value>Organik-Drucker</Value>
       <Description>Bitte beachten Sie, dass der organische Drucker veraltet ist - er kann jetzt nur noch im Kreativmodus gespawnt werden.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWindowIron</Key>
-      <Value>Iron Window</Value>
+      <Value>Eisen Fenster</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeFloorGrating1</Key>
-      <Value>Verbundwerkstoff-Bodenroste (Typ 1)</Value>
+      <Value>Komposit-Bodenroste (Typ 1)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeFloorGrating2</Key>
-      <Value>Verbundwerkstoff-Bodenroste (Typ 2)</Value>
+      <Value>Komposit-Bodenroste (Typ 2)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeFloorGrating2</Key>
-      <Value>Verbundwerkstoff-Bodenroste (Typ 2)</Value>
+      <Value>Komposit-Bodenroste (Typ 2)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeFloorGrating3</Key>
-      <Value>Verbundwerkstoff-Bodenroste (Typ 3)</Value>
+      <Value>Komposit-Bodenroste (Typ 3)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeFloorGrating4</Key>
-      <Value>Verbundwerkstoff-Bodenroste (Typ 4)</Value>
+      <Value>Komposit-Bodenroste (Typ 4)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWallPanels</Key>
@@ -3329,7 +3329,7 @@ Setzen Sie eine Kassette oder einen Farbscanner in das Tablet ein und drücken S
     </RecordThing>
     <RecordThing>
       <Key>StructureWallArchArrow</Key>
-      <Value>Wall (Arch Arrow)</Value>
+      <Value>Wand (Bogenpfeil)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallArchPlating</Key>
@@ -3369,7 +3369,7 @@ Setzen Sie eine Kassette oder einen Farbscanner in das Tablet ein und drücken S
     </RecordThing>
     <RecordThing>
       <Key>StructureWallPaddingArchVent</Key>
-      <Value>Wand (Padding Arch Vent)</Value>
+      <Value>Wand (Polsterung Bogen Entlüftung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallPaddingLightFitting</Key>
@@ -3421,7 +3421,7 @@ Setzen Sie eine Kassette oder einen Farbscanner in das Tablet ein und drücken S
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWallFlat</Key>
-      <Value>Bausatz (Flat Wall)</Value>
+      <Value>Bausatz (Dünne Wand)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWallGeometry</Key>
@@ -3441,11 +3441,11 @@ Setzen Sie eine Kassette oder einen Farbscanner in das Tablet ein und drücken S
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeCrossJunction4</Key>
-      <Value>Rohr (4-Wege-Abzweigung)</Value>
+      <Value>Gasrohr (4-Wege-Abzweigung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemAuthoringTool</Key>
-      <Value>Autorentool</Value>
+      <Value>SIcherheits-Werkzeug</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureRocketEngineDestroyed</Key>
@@ -3453,7 +3453,7 @@ Setzen Sie eine Kassette oder einen Farbscanner in das Tablet ein und drücken S
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageConstructor</Key>
-      <Value>Debug Wreckage Constructor</Value>
+      <Value>Wrack-Konstruktor</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckage1</Key>
@@ -3473,7 +3473,7 @@ Setzen Sie eine Kassette oder einen Farbscanner in das Tablet ein und drücken S
     </RecordThing>
     <RecordThing>
       <Key>CartridgeAccessController</Key>
-      <Value>Kassette (Access Controller)</Value>
+      <Value>Chip (Zugangskontroller)</Value>
     </RecordThing>
     <RecordThing>
       <Key>AccessCardBlack</Key>
@@ -3535,7 +3535,7 @@ Setzen Sie eine Kassette oder einen Farbscanner in das Tablet ein und drücken S
     </RecordThing>
     <RecordThing>
       <Key>Handgun</Key>
-      <Value>Handgun</Value>
+      <Value>Handfeuerwaffe</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemAmmoBox</Key>
@@ -3645,7 +3645,7 @@ Setzen Sie eine Kassette oder einen Farbscanner in das Tablet ein und drücken S
     </RecordThing>
     <RecordThing>
       <Key>ItemKitVendingMachine</Key>
-      <Value>Bausatz (Vending Machine)</Value>
+      <Value>Bausatz (Verkaufsautomaten)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicSlotReader</Key>
@@ -3661,12 +3661,12 @@ Setzen Sie eine Kassette oder einen Farbscanner in das Tablet ein und drücken S
     </RecordThing>
     <RecordThing>
       <Key>ItemHardSuit</Key>
-      <Value>Hardsuit</Value>
+      <Value>Schutzanzug</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemHardsuitHelmet</Key>
-      <Value>Hardsuit-Helm</Value>
-      <Description>Der Hardsuit-Helm ähnelt dem {THING:ItemSpaceHelmet}, kann aber höheren Temperaturen und Drücken standhalten. Er ist perfekt für raue Umgebungen wie Venus und Vulkan geeignet.</Description>
+      <Value>Schutzanzug-Helm</Value>
+      <Description>Der Schutzanzug-Helm ähnelt dem {THING:ItemSpaceHelmet}, kann aber höheren Temperaturen und Drücken standhalten. Er ist perfekt für raue Umgebungen wie Venus und Vulkan geeignet.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWearLamp</Key>
@@ -3739,19 +3739,19 @@ Ausgang = 1, wobei die darin befindlichen Gegenstände und eventuell der Hauptge
     </RecordThing>
     <RecordThing>
       <Key>StructurePressurePlateLarge</Key>
-      <Value>Abzugsplatte (groß)</Value>
+      <Value>Auslöseplatte (groß)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePressurePlateMedium</Key>
-      <Value>Trigger Plate (Medium)</Value>
+      <Value>Auslöseplatte (Normal)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePressurePlateSmall</Key>
-      <Value>Abzugsplatte (klein)</Value>
+      <Value>Auslöseplatte (klein)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitDynamicCanister</Key>
-      <Value>Bausatz (Portable Gas Tank)</Value>
+      <Value>Bausatz (Tragbarer Gastank)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitDynamicLiquidCanister</Key>
@@ -3760,7 +3760,7 @@ Ausgang = 1, wobei die darin befindlichen Gegenstände und eventuell der Hauptge
     </RecordThing>
     <RecordThing>
       <Key>ItemFlowerBlue</Key>
-      <Value>Blume (blau)</Value>
+      <Value>Blume (Blau)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemFlowerOrange</Key>
@@ -3768,11 +3768,11 @@ Ausgang = 1, wobei die darin befindlichen Gegenstände und eventuell der Hauptge
     </RecordThing>
     <RecordThing>
       <Key>ItemFlowerRed</Key>
-      <Value>Blume (rot)</Value>
+      <Value>Blume (Rot)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemFlowerYellow</Key>
-      <Value>Blume (gelb)</Value>
+      <Value>Blume (Gelb)</Value>
     </RecordThing>
     <RecordThing>
       <Key>AppliancePaintMixer</Key>
@@ -3788,7 +3788,7 @@ Ausgang = 1, wobei die darin befindlichen Gegenstände und eventuell der Hauptge
     </RecordThing>
     <RecordThing>
       <Key>ReagentColorGreen</Key>
-      <Value>Farbe Farbstoff (Grün)</Value>
+      <Value>Farbstoff (Grün)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ReagentColorOrange</Key>
@@ -3796,7 +3796,7 @@ Ausgang = 1, wobei die darin befindlichen Gegenstände und eventuell der Hauptge
     </RecordThing>
     <RecordThing>
       <Key>ReagentColorRed</Key>
-      <Value>Farbe Farbstoff (Rot)</Value>
+      <Value>Farbstoff (Rot)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ReagentColorYellow</Key>
@@ -3804,31 +3804,31 @@ Ausgang = 1, wobei die darin befindlichen Gegenstände und eventuell der Hauptge
     </RecordThing>
     <RecordThing>
       <Key>ItemFlowerGreen</Key>
-      <Value>Blume (grün)</Value>
+      <Value>Blume (Grün)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterCarbonDioxideL</Key>
-      <Value>Heavy Filter (Carbon Dioxide)</Value>
+      <Value>Schwerer Filter (Kohlendioxid)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterCarbonDioxideM</Key>
-      <Value>Medium Filter (Carbon Dioxide)</Value>
+      <Value>Normaler Filter (Kohlendioxid)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterNitrogenL</Key>
-      <Value>Heavy Filter (Nitrogen)</Value>
+      <Value>Schwerer Filter (Stickstoff)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterNitrogenM</Key>
-      <Value>Medium Filter (Nitrogen)</Value>
+      <Value>Normaler Filter (Stickstoff)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterOxygenL</Key>
-      <Value>Heavy Filter (Sauerstoff)</Value>
+      <Value>Schwerer Filter (Sauerstoff)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterOxygenM</Key>
-      <Value>Medium Filter (Sauerstoff)</Value>
+      <Value>Normaler Filter (Sauerstoff)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterPollutantsL</Key>
@@ -3836,7 +3836,7 @@ Ausgang = 1, wobei die darin befindlichen Gegenstände und eventuell der Hauptge
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterPollutantsM</Key>
-      <Value>Medium Filter (Pollutants)</Value>
+      <Value>Normaler Filter (Schadstoffe)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterVolatilesL</Key>
@@ -3844,15 +3844,15 @@ Ausgang = 1, wobei die darin befindlichen Gegenstände und eventuell der Hauptge
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterVolatilesM</Key>
-      <Value>Medium Filter (Volatiles)</Value>
+      <Value>Normaler Filter (Flüchtige Stoffe)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterWaterL</Key>
-      <Value>Heavy Filter (Water)</Value>
+      <Value>Schwerer Filter (Wasser)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterWaterM</Key>
-      <Value>Medium Filter (Water)</Value>
+      <Value>Normaler Filter (Wasser)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemMushroom</Key>
@@ -3875,12 +3875,12 @@ Ausgang = 1, wobei die darin befindlichen Gegenstände und eventuell der Hauptge
     </RecordThing>
     <RecordThing>
       <Key>ItemHardBackpack</Key>
-      <Value>Hardsuit-Rucksack</Value>
+      <Value>Schutzanzug-Rucksack</Value>
       <Description>Dieser Rucksack kann nützlich sein, wenn man drinnen arbeitet und nicht herumfliegen muss.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemHardJetpack</Key>
-      <Value>Hardsuit Jetpack</Value>
+      <Value>Schutzanzug Jetpack</Value>
       <Description>Das {LINK:Norsec;Norsec} Jetpack ist "technisch" gar kein Jetpack, sondern ein Gasantrieb. Es kann mit jedem Gas betrieben werden, solange der Innendruck des {LINK:AtmosphericsPage;canister} höher ist als der Außendruck. Wenn der Außendruck höher ist, funktioniert das Spacepack nicht. Durch Einstellen des Schubwertes wird die Beschleunigung verändert, während die Aktivierung des Stabilisators das Spacepack bei Erreichen einer bestimmten Höhe zum Schweben bringt.
 Das Hardsuit-Jetpack kann wesentlich höhere Geschwindigkeiten erreichen als das {THING:ItemJetpackBasic} - bis zu 15m/s. Es ist unverzichtbar für Bauarbeiten, Bergbau und allgemeine Fortbewegung und hat vierzehn Speicherplätze.
 ANWENDUNG: 'J' zum Aktivieren; 'Leertaste' zum Hochfliegen; 'Linke STRG' zum Absteigen; und 'WASD' zum Bewegen.</Description>
@@ -3904,7 +3904,7 @@ ANWENDUNG: 'J' zum Aktivieren; 'Leertaste' zum Hochfliegen; 'Linke STRG' zum Abs
     </RecordThing>
     <RecordThing>
       <Key>CartridgeOreScannerColor</Key>
-      <Value>Erbscanner (Farbe)</Value>
+      <Value>Erzscanner (Farbe)</Value>
       <Description>Wenn der Scanner in ein {THING:ItemTablet} eingefügt und in Verbindung mit einem {THING:DynamicGPR} verwendet wird, zeigt er unterirdisch verborgene Mineralien in verschiedenen Farben auf dem Tablet an.
 
 Eisen und Nickel = rot
@@ -3916,7 +3916,7 @@ Flüchtige Stoffe und Uran = weiß</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicWriterSwitch</Key>
-      <Value>Logic Writer Schalter</Value>
+      <Value>Logik-Schreiber Schalter</Value>
     </RecordThing>
     <RecordThing>
       <Key>MotherboardProgrammableChip</Key>
@@ -3953,23 +3953,23 @@ Flüchtige Stoffe und Uran = weiß</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureBasketHoop</Key>
-      <Value>Korb Hoffnung</Value>
+      <Value>Korb Ring</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterNitrousOxide</Key>
-      <Value>Filter (Nitrous Oxide)</Value>
+      <Value>Filter (Distickstoffmonoxid)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterNitrousOxideL</Key>
-      <Value>Heavy Filter (Nitrous Oxide)</Value>
+      <Value>Schwerer Filter (Distickstoffmonoxid)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterNitrousOxideM</Key>
-      <Value>Medium Filter (Nitrous Oxide)</Value>
+      <Value>Normaler Filter (Distickstoffmonoxid)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterNitrousOxide</Key>
-      <Value>Gaskanister (schlafend)</Value>
+      <Value>Gaskanister (Distickstoffmonoxid)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemNVG</Key>
@@ -3977,7 +3977,7 @@ Flüchtige Stoffe und Uran = weiß</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemGlasses</Key>
-      <Value>Glasses</Value>
+      <Value>Brille</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicHashGen</Key>
@@ -3994,14 +3994,14 @@ Flüchtige Stoffe und Uran = weiß</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureSatelliteDish</Key>
-      <Value>Medium Satellite Dish</Value>
+      <Value>Normaler Satellitenschüssel</Value>
       <Description>Diese mittlere Kommunikationseinheit kann zur Kommunikation mit nahe gelegenen Handelsschiffen verwendet werden.
       
 Wenn sie an eine {THING:StructureComputer} mit einer {THING:MotherboardComms} Hauptplatine, einer {THING:Landingpad_CenterPiece01} und einer {THING:StructureVendingMachine} angeschlossen ist, können Stationäre damit Händler kontaktieren. Die horizontalen und vertikalen Attribute können entweder direkt oder über die Logik eingestellt werden.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSatelliteDish</Key>
-      <Value>Bausatz (Medium Satellite Dish)</Value>
+      <Value>Bausatz (Normaler Satellitenschüssel)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPlasticSheets</Key>
@@ -4009,7 +4009,7 @@ Wenn sie an eine {THING:StructureComputer} mit einer {THING:MotherboardComms} Ha
     </RecordThing>
     <RecordThing>
       <Key>ItemAlienMushroom</Key>
-      <Value>Alien Mushroom</Value>
+      <Value>Alien Pilze</Value>
     </RecordThing>
     <RecordThing>
       <Key>MotherboardComms</Key>
@@ -4064,7 +4064,7 @@ Wenn sie an eine {THING:StructureComputer} mit einer {THING:MotherboardComms} Ha
     <RecordThing>
       <Key>ItemKitRoverFrame</Key>
       <Value>Bausatz (Rover-Rahmen)</Value>
-      <Description>Nicht laichbar.</Description>
+      <Description>Nicht spawnbar.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureStairs4x2Rails</Key>
@@ -4092,7 +4092,7 @@ Wenn sie an eine {THING:StructureComputer} mit einer {THING:MotherboardComms} Ha
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterNitrousOxide</Key>
-      <Value>Portable Gas Tank (Nitrous Oxide)</Value>
+      <Value>Tragbarer Gastank (Distickstoffmonoxid)</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterPollutants</Key>
@@ -4150,12 +4150,12 @@ RobotMode.None = 6 = Automatisch zugewiesener Status, zeigt an, wenn die Lagerpl
     </RecordThing>
     <RecordThing>
       <Key>StructureAdvancedFurnace</Key>
-      <Value>Fortgeschrittene Öfen</Value>
+      <Value>Fortgeschrittener Ofen</Value>
       <Description>Der fortschrittliche Ofen verfügt über integrierte Einlass- und Auslasspumpen zur Steuerung des Innendrucks des Geräts.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAdvancedFurnace</Key>
-      <Value>Bausatz (Advanced Furnace)</Value>
+      <Value>Bausatz (Fortgeschrittener Ofen)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemStelliteIngot</Key>
@@ -4197,19 +4197,19 @@ RobotMode.None = 6 = Automatisch zugewiesener Status, zeigt an, wenn die Lagerpl
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingAngledCornerInnerLongR</Key>
-      <Value>Verbundwerkstoff-Verkleidung (abgewinkelte Ecke innen lang R)</Value>
+      <Value>Komposit-Verkleidung (abgewinkelte Ecke innen lang R)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingAngledCornerInnerLongL</Key>
-      <Value>Verbundwerkstoff-Verkleidung (abgewinkelte Ecke innen lang L)</Value>
+      <Value>Komposit-Verkleidung (abgewinkelte Ecke innen lang L)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingAngledCornerInnerLong</Key>
-      <Value>Verbundwerkstoff-Verkleidung (abgewinkelte Ecke innen lang)</Value>
+      <Value>Komposit-Verkleidung (abgewinkelte Ecke innen lang)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingAngledCornerInner</Key>
-      <Value>Verbundwerkstoff-Verkleidung (gewinkelte Ecke innen)</Value>
+      <Value>Komposit-Verkleidung (gewinkelte Ecke innen)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ElectronicPrinterMod</Key>
@@ -4223,31 +4223,31 @@ RobotMode.None = 6 = Automatisch zugewiesener Status, zeigt an, wenn die Lagerpl
     </RecordThing>
     <RecordThing>
       <Key>PipeBenderMod</Key>
-      <Value>Pipe Bender Mod</Value>
+      <Value>Rohrbiegemaschine Mod</Value>
       <Description>Bewerben Sie sich bei einem {THING:StructureHydraulicPipeBender} mit einem {THING:ItemWeldingTorch} oder {THING:ItemArcWelder}, um ein Upgrade für höhere Verarbeitungsgeschwindigkeit und mehr Rezeptoptionen zu erhalten.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ToolPrinterMod</Key>
-      <Value>Tool Printer Mod</Value>
+      <Value>Werkzeugdrucker Mod</Value>
       <Description>Bewerben Sie sich bei einem {THING:StructureToolManufactory} mit einem {THING:ItemWeldingTorch} oder {THING:ItemArcWelder}, um ein Upgrade für höhere Verarbeitungsgeschwindigkeit und mehr Rezeptoptionen zu erhalten.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureTransformerMedium</Key>
-      <Value>Transformer (Medium)</Value>
+      <Value>Transformer (Normal)</Value>
       <Description>Transformatoren regeln die maximale Leistung, die durch ein Teilnetz von Kabeln fließt, um eine Überlastung von {LINK:ElectronicPage;electrical} Systemen zu verhindern.
 Mittlere Transformatoren werden in größeren Anlagen verwendet, in denen mehr als 5000 W benötigt werden, mit einer Leistung, die auf maximal 25000 W eingestellt werden kann.
 Beachten Sie, dass Transformatoren auch als Datenisolatoren fungieren, die verhindern, dass Daten in ein anderes Netz fließen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureTransformerMediumReversed</Key>
-      <Value>Transformator Umgekehrt (Medium)</Value>
+      <Value>Transformator Umgekehrt (Normal)</Value>
       <Description>Transformatoren regeln die maximale Leistung, die durch ein Teilnetz von Kabeln fließt, um eine Überlastung von {LINK:ElectronicPage;electrical} Systemen zu verhindern.
 Mittlere Transformatoren werden in größeren Anlagen verwendet, in denen mehr als 5000 W benötigt werden, mit einer Leistung, die auf maximal 25000 W eingestellt werden kann.
 Beachten Sie, dass Transformatoren auch als Datenisolatoren fungieren, die verhindern, dass Daten in ein anderes Netz fließen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureTransformerMedium(Reversed)</Key>
-      <Value>Transformator Umgekehrt (Medium)</Value>
+      <Value>Transformator Umgekehrt (Normal)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemJetpackBasic</Key>
@@ -4270,7 +4270,7 @@ ANWENDUNG: 'J' zum Aktivieren; 'Leertaste' zum Aufwärtsfliegen; 'Linke Strg' zu
     </RecordThing>
     <RecordThing>
       <Key>ItemEmergencyDrill</Key>
-      <Value>Notfallübung</Value>
+      <Value>Notfall-Bohrer</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemEmergencyAngleGrinder</Key>
@@ -4286,7 +4286,7 @@ ANWENDUNG: 'J' zum Aktivieren; 'Leertaste' zum Aufwärtsfliegen; 'Linke Strg' zu
     </RecordThing>
     <RecordThing>
       <Key>ItemEmergencyWrench</Key>
-      <Value>Notschlüssel</Value>
+      <Value>Notfall-Schraubenschlüssel</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemEmergencyWireCutters</Key>
@@ -4314,11 +4314,11 @@ ANWENDUNG: 'J' zum Aktivieren; 'Leertaste' zum Aufwärtsfliegen; 'Linke Strg' zu
     </RecordThing>
     <RecordThing>
       <Key>ItemKitResearchMachine</Key>
-      <Value>Bausatz Forschungsmaschine</Value>
+      <Value>Bausatz (Forschungsmaschine)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ManualGetResearchPodsRequired</Key>
-      <Value>PodTypeToSearchFor</Value>
+      <Value>Zu suchender Pod-Typ</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureResearchMachine</Key>
@@ -4334,31 +4334,31 @@ ANWENDUNG: 'J' zum Aktivieren; 'Leertaste' zum Aufwärtsfliegen; 'Linke Strg' zu
     </RecordThing>
     <RecordThing>
       <Key>StructurePictureFrameThinMountLandscapeLarge</Key>
-      <Value>Bilderrahmen Thin Landscape Large</Value>
+      <Value>Bilderrahmen Dünne Landschaft Groß</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePictureFrameThinMountLandscapeSmall</Key>
-      <Value>Bilderrahmen Thin Landscape Small</Value>
+      <Value>Bilderrahmen Dünne Landschaft Klein</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePictureFrameThinMountPortraitLarge</Key>
-      <Value>Bilderrahmen Thin Portrait Large</Value>
+      <Value>Bilderrahmen Dünnes Porträt Groß</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePictureFrameThinMountPortraitSmall</Key>
-      <Value>Bilderrahmen Thin Portrait Small</Value>
+      <Value>Bilderrahmen Dünnes Porträt Klein</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePictureFrameThinPortraitSmall</Key>
-      <Value>Bilderrahmen Thin Portrait Small</Value>
+      <Value>Bilderrahmen Dünnes Porträt Klein</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePictureFrameThinLandscapeSmall</Key>
-      <Value>Bilderrahmen Thin Landscape Small</Value>
+      <Value>Bilderrahmen Dünne Landschaft Klein</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePictureFrameThinLandscapeLarge</Key>
-      <Value>Bilderrahmen Thin Landscape Large</Value>
+      <Value>Bilderrahmen Dünne Landschaft Groß</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePictureFrameThickPortraitSmall</Key>
@@ -4370,7 +4370,7 @@ ANWENDUNG: 'J' zum Aktivieren; 'Leertaste' zum Aufwärtsfliegen; 'Linke Strg' zu
     </RecordThing>
     <RecordThing>
       <Key>StructurePictureFrameThickMountPortraitLarge</Key>
-      <Value>Bilderrahmen Thick Mount Portrait Large</Value>
+      <Value>Bilderrahmen Dickes Gestell Portrait Groß</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePictureFrameThickMountLandscapeSmall</Key>
@@ -4394,15 +4394,15 @@ ANWENDUNG: 'J' zum Aktivieren; 'Leertaste' zum Aufwärtsfliegen; 'Linke Strg' zu
     </RecordThing>
     <RecordThing>
       <Key>StructurePictureFrameThinPortraitLarge</Key>
-      <Value>Bilderrahmen Thin Portrait Large</Value>
+      <Value>Bilderrahmen Dünnes Porträt Groß</Value>
     </RecordThing>
     <RecordThing>
       <Key>ApplianceDeskLampLeft</Key>
-      <Value>Appliance Desk Lamp Left</Value>
+      <Value>Gerät Schreibtischlampe Links</Value>
     </RecordThing>
     <RecordThing>
       <Key>ApplianceDeskLampRight</Key>
-      <Value>Appliance Schreibtischlampe Rechts</Value>
+      <Value>Gerät Schreibtischlampe Rechts</Value>
     </RecordThing>
     <RecordThing>
       <Key>QuarryDrillBitBasic</Key>
@@ -4443,7 +4443,7 @@ ANWENDUNG: 'J' zum Aktivieren; 'Leertaste' zum Aufwärtsfliegen; 'Linke Strg' zu
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAutoMinerSmall</Key>
-      <Value>Bausatz (Autominer Small)</Value>
+      <Value>Bausatz (Autominer Klein)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemDirtCannister</Key>
@@ -4572,7 +4572,7 @@ Bei der Landung setzt die Rakete einen Lander und die im {THING:StructureModular
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStructureLaunchPad</Key>
-      <Value>Bausatz (Launch Pad)</Value>
+      <Value>Bausatz (Startrampe)</Value>
       <Description>Dieser Bausatz erzeugt eine {THING:StructureLaunchPad}.</Description>
     </RecordThing>
     <RecordThing>
@@ -4587,31 +4587,31 @@ Bei der Landung setzt die Rakete einen Lander und die im {THING:StructureModular
     </RecordThing>
     <RecordThing>
       <Key>StructureWallIron02</Key>
-      <Value>Iron Wall (Type 2)</Value>
+      <Value>Eisenwand (Type 2)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallIron03</Key>
-      <Value>Iron Wall (Type 3)</Value>
+      <Value>Eisenwand (Type 3)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallIron04</Key>
-      <Value>Iron Wall (Type 4)</Value>
+      <Value>Eisenwand (Type 4)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWall02</Key>
-      <Value>Composite Wall (Type 2)</Value>
+      <Value>Kompositwand (Type 2)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWall03</Key>
-      <Value>Composite Wall (Type 3)</Value>
+      <Value>Kompositwand (Type 3)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWall04</Key>
-      <Value>Composite Wall (Type 4)</Value>
+      <Value>Kompositwand (Type 4)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWallWindow</Key>
-      <Value>Composite Window</Value>
+      <Value>Kompositfenster</Value>
     </RecordThing>
     <RecordThing>
       <Key>RailingElegant01</Key>
@@ -4699,12 +4699,12 @@ Bei der Landung setzt die Rakete einen Lander und die im {THING:StructureModular
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeOrgan</Key>
-      <Value>Pipe Organ</Value>
+      <Value>Pfeifenorgel</Value>
       <Description>Die Pfeifenorgel kann an einem Ende eines {THING:ItemPipeValve} angebracht werden. Die Länge der Pfeife nach der Pfeifenorgel ändert die Tonhöhe der Note, die gespielt wird, wenn das Ventil geöffnet wird. Verwenden Sie {LINK:LogicPage;Logic} zum Öffnen und Schließen der Ventile, um eigene Melodien für Ihre Basis oder eine akustische Warnung zu erzeugen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPipeOrgan</Key>
-      <Value>Bausatz (Pipe Organ)</Value>
+      <Value>Bausatz (Pfeifenorgel)</Value>
       <Description>Erzeugt eine {THING:StructurePipeOrgan}.</Description>
     </RecordThing>
     <RecordThing>
@@ -4721,13 +4721,13 @@ Bei der Landung setzt die Rakete einen Lander und die im {THING:StructureModular
     </RecordThing>
     <RecordThing>
       <Key>ItemSensorProcessingUnitOreScanner</Key>
-      <Value>Sensorverarbeitungseinheit (Erz-Scanner)</Value>
-      <Description>Die Sensorverarbeitungseinheit kann in {THING:ItemSensorLenses} eingesetzt werden, um unterirdische Mineralien in einem HUD sichtbar zu machen.</Description>
+      <Value>Sensorbrille-Chip (Erzscanner)</Value>
+      <Description>Der Sensorbrille-Chip (Erzscanner) kann in {THING:ItemSensorLenses} eingesetzt werden, um unterirdische Mineralien in einem HUD sichtbar zu machen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemSensorLenses</Key>
-      <Value>Sensor-Objektive</Value>
-      <Description>Diese {LINK:Norsec;Norsec}-Gläser sind vielleicht nicht gerade der letzte Schrei, aber wenn ein {THING:ItemSensorProcessingUnitOreScanner} eingesteckt ist, können Stationsarbeiter mit diesen praktischen Gläsern den Boden durchleuchten und Erze finden, die unter der Oberfläche verborgen sind.</Description>
+      <Value>Sensor-Brille</Value>
+      <Description>Diese {LINK:Norsec;Norsec}-Brille sind vielleicht nicht gerade der letzte Schrei, aber wenn ein {THING:ItemSensorProcessingUnitOreScanner} eingesteckt ist, können Stationsarbeiter mit diesen praktischen Gläsern den Boden durchleuchten und Erze finden, die unter der Oberfläche verborgen sind.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureBatteryChargerSmall</Key>
@@ -4754,7 +4754,7 @@ Bei der Landung setzt die Rakete einen Lander und die im {THING:StructureModular
     </RecordThing>
     <RecordThing>
       <Key>StructureSDBHopperAdvanced</Key>
-      <Value>SDB Hopper Advanced</Value>
+      <Value>SDB Trichter Erweitert</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSDBHopper</Key>
@@ -4797,7 +4797,7 @@ Bei der Landung setzt die Rakete einen Lander und die im {THING:StructureModular
     </RecordThing>
     <RecordThing>
       <Key>StructureChairThickDouble</Key>
-      <Value>Stuhl (Dickes Doppel)</Value>
+      <Value>Stuhl (Dickes Doppelt)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureChairRectangleSingle</Key>
@@ -4805,7 +4805,7 @@ Bei der Landung setzt die Rakete einen Lander und die im {THING:StructureModular
     </RecordThing>
     <RecordThing>
       <Key>StructureChairRectangleDouble</Key>
-      <Value>Stuhl (Rechteckig Doppel)</Value>
+      <Value>Stuhl (Rechteckig Doppelt)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureChairBoothMiddle</Key>
@@ -4829,7 +4829,7 @@ Bei der Landung setzt die Rakete einen Lander und die im {THING:StructureModular
     </RecordThing>
     <RecordThing>
       <Key>StructureFlatBench</Key>
-      <Value>Bench (Flat)</Value>
+      <Value>Bank (Flach)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureAngledBench</Key>
@@ -4841,7 +4841,7 @@ Bei der Landung setzt die Rakete einen Lander und die im {THING:StructureModular
     </RecordThing>
     <RecordThing>
       <Key>KitchenTableTall</Key>
-      <Value>Bausatzchen Table (Tall)</Value>
+      <Value>Bausatz Küchentisch (Hoch)</Value>
     </RecordThing>
     <RecordThing>
       <Key>KitchenTableSimpleTall</Key>
@@ -4853,7 +4853,7 @@ Bei der Landung setzt die Rakete einen Lander und die im {THING:StructureModular
     </RecordThing>
     <RecordThing>
       <Key>KitchenTableShort</Key>
-      <Value>Bausatzchen Table (Short)</Value>
+      <Value>Bausatz Küchentisch (kurz)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSmallTableThickSingle</Key>
@@ -4861,27 +4861,27 @@ Bei der Landung setzt die Rakete einen Lander und die im {THING:StructureModular
     </RecordThing>
     <RecordThing>
       <Key>StructureSmallTableThickDouble</Key>
-      <Value>Klein (Tischdicke Double)</Value>
+      <Value>Kleiner Tisch (dick doppelt)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSmallTableRectangleSingle</Key>
-      <Value>Klein (Tisch rechteckig einzeln)</Value>
+      <Value>Kleiner Tisch (rechteckig einzeln)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSmallTableRectangleDouble</Key>
-      <Value>Klein (Tisch Rechteckig Doppelt)</Value>
+      <Value>Kleiner Tisch (Rechteckig Doppelt)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSmallTableDinnerSingle</Key>
-      <Value>Klein (Tischessen Einzel)</Value>
+      <Value>Kleiner Tisch (essen Einzel)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSmallTableBacklessSingle</Key>
-      <Value>Klein (Tisch Backless Single)</Value>
+      <Value>Kleiner Tisch (Rückenfrei Einzel)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSmallTableBacklessDouble</Key>
-      <Value>Klein (Tisch Backless Double)</Value>
+      <Value>Kleiner Tisch (Rückenfrei Doppelt)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitChairs</Key>
@@ -4889,7 +4889,7 @@ Bei der Landung setzt die Rakete einen Lander und die im {THING:StructureModular
     </RecordThing>
     <RecordThing>
       <Key>ItemKitBeds</Key>
-      <Value>Bausatz (Beds)</Value>
+      <Value>Bausatz (Betten)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLightRoundAngled</Key>
@@ -4923,7 +4923,7 @@ Bei der Landung setzt die Rakete einen Lander und die im {THING:StructureModular
     </RecordThing>
     <RecordThing>
       <Key>StructureEmergencyButton</Key>
-      <Value>Wichtige Schaltfläche</Value>
+      <Value>Notfall-Schalter</Value>
       <Description>Beschreibung kommt.</Description>
     </RecordThing>
     <RecordThing>
@@ -5039,12 +5039,12 @@ Mit einer Speicherkapazität von bis zu 9000001 Watt gibt es keine praktischen G
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTransformerMedium1</Key>
-      <Value>Wreckage Transformer Medium</Value>
+      <Value>Wrack Transformer Normal</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTransformerMedium2</Key>
-      <Value>Wreckage Transformer Medium</Value>
+      <Value>Wrack Transformer Normal</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -5179,32 +5179,32 @@ Mit einer Speicherkapazität von bis zu 9000001 Watt gibt es keine praktischen G
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageGasGenerator1</Key>
-      <Value>Wreckage Gas Generator</Value>
+      <Value>Wrack Gas Generator</Value>
       <Description>Beschreibung kommt.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageGasGenerator2</Key>
-      <Value>Wreckage Gas Generator</Value>
+      <Value>Wrack Gas Generator</Value>
       <Description>Beschreibung kommt.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageVent1</Key>
-      <Value>Wreckage Vent</Value>
+      <Value>Wrack Vent</Value>
       <Description>Beschreibung kommt.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSatelliteDish1</Key>
-      <Value>Wreckage Medium Satellite Dish</Value>
+      <Value>Wrack Normal Satellite Dish</Value>
       <Description>Beschreibung kommt.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSatelliteDish2</Key>
-      <Value>Wreckage Medium Satellite Dish</Value>
+      <Value>Wrack Normal Satellite Dish</Value>
       <Description>Beschreibung kommt.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSatelliteDish3</Key>
-      <Value>Wreckage Medium Satellite Dish</Value>
+      <Value>Wrack Normal Satellite Dish</Value>
       <Description>Beschreibung kommt.</Description>
     </RecordThing>
     <RecordThing>
@@ -5329,17 +5329,17 @@ Mit einer Speicherkapazität von bis zu 9000001 Watt gibt es keine praktischen G
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageHydroponicsAutomatic1</Key>
-      <Value>Wreckage Hydroponics Automatisch</Value>
+      <Value>Wrack Hydroponics Automatisch</Value>
       <Description>Beschreibung kommt.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageHydroponicsAutomatic2</Key>
-      <Value>Wreckage Hydroponics Automatisch</Value>
+      <Value>Wrack Hydroponics Automatisch</Value>
       <Description>Beschreibung kommt.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageHydroponicsAutomatic3</Key>
-      <Value>Wreckage Hydroponics Automatisch</Value>
+      <Value>Wrack Hydroponics Automatisch</Value>
       <Description>Beschreibung kommt.</Description>
     </RecordThing>
     <RecordThing>
@@ -5498,7 +5498,7 @@ Mit einer Speicherkapazität von bis zu 9000001 Watt gibt es keine praktischen G
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageHydroponicsTray1</Key>
-      <Value>Wrack Hydroponics Tablett</Value>
+      <Value>Wrack Hydroponisches Beet</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -5524,7 +5524,7 @@ Eine Vierergruppe von nabenmontierten Elektromotoren treibt den verstärkten Alu
     </RecordThing>
     <RecordThing>
       <Key>StructureSpawnPoint</Key>
-      <Value>Laichplatz</Value>
+      <Value>Spawn-Punkt</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -5569,22 +5569,22 @@ Eine Vierergruppe von nabenmontierten Elektromotoren treibt den verstärkten Alu
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageStructureRTG1</Key>
-      <Value>Wrackstruktur RTG</Value>
+      <Value>Wrack RTG</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTurbineGenerator1</Key>
-      <Value>Wreckage Turbine Generator</Value>
+      <Value>Wrack Turbine Generator</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTurbineGenerator2</Key>
-      <Value>Wreckage Turbine Generator</Value>
+      <Value>Wrack Turbine Generator</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTurbineGenerator3</Key>
-      <Value>Wreckage Turbine Generator</Value>
+      <Value>Wrack Turbine Generator</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -5599,12 +5599,12 @@ Eine Vierergruppe von nabenmontierten Elektromotoren treibt den verstärkten Alu
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageWallCooler1</Key>
-      <Value>Wreckage Wall Cooler</Value>
+      <Value>Wrack Wall Cooler</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageWallCooler2</Key>
-      <Value>Wreckage Wall Cooler</Value>
+      <Value>Wrack Wall Cooler</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -5619,12 +5619,12 @@ Eine Vierergruppe von nabenmontierten Elektromotoren treibt den verstärkten Alu
     </RecordThing>
     <RecordThing>
       <Key>StructureGrowLight</Key>
-      <Value>Wachsendes Licht</Value>
+      <Value>Pflanzen Licht</Value>
       <Description>{Das GrowUp UV-Licht ist ein führendes hydroponisches Beleuchtungssystem, das die Sonneneinstrahlung bei schwachem Licht oder in sonnenfernen Gebieten ergänzt. Das Gerät fügt Growability über den Raum eines Gitters, so erfordert unmittelbare Platzierung zu arbeiten.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitGrowLight</Key>
-      <Value>Bausatz (Wachstumslicht)</Value>
+      <Value>Bausatz (Pflanzen Licht)</Value>
       <Description>Dieser Bausatz erzeugt eine {LINK:Agrizero;Agrizero} {THING:StructureGrowLight}.</Description>
     </RecordThing>
     <RecordThing>
@@ -5639,12 +5639,12 @@ Eine Vierergruppe von nabenmontierten Elektromotoren treibt den verstärkten Alu
     </RecordThing>
     <RecordThing>
       <Key>ItemKitUprightWindTurbine</Key>
-      <Value>Bausatz (Upright Wind Turbine)</Value>
+      <Value>Bausatz (Aufrechte Windturbine)</Value>
       <Description>Dieser Satz ergibt eine {THING:StructureUprightWindTurbine}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureUprightWindTurbine</Key>
-      <Value>Upright Wind Turbine</Value>
+      <Value>Aufrechte Windturbine</Value>
       <Description>Die Basis-Windturbine von Norsec ist eine einfach herzustellende, schnell zu installierende Konstruktion, die stark genug ist, um den schlimmsten Umwelteinflüssen standzuhalten.
 Obwohl die Windturbine so optimiert ist, dass sie auch in Welten mit niedriger Atmosphäre Strom erzeugt (bis zu 200 W), ist sie in dichteren Umgebungen am leistungsfähigsten. Die Leistung variiert mit der Windgeschwindigkeit und kann bei Stürmen dramatisch ansteigen (bis zu 800 W), daher sollten Sie bei der Planung Ihrer Stromnetze diese Tatsache berücksichtigen.</Description>
     </RecordThing>
@@ -5685,7 +5685,7 @@ Obwohl die Windturbine so optimiert ist, dass sie auch in Welten mit niedriger A
     </RecordThing>
     <RecordThing>
       <Key>StructureHydroponicsTrayData</Key>
-      <Value>Hydroponik Gerät</Value>
+      <Value>Hydroponisches Beet</Value>
       <Description>Das {LINK:Agrizero;Agrizero} Hydroponikgerät ist das ideale Gefäß für den Anbau einer Reihe von {LINK:OrganicPage;plantlife}. Es muss über ein Leitungsnetz mit {GAS:Water} und ausreichend Licht für die Photosynthese versorgt werden.
 Es kann mit dem {THING:StructureHarvie} automatisiert werden. Beachten Sie, dass diese im Gegensatz zu den {THING:StructureHydroponicsTray} nicht hintereinander platziert werden können, da sie als Geräte und nicht als reine Rohre gelten. Sie ermöglichen jedoch die Abfrage von Daten für logische Systeme.</Description>
     </RecordThing>
@@ -5701,7 +5701,7 @@ Es kann mit dem {THING:StructureHarvie} automatisiert werden. Beachten Sie, dass
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSolarPanelBasicReinforced</Key>
-      <Value>Bausatz (Solarmodul Basic Heavy)</Value>
+      <Value>Bausatz (Solarmodul Basic Schwer)</Value>
       <Description>Dieses Solarmodul ist resistent gegen Sturmschäden.</Description>
     </RecordThing>
     <RecordThing>
@@ -5711,7 +5711,7 @@ Es kann mit dem {THING:StructureHarvie} automatisiert werden. Beachten Sie, dass
     </RecordThing>
     <RecordThing>
       <Key>StructureSolarPanelDualReinforced</Key>
-      <Value>Solarmodul (Heavy Dual)</Value>
+      <Value>Solarmodul (Schwer Doppelt)</Value>
       <Description>Dieses Solarmodul ist resistent gegen Sturmschäden.</Description>
     </RecordThing>
     <RecordThing>
@@ -5753,7 +5753,7 @@ Obwohl die Windturbine so optimiert ist, dass sie auch auf Welten mit niedriger 
     <RecordThing>
       <Key>StructurePipeLiquidCrossJunction</Key>
       <Value>Flüssigkeitsleitung (Kreuzungspunkt)</Value>
-      <Description>Der Name ist Programm: Liquid Pipes schaffen Rohrleitungsnetze für die Lagerung und den Transport des zweiten Aggregatzustands der Materie: Flüssigkeit.</Description>
+      <Description>Der Name ist Programm: Flüssigkeitsrohre schaffen Rohrleitungsnetze für die Lagerung und den Transport des zweiten Aggregatzustands der Materie: Flüssigkeit.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeLiquidStraight</Key>
@@ -5792,67 +5792,67 @@ Obwohl die Windturbine so optimiert ist, dass sie auch auf Welten mit niedriger 
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageWindTurbine001</Key>
-      <Value>Wreckage Wind Turbine</Value>
+      <Value>Wrack Wind Turbine</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageWindTurbine002</Key>
-      <Value>Wreckage Wind Turbine</Value>
+      <Value>Wrack Wind Turbine</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageWindTurbine003</Key>
-      <Value>Wreckage Wind Turbine</Value>
+      <Value>Wrack Wind Turbine</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageWindTurbine004</Key>
-      <Value>Wreckage Wind Turbine</Value>
+      <Value>Wrack Wind Turbine</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageWindTurbine005</Key>
-      <Value>Wreckage Wind Turbine</Value>
+      <Value>Wrack Wind Turbine</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageStructureWeatherStation001</Key>
-      <Value>Wrackstruktur Wetterstation</Value>
+      <Value>Wrack Wetterstation</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageStructureWeatherStation002</Key>
-      <Value>Wrackstruktur Wetterstation</Value>
+      <Value>Wrack Wetterstation</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageStructureWeatherStation003</Key>
-      <Value>Wrackstruktur Wetterstation</Value>
+      <Value>Wrack Wetterstation</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageStructureWeatherStation004</Key>
-      <Value>Wrackstruktur Wetterstation</Value>
+      <Value>Wrack Wetterstation</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageStructureWeatherStation005</Key>
-      <Value>Wrackstruktur Wetterstation</Value>
+      <Value>Wrack Wetterstation</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageStructureWeatherStation006</Key>
-      <Value>Wrackstruktur Wetterstation</Value>
+      <Value>Wrack Wetterstation</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageStructureWeatherStation007</Key>
-      <Value>Wrackstruktur Wetterstation</Value>
+      <Value>Wrack Wetterstation</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageStructureWeatherStation008</Key>
-      <Value>Wrackstruktur Wetterstation</Value>
+      <Value>Wrack Wetterstation</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -5862,19 +5862,19 @@ Obwohl die Windturbine so optimiert ist, dass sie auch auf Welten mit niedriger 
     </RecordThing>
     <RecordThing>
       <Key>ItemWaterBottleFiller</Key>
-      <Value>Water Bottle Filler</Value>
+      <Value>Wasserflaschenfüller</Value>
       <Description>Wie der etwas uninspirierte Name vermuten lässt, füllt dieses Gerät einen {THING:ItemWaterBottle} auf, wenn es an ein Flüssigkeitsleitungsnetz angeschlossen ist.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFiller</Key>
-      <Value>Water Bottle Filler</Value>
+      <Value>Wasserflaschenfüller</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureIceCrusher</Key>
       <Value>Eiszerkleinerer</Value>
       <Description>Der {LINK:Recurso;Recurso} KoolAuger wandelt verschiedene Eissorten in ihre jeweiligen {LINK:GasPage;gases} und Flüssigkeiten um.
-Der KoolAuger ist ein bemerkenswert intelligentes und kompaktes Sublimationsschmelzgerät, das je nach dem zu verarbeitenden Eis Gas oder Flüssigkeit erzeugt. Der obere Ausgang ist für Gas, der untere für Flüssigkeit, und obwohl man an beide Ausgänge jedes beliebige Rohr anschließen kann, funktioniert das Gerät nur, wenn das richtige Netz angeschlossen ist. Der KoolAuger kann auch nur dann Gas oder Flüssigkeit in ein Netzwerk leiten, wenn er eingeschaltet ist und mit Strom versorgt wird.
+Der KoolAuger ist ein bemerkenswert intelligentes und kompaktes Sublimationsschmelzgerät, das je nach dem zu verarbeitenden Eis Gas oder Flüssigkeit erzeugt. Der obere Ausgang ist für Gas, der untere für Flüssigkeit, und obwohl man an beide Ausgänge jedes beliebige Rohre anschließen kann, funktioniert das Gerät nur, wenn das richtige Netz angeschlossen ist. Der KoolAuger kann auch nur dann Gas oder Flüssigkeit in ein Netzwerk leiten, wenn er eingeschaltet ist und mit Strom versorgt wird.
 Wenn der KoolAuger voll ist, nimmt er kein weiteres Eis an, bis der Gas- oder Flüssigkeitsinhalt abgelassen wurde. In diesem Zustand blinkt am Aktivierungsschalter ein gelber Fehlerstatus.</Description>
     </RecordThing>
     <RecordThing>
@@ -5985,18 +5985,18 @@ Die Geschwindigkeit des Wärmegewinns oder -verlusts hängt von der jeweiligen F
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIIWrench</Key>
-      <Value>Mk II-Schlüssel</Value>
+      <Value>Mk II-Schraubenschlüssel</Value>
       <Description>Der Schraubenschlüssel ist einer der bleibenden Beiträge der Menschheit zum Kosmos und verkörpert die Essenz unserer Spezies. Ein einfaches, effektives und spirituell unfruchtbares Werkzeug, mit dem man eine Vielzahl von {LINK:StructurePage;structures} Der MK II ist widerstandsfähiger gegen Temperatur und Druck.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIIDuctTape</Key>
-      <Value>Mk II Duct Tape</Value>
+      <Value>Mk II Isolierband</Value>
       <Description>In der fernen Vergangenheit lehrte einer der großen Meister der Erde eine Generation von "Fix-It People", dass Klebeband die Antwort auf jedes Problem sei. Die {LINK:Stationeers;Stationeers} haben bewiesen, dass dies stimmt, solange das Problem ein beschädigtes {THING:ItemEvaSuit}, {THING:ItemJetpackBasic}, {THING:ItemSpaceHelmet} oder sogar ein {THING:StructureSolarPanel} ist.
 Anwendung: Klebeband in die aktive Hand nehmen und die rechte Maustaste gedrückt halten, um den Schaden automatisch zu reparieren.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWaterBottleFiller</Key>
-      <Value>Bausatz (Water Bottle Filler)</Value>
+      <Value>Bausatz (Wasserflaschenfüller)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -6087,13 +6087,13 @@ Es hat zwei Modi - aktiv (1) und inaktiv (0), die nur ausgelöst werden sollten,
     <RecordThing>
       <Key>StructureModularRocketCouplingDown</Key>
       <Value>Automatisches Raketenkopplungsmodul (unten)</Value>
-      <Description>Das Kupplungsmodul ist eine unidirektionale, mehrstufige Förderlösung und dient als Schnittstelle zwischen verschiedenen Abbau- und Lagermodulen. Es ist für die Funktion der Abbaueinheit unerlässlich.
+      <Description>Das Kupplungsmodul ist eine unidirektionale, mehrstufige Schachtlösung und dient als Schnittstelle zwischen verschiedenen Abbau- und Lagermodulen. Es ist für die Funktion der Abbaueinheit unerlässlich.
 Wenn es UNTER einem Bergbaumodul (z. B. {THING:StructureRocketModuleMiningOre}) platziert wird, leitet der DOWN-Koppler abgebautes oder geerntetes Material (fest, flüssig oder gasförmig) in die entsprechende Lagereinheit (z. B. {THING:StructureRocketModuleSilo}).</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureModularRocketCouplingUp</Key>
       <Value>Automatisches Raketenkopplungsmodul (Up)</Value>
-      <Description>Das Kupplungsmodul ist eine unidirektionale, mehrstufige Förderlösung und dient als Schnittstelle zwischen verschiedenen Abbau- und Lagermodulen. Es ist für die Funktion der Abbaueinheit unerlässlich.
+      <Description>Das Kupplungsmodul ist eine unidirektionale, mehrstufige Schachtlösung und dient als Schnittstelle zwischen verschiedenen Abbau- und Lagermodulen. Es ist für die Funktion der Abbaueinheit unerlässlich.
 Wird der UP-Koppler ÜBER einem Abbaumodul (z. B. {THING:StructureRocketModuleMiningOre}) platziert, leitet er abgebautes oder geerntetes Material (fest, flüssig oder gasförmig) in die entsprechende Lagereinheit (z. B. {THING:StructureRocketModuleSilo}).</Description>
     </RecordThing>
     <RecordThing>
@@ -6171,7 +6171,7 @@ Das Modul muss durch ein richtig platziertes {THING:StructureModularRocketCoupli
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFillerBottom</Key>
-      <Value>Wasserflascheneinfüllstutzen unten</Value>
+      <Value>Wasserflascheneinfüller unten</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -6191,7 +6191,7 @@ Das Modul muss durch ein richtig platziertes {THING:StructureModularRocketCoupli
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidPipeAnalyzer</Key>
-      <Value>Bausatz (Liquid Pipe Analyzer)</Value>
+      <Value>Bausatz (Flüssigkeitsrohr-Analysator)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -6212,7 +6212,7 @@ Das Modul muss durch ein richtig platziertes {THING:StructureModularRocketCoupli
     </RecordThing>
     <RecordThing>
       <Key>ItemKitHeatExchanger</Key>
-      <Value>Bausatz Wärmetauscher</Value>
+      <Value>Bausatz (Wärmetauscher)</Value>
       <Description>Dieser Bausatz erstellt eine {THING:StructureHeatExchangeLiquidtoGas}, {THING:StructureHeatExchangerLiquidtoLiquid} und {THING:StructureHeatExchangerGastoGas}.</Description>
     </RecordThing>
     <RecordThing>
@@ -6286,17 +6286,17 @@ Ein zentraler Bestandteil dieses Zeitvertreibs ist der Step-Sequenzer, mit dem S
     </RecordThing>
     <RecordThing>
       <Key>ItemSoundCartridgeDrums</Key>
-      <Value>Klangkassetten-Trommeln</Value>
+      <Value>Tonkassette Trommeln</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemSoundCartridgeLeads</Key>
-      <Value>Tonkassetten-Leitungen</Value>
+      <Value>Tonkassette Leitungen</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemSoundCartridgeSynth</Key>
-      <Value>Klangkassetten-Synthesizer</Value>
+      <Value>Tonkassette Synthesizer</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -6350,7 +6350,7 @@ Ein zentraler Bestandteil dieses Zeitvertreibs ist der Step-Sequenzer, mit dem S
     </RecordThing>
     <RecordThing>
       <Key>StructureShelfMedium</Key>
-      <Value>Regal Medium</Value>
+      <Value>Regal Normal</Value>
       <Description>Ein Regal zum Abstellen von Dingen, damit man sie sehen kann.</Description>
     </RecordThing>
     <RecordThing>
@@ -6406,53 +6406,53 @@ HINWEIS: Die Änderung der Stapelgröße aktualisiert NICHT die bestehenden Stap
     </RecordThing>
     <RecordThing>
       <Key>ItemKitVendingMachineRefrigerated</Key>
-      <Value>Bausatz (Vending Machine Refrigerated)</Value>
+      <Value>Bausatz (Verkaufsautomaten gekühlt)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>SeedBag_Potato</Key>
       <Value>Kartoffel-Saatgut</Value>
-      <Description>Wachsen Sie eine {THING:ItemPotato}.</Description>
+      <Description>Pflanze eine {THING:ItemPotato}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>SeedBag_Corn</Key>
-      <Value>Mais-Samen</Value>
-      <Description>Wachsen Sie eine {THING:ItemCorn}.</Description>
+      <Value>Mais-Saatgut</Value>
+      <Description>Pflanze ein {THING:ItemCorn}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>SeedBag_Wheet</Key>
-      <Value>Weizensaatgut</Value>
-      <Description>Wachsen einige {THING:ItemWheat}.</Description>
+      <Value>Weizen-Saatgut</Value>
+      <Description>Pflanze einige {THING:ItemWheat}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>SeedBag_Tomato</Key>
-      <Value>Tomatensaatgut</Value>
-      <Description>Wachsen Sie eine {THING:ItemTomato}.</Description>
+      <Value>Tomaten-Saatgut</Value>
+      <Description>Pflanze eine {THING:ItemTomato}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>SeedBag_Soybean</Key>
       <Value>Sojabohnen-Saatgut</Value>
-      <Description>Wachsen einige {THING:ItemSoybean}.</Description>
+      <Description>Pflanze einige {THING:ItemSoybean}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>SeedBag_Rice</Key>
-      <Value>Reis-Samen</Value>
-      <Description>Wachsen einige {THING:ItemRice}.</Description>
+      <Value>Reis-Saatgut</Value>
+      <Description>Pflanze einige {THING:ItemRice}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>SeedBag_Pumpkin</Key>
-      <Value>Kürbiskerne</Value>
-      <Description>Wachsen Sie eine {THING:ItemPumpkin}.</Description>
+      <Value>Kürbis-Saatgut</Value>
+      <Description>Pflanze ein {THING:ItemPumpkin}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>SeedBag_Fern</Key>
-      <Value>Farn-Samen</Value>
-      <Description>Wachsen Sie eine {THING:ItemFern}.</Description>
+      <Value>Farn-Saatgut</Value>
+      <Description>Pflanze ein {THING:ItemFern}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>SeedBag_Mushroom</Key>
-      <Value>Pilzsamen</Value>
-      <Description>Wachsen Sie eine {THING:ItemMushroom}.</Description>
+      <Value>Pilz-Saatgut</Value>
+      <Description>Pflanze ein {THING:ItemMushroom}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>Fertilizer</Key>
@@ -6497,7 +6497,7 @@ Der Dünger wird in einem Verhältnis von 1:3 zwischen Dünger und Inhaltsstoffe
     </RecordThing>
     <RecordThing>
       <Key>KitPlanter</Key>
-      <Value>Bausatz Planter</Value>
+      <Value>Bausatz (Pflanzer)</Value>
       <Description>Platziert ein {THING:StructurePlanter}.</Description>
     </RecordThing>
     <RecordThing>
@@ -6535,7 +6535,7 @@ Hinweis: Der Cannifier zeigt eine Fehlermeldung auf seinem Aktivierungsschalter 
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPlanter</Key>
-      <Value>Bausatz (Planter)</Value>
+      <Value>Bausatz (Pflanzer)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -6545,7 +6545,7 @@ Hinweis: Der Cannifier zeigt eine Fehlermeldung auf seinem Aktivierungsschalter 
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAutomatedOven</Key>
-      <Value>Bausatz (Automatik-Ofen)</Value>
+      <Value>Bausatz (Automatischer Backofen)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -6560,17 +6560,17 @@ Hinweis: Der Cannifier zeigt eine Fehlermeldung auf seinem Aktivierungsschalter 
     </RecordThing>
     <RecordThing>
       <Key>ItemPoweredEggs</Key>
-      <Value>Angetriebene Eier</Value>
+      <Value>Potenzierte Eier</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemFrenchFries</Key>
-      <Value>Pommes frites aus der Dose</Value>
+      <Value>Pommes aus der Dose</Value>
       <Description>Denn ohne sie wäre der Weltraum zum Kotzen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCannedRicePudding</Key>
-      <Value>Milchreis aus der Dose</Value>
+      <Value>Reispudding aus der Dose</Value>
       <Description>Hergestellt in einem {THING:StructureAdvancedPackagingMachine} oder {THING:AppliancePackagingMachine}, unter Verwendung von {THING:ItemCookedRice} und einem {THING:ItemEmptyCan}, ist Milchreis aus der Dose eine süße Leckerei, ziemlich nahrhaft, und nicht {LINK:DecayPage;decay}.</Description>
     </RecordThing>
     <RecordThing>
@@ -6595,7 +6595,7 @@ Hinweis: Der Cannifier zeigt eine Fehlermeldung auf seinem Aktivierungsschalter 
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAdvancedPackagingMachine</Key>
-      <Value>Bausatz (Erweiterte Verpackungsmaschine)</Value>
+      <Value>Bausatz (Fortschrittliche Verpackungsmaschine)</Value>
       <Description>Erzeugt und {THING:StructureAdvancedPackagingMachine.}</Description>
     </RecordThing>
     <RecordThing>
@@ -6660,7 +6660,7 @@ Hinweis: Der Cannifier zeigt eine Fehlermeldung auf seinem Aktivierungsschalter 
     </RecordThing>
     <RecordThing>
       <Key>ItemKitInsulatedWaterPipe</Key>
-      <Value>Bausatz für isolierte Wasserrohre</Value>
+      <Value>Bausatz (Isolierte Wasserrohre)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -6675,27 +6675,27 @@ Hinweis: Der Cannifier zeigt eine Fehlermeldung auf seinem Aktivierungsschalter 
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCrossJunction</Key>
-      <Value>Isolierte Flüssigkeitsrohre Querverbindung</Value>
+      <Value>Isolierte Flüssigkeitsrohre Kreuzung</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCrossJunction3</Key>
-      <Value>Isolierte Flüssigkeitsrohre Querverbindung3</Value>
+      <Value>Isolierte Flüssigkeitsrohre 3-Wege-Kreuzung</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCrossJunction4</Key>
-      <Value>Isolierte Flüssigkeitsrohre Kreuzungspunkt4</Value>
+      <Value>Isolierte Flüssigkeitsrohre 4-Wege-Kreuzung</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCrossJunction5</Key>
-      <Value>Isolierte Flüssigkeitsrohre Kreuzungspunkt5</Value>
+      <Value>Isolierte Flüssigkeitsrohre 5-Wege-Kreuzung</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCrossJunction6</Key>
-      <Value>Isolierte Flüssigkeitsrohre Kreuzungspunkt6</Value>
+      <Value>Isolierte Flüssigkeitsrohre 6-Wege-Kreuzung</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -6715,22 +6715,22 @@ Hinweis: Der Cannifier zeigt eine Fehlermeldung auf seinem Aktivierungsschalter 
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeLiquidCrossJunction</Key>
-      <Value>Isolierte Flüssigkeitsleitung (3-Wege-Verbindung)</Value>
+      <Value>Isolierte Flüssigkeitsleitung (3-Wege-Kreuzung)</Value>
       <Description>Flüssigkeitsleitungen mit sehr geringem Temperaturverlust oder -gewinn.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeLiquidCrossJunction4</Key>
-      <Value>Isolierte Flüssigkeitsleitung (4-Wege-Verbindung)</Value>
+      <Value>Isolierte Flüssigkeitsleitung (4-Wege-Kreuzung)</Value>
       <Description>Flüssigkeitsleitungen mit sehr geringem Temperaturverlust oder -gewinn.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeInsulatedLiquidCrossJunction</Key>
-      <Value>Isolierte Flüssigkeitsleitung (Kreuzungspunkt)</Value>
+      <Value>Isolierte Flüssigkeitsleitung (Kreuzung)</Value>
       <Description>Flüssigkeitsleitungen mit sehr geringem Temperaturverlust oder -gewinn.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeLiquidCrossJunction5</Key>
-      <Value>Isolierte Flüssigkeitsleitung (5-Wege-Abzweigung)</Value>
+      <Value>Isolierte Flüssigkeitsleitung (5-Wege-Kreuzung)</Value>
       <Description>Flüssigkeitsleitungen mit sehr geringem Temperaturverlust oder -gewinn.</Description>
     </RecordThing>
     <RecordThing>
@@ -6750,7 +6750,7 @@ Hinweis: Der Cannifier zeigt eine Fehlermeldung auf seinem Aktivierungsschalter 
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeHeater</Key>
-      <Value>Pipe Heater (Gas)</Value>
+      <Value>Rohrheizkörper (Gas)</Value>
       <Description>Fügt dem Inhalt Ihres Rohrnetzes pro Tick 1000 Joule Wärme zu.</Description>
     </RecordThing>
     <RecordThing>
@@ -6766,22 +6766,22 @@ Hinweis: Der Cannifier zeigt eine Fehlermeldung auf seinem Aktivierungsschalter 
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterPipeHeater</Key>
-      <Value>Pipe Heater (Gas)</Value>
+      <Value>Rohrheizkörper (Flüssigkeit)</Value>
       <Description>Fügt dem Inhalt Ihres Rohrnetzes pro Tick 1000 Joule Wärme zu.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeHeater</Key>
-      <Value>Pipe Heater Kit (Gas)</Value>
+      <Value>Rohrheizkörper (Gas)</Value>
       <Description>Erzeugt eine {THING:StructurePipeHeater}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWaterPipeHeater</Key>
-      <Value>Rohrheizungssatz (Flüssigkeit)</Value>
+      <Value>Rohrheizkörper (Flüssigkeit)</Value>
       <Description>Erzeugt eine {THING:StructureLiquidPipeHeater}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidPipeHeater</Key>
-      <Value>Rohrheizungssatz (Flüssigkeit)</Value>
+      <Value>Rohrheizkörper (Flüssigkeit)</Value>
       <Description>Erzeugt eine {THING:StructureLiquidPipeHeater}.</Description>
     </RecordThing>
     <RecordThing>
@@ -6833,7 +6833,7 @@ Wenn es geschlossen ist, hat es die Wärmeübertragungseigenschaften einer einfa
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWindowShutter</Key>
-      <Value>Bausatz (Window Shutter)</Value>
+      <Value>Bausatz (Fensterladen)</Value>
       <Description>Erzeugt eine {THING:StructureWindowShutter}.</Description>
     </RecordThing>
     <RecordThing>
@@ -6843,7 +6843,7 @@ Wenn es geschlossen ist, hat es die Wärmeübertragungseigenschaften einer einfa
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningCharge</Key>
-      <Value>Bergbauabgabe</Value>
+      <Value>Bergbausprengstoff</Value>
       <Description>Ein preiswerter, hoch ergiebiger Sprengstoff mit einem 10-Sekunden-Timer.</Description>
     </RecordThing>
     <RecordThing>
@@ -6883,12 +6883,12 @@ Beendet - 4
     </RecordThing>
     <RecordThing>
       <Key>ItemStelliteGlassSheets</Key>
-      <Value>Stellite Glass Sheets</Value>
+      <Value>Stellite Glasscheiben</Value>
       <Description>Ein stärkerer Glasersatz.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitReinforcedWindows</Key>
-      <Value>Verstärkte Fenster (Bausatz)</Value>
+      <Value>Bausatz (Verstärkte Fenster)</Value>
       <Description>Erzeugt {THING:StructureReinforcedCompositeWindow} und andere Varianten.</Description>
     </RecordThing>
     <RecordThing>
@@ -6917,12 +6917,12 @@ Sie müssen den Laptop abstellen, um mit der Bildschirmoberfläche zu interagier
     </RecordThing>
     <RecordThing>
       <Key>ItemPlantThermogenic_Genepool1</Key>
-      <Value>Hades Flower (Alpha-Sorte)</Value>
+      <Value>Hades Blume (Alpha-Sorte)</Value>
       <Description>Die von {LINK:Agrizero;Agrizero's} geschaffene Hades Flower ist das Ergebnis eines zweifelhaften Experiments, bei dem die Anziehungskraft tropischer Pflanzen mit dem Komfort und der Gemütlichkeit einer Wärmepumpe kombiniert wurde. Die Pflanze atmet eine 1:3-Mischung aus {GAS:Volatiles} und {GAS:Oxygen} ein und atmet erwärmtes {GAS:Pollutant} aus.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPlantThermogenic_Genepool2</Key>
-      <Value>Hades Flower (Beta-Stamm)</Value>
+      <Value>Hades Blume (Beta-Stamm)</Value>
       <Description>Die von {LINK:Agrizero;Agrizero's} geschaffene Hades Flower ist das Ergebnis eines zweifelhaften Experiments, bei dem die Anziehungskraft tropischer Pflanzen mit dem Komfort und der Gemütlichkeit einer Wärmepumpe kombiniert wurde. Die Pflanze atmet eine 1:3-Mischung aus {GAS:Volatiles} und {GAS:Oxygen} ein und atmet erhitztes {GAS:Pollutant} aus. Die Beta-Sorte ist deutlich effizienter als die frühere, experimentellere Alpha-Variante.</Description>
     </RecordThing>
     <RecordThing>
@@ -6947,7 +6947,7 @@ Der Sender muss auf die Basisstation ausgerichtet werden, um Leistung zu übertr
     </RecordThing>
     <RecordThing>
       <Key>StructurePowerTransmitterReceiver</Key>
-      <Value>Mikrowellenleistungsempfänger</Value>
+      <Value>Mikrowellen-Leistungsempfänger</Value>
       <Description>Der {LINK:Norsec;Norsec} Wireless Power Transmitter ist ein unidirektionales elektrisches A-zu-B-Fernfeld-Mikrowellenübertragungssystem, das einen schmalen, nicht tödlichen Mikrowellenstrahl an einen speziellen Basisempfänger sendet.
 Der Sender muss auf die Basisstation ausgerichtet werden, um Leistung zu übertragen. Die Helligkeit des Kollimatorbogens des Senders gibt einen Hinweis auf die Übertragungsintensität. Es ist zu beachten, dass bei größeren Entfernungen ein Leistungsabfall auftritt, so dass das Gerät über größere Entfernungen mehr Leistung benötigt, um die gleiche Leistung zu erbringen.</Description>
     </RecordThing>
@@ -6958,7 +6958,7 @@ Der Sender muss auf die Basisstation ausgerichtet werden, um Leistung zu übertr
     </RecordThing>
     <RecordThing>
       <Key>StructureOverheadShortLocker</Key>
-      <Value>Overhead Locker</Value>
+      <Value>Hängeschrank</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -6973,7 +6973,7 @@ Der Sender muss auf die Basisstation ausgerichtet werden, um Leistung zu übertr
     </RecordThing>
     <RecordThing>
       <Key>StructureCornerLocker</Key>
-      <Value>Corner Locker</Value>
+      <Value>Eckschließfach</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -7028,7 +7028,7 @@ Der Sender muss auf die Basisstation ausgerichtet werden, um Leistung zu übertr
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPowerTransmitterOmni</Key>
-      <Value>Bausatz (Power Transmitter Omni)</Value>
+      <Value>Bausatz (Leistungssender Omni)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -7090,7 +7090,7 @@ Es ist sehr temperaturempfindlich und beginnt zu schmelzen, sobald es abgebaut w
     </RecordThing>
     <RecordThing>
       <Key>StructurePassiveLargeRadiator</Key>
-      <Value>Medium Konvektionsradiator</Value>
+      <Value>Normaler Konvektionsradiator</Value>
       <Description>wurde durch {THING:StructureMediumConvectionRadiator} ersetzt.</Description>
     </RecordThing>
     <RecordThing>
@@ -7105,12 +7105,12 @@ Es ist sehr temperaturempfindlich und beginnt zu schmelzen, sobald es abgebaut w
     </RecordThing>
     <RecordThing>
       <Key>StructurePassiveLargeRadiatorLiquid</Key>
-      <Value>Medium Konvektionsradiator Flüssigkeit</Value>
+      <Value>Normaler Konvektionsradiator Flüssigkeit</Value>
       <Description>wurde durch {THING:StructureMediumConvectionRadiatorLiquid} ersetzt.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePassiveLargeRadiatorGas</Key>
-      <Value>Medium Konvektionsradiator</Value>
+      <Value>Normaler Konvektionsradiator</Value>
       <Description>wurde durch {THING:StructureMediumConvectionRadiator} ersetzt.</Description>
     </RecordThing>
     <RecordThing>
@@ -7145,27 +7145,27 @@ Es ist sehr temperaturempfindlich und beginnt zu schmelzen, sobald es abgebaut w
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeRadiatorFlatLiquid</Key>
-      <Value>Rohr Heizkörper Flüssigkeit</Value>
+      <Value>Gasrohr Heizkörper Flüssigkeit</Value>
       <Description>Ein Flüssigkeitsrohrstrahler, der für die Wärmeabstrahlung im Vakuum optimiert ist.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureMediumConvectionRadiator</Key>
-      <Value>Medium Konvektionsradiator</Value>
+      <Value>Normaler Konvektionsradiator</Value>
       <Description>Ein eigenständiger Heizkörper, der für den Wärmeaustausch mit der umgebenden Atmosphäre optimiert ist.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureMediumRadiator</Key>
-      <Value>Medium Radiator</Value>
+      <Value>Normaler Radiator</Value>
       <Description>Ein eigenständiges Heizgerät, das für die Wärmeabstrahlung im Vakuum optimiert ist.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureMediumRadiatorLiquid</Key>
-      <Value>Medium Kühlerflüssigkeit</Value>
+      <Value>Normaler Kühlerflüssigkeit</Value>
       <Description>Ein eigenständiger Flüssigkeitsstrahler, der für die Wärmeabstrahlung im Vakuum optimiert ist.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureMediumConvectionRadiatorLiquid</Key>
-      <Value>Medium Konvektionsradiator Flüssigkeit</Value>
+      <Value>Normaler Konvektionsradiator Flüssigkeit</Value>
       <Description>Ein eigenständiger Flüssigkeitsstrahler, der für den Wärmeaustausch mit der umgebenden Atmosphäre optimiert ist.</Description>
     </RecordThing>
     <RecordThing>
@@ -7175,7 +7175,7 @@ Es ist sehr temperaturempfindlich und beginnt zu schmelzen, sobald es abgebaut w
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPipeRadiatorLiquid</Key>
-      <Value>Bausatz (Rohr Heizkörper Flüssigkeit)</Value>
+      <Value>Bausatz (Flüssigkeitrohr Heizkörper)</Value>
       <Description>Dieser Bausatz erzeugt eine {THING:StructurePipeRadiatorFlatLiquid} und {THING:StructureLiquidPipeRadiator}.</Description>
     </RecordThing>
     <RecordThing>
@@ -7242,7 +7242,7 @@ Es ist sehr temperaturempfindlich und beginnt zu schmelzen, sobald es abgebaut w
       <Key>StructureCombustionCentrifuge</Key>
       <Value>Verbrennungszentrifuge</Value>
       <Description>Die Verbrennungszentrifuge ist eine gasbetriebene Version der {THING:StructureCentrifuge}. Dem Gaseingang sollte ein brennbares Brennstoffgemisch zugeführt werden, und die Abgase sollten aus dem Ausgang abgeleitet werden. Die Drehzahl der Maschine muss über die Drossel- und Verbrennungsbegrenzungshebel gesteuert werden. Wenn die Verbrennungszentrifuge zu schnell an Drehzahl gewinnt oder verliert, gerät sie unter Stress und kommt schließlich zum Stillstand.  Höhere Drehzahlen führen direkt zu einer höheren Verarbeitungsgeschwindigkeit.
-Der Drosselhebel steuert die Kraftstoffmenge, die der Maschine zugeführt wird, wodurch die Temperatur im Motor steigt und die Drehzahl erhöht wird. Der Begrenzerhebel beeinflusst die Geschwindigkeit der Verbrennung und die Menge an unverbranntem Gas im Auspuff.
+Der Drosselhebel steuert die Treibstoffmenge, die der Maschine zugeführt wird, wodurch die Temperatur im Motor steigt und die Drehzahl erhöht wird. Der Begrenzerhebel beeinflusst die Geschwindigkeit der Verbrennung und die Menge an unverbranntem Gas im Auspuff.
 Das Ausstoßen von Erz aus der Verbrennungszentrifuge bei hohen Drehzahlen führt zu einer zusätzlichen Belastung.  Wenn die Maschine ausgeschaltet wird, während sie nicht belastet ist, beginnt sie automatisch zu bremsen und die Drehzahl kontrolliert zu verringern.
 	  </Description>
     </RecordThing>
@@ -7268,12 +7268,12 @@ Das Ausstoßen von Erz aus der Verbrennungszentrifuge bei hohen Drehzahlen führ
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteDigitalFlipFlopSplitterLeft</Key>
-      <Value>Chute Digital Flip Flop Splitter Links</Value>
+      <Value>Schacht Digital Flip Flop Splitter Links</Value>
       <Description>Das digitale Flipflop schaltet zwischen zwei Ausgängen in einem bestimmten Verhältnis (n:1) um. Wenn Sie beispielsweise den Drehschalter auf 2 stellen, können zwei Objekte den primären Ausgang passieren, bevor sie auf den sekundären Ausgang umgeschaltet werden.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteDigitalFlipFlopSplitterRight</Key>
-      <Value>Chute Digital Flip Flop Splitter Rechts</Value>
+      <Value>Schacht Digital Flip Flop Splitter Rechts</Value>
       <Description>Das digitale Flipflop schaltet zwischen zwei Ausgängen in einem bestimmten Verhältnis (n:1) um. Wenn Sie beispielsweise den Drehschalter auf 2 stellen, können zwei Objekte den primären Ausgang passieren, bevor sie auf den sekundären Ausgang umgeschaltet werden.</Description>
     </RecordThing>
     <RecordThing>
@@ -7493,12 +7493,12 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterNitrousOxideInfinite</Key>
-      <Value>Catalytic Filter (Nitrous Oxide)</Value>
+      <Value>Catalytic Filter (Distickstoffmonoxid)</Value>
       <Description>Ein Filter, der selektiv auf Distickstoffoxid abzielt. Er nutzt interne Druckunterschiede, um einen einzigartigen Phasenwechselkatalysator zu regenerieren, was ihm eine unbegrenzte Lebensdauer verleiht.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterNitrogenInfinite</Key>
-      <Value>Catalytic Filter (Nitrogen)</Value>
+      <Value>Catalytic Filter (Stickstoff)</Value>
       <Description>Ein Filter, der selektiv auf Stickstoff wirkt. Er nutzt interne Druckunterschiede, um einen einzigartigen Phasenwechselkatalysator zu regenerieren, was ihm eine unbegrenzte Lebensdauer verleiht.</Description>
     </RecordThing>
     <RecordThing>
@@ -7538,7 +7538,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeFloorGratingOpenRotated</Key>
-      <Value>Verbundwerkstoff-Bodenroste Offen gedreht</Value>
+      <Value>Komposit-Bodenroste Offen gedreht</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -7648,7 +7648,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     </RecordThing>
     <RecordThing>
       <Key>StructureLowVolumePipeCrossJunction4</Key>
-      <Value>Rohr mit geringem Volumen (4-Wege-Kreuzung)</Value>
+      <Value>Gasrohr mit geringem Volumen (4-Wege-Kreuzung)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -7777,7 +7777,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     </RecordThing>
     <RecordThing>
       <Key>StructureInLineTankGas1x1</Key>
-      <Value>In-Line Tank Small Gas</Value>
+      <Value>In-Line Tank Klein Gas</Value>
       <Description>Ein kleines Ausdehnungsgefäß, das das Volumen eines Rohrnetzes vergrößert.</Description>
     </RecordThing>
     <RecordThing>
@@ -8005,7 +8005,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     </RecordThing>
     <RecordThing>
       <Key>StructurePoweredVentLarge</Key>
-      <Value>Powered Vent Large</Value>
+      <Value>Powered Vent Groß</Value>
       <Description>Für den Bau von großen Schleusensystemen und druckbeaufschlagten Hängern, eine größere und kühnere Version des {THING:StructurePoweredVent}, die effizient ein Vakuum in großen Räumen erzeugen kann.</Description>
     </RecordThing>
     <RecordThing>
@@ -13572,7 +13572,7 @@ Anschuldigungen wegen illegaler Asteroidenverschiebung, Sicherheitsverstößen u
     <Record>
       <Key>SinotaiDesc</Key>
       <Value>Als einziges "traditionelles" Staatsgebilde, das die außerweltliche Politik überlebt hat, ist Sinotai in seiner Reichweite und Macht nur von der {LINK:ODA;ODA} selbst übertroffen worden. In vielerlei Hinsicht ein Relikt - eine Unterbehörde einer atemberaubend komplizierten, erdgebundenen Unternehmensbürokratie - hat ihre Struktur es Sinotai ermöglicht, unglaubliche Dinge zu erreichen.
-Zu Beginn des 21. Jahrhunderts hat sie ihr Können unter Beweis gestellt, indem sie die ersten Menschen auf den Mars brachte, das erste außerweltliche Gigawatt-Energiesystem und die erste weltraumgestützte Kraftstoffraffinerie errichtete. Ein gängiger Witz besagt, dass es unmöglich ist, im Weltraum etwas ohne sie zu unternehmen.
+Zu Beginn des 21. Jahrhunderts hat sie ihr Können unter Beweis gestellt, indem sie die ersten Menschen auf den Mars brachte, das erste außerweltliche Gigawatt-Energiesystem und die erste weltraumgestützte Treibstoffraffinerie errichtete. Ein gängiger Witz besagt, dass es unmöglich ist, im Weltraum etwas ohne sie zu unternehmen.
 Unabhängig von der Wahrheit hat Sinotai bei der Entwicklung außerhalb der Welt einen "Soft-Power"-Ansatz verfolgt, der von Absichtserklärungen mit {LINK:Recurso;Recurso} (die ihnen bevorzugten Zugang zum Weltraumlift in Manaus gewähren) bis hin zu undurchsichtigen Zweckbündnissen mit einer Reihe von Händlerkonzernen reicht.
       </Value>
     </Record>
@@ -13582,9 +13582,9 @@ Unabhängig von der Wahrheit hat Sinotai bei der Entwicklung außerhalb der Welt
     </Record>
     <Record>
       <Key>TKDesc</Key>
-      <Value>Ursprünglich war das tansanische Unternehmen Kinetic Systems ein Verteidigungsunternehmen, das sich auf die Herstellung von Hochleistungswaffen spezialisierte. In Friedenszeiten vollzog es einen groß angelegten Schwenk und wurde zum führenden Konstrukteur von Hochgeschwindigkeits-Förderanlagen in Afrika.
+      <Value>Ursprünglich war das tansanische Unternehmen Kinetic Systems ein Verteidigungsunternehmen, das sich auf die Herstellung von Hochleistungswaffen spezialisierte. In Friedenszeiten vollzog es einen groß angelegten Schwenk und wurde zum führenden Konstrukteur von Hochgeschwindigkeits-Schachtanlagen in Afrika.
 Heute produziert TK eine Reihe von Rutschennetzdesigns und -komponenten und ist dank der afro-chinesischen Partnerschaften im späten 21. Jahrhundert auch außerhalb der Welt stark vertreten. Das Unternehmen mit Sitz im "wiederentdeckten" Kigamboni-Bezirk von Dar E Salaam geht regelmäßig Entwicklungspartnerschaften mit {LINK:CHAC;CHAC} ein, und infolgedessen weisen viele ihrer Produkte deutliche Ähnlichkeiten auf.
-        Schließlich ist eine Waffe nichts anderes als ein "Hochgeschwindigkeits-Förderband".
+        Schließlich ist eine Waffe nichts anderes als ein "Hochgeschwindigkeits-Schachtband".
       </Value>
     </Record>
     <Record>
@@ -14128,7 +14128,7 @@ Das Stationeers-Programm ist grundsätzlich offen für alle Menschen, denn es re
     </Record>
     <Record>
       <Key>MoleVolatilesDescription</Key>
-      <Value>Flüchtige Stoffe sind ein äußerst reaktives, komplexes organisches Molekül, das in Verbindung mit Sauerstoff als brennbarer Kraftstoff verwendet werden kann. Es wird aus {THING:ItemVolatiles} raffiniert.
+      <Value>Flüchtige Stoffe sind ein äußerst reaktives, komplexes organisches Molekül, das in Verbindung mit Sauerstoff als brennbarer Treibstoff verwendet werden kann. Es wird aus {THING:ItemVolatiles} raffiniert.
       
 Aufgrund obskurer und weitgehend vergessener {LINK:ODA;ODA} Vorschriften werden flüchtige Stoffe in verschiedenen technischen Geräten manchmal als "H2" bezeichnet. Sie ähneln zwar dem Wasserstoff, sind aber nicht "wirklich" Wasserstoff. Aus {GAS:Volatiles} entsteht bei der Verbrennung ohne einen Katalysator kein {GAS:Water} (siehe {THING:H2Combustor}). Alleine erzeugen sie {GAS:Pollutant} und {GAS:CarbonDioxide}, wenn sie im folgenden Verhältnis verbrannt werden:
       
@@ -14175,7 +14175,7 @@ Der Schadstoff hat eine hohe spezifische Wärme, was ihn zu einem hervorragenden
     </Record>
     <Record>
       <Key>MoleSteamDescription</Key>
-      <Value>Verdampftes {GAS:Water}. Es kann durch Erhöhen der Temperatur von {GAS:Water} auf seinen Siedepunkt erzeugt werden. Wenn {GAS:Steam} in ein Rohr eingeleitet wird, kondensiert er wieder zu {GAS:Water}, wenn seine Temperatur unter dem Siedepunkt liegt. Dampf kann durch die Verbrennung von {GAS:Volatiles} und Sauerstoff mit Hilfe des {THING:H2Combustor} erzeugt werden.</Value>
+      <Value>Verdampftes {GAS:Water}. Es kann durch Erhöhen der Temperatur von {GAS:Water} auf seinen Siedepunkt erzeugt werden. Wenn {GAS:Steam} in ein Gasrohr eingeleitet wird, kondensiert er wieder zu {GAS:Water}, wenn seine Temperatur unter dem Siedepunkt liegt. Dampf kann durch die Verbrennung von {GAS:Volatiles} und Sauerstoff mit Hilfe des {THING:H2Combustor} erzeugt werden.</Value>
     </Record>
     <Record>
       <Key>SettingsSmoothTerrain</Key>
@@ -16859,7 +16859,7 @@ Status: {LOCAL:StatusValue}</Value>
     </Record>
     <Record>
       <Key>DeviceNoFuel</Key>
-      <Value>Es befindet sich kein Kraftstoff mehr im Gerät</Value>
+      <Value>Es befindet sich kein Treibstoff mehr im Gerät</Value>
     </Record>
     <Record>
       <Key>DeviceNotHotEnough</Key>
@@ -17111,11 +17111,11 @@ Status: {LOCAL:StatusValue}</Value>
     </Record>
     <Record>
       <Key>OreNoMiningBelt</Key>
-      <Value>Kein Förderband zum Einlagern</Value>
+      <Value>Kein Schachtband zum Einlagern</Value>
     </Record>
     <Record>
       <Key>OreNoSlotInMiningBelt</Key>
-      <Value>Kein freier Platz im Förderband</Value>
+      <Value>Kein freier Platz im Schachtband</Value>
     </Record>
     <Record>
       <Key>ApcUnableToMoveLocked</Key>
@@ -17671,7 +17671,7 @@ Status: {LOCAL:StatusValue}</Value>
     </Record>
     <Record>
       <Key>CannotPlaceOnBurstPipe</Key>
-      <Value>Kann nicht auf geplatztes Rohr setzen</Value>
+      <Value>Kann nicht auf geplatztes Gasrohr setzen</Value>
     </Record>
     <Record>
       <Key>MustMountToCable</Key>
@@ -17679,7 +17679,7 @@ Status: {LOCAL:StatusValue}</Value>
     </Record>
     <Record>
       <Key>MustMountToPipe</Key>
-      <Value>Muss an einem geraden Rohr montiert werden</Value>
+      <Value>Muss an einem geraden Gasrohr montiert werden</Value>
     </Record>
     <Record>
       <Key>CannotMergeIMergeable</Key>
