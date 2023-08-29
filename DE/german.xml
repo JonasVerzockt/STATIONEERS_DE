@@ -1681,7 +1681,7 @@ Es mag nicht elegant sein, aber {THING:ItemOxite} und {THING:ItemVolatiles} kön
     <Key>ItemToolBelt</Key>
     <Value>Werkzeuggürtel</Value>
     <Description>Wenn es einen Ausrüstungsgegenstand gibt, der das Leben eines Stationeers am besten verkörpert, dann ist es der bescheidene Werkzeuggürtel (Anmerkung des Herausgebers: Nicht gefüllt mit Werkzeugen in den Recycler werfen!).
-Die acht Slots des Werkzeuggürtels wurden nach den strengsten ODA-Sicherheitsstandards entworfen und enthalten vor allem eines: Werkzeug und {THING:ItemCableCoil}. Nicht zu verwechseln mit dem {THING: ItemMiningBelt}.</Description>
+Die acht Slots des Werkzeuggürtels wurden nach den strengsten ODA-Sicherheitsstandards entworfen und enthalten vor allem eines: Werkzeug und {THING:ItemCableCoil}. Nicht zu verwechseln mit dem {THING:ItemMiningBelt}.</Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemUraniumOre</Key>
@@ -1829,7 +1829,7 @@ Da sie bis zu 3600000 W Energie speichern kann, gibt es keine praktischen Grenze
   <RecordThing>
     <Key>StructureBench</Key>
     <Value>Werkbank (mit Energie)</Value>
-    <Description>Wenn es Zeit zum Sitzen ist, unterstützt dich nichts so gut wie eine Bank. Diese Bank ist mit Energie versorgt, sodass du Geräte wie die {THING: ApplianceMicrowave} benutzen kannst.</Description>
+    <Description>Wenn es Zeit zum Sitzen ist, unterstützt dich nichts so gut wie eine Bank. Diese Bank ist mit Energie versorgt, sodass du Geräte wie die {THING:ApplianceMicrowave} benutzen kannst.</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureBlastDoor</Key>
@@ -1841,37 +1841,37 @@ Wenn nicht gerade eine taschengroße Singularität in den lokalen Raum-Zeit-Rahm
     <Key>StructureCableCorner</Key>
     <Value>Kabel (Ecke)</Value>
     <Description>Die Kabelspule, die sowohl Energie als auch Daten transportiert, ist zum Symbol für Innovation, Unabhängigkeit und Flexibilität im Leben eines Stationeers geworden - so wichtig, dass sie von der {LINK:ODA;ODA} während der 3. jährlichen Stationeer Solarkonferenz zum offiziellen {LINK:ToolPage;'tool'} erklärt wurde.
-Die normale Spule hat eine maximale Wattzahl von 5 kW. Für höhere Stromstärken benutze {THING: ItemCableCoilHeavy}.</Description>
+Die normale Spule hat eine maximale Wattzahl von 5 kW. Für höhere Stromstärken benutze {THING:ItemCableCoilHeavy}.</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureCableCorner3</Key>
     <Value>Kabel (3-Wege-Ecke)</Value>
     <Description>Die Kabelspule, die sowohl Energie als auch Daten transportiert, ist zum Symbol für Innovation, Unabhängigkeit und Flexibilität im Leben eines Stationeers geworden - so wichtig, dass sie von der {LINK:ODA;ODA} während der 3. jährlichen Stationeer Solarkonferenz zum offiziellen {LINK:ToolPage;'tool'} erklärt wurde.
-Die normale Spule hat eine maximale Wattzahl von 5 kW. Für höhere Stromstärken benutze {THING: ItemCableCoilHeavy}.</Description>
+Die normale Spule hat eine maximale Wattzahl von 5 kW. Für höhere Stromstärken benutze {THING:ItemCableCoilHeavy}.</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureCableJunction</Key>
     <Value>Kabel (Verzweigung)</Value>
     <Description>Die Kabelspule, die sowohl Energie als auch Daten transportiert, ist zum Symbol für Innovation, Unabhängigkeit und Flexibilität im Leben eines Stationeers geworden - so wichtig, dass sie von der {LINK:ODA;ODA} während der 3. jährlichen Stationeer Solarkonferenz zum offiziellen {LINK:ToolPage;'tool'} erklärt wurde.
-Die normale Spule hat eine maximale Wattzahl von 5 kW. Für höhere Stromstärken benutze {THING: ItemCableCoilHeavy}.</Description>
+Die normale Spule hat eine maximale Wattzahl von 5 kW. Für höhere Stromstärken benutze {THING:ItemCableCoilHeavy}.</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureCableJunction4</Key>
     <Value>Kabel (4-Wege-Verzweigung)</Value>
     <Description>Die Kabelspule, die sowohl Energie als auch Daten transportiert, ist zum Symbol für Innovation, Unabhängigkeit und Flexibilität im Leben eines Stationeers geworden - so wichtig, dass sie von der {LINK:ODA;ODA} während der 3. jährlichen Stationeer Solarkonferenz zum offiziellen {LINK:ToolPage;'tool'} erklärt wurde.
-Die normale Spule hat eine maximale Wattzahl von 5 kW. Für höhere Stromstärken benutze {THING: ItemCableCoilHeavy}.</Description>
+Die normale Spule hat eine maximale Wattzahl von 5 kW. Für höhere Stromstärken benutze {THING:ItemCableCoilHeavy}.</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureCableJunction6</Key>
     <Value>Kabel (6-Wege-Verzweigung)</Value>
     <Description>Die Kabelspule, die sowohl Energie als auch Daten transportiert, ist zum Symbol für Innovation, Unabhängigkeit und Flexibilität im Leben eines Stationeers geworden - so wichtig, dass sie von der {LINK:ODA;ODA} während der 3. jährlichen Stationeer Solarkonferenz zum offiziellen {LINK:ToolPage;'tool'} erklärt wurde.
-Die normale Spule hat eine maximale Wattzahl von 5 kW. Für höhere Stromstärken benutze {THING: ItemCableCoilHeavy}.</Description>
+Die normale Spule hat eine maximale Wattzahl von 5 kW. Für höhere Stromstärken benutze {THING:ItemCableCoilHeavy}.</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureCableStraight</Key>
     <Value>Kabel (gerade)</Value>
     <Description>Die Kabelspule, die sowohl Energie als auch Daten transportiert, ist zum Symbol für Innovation, Unabhängigkeit und Flexibilität im Leben eines Stationeers geworden - so wichtig, dass sie von der {LINK:ODA;ODA} zum offiziellen {LINK:ToolPage;'tool'} erklärt wurde.
-Die normale Spule hat eine maximale Wattzahl von 5 kW. Für höhere Stromstärken benutze {THING: ItemCableCoilHeavy}.</Description>
+Die normale Spule hat eine maximale Wattzahl von 5 kW. Für höhere Stromstärken benutze {THING:ItemCableCoilHeavy}.</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureCamera</Key>
@@ -1988,7 +1988,7 @@ Kompatible Motherboards:
     <Key>StructureConsole</Key>
     <Value>Konsole</Value>
     <Description>Dieser von Norsec entwickelte Schaltkasten verwaltet Geräte wie den {THING:StructureActiveVent}, {THING:StructurePassiveVent}, {THING:StructureGasSensor} und {THING:StructureCompositeDoor}, je nachdem, welches {LINK:LogicPage;circuitboard} in das Gerät eingesetzt wird. Es hat einen gemeinsamen Daten-/Stromanschluss.
-Eine fertige Konsole zeigt alle Geräte an, die mit dem aktuellen Netzwerk der Energie verbunden sind. Alle Geräte, die nicht mit der installierten Platine verbunden sind, werden ausgegraut und sind nicht funktionsfähig. Konsolen werden gesperrt, sobald eine {THING: ItemDataDisk} entfernt wird.</Description>
+Eine fertige Konsole zeigt alle Geräte an, die mit dem aktuellen Netzwerk der Energie verbunden sind. Alle Geräte, die nicht mit der installierten Platine verbunden sind, werden ausgegraut und sind nicht funktionsfähig. Konsolen werden gesperrt, sobald eine {THING:ItemDataDisk} entfernt wird.</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureConsoleDual</Key>
@@ -2000,7 +2000,7 @@ Eine fertige Konsole zeigt alle Geräte an, die mit dem aktuellen Netzwerk der E
     <Key>StructureConsoleMonitor</Key>
     <Value>Konsole Monitor</Value>
     <Description>Diese von {LINK:Norsec;Norsec entworfene} Steuerbox verwaltet Geräte wie den {THING:StructureActiveVent}, {THING:StructurePassiveVent}, {THING:StructureGasSensor}, {THING:ItemSecurityCamera} und {THING:StructureCompositeDoor}, je nachdem, welches {LINK:LogicPage;circuitboard} in das Gerät eingesetzt wird. Es hat einen gemeinsamen Daten-/Stromanschluss und eine charmante abgeschrägte Schnittstelle.
-In einer fertigen Konsole werden alle Geräte angezeigt, die mit dem aktuellen Netzwerk der Energie verbunden sind. Alle Geräte, die nicht mit der installierten Platine verbunden sind, werden ausgegraut und sind nicht funktionsfähig. Konsolen werden gesperrt, sobald eine {THING: ItemDataDisk} entfernt wird.</Description>
+In einer fertigen Konsole werden alle Geräte angezeigt, die mit dem aktuellen Netzwerk der Energie verbunden sind. Alle Geräte, die nicht mit der installierten Platine verbunden sind, werden ausgegraut und sind nicht funktionsfähig. Konsolen werden gesperrt, sobald eine {THING:ItemDataDisk} entfernt wird.</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureControlChair</Key>
@@ -2748,7 +2748,7 @@ Da Oxit sehr temperaturempfindlich ist, beginnt es zu schmelzen, sobald es abgeb
     <Key>StructureToolManufactory</Key>
     <Value>Werkzeugmanufaktur</Value>
     <Description>Keine Mission kann ohne die richtigen Werkzeuge abgeschlossen werden. Die {LINK:Norsec;Norsec} ThuulDek-Manufaktur kann fast jedes Werkzeug oder Handgerät herstellen, das ein {LINK:Stationeer;Stationeer} braucht, um seine Mission zu erfüllen, und auch eine Vielzahl von herrlichen Farben.
-Verbessere das Gerät mit einem {THING: ToolPrinterMod}, um zusätzliche Rezepte und eine höhere Verarbeitungsgeschwindigkeit zu erhalten.</Description>
+Verbessere das Gerät mit einem {THING:ToolPrinterMod}, um zusätzliche Rezepte und eine höhere Verarbeitungsgeschwindigkeit zu erhalten.</Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitToolManufactory</Key>
@@ -4047,7 +4047,7 @@ Wenn es an einen {THING:StructureComputer} angeschlossen ist, der eine {THING:Mo
     <Value>AIMeE Bot</Value>
     <Description>AIMeE (Automatisierte individuelle mechanische Einheit) wurde von - vermutlich betrunkenen - {LINK:Norsec;Norsec} Robotikern entwickelt und kann der beste Freund eines {LINK:Stationeers;Stationeer's} oder sein lästiger Erzfeind sein, oder beides mehrmals am selben Tag. 
       
-Das Gerät, das automatisch Erze ausgraben und bergen soll, benötigt zum Betrieb grundlegende Programmierkenntnisse und einen {THING: MotherboardProgrammableChip}.
+Das Gerät, das automatisch Erze ausgraben und bergen soll, benötigt zum Betrieb grundlegende Programmierkenntnisse und einen {THING:MotherboardProgrammableChip}.
 
 AIMEe hat 7 Modi:
 
@@ -4400,7 +4400,7 @@ Die folgenden Bedingungen müssen für den Start erfüllt sein:
 - Treibstoff voll
 - Das Mischungsverhältnis des Treibstoffs muss stimmen - ein 2:1-Gemisch aus {GAS:Volatiles} und {GAS:Oxygen}.
 - Alle Spieler sitzen auf ihren Plätzen
-- Das {THING: StructureLaunchPad} wird mit Energie versorgt
+- Das {THING:StructureLaunchPad} wird mit Energie versorgt
 - Vollständig gebaute Rakete
 
 Die {THING:StructureModularRocketCommand01} Konsole zeigt den aktuellen Stand dieser Bedingungen an. Für den Start wird keine Atmosphäre benötigt - die Atmosphäre deines Anzugs ist ausreichend.
@@ -5437,7 +5437,7 @@ Obwohl die Windturbine so optimiert ist, dass sie auch bei niedriger Atmosphäre
   <RecordThing>
     <Key>CrateMkII</Key>
     <Value>Kiste Mk II</Value>
-    <Description>Die Crate Mk II ist eine stärker verstärkte Version der kultigen {THING: DynamicCrate} und hält unglaublich hohen Drücken und Temperaturen stand. Wenn man sie nicht gerade in einem schwarzen Loch entsorgt, ist die Mk II so sicher wie Gepäckstücke nur sein können.</Description>
+    <Description>Die Crate Mk II ist eine stärker verstärkte Version der kultigen {THING:DynamicCrate} und hält unglaublich hohen Drücken und Temperaturen stand. Wenn man sie nicht gerade in einem schwarzen Loch entsorgt, ist die Mk II so sicher wie Gepäckstücke nur sein können.</Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitCrateMkII</Key>
@@ -5527,7 +5527,7 @@ Obwohl die Windturbine so optimiert ist, dass sie auch auf Welten mit niedriger 
   <RecordThing>
     <Key>ItemKitWindTurbine</Key>
     <Value>Kit (Windturbine)</Value>
-    <Description>Dieses Kit produziert eine {THING: StructureWindTurbine}.</Description>
+    <Description>Dieses Kit produziert eine {THING:StructureWindTurbine}.</Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemKitPipeLiquid</Key>
@@ -5650,7 +5650,7 @@ Wenn der KoolAuger voll ist, nimmt er kein weiteres Eis mehr an, bis der Gas- od
   <RecordThing>
     <Key>ItemKitIceCrusher</Key>
     <Value>Kit (Eiscrusher)</Value>
-    <Description>Dieses Kit erstellt einen {THING: StructureIceCrusher}.</Description>
+    <Description>Dieses Kit erstellt einen {THING:StructureIceCrusher}.</Description>
   </RecordThing>
   <RecordThing>
     <Key>DynamicGasTankAdvancedOxygen</Key>
@@ -5670,7 +5670,7 @@ Die Geschwindigkeit des Wärmegewinns oder -verlusts hängt von der jeweiligen F
   <RecordThing>
     <Key>ItemPipeLiquidRadiator</Key>
     <Value>Kit (Flüssigkeitsradiator)</Value>
-    <Description>Dieses Kit erstellt einen {THING: StructureLiquidPipeRadiator}.</Description>
+    <Description>Dieses Kit erstellt einen {THING:StructureLiquidPipeRadiator}.</Description>
   </RecordThing>
   <RecordThing>
     <Key>DynamicMKIILiquidCanisterEmpty</Key>
@@ -5988,7 +5988,7 @@ Der Step-Sequenzer, mit dem Stationeer kurze musikalische Muster oder Schleifen 
 
 {HEADER:DIY MUSIC - GETTING STARTED}
 
-1: Schließe 8 {THING: DeviceStepUnit}s über den Datenanschluss auf der linken Seite an deinen Step-Sequenzer an.
+1: Schließe 8 {THING:DeviceStepUnit}s über den Datenanschluss auf der linken Seite an deinen Step-Sequenzer an.
 
 2: Beschrifte jede Step-Unit und weise die Step-Units 1 bis 8 am Step-Sequenzer mit dem Schraubendreher zu.
 
@@ -6002,7 +6002,7 @@ Der Step-Sequenzer, mit dem Stationeer kurze musikalische Muster oder Schleifen 
 
 7: Wähle die Tonhöhe der abzuspielenden Klänge, indem du den Regler an jeder deiner 8 Step-Units auf die gewünschte Note stellst. Bei Trommeln ist jede Note ein anderer Trommelklang. Du kannst deine Sounds prüfen, indem du die Aktivierungstaste an jeder Step-Unit drückst (bei inaktivem Sequenzer).
 
-8: Spiele mit dem {THING: DeviceLfoVolume} verrückt.
+8: Spiele mit dem {THING:DeviceLfoVolume} verrückt.
 
 9: Aktiviere zum Schluss den Sequenzer, Vibeoneer.</Description>
   </RecordThing>
@@ -6149,12 +6149,12 @@ HINWEIS: Das Ändern der Stack-Größen aktualisiert NICHT die bestehenden Stack
   <RecordThing>
     <Key>SeedBag_Tomato</Key>
     <Value>Tomatensamen</Value>
-    <Description>Baue eine {THING: ItemTomato} an.</Description>
+    <Description>Baue eine {THING:ItemTomato} an.</Description>
   </RecordThing>
   <RecordThing>
     <Key>SeedBag_Soybean</Key>
     <Value>Sojabohnen-Samen</Value>
-    <Description>Baue einige {THING: ItemSoybean} an.</Description>
+    <Description>Baue einige {THING:ItemSoybean} an.</Description>
   </RecordThing>
   <RecordThing>
     <Key>SeedBag_Rice</Key>
@@ -6310,7 +6310,7 @@ Hinweis: Der Kannifizierer zeigt eine Fehlermeldung auf seinem Aktivierungsschal
   <RecordThing>
     <Key>ItemKitAdvancedPackagingMachine</Key>
     <Value>Kit (Fortgeschrittene Verpackungsmaschine)</Value>
-    <Description>Erzeugt und {THING: StructureAdvancedPackagingMachine.}</Description>
+    <Description>Erzeugt und {THING:StructureAdvancedPackagingMachine.}</Description>
   </RecordThing>
   <RecordThing>
     <Key>ItemCookedSoybean</Key>
@@ -6734,7 +6734,7 @@ Der Sender muss auf die Basisstation ausgerichtet werden, um Energie zu übertra
   <RecordThing>
     <Key>ItemKitLargeExtendableRadiator</Key>
     <Value>Kit (Großer ausziehbarer Heizkörper)</Value>
-    <Description>Erzeugt {THING: StructureLargeExtendableRadiator}.</Description>
+    <Description>Erzeugt {THING:StructureLargeExtendableRadiator}.</Description>
   </RecordThing>
   <RecordThing>
     <Key>StructureLargeExtendableRadiator</Key>
@@ -14436,7 +14436,7 @@ Hinweis: Bisher wurde {GAS:Water} wie ein Gas behandelt, aber es wird ein neues 
   </Record>
   <Record>
     <Key>MoleNitrousOxideDescription</Key>
-    <Value>Distickstoffoxid ist ein reaktives Gas, das Spieler bewusstlos macht, wenn sie es einatmen.  Es wirkt als Oxidationsmittel bei der Verbrennung und lässt flüchtige Stoffe deutlich heißer, schneller und mit einer niedrigeren Selbstentzündungstemperatur brennen. Es kann in einem energieintensiven Prozess in einem {THING: StructureNitrolyzer} produziert werden.</Value>
+    <Value>Distickstoffoxid ist ein reaktives Gas, das Spieler bewusstlos macht, wenn sie es einatmen.  Es wirkt als Oxidationsmittel bei der Verbrennung und lässt flüchtige Stoffe deutlich heißer, schneller und mit einer niedrigeren Selbstentzündungstemperatur brennen. Es kann in einem energieintensiven Prozess in einem {THING:StructureNitrolyzer} produziert werden.</Value>
   </Record>
   <Record>
     <Key>SettingsSmoothTerrain</Key>
