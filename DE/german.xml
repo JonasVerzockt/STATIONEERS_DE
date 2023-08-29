@@ -465,7 +465,7 @@
     <Key>ApplianceMicrowave</Key>
     <Value>Mikrowelle</Value>
     <Description>Während in den letzten hundert Jahren unzählige 'bessere' Methoden zum Kochen erfunden wurden, sind nur wenige so langlebig und einfach herzustellen wie die OK-Zoomer-Mikrowelle. Die von {LINK:Xigo;Xigo} lizenzierte Mikrowelle basiert auf einem klassischen Modell aus Mitte des 21. Jahrhunderts, was ihr einen charmanten Retro-Look verleiht. Aber keine Sorge, sie oszilliert {GAS: Water} Moleküle mehr als ausreichend. 
-Befestige ihn einfach mit einem {THING:ItemWrench} an einer {THING:StructureBench}, um ihn mit Energie zu versorgen, befolge das Rezept und schon kannst du kochen.</Description>
+Befestige sie einfach mit einem {THING:ItemWrench} an einer {THING:StructureBench}, um diese mit Energie zu versorgen, befolge das Rezept und schon kannst du kochen.</Description>
   </RecordThing>
   <RecordThing>
     <Key>ApplianceReagentProcessor</Key>
