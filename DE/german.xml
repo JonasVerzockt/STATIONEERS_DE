@@ -7391,7 +7391,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
   </RecordThing>
   <RecordThing>
     <Key>StructureLowVolumePipeTJunction</Key>
-    <Value>Rohr mit geringem Volumen (T-Kreuzung)</Value>
+    <Value>Niedrigvolumige Rohre (T-Kreuzung)</Value>
   </RecordThing>
   <RecordThing>
     <Key>ItemClothingBagOveralls_Germany</Key>
@@ -7438,7 +7438,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
   </RecordThing>
   <RecordThing>
     <Key>StructureLowVolumeLiquidPipeCrossJunction4</Key>
-    <Value>Flüssigkeitsleitung mit geringem Volumen (4-Wege-Verzweigung)</Value>
+    <Value>Niedrigvolumiges Flüssigkeitsrohr (4-Wege-Verzweigung)</Value>
   </RecordThing>
   <RecordThing>
     <Key>StructurePassiveLiquidDrain</Key>
@@ -7483,7 +7483,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
   </RecordThing>
   <RecordThing>
     <Key>StructureLowVolumeLiquidPipeTJunction</Key>
-    <Value>Flüssigkeitsleitung mit geringem Volumen (T-Verteiler)</Value>
+    <Value>Niedrigvolumiges Flüssigkeitsrohr (T-Verteiler)</Value>
   </RecordThing>
   <RecordThing>
     <Key>ItemClothingBagOveralls_Aus</Key>
@@ -7650,14 +7650,125 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
   </RecordThing>
   <RecordThing>
     <Key>StructureLowVolumeLiquidPipeStraight</Key>
-    <Value>Niedervolumige Flüssigkeitsleitung (gerade)<Value>
+    <Value>Niedervolumige Flüssigkeitsleitung (gerade)</Value>
   </RecordThing>
   <RecordThing>
     <Key>StructureFuselage1x1</Key>
     <Value>Rumpf 1x1</Value>
   </RecordThing>
+  <RecordThing>
+    <Key>StructureInLineTankLiquid1x1</Key>
+    <Value>Kleiner In-Line Flüssigkeittank</Value>
+    <Description>Ein kleines Ausdehnungsgefäß, das das Volumen eines Rohrnetzes vergrößert.</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemClothingBagOveralls_Ukraine</Key>
+    <Value>Overall (Ukraine)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemClothingBagOveralls_France</Key>
+    <Value>Overall (Frankreich)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureLaunchPadTower</Key>
+    <Value>Struktur Startrampe Turm</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemClothingBagOveralls_SouthAfrica</Key>
+    <Value>Overall (Südafrika)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>ItemDisposableBatteryCharger</Key>
+    <Value>Einweg-Batterieladegerät</Value>
+    <Description>Verbrauchbare Batterie, die die Batterie des Anzugs wieder auflädt. Bei Verwendung mit einem HEM-Droiden lädt sie die interne Batterie des HEM-Droiden auf.</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureInLineTankLiquid1x2</Key>
+    <Value>Inline-Tank Flüssigkeit</Value>
+    <Description>Ein kleines Ausdehnungsgefäß, das das Volumen eines Rohrnetzes vergrößert.</Description>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureLowVolumeLiquidPipeCrossJunction</Key>
+    <Value>Niedrigvolumiges Flüssigkeitsrohr (Kreuzung)</Value>
+  </RecordThing>
+  <RecordThing>
+    <Key>StructureLowVolumeLiquidPipeCrossJunction5</Key>
+    <Value>Niedrigvolumiges Flüssigkeitsrohr (5-Wege Kreuzung)</Value>
+  </RecordThing>
 </Things>
 <Slots>
+  <Record>
+    <Key>CannotMergeIMergeable</Key>
+    <Value>Dieser {LOCAL:IMergeable} kann nicht zusammengeführt werden</Value>
+  </Record>
+  <Record>
+    <Key>LogicTypeVolumeOfLiquid</Key>
+    <Value>Das Gesamtvolumen aller Flüssigkeiten in Litern in der Atmosphäre</Value>
+  </Record>
+  <Record>
+    <Key>WaterWrongTemp</Key>
+    <Value>&lt;color=red&gt;Fehler!&lt;/color&gt; Das Wasser muss zwischen &lt;color=yellow&gt;0 und 100 Grad C sein&lt;/color&gt;&lt;/color&gt;</Value>
+  </Record>
+  <Record>
+    <Key>StationpediaTypeHash</Key>
+    <Value>Typ Hash:</Value>
+  </Record>
+  <Record>
+    <Key>PipeFailModeFrozen</Key>
+    <Value>Zerstört durch &lt;color=red&gt;Gefrieren von Flüssigkeiten oder Gasen&lt;/color&gt;</Value>
+  </Record>
+  <Record>
+    <Key>LogicSlotTypeSeeding</Key>
+    <Value>Ob eine Pflanze sät (bereit für die Ernte von Samen). Gibt 1 zurück, wenn sie sät, oder 0, wenn nicht.</Value>
+  </Record>
+  <Record>
+    <Key>EntityIsDead</Key>
+    <Value>{LOCAL:Thing} ist &lt;color=red&gt;Tod&lt;/color&gt;</Value>
+  </Record>
+  <Record>
+    <Key>LiquidOxygen</Key>
+    <Value>Flüssigsauerstoff</Value>
+  </Record>
+  <Record>
+    <Key>LogicTypeRatioLiquidOxygenOutput2</Key>
+    <Value>Das Verhältnis von {GAS:LiquidOxygen} in der Output2-Atmosphäre des Geräts</Value>
+  </Record>
+  <Record>
+    <Key>CryoPressureOk</Key>
+    <Value>&lt;color=green&gt;Druck ok&lt;/color&gt;</Value>
+  </Record>
+  <Record>
+    <Key>MustMountToCable</Key>
+    <Value>Muss an einem geraden Kabel montiert werden</Value>
+  </Record>
+  <Record>
+    <Key>MaxLiquidTemperature</Key>
+    <Value>Maximale Flüssigkeitstemperatur:</Value>
+  </Record>
+  <Record>
+    <Key>TargetPressureKPA</Key>
+    <Value>Zielwert Druck &lt;color=green&gt;{0} kPa&lt;/color&gt;</Value>
+  </Record>
+  <Record>
+    <Key>LogicTypeRatioLiquidNitrogenInput</Key>
+    <Value>Das Verhältnis von {GAS:LiquidNitrogen} im Eingangsnetz des Geräts</Value>
+  </Record>
+  <Record>
+    <Key>LogicTypeRatioLiquidVolatilesOutput2</Key>
+    <Value>Das Verhältnis von {GAS:LiquidVolatiles} in der Output2-Atmosphäre des Geräts</Value>
+  </Record>
+  <Record>
+    <Key>StationpediaPrefabName</Key>
+    <Value>Fertigteil Name:</Value>
+  </Record>
+  <Record>
+    <Key>PhaseDiagramPressuredisplay</Key>
+    <Value>Druck:</Value>
+  </Record>
+  <Record>
+    <Key>CannotDragWhileAlive</Key>
+    <Value>{LOCAL:Thing} kann nicht gezogen werden, solange es lebt</Value>
+  </Record>
   <Record>
     <Key>Recharge</Key>
     <Value>Aufladen</Value>
