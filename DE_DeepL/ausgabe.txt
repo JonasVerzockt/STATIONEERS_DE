@@ -1039,7 +1039,7 @@ Key: InventorySlotGlasses, Value: Brille
 Key: InventorySlotHandLeft, Value: Linke Hand
 Key: InventorySlotHandRight, Value: Rechte Hand
 Key: InventorySlotHelmet, Value: Helm
-Key: InventorySlotSuit, Value: Folge
+Key: InventorySlotSuit, Value: Anzug
 Key: InventorySlotUniform, Value: Uniform
 Key: InventoryStackIsFull, Value: Ihr Stapel von {LOCAL:Thing} ist voll
 Key: Iron, Value: Eisen
@@ -1053,20 +1053,20 @@ Key: ItemArcWelder, Value: Lichtbogenschweißer
 Key: ItemAreaPowerControl, Value: Bausatz (Stromversorgungs-Controller)
 Key: ItemAstroloyIngot, Value: Legierung (Astroloy)
 Key: ItemAstroloySheets, Value: Astroloy-Platten
-Key: ItemAuthoringTool, Value: SIcherheits-Werkzeug
+Key: ItemAuthoringTool, Value: Sicherheits-Werkzeug
 Key: ItemBasketBall, Value: Basketball
 Key: ItemBatteryCell, Value: Batteriezelle (klein)
 Key: ItemBatteryCellLarge, Value: Batteriezelle (groß)
 Key: ItemBatteryCellNuclear, Value: Batteriezelle (nuklear)
 Key: ItemBatteryCharger, Value: Bausatz (Batterieladegerät)
 Key: ItemBatteryChargerSmall, Value: Batterieladegerät klein
-Key: ItemBeacon, Value: Verfolgungsbake
+Key: ItemBeacon, Value: Bake
 Key: ItemBiomass, Value: Biomasse
 Key: ItemBook, Value: Buch
 Key: ItemBreadLoaf, Value: Brotlaib
 Key: ItemCableAnalyser, Value: Bausatz (Kabelanalysator)
-Key: ItemCableCoil, Value: Kabelspule
-Key: ItemCableCoilHeavy, Value: Kabelspule (schwer)
+Key: ItemCableCoil, Value: Kabel
+Key: ItemCableCoilHeavy, Value: Starkstromkabel
 Key: ItemCableFuse, Value: Bausatz (Kabel Sicherungen)
 Key: ItemCannedCondensedMilk, Value: Kondensmilch in Dosen
 Key: ItemCannedEdamame, Value: Edamame in Dosen
@@ -1084,16 +1084,16 @@ Key: ItemClothingBagOveralls_Aus, Value: Latzhose (Australien)
 Key: ItemClothingBagOveralls_Brazil, Value: Latzhose (Brasilien)
 Key: ItemClothingBagOveralls_Canada, Value: Latzhose (Kanada)
 Key: ItemClothingBagOveralls_China, Value: Latzhose (China)
-Key: ItemClothingBagOveralls_EU, Value: Latzhose (EU)
+Key: ItemClothingBagOveralls_EU, Value: Latzhose (Europa)
 Key: ItemClothingBagOveralls_France, Value: Latzhose (Frankreich)
 Key: ItemClothingBagOveralls_Germany, Value: Latzhose (Deutschland)
 Key: ItemClothingBagOveralls_Japan, Value: Latzhose (Japan)
 Key: ItemClothingBagOveralls_Korea, Value: Latzhose (Korea)
-Key: ItemClothingBagOveralls_NZ, Value: Latzhose (NZ)
+Key: ItemClothingBagOveralls_NZ, Value: Latzhose (Neuseeland)
 Key: ItemClothingBagOveralls_Russia, Value: Latzhose (Russland)
 Key: ItemClothingBagOveralls_SouthAfrica, Value: Overalls (Südafrika)
-Key: ItemClothingBagOveralls_UK, Value: Overalls (UK)
-Key: ItemClothingBagOveralls_US, Value: Latzhose (US)
+Key: ItemClothingBagOveralls_UK, Value: Overalls (England)
+Key: ItemClothingBagOveralls_US, Value: Latzhose (Amerika)
 Key: ItemClothingBagOveralls_Ukraine, Value: Latzhose (Ukraine)
 Key: ItemCoalOre, Value: Erz (Kohle)
 Key: ItemCobaltIngot, Value: Barren (Kobalt)
