@@ -1726,8 +1726,8 @@ Key: JoinMenuButtonDirectConnect, Value: Direktverbindung
 Key: JoinMenuButtonJoin, Value: Welt verbinden
 Key: JoinMenuButtonRefresh, Value: Liste aktualisieren
 Key: JoinMenuButtonStopRefresh, Value: Stop Refresh
-Key: JoinMenuFiltersTitle, Value: Filters
-Key: JoinMenuIncompatibleVersions, Value: Hide Inkompatible Versionen
+Key: JoinMenuFiltersTitle, Value: Filter
+Key: JoinMenuIncompatibleVersions, Value: Verstecke Inkompatible Versionen
 Key: JoinMenuInfoIPAddress, Value: IP-Adresse:
 Key: JoinMenuInfoLatency, Value: Latenzzeit:
 Key: JoinMenuInfoMap, Value: Karte:
@@ -1928,7 +1928,7 @@ Key: JoystickButton7, Value: Joystick-Taste7
 Key: JoystickButton8, Value: Joystick-Taste8
 Key: JoystickButton9, Value: Joystick-Taste9
 Key: K, Value: K
-Key: Keypad0, Value: Keypad0
+Key: Keypad0, Value: Tastenfeld0
 Key: Keypad1, Value: Tastenfeld1
 Key: Keypad2, Value: Tastenfeld2
 Key: Keypad3, Value: Tastenfeld3
@@ -1944,48 +1944,48 @@ Key: KeypadEquals, Value: Tastenfeld Gleich
 Key: KeypadMinus, Value: Tastenfeld Minus
 Key: KeypadMultiply, Value: Tastenfeld Multiplizieren
 Key: KeypadPeriod, Value: Tastenfeld Zeitraum
-Key: KeypadPlus, Value: Keypad Plus
+Key: KeypadPlus, Value: Tastenfeld Plus
 Key: KitCategory, Value: Bausätze
 Key: KitPlanter, Value: Bausatz (Pflanzer)
 Key: KitSDBSilo, Value: Bausatz (SDB Silo)
 Key: KitStructureCombustionCentrifuge, Value: Bausatz (Verbrennungszentrifuge)
 Key: KitchenTableShort, Value: Bausatz Küchentisch (kurz)
-Key: KitchenTableSimpleShort, Value: Küchentisch (Einfach kurz)
+Key: KitchenTableSimpleShort, Value: Küchentisch (einfach kurz)
 Key: KitchenTableSimpleTall, Value: Küchentisch (einfach hoch)
-Key: KitchenTableTall, Value: Bausatz Küchentisch (Hoch)
+Key: KitchenTableTall, Value: Küchentisch (Hoch)
 Key: L, Value: L
 Key: Lander, Value: Lander
 Key: Landingpad_2x2CenterPiece01, Value: Landeplatz 2x2 Mittelstück
-Key: Landingpad_CenterPiece01, Value: Landebahn-Center
+Key: Landingpad_CenterPiece01, Value: Landeplatz Mitte
 Key: Landingpad_CrossPiece, Value: Landeplatz Kreuz
 Key: Landingpad_DataConnectionPiece, Value: Landeplatz Daten und Strom
 Key: Landingpad_DiagonalPiece01, Value: Landeplatz Diagonal
-Key: Landingpad_GasConnectorInwardPiece, Value: Landeplatz Gaszufuhr
-Key: Landingpad_GasConnectorOutwardPiece, Value: Landebahn Gasausstoß
+Key: Landingpad_GasConnectorInwardPiece, Value: Landeplatz Gaseingang
+Key: Landingpad_GasConnectorOutwardPiece, Value: Landeplatz Gasausgang
 Key: Landingpad_GasCylinderTankPiece, Value: Landeplatz Gasspeicher
 Key: Landingpad_LiquidConnectorInwardPiece, Value: Landeplatz Flüssigkeitszufuhr
 Key: Landingpad_LiquidConnectorOutwardPiece, Value: Landeplatz Flüssigkeitsausgabe
 Key: Landingpad_StraightPiece01, Value: Landeplatz gerade
 Key: Landingpad_TaxiPieceCorner, Value: Landeplatz Taxi Ecke
-Key: Landingpad_TaxiPieceHold, Value: Landeplatz Taxi Hold
+Key: Landingpad_TaxiPieceHold, Value: Landeplatz Taxi Stop
 Key: Landingpad_TaxiPieceStraight, Value: Landeplatz Taxi gerade
-Key: Landingpad_ThreshholdPiece, Value: Schwellenwert für Landeplätze
+Key: Landingpad_ThreshholdPiece, Value: Landeplatz Schwelle
 Key: Launch, Value: Start
-Key: LaunchRocketAlert, Value: Wollen Sie diese Rakete starten
+Key: LaunchRocketAlert, Value: Wollen Sie diese Rakete starten?
 Key: LavaLevelField, Value: Lava Level
 Key: LayEgg, Value: Ei legen
 Key: Lead, Value: Blei
 Key: LeftAlt, Value: Links Alt
-Key: LeftApple, Value: Linker Apfel
+Key: LeftApple, Value: Links Apple
 Key: LeftArrow, Value: Linker Pfeil
 Key: LeftBracket, Value: Linke Klammer
-Key: LeftCommand, Value: Linker Befehl
-Key: LeftControl, Value: Linke Steuerung
+Key: LeftCommand, Value: Links Befehl
+Key: LeftControl, Value: Links Strg
 Key: LeftCurlyBracket, Value: Linke geschweifte Klammer
 Key: LeftHand, Value: Linke Hand
 Key: LeftParen, Value: Linke Paare
-Key: LeftShift, Value: Linksverschiebung
-Key: LeftWindows, Value: Linke Fenster
+Key: LeftShift, Value: Links Shift
+Key: LeftWindows, Value: Links Windows
 Key: Less, Value: Weniger
 Key: LevelLevelField, Value: Lava Level
 Key: LifeSupport, Value: Lebenserhaltung
