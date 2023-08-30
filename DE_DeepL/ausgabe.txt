@@ -1296,13 +1296,13 @@ Key: ItemKitGrowLight, Value: Bausatz (Pflanzen Licht)
 Key: ItemKitGyroscope, Value: Bausatz (Gyroskop)
 Key: ItemKitHarvie, Value: Bausatz (Harvie)
 Key: ItemKitHeatExchanger, Value: Bausatz (Wärmetauscher)
-Key: ItemKitHorizontalAutoMiner, Value: Bausatz (OGRE)
+Key: ItemKitHorizontalAutoMiner, Value: Bausatz (Horizontaler Autominer)
 Key: ItemKitHydraulicPipeBender, Value: Bausatz (Hydraulische Rohrbiegemaschine)
 Key: ItemKitHydroponicAutomated, Value: Bausatz (Automatisierte Hydroponik)
-Key: ItemKitHydroponicStation, Value: Bausatz (Hydroponische Station)
+Key: ItemKitHydroponicStation, Value: Bausatz (Hydroponisches Beet)
 Key: ItemKitIceCrusher, Value: Bausatz (Eiszerkleinerer)
 Key: ItemKitInsulatedLiquidPipe, Value: Bausatz (Isolierte Flüssigkeitsleitung)
-Key: ItemKitInsulatedPipe, Value: Bausatz (Isolierte Rohre)
+Key: ItemKitInsulatedPipe, Value: Bausatz (Isolierte Gasrohre)
 Key: ItemKitInsulatedWaterPipe, Value: Bausatz (Isolierte Wasserrohre)
 Key: ItemKitInteriorDoors, Value: Bausatz (Innentüren)
 Key: ItemKitLadder, Value: Bausatz (Leiter)
@@ -1312,7 +1312,7 @@ Key: ItemKitLandingPadBasic, Value: Bausatz (Landeplatz Basic)
 Key: ItemKitLandingPadWaypoint, Value: Bausatz (Landeplatz Landebahn)
 Key: ItemKitLargeDirectHeatExchanger, Value: Bausatz (großer direkter Wärmetauscher)
 Key: ItemKitLargeExtendableRadiator, Value: Bausatz (großer ausziehbarer Heizkörper)
-Key: ItemKitLargeSatelliteDish, Value: Bausatz (Large Satellite Dish)
+Key: ItemKitLargeSatelliteDish, Value: Bausatz (Große Satellitenschüssel)
 Key: ItemKitLaunchPad, Value: Artikel Kit Launch Pad
 Key: ItemKitLiquidRegulator, Value: Bausatz (Flüssigkeitsregulator)
 Key: ItemKitLiquidTank, Value: Bausatz (Flüssigkeitstank)
@@ -1327,7 +1327,7 @@ Key: ItemKitLogicProcessor, Value: Bausatz (Logikprozessor)
 Key: ItemKitLogicSwitch, Value: Bausatz (Logikschalter)
 Key: ItemKitLogicTransmitter, Value: Bausatz (Logik-Sender)
 Key: ItemKitLowVolumeLiquidPipes, Value: Bausatz (Niedervolumen-Flüssigkeitsleitung)
-Key: ItemKitLowVolumePipes, Value: Bausatz (Low Volume Pipe)
+Key: ItemKitLowVolumePipes, Value: Bausatz (Niedervolumen-Gasleitung)
 Key: ItemKitModularRocketAutomation, Value: Bausatz (Automatisiertes Raketenautomatisierungsmodul)
 Key: ItemKitModularRocketCoupling, Value: Bausatz (Automatisches Raketenkopplungsmodul)
 Key: ItemKitModularRocketGasMining, Value: Bausatz (Automatisiertes Raketengasabbaumodul)
@@ -1338,25 +1338,25 @@ Key: ItemKitModularRocketScrapMining, Value: Bausatz (Automatisches Raketenbergu
 Key: ItemKitMotherShipCore, Value: Bausatz (Mutterschiff)
 Key: ItemKitMusicMachines, Value: Bausatz (Musikmaschinen)
 Key: ItemKitOrganicsPrinter, Value: Bausatz (Organik-Drucker)
-Key: ItemKitPassiveLargeRadiator, Value: Bausatz (Medium Radiator)
-Key: ItemKitPassiveLargeRadiatorGas, Value: Bausatz (Medium Radiator)
-Key: ItemKitPassiveLargeRadiatorLiquid, Value: Bausatz (Medium Kühlerflüssigkeit)
-Key: ItemKitPassiveVent, Value: Bausatz (Passive Vent)
+Key: ItemKitPassiveLargeRadiator, Value: Bausatz (Mittler Radiator)
+Key: ItemKitPassiveLargeRadiatorGas, Value: Bausatz (Mittler Radiator)
+Key: ItemKitPassiveLargeRadiatorLiquid, Value: Bausatz (Mittler Kühlerflüssigkeit)
+Key: ItemKitPassiveVent, Value: Bausatz (Passive Entlüftung)
 Key: ItemKitPassthroughHeatExchanger, Value: Bausatz (Gegenstromwärmetauscher)
-Key: ItemKitPictureFrame, Value: Bausatz Bilderrahmen
+Key: ItemKitPictureFrame, Value: Bausatz (Bilderrahmen)
 Key: ItemKitPipe, Value: Bausatz (Gasrohr)
-Key: ItemKitPipeLiquid, Value: Bausatz (Flüssigkeitsleitung)
+Key: ItemKitPipeLiquid, Value: Bausatz (Flüssigkeitsrohr)
 Key: ItemKitPipeOrgan, Value: Bausatz (Pfeifenorgel)
-Key: ItemKitPipeRadiator, Value: Bausatz (Pipe Radiator)
-Key: ItemKitPipeRadiatorLiquid, Value: Bausatz (Flüssigkeitrohr Heizkörper)
-Key: ItemKitPipeUtility, Value: Bausatz (Pipe Utility Gas)
-Key: ItemKitPipeUtilityLiquid, Value: Bausatz (Rohrversorgungsflüssigkeit)
-Key: ItemKitPipeValve, Value: Bausatz (Rohrleitungsventil)
+Key: ItemKitPipeRadiator, Value: Bausatz (Gasrohr Radiator)
+Key: ItemKitPipeRadiatorLiquid, Value: Bausatz (Flüssigkeitrohr Radiator)
+Key: ItemKitPipeUtility, Value: Bausatz (Gasrohr Utility)
+Key: ItemKitPipeUtilityLiquid, Value: Bausatz (Flüssigkeitrohr Utility)
+Key: ItemKitPipeValve, Value: Bausatz (Gasrohrleitungsventil)
 Key: ItemKitPlanter, Value: Bausatz (Pflanzer)
-Key: ItemKitPowerTransmitter, Value: Bausatz (Power Transmitter)
+Key: ItemKitPowerTransmitter, Value: Bausatz (Leistungssender)
 Key: ItemKitPowerTransmitterOmni, Value: Bausatz (Leistungssender Omni)
-Key: ItemKitPoweredVent, Value: Bausatz (Powered Vent)
-Key: ItemKitPressurePlate, Value: Bausatz (Abzugsplatte)
+Key: ItemKitPoweredVent, Value: Bausatz (Angetriebener Entlüfter)
+Key: ItemKitPressurePlate, Value: Bausatz (Druckplatte)
 Key: ItemKitRailing, Value: Bausatz (Geländer)
 Key: ItemKitRecycler, Value: Bausatz (Recycler)
 Key: ItemKitRegulator, Value: Bausatz (Druckregler)
@@ -1367,17 +1367,17 @@ Key: ItemKitRockets, Value: Bausatz (Raketen)
 Key: ItemKitRoverFrame, Value: Bausatz (Rover-Rahmen)
 Key: ItemKitRoverMKI, Value: Bausatz (Rover Mk I)
 Key: ItemKitSDBHopper, Value: Bausatz (SDB Trichter)
-Key: ItemKitSatelliteDish, Value: Bausatz (Normaler Satellitenschüssel)
+Key: ItemKitSatelliteDish, Value: Bausatz (Normale Satellitenschüssel)
 Key: ItemKitSecurityPrinter, Value: Bausatz (Sicherheitsdrucker)
 Key: ItemKitSensor, Value: Bausatz (Sensoren)
 Key: ItemKitSign, Value: Bausatz (Schilder)
 Key: ItemKitSleeper, Value: Bausatz (Schlafkabine)
 Key: ItemKitSmallDirectHeatExchanger, Value: Bausatz (Kleiner direkter Wärmetauscher)
-Key: ItemKitSmallSatelliteDish, Value: Bausatz (Kleine Satellitenschüssel)
+Key: ItemKitSmallSatelliteDish, Value: Bausatz (Kleiner Satellitenschüssel)
 Key: ItemKitSolarPanel, Value: Bausatz (Solarmodul)
 Key: ItemKitSolarPanelBasic, Value: Bausatz (Solarmodul Basic)
-Key: ItemKitSolarPanelBasicReinforced, Value: Bausatz (Solarmodul Basic Schwer)
-Key: ItemKitSolarPanelReinforced, Value: Bausatz (Solarmodul schwer)
+Key: ItemKitSolarPanelBasicReinforced, Value: Bausatz (Solarmodul Basic Gepanzert)
+Key: ItemKitSolarPanelReinforced, Value: Bausatz (Solarmodul Gepanzert)
 Key: ItemKitSolidGenerator, Value: Bausatz (fester Generator)
 Key: ItemKitSorter, Value: Bausatz (Sortierer)
 Key: ItemKitSpeaker, Value: Bausatz (Lautsprecher)
@@ -1398,20 +1398,20 @@ Key: ItemKitTank, Value: Bausatz (Tank)
 Key: ItemKitTankInsulated, Value: Bausatz (Tank isoliert)
 Key: ItemKitToolManufactory, Value: Bausatz (Werkzeugmanufaktur)
 Key: ItemKitTorpedoTube, Value: Bausatz (Torpedo-Werfer)
-Key: ItemKitTransformer, Value: Bausatz Transformer (groß)
-Key: ItemKitTransformerSmall, Value: Bausatz (Transformer)
+Key: ItemKitTransformer, Value: Bausatz (Transformer Groß)
+Key: ItemKitTransformerSmall, Value: Bausatz (Transformer Klein)
 Key: ItemKitTurbineGenerator, Value: Bausatz (Turbine Generator)
-Key: ItemKitTurboVolumePump, Value: Bausatz (Turbo-Volumenpumpe - Gas)
+Key: ItemKitTurboVolumePump, Value: Bausatz (Turbo-Gasvolumenpumpe)
 Key: ItemKitTurret, Value: Bausatz (Geschützturm)
 Key: ItemKitUprightWindTurbine, Value: Bausatz (Aufrechte Windturbine)
 Key: ItemKitVendingMachine, Value: Bausatz (Verkaufsautomaten)
 Key: ItemKitVendingMachineRefrigerated, Value: Bausatz (Verkaufsautomaten gekühlt)
 Key: ItemKitWall, Value: Bausatz (Wand)
-Key: ItemKitWallArch, Value: Bausatz (Gewölbte Wand)
+Key: ItemKitWallArch, Value: Bausatz (Bogen Wand)
 Key: ItemKitWallFlat, Value: Bausatz (Dünne Wand)
 Key: ItemKitWallGeometry, Value: Bausatz (Geometrische Wand)
-Key: ItemKitWallIron, Value: Bausatz (Eisenwand)
-Key: ItemKitWallPadded, Value: Bausatz (gepolsterte Wand)
+Key: ItemKitWallIron, Value: Bausatz (Eisen Wand)
+Key: ItemKitWallPadded, Value: Bausatz (Gepolsterte Wand)
 Key: ItemKitWallPanels, Value: Bausatz (Wandpaneele)
 Key: ItemKitWaterBottleFiller, Value: Bausatz (Wasserflaschenfüller)
 Key: ItemKitWeatherStation, Value: Bausatz (Wetterstation)
@@ -1422,14 +1422,14 @@ Key: ItemLaptop, Value: Laptop
 Key: ItemLeadIngot, Value: Barren (Blei)
 Key: ItemLeadOre, Value: Erz (Blei)
 Key: ItemLightSword, Value: Lichtschwert
-Key: ItemLiquidCanisterEmpty, Value: Flüssigkeitskanister
-Key: ItemLiquidCanisterSmart, Value: Flüssigkeitskanister (Smart)
-Key: ItemLiquidDrain, Value: Bausatz (Flüssigkeitsablass)
-Key: ItemLiquidPipeAnalyzer, Value: Bausatz (Flüssigkeitsrohr-Analysator)
-Key: ItemLiquidPipeHeater, Value: Rohrheizkörper (Flüssigkeit)
-Key: ItemLiquidPipeValve, Value: Bausatz (Flüssigkeitsrohrventil)
-Key: ItemLiquidPipeVolumePump, Value: Bausatz (Flüssigkeitsmengenpumpe)
-Key: ItemLiquidTankStorage, Value: Bausatz (Lagerung von Flüssigkeitskanistern)
+Key: ItemLiquidCanisterEmpty, Value: Flüssigkeitstank
+Key: ItemLiquidCanisterSmart, Value: Flüssigkeitstank (Smart)
+Key: ItemLiquidDrain, Value: Flüssigkeitsablass
+Key: ItemLiquidPipeAnalyzer, Value: Flüssigkeitsrohr-Analysator
+Key: ItemLiquidPipeHeater, Value: Flüssigkeitrohrheizkörper
+Key: ItemLiquidPipeValve, Value: Flüssigkeitsrohrventil
+Key: ItemLiquidPipeVolumePump, Value: Flüssigkeitsmengenpumpe
+Key: ItemLiquidTankStorage, Value: Lagerung von Flüssigkeitstanks
 Key: ItemMKIIAngleGrinder, Value: Mk II-Winkelschleifer
 Key: ItemMKIIArcWelder, Value: Mk II Lichtbogenschweißgerät
 Key: ItemMKIICrowbar, Value: Mk II Brechstange
@@ -1448,7 +1448,7 @@ Key: ItemMiningBeltAdvanced, Value: Bergbaugürtel MK II
 Key: ItemMiningBeltMKII, Value: Bergbaugürtel MK II
 Key: ItemMiningCharge, Value: Bergbausprengstoff
 Key: ItemMiningDrill, Value: Bergbaubohrer
-Key: ItemMiningDrillHeavy, Value: Bergbaubohrer (schwer)
+Key: ItemMiningDrillHeavy, Value: Mk II Bergbaubohrer
 Key: ItemMkIIToolbelt, Value: Werkzeuggürtel MK II
 Key: ItemMuffin, Value: Muffins
 Key: ItemMushroom, Value: Pilz
@@ -1460,26 +1460,26 @@ Key: ItemOxite, Value: Eis (Sauerstoff)
 Key: ItemPassiveVent, Value: Passive Entlüftung
 Key: ItemPeaceLily, Value: Friedenslilie
 Key: ItemPickaxe, Value: Spitzhacke
-Key: ItemPillHeal, Value: Pille (medizinisch)
-Key: ItemPillStun, Value: Pille (giftig)
-Key: ItemPipeAnalyizer, Value: Bausatz (Rohranalysegerät)
-Key: ItemPipeCorner, Value: Bausatz (Rohrecke)
+Key: ItemPillHeal, Value: Heilpille
+Key: ItemPillStun, Value: Selbstmordpille
+Key: ItemPipeAnalyizer, Value: Gasrohranalysegerät
+Key: ItemPipeCorner, Value: Gasrohrecke
 Key: ItemPipeCowl, Value: Pfeifenkopf
-Key: ItemPipeCrossJunction, Value: Bausatz (Rohrkreuzung)
-Key: ItemPipeCrossJunction3, Value: Bausatz (Gasrohr 3-Wege-Kreuzung)
-Key: ItemPipeCrossJunction5, Value: Bausatz (Gasrohr 5-Wege-Verzweigung)
-Key: ItemPipeCrossJunction6, Value: Bausatz (Gasrohr 6-Wege-Kreuzung)
-Key: ItemPipeDigitalValve, Value: Bausatz (Digitales Ventil)
-Key: ItemPipeGasMixer, Value: Bausatz (Gas Mixer)
-Key: ItemPipeHeater, Value: Rohrheizkörper (Gas)
-Key: ItemPipeLabel, Value: Bausatz (Gasrohr-Etikett)
-Key: ItemPipeLiquidRadiator, Value: Bausatz (Flüssigkeitskühler)
-Key: ItemPipeMeter, Value: Bausatz (Rohrzähler)
-Key: ItemPipeRadiator, Value: Bausatz (Radiator)
-Key: ItemPipeStraight, Value: Bausatz (Rohre gerade)
-Key: ItemPipeTJunction, Value: Bausatz (Gasrohr-T-Abzweigung)
-Key: ItemPipeValve, Value: Bausatz (Rohrleitungsventil)
-Key: ItemPipeVolumePump, Value: Bausatz (Volumen Pumpe)
+Key: ItemPipeCrossJunction, Value: Gasrohrkreuzung
+Key: ItemPipeCrossJunction3, Value: Gasrohr 3-Wege-Kreuzung
+Key: ItemPipeCrossJunction5, Value: Gasrohr 5-Wege-Verzweigung
+Key: ItemPipeCrossJunction6, Value: Gasrohr 6-Wege-Kreuzung
+Key: ItemPipeDigitalValve, Value: Digitales Ventil
+Key: ItemPipeGasMixer, Value: Gas Mixer
+Key: ItemPipeHeater, Value: Gasrohrheizkörper
+Key: ItemPipeLabel, Value: Gasrohr-Etikett
+Key: ItemPipeLiquidRadiator, Value: Flüssigkeitsrohrradiator
+Key: ItemPipeMeter, Value: Gasrohrzähler
+Key: ItemPipeRadiator, Value: Gasrohr Radiator
+Key: ItemPipeStraight, Value: Gasrohr gerade
+Key: ItemPipeTJunction, Value: Gasrohr T-Abzweigung
+Key: ItemPipeValve, Value: Gasrohrleitungsventil
+Key: ItemPipeVolumePump, Value: Gasvolumen Pumpe
 Key: ItemPlantEndothermic_Creative, Value: Endotherme Pflanze Kreativ
 Key: ItemPlantEndothermic_Genepool1, Value: Winterspawn (Alpha-Variante)
 Key: ItemPlantEndothermic_Genepool2, Value: Winterspawn (Beta-Variante)
