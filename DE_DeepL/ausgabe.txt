@@ -20,9 +20,9 @@ Key: ActionExtinguish, Value: Löschen
 Key: ActionFixLeak, Value: Leck beheben
 Key: ActionHarvestPlant, Value: Ernten {LOCAL:Plant} Pflanze
 Key: ActionHarvestSeed, Value: Ernte {LOCAL:Plant} Saatgut
-Key: ActionPatchSolarPanels, Value: Aufnäher
+Key: ActionPatchSolarPanels, Value: Reparieren
 Key: ActionRepairRobot, Value: Reparatur
-Key: ActionUnweld, Value: Unverschweißt
+Key: ActionUnweld, Value: Trennschweißen
 Key: ActionWeld, Value: Schweißen
 Key: Activate, Value: Aktivieren
 Key: ActivateExplosive, Value: Aktiviert einen {0} Sekunden Timer. Der Timer kann nicht ausgeschaltet werden. Vorsicht ist geboten.
@@ -32,7 +32,7 @@ Key: ActivateExplosiveTooltipKey2, Value: Sekunden Timer. Der Timer kann nicht a
 Key: ActivateResearch, Value: Startet den Forschungsprozess.
 Key: Active, Value: Aktiv
 Key: Add, Value: hinzufügen
-Key: AddFertiliserToSlot, Value: Dünger in den Steckplatz geben
+Key: AddFertiliserToSlot, Value: Dünger hinzugeben
 Key: AddSeedsToSlot, Value: Dies fügt dem Fach eine {0} hinzu
 Key: AdvancedTutorialButton, Value: Legacy/Erweitert
 Key: Agrizero, Value: Agrizero
@@ -75,10 +75,10 @@ Key: Alpha9, Value: Alpha9
 Key: AlreadyFertalised, Value: Ist bereits gedüngt
 Key: AlreadyFullOfWater, Value: Bereits mit Wasser gefüllt
 Key: AltGr, Value: Alt Gr
-Key: Ampersand, Value: Ampersand
+Key: Ampersand, Value: Und-Zeichen
 Key: ApcUnableToMoveLocked, Value: Keine Bewegung möglich, da das Gerät gesperrt ist
 Key: ApcUnableToMoveTool, Value: Das Werkzeug kann nicht bewegt werden, da es sich nicht in einem betriebsfähigen Zustand befindet.
-Key: AppearanceButtonRandomize, Value: Randomisieren
+Key: AppearanceButtonRandomize, Value: Zufall
 Key: AppearanceTitleEyeColor, Value: Augenfarbe
 Key: AppearanceTitleFace, Value: Gesicht
 Key: AppearanceTitleFacialHairStyle, Value: Gesichtsbehaarung
@@ -98,9 +98,9 @@ Key: ApplianceDeskLampRight, Value: Schreibtischlampe (Rechts)
 Key: ApplianceMicrowave, Value: Mikrowelle
 Key: AppliancePackagingMachine, Value: Basis-Verpackungsmaschine
 Key: AppliancePaintMixer, Value: Farbmischer
-Key: AppliancePlantGeneticAnalyzer, Value: Pflanzengenetischer Analyzer
-Key: AppliancePlantGeneticSplicer, Value: Pflanzengenetischer Splicer
-Key: AppliancePlantGeneticStabilizer, Value: Pflanzengenetischer Stabilisator
+Key: AppliancePlantGeneticAnalyzer, Value: Genomprüfer (Pflanze)
+Key: AppliancePlantGeneticSplicer, Value: Genomtrenner (Pflanze)
+Key: AppliancePlantGeneticStabilizer, Value: Genomstabilisator (Pflanze)
 Key: ApplianceReagentProcessor, Value: Reagenzien-Prozessor
 Key: ApplianceSeedTray, Value: Saatgutbehälter für Geräte
 Key: AppliancesCategoryKey, Value: Geräte
@@ -114,7 +114,7 @@ Gurwajas Hintergrund in Biotechnik-Firmen verschaffte dem Unternehmen von Anfang
 Gegen Mitte des Jahrhunderts entwickelten sich die Ambitionen von Asura so, dass es ganze Gesundheitssysteme umfasste - heute ist es der größte Anbieter von Gesundheitsleistungen auf der Erde, der Krankenhäuser und die medizinische Grundversorgung mit medizinischem Bedarf, pharmazeutischer Produktion und Einzelhandel, häuslicher Pflege und Bestattungsdiensten integriert.
 Im Jahr 2150 war das Geschäft von Asura ein einfaches Angebot, wie es in ihrem berühmten - wenn nicht sogar berüchtigten - Werbeslogan zum Ausdruck kommt: "Wir sind in Ihnen".
       
-Key: At, Value: Unter
+Key: At, Value: @
 Key: AtmopshericsCategoryKey, Value: Atmosphärisches
 Key: AtmosDevices, Value: Atmosphärische Geräte
 Key: AtmosphereExternal, Value: Extern
@@ -142,7 +142,7 @@ Key: Belt, Value: Gürtel
 Key: BigWarning, Value: WARNUNG
 Key: BlueField, Value: Blau:
 Key: BluePodType, Value: Blau
-Key: BodyPartAstronautFemaleArmL, Value: Körperteil Astronautin Weiblicher Arm
+Key: BodyPartAstronautFemaleArmL, Value: Körperteil Astronautin Weiblicher Arm L
 Key: BodyPartAstronautFemaleArmR, Value: Körperteil Astronautin Weiblicher Arm R
 Key: BodyPartAstronautFemaleHead, Value: Körperteil Astronautin Weiblicher Kopf
 Key: BodyPartAstronautFemaleLegL, Value: Körperteil Astronautin Weibliches Bein L
@@ -151,53 +151,52 @@ Key: BodyPartAstronautFemaleTorso, Value: Körperteil Astronautin Weiblicher Tors
 Key: BodyPartAstronautMaleArmL, Value: Körperteil Astronaut Männlich Arm L
 Key: BodyPartAstronautMaleArmR, Value: Körperteil Astronaut Männlich Arm R
 Key: BodyPartAstronautMaleHead, Value: Körperteil Astronaut Männlich Kopf
-Key: BodyPartAstronautMaleLegL, Value: Körperteil Astronaut Männliches Bein
+Key: BodyPartAstronautMaleLegL, Value: Körperteil Astronaut Männliches Bein L
 Key: BodyPartAstronautMaleLegR, Value: Körperteil Astronaut Männliches Bein R
 Key: BodyPartAstronautTorso, Value: Körperteil Astronautentorso
-Key: BodyPartChickBody, Value: Körperteil Kücken Körper
+Key: BodyPartChickBody, Value: Körperteil Küken Körper
 Key: BodyPartChickHead, Value: Körperteil Küken Kopf
-Key: BodyPartChickLegL, Value: Körperteil Küken Bein
+Key: BodyPartChickLegL, Value: Körperteil Küken Bein L
 Key: BodyPartChickLegR, Value: Körperteil Küken Bein R
-Key: BodyPartChickTail, Value: Körperteil Kükenschwanz
-Key: BodyPartChickWingL, Value: Körperteil Kükenflügel
-Key: BodyPartChickWingR, Value: Körperteil Kückenflügel R
+Key: BodyPartChickTail, Value: Körperteil Küken Schwanz
+Key: BodyPartChickWingL, Value: Körperteil Küken Flügel
+Key: BodyPartChickWingR, Value: Körperteil Küken Flügel R
 Key: BodyPartChickenBrownBody, Value: Körperteil Huhn Brauner Körper
 Key: BodyPartChickenBrownHead, Value: Körperteil Huhn Brauner Kopf
-Key: BodyPartChickenBrownLegL, Value: Körperteil Huhn Braunes Bein
+Key: BodyPartChickenBrownLegL, Value: Körperteil Huhn Braunes Bein L
 Key: BodyPartChickenBrownLegR, Value: Körperteil Huhn Braunes Bein R
 Key: BodyPartChickenBrownTail, Value: Körperteil Huhn Brauner Schwanz
-Key: BodyPartChickenBrownWingL, Value: Körperteil Huhn Brauner Flügel
+Key: BodyPartChickenBrownWingL, Value: Körperteil Huhn Brauner Flügel L
 Key: BodyPartChickenBrownWingR, Value: Körperteil Huhn Brauner Flügel R
 Key: BodyPartChickenWhiteBody, Value: Körperteil Huhn Weißer Körper
 Key: BodyPartChickenWhiteHead, Value: Körperteil Huhn Weißer Kopf
-Key: BodyPartChickenWhiteLegL, Value: Körperteil Huhn Weißes Bein
+Key: BodyPartChickenWhiteLegL, Value: Körperteil Huhn Weißes Bein L
 Key: BodyPartChickenWhiteLegR, Value: Körperteil Huhn Weißes Bein R
 Key: BodyPartChickenWhiteTail, Value: Körperteil Huhn Weißer Schwanz
-Key: BodyPartChickenWhiteWingL, Value: Körperteil Huhn Weißer Flügel
+Key: BodyPartChickenWhiteWingL, Value: Körperteil Huhn Weißer Flügel L
 Key: BodyPartChickenWhiteWingR, Value: Körperteil Huhn Weißer Flügel R
-Key: BodyPartGraylienArmL, Value: Körperteil Außerirdischen Arm L
-Key: BodyPartGraylienArmR, Value: Körperteil Außerirdischen Arm R
-Key: BodyPartGraylienBody, Value: Körperteil Außerirdischen Körper
-Key: BodyPartGraylienHead, Value: Körperteil Außerirdischen Kopf
-Key: BodyPartGraylienLegL, Value: Körperteil Außerirdischen Bein L
-Key: BodyPartGraylienLegR, Value: Körperteil Außerirdischen Bein R
-Key: BodyPartGraylienPelvis, Value: Körperteil Außerirdischen Becken
+Key: BodyPartGraylienArmL, Value: Körperteil Außerirdischer Arm L
+Key: BodyPartGraylienArmR, Value: Körperteil Außerirdischer Arm R
+Key: BodyPartGraylienBody, Value: Körperteil Außerirdischer Körper
+Key: BodyPartGraylienHead, Value: Körperteil Außerirdischer Kopf
+Key: BodyPartGraylienLegL, Value: Körperteil Außerirdischer Bein L
+Key: BodyPartGraylienLegR, Value: Körperteil Außerirdischer Bein R
+Key: BodyPartGraylienPelvis, Value: Körperteil Außerirdischer Becken
 Key: BodyPartRoosterBlackBody, Value: Körperteil Hahn Schwarz Körper
-Key: BodyPartRoosterBlackHead, Value: Körperteil Hahn Schwarzer Kopf
-Key: BodyPartRoosterBlackLegL, Value: Körperteil Hahn Schwarzes Bein
+Key: BodyPartRoosterBlackHead, Value: Körperteil Hahn Schwarz Kopf
+Key: BodyPartRoosterBlackLegL, Value: Körperteil Hahn Schwarz Bein L
 Key: BodyPartRoosterBlackLegR, Value: Körperteil Hahn Schwarz Bein R
-Key: BodyPartRoosterBlackTail, Value: Körperteil Hahn Schwarzer Schwanz
-Key: BodyPartRoosterBlackWingL, Value: Körperteil Hahn Schwarzer Flügel
+Key: BodyPartRoosterBlackTail, Value: Körperteil Hahn Schwarz Schwanz
+Key: BodyPartRoosterBlackWingL, Value: Körperteil Hahn Schwarz Flügel
 Key: BodyPartRoosterBlackWingR, Value: Körperteil Hahn Schwarz Flügel R
 Key: BodyPartRoosterBrownBody, Value: Körperteil Hahn Braun Körper
-Key: BodyPartRoosterBrownHead, Value: Körperteil Hahn Brauner Kopf
-Key: BodyPartRoosterBrownLegL, Value: Körperteil Hahn Braunes Bein
+Key: BodyPartRoosterBrownHead, Value: Körperteil Hahn Braun Kopf
+Key: BodyPartRoosterBrownLegL, Value: Körperteil Hahn Braun Bein L
 Key: BodyPartRoosterBrownLegR, Value: Körperteil Hahn Braun Bein R
-Key: BodyPartRoosterBrownTail, Value: Körperteil Hahn Brauner Schwanz
-Key: BodyPartRoosterBrownWingL, Value: Körperteil Hahn Brauner Flügel
+Key: BodyPartRoosterBrownTail, Value: Körperteil Hahn Braun Schwanz
+Key: BodyPartRoosterBrownWingL, Value: Körperteil Hahn Braun Flügel
 Key: BodyPartRoosterBrownWingR, Value: Körperteil Hahn Braun Flügel R
 Key: BoilingTemperature, Value: Siedetemperatur:
-Key: BottleSlot, Value: Flaschenslot
 Key: BottleSlot, Value: Flaschenslot
 Key: Brain, Value: Gehirn
 Key: Break, Value: Pause
@@ -239,7 +238,7 @@ Key: ButtonDelete, Value: Löschen
 Key: ButtonDepart, Value: Abreise
 Key: ButtonExit, Value: Beenden
 Key: ButtonFolderBrowse, Value: ...
-Key: ButtonFunctions, Value: f
+Key: ButtonFunctions, Value: f(x)
 Key: ButtonHelp, Value: Hilfe
 Key: ButtonKick, Value: Kick
 Key: ButtonLibrary, Value: Bibliothek
@@ -265,7 +264,7 @@ Ihr pragmatischer Ansatz spiegelt sich in der Konzentration auf Designs wider, d
 Obwohl CHAC-Waffen in keiner bestimmten Kategorie überragend sind und man ihnen sicherlich nie Gier vorgeworfen hat, weisen sie keine großen Schwächen auf und sind nach den meisten bekannten Maßstäben ausreichend gut, um ihren Entwicklern den inoffiziellen Titel "Waffenschmied des Sonnensystems" zu verleihen.
       
 Key: CableCategory, Value: Kabel und Analysatoren
-Key: CableMaxPowerSPDA, Value: Maximum Watt:
+Key: CableMaxPowerSPDA, Value: Maximale Watt:
 Key: CallElevator, Value: Rufen
 Key: CanOnlyUseLiquidOnPlants, Value: Sie können nur Flüssiggaskanister zum Bewässern von Pflanzen verwenden
 Key: CannotBePickedUpRightNow, Value: Kann im Moment nicht aufgehoben werden
@@ -296,9 +295,9 @@ Key: Cartridge1, Value: Chip1
 Key: Cartridge2, Value: Chip2
 Key: Cartridge2, Value: Chip2
 Key: CartridgeAccessController, Value: Chip (Zugangskontroller)
-Key: CartridgeAtmosAnalyser, Value: Chip (Atmos Analysator)
+Key: CartridgeAtmosAnalyser, Value: Chip (Atmosphärenanalysator)
 Key: CartridgeAtmosAnalyserCapacityTitle, Value: KAPAZITÄT
-Key: CartridgeAtmosAnalyserConvectedTitle, Value: VERBINDET
+Key: CartridgeAtmosAnalyserConvectedTitle, Value: KONVEKTION
 Key: CartridgeAtmosAnalyserLatentTitle, Value: LATENT
 Key: CartridgeAtmosAnalyserLiquidTitle, Value: FLÜSSIGKEIT
 Key: CartridgeAtmosAnalyserPressureTitle, Value: DRUCK
@@ -338,8 +337,8 @@ Key: ChangeSettingToFor, Value: Zyklus bis <color=yellow>{0} für {1}
 Key: ChangeSettingToForAll, Value: Zyklus bis <color=yellow>{0}>für alle {1}
 Key: ChangeSettingToForIn, Value: Zyklus bis <color=yellow>{0} für {1} <color=yellow>({2}) in {1}
 Key: ChangeSlotSettingToFor, Value: Zyklus nach {0}<color=yellow>({0}) für {2}
-Key: Character, Value: Charakter
-Key: ChildItem, Value: Hat untergeordneten Artikel
+Key: Character, Value: Spieler
+Key: ChildItem, Value: Hat untergeordneten Elemente
 Key: Chute, Value: Schacht
 Key: Circuit, Value: Schaltung
 Key: CircuitBoard, Value: Platine
@@ -347,22 +346,22 @@ Key: CircuitboardAdvAirlockControl, Value: Platine (Erweiterte Luftschleuse)
 Key: CircuitboardAdvancedAirlockControl, Value: Platine (Erweiterte Luftschleuse)
 Key: CircuitboardAirControl, Value: Platine (Luftkontrolle)
 Key: CircuitboardAirlockControl, Value: Platine (Luftschleuse)
-Key: CircuitboardCameraDisplay, Value: Platine (Kamera Display)
-Key: CircuitboardDoorControl, Value: Platine (Türkontrolle)
+Key: CircuitboardCameraDisplay, Value: Platine (Kamera Monitor)
+Key: CircuitboardDoorControl, Value: Platine (Türsteuerung)
 Key: CircuitboardGasDisplay, Value: Platine (Gasanzeige)
-Key: CircuitboardGraphDisplay, Value: Platine (Graphische Anzeige)
-Key: CircuitboardHashDisplay, Value: Platine (Hash-Anzeige)
+Key: CircuitboardGraphDisplay, Value: Platine (Diagramm Anzeige)
+Key: CircuitboardHashDisplay, Value: Platine (Element Anzeige)
 Key: CircuitboardModeControl, Value: Platine (Modussteuerung)
 Key: CircuitboardPowerControl, Value: Platine (Leistungssteuerung)
-Key: CircuitboardShipDisplay, Value: Platine (Schiffsanzeige)
+Key: CircuitboardShipDisplay, Value: Platine (Schiffssteuerung)
 Key: CircuitboardSolarControl, Value: Platine (Solarsteuerung)
 Key: Clear, Value: Löschen
 Key: Clear, Value: Löschen
 Key: ClearFertiliser, Value: Lösche Dünger
-Key: ClearStacker, Value: Lösche Stapler
+Key: ClearStacker, Value: Auswerfen
 Key: Close, Value: Schließen
-Key: CloseThreshold, Value: Schwellenwert schließen
-Key: CloseThresholdToolTip, Value: Schwellenwert schließen <color=green>{LOCAL:ThresholdValue}
+Key: CloseThreshold, Value: Nahe Schwellenwert
+Key: CloseThresholdToolTip, Value: Nahe Schwellenwert <color=green>{LOCAL:ThresholdValue}
 Key: Closed, Value: Geschlossen
 Key: Coal, Value: Kohle
 Key: Cobalt, Value: Kobalt
@@ -453,7 +452,7 @@ Key: CompositeWallPanelling9, Value: Komposit-Wandverkleidung 9
 Key: ComposterCurrentlyNotProcessing, Value: Derzeit nicht in Bearbeitung...
 Key: ComposterCurrentlyProcessing, Value: Derzeit in Bearbeitung...
 Key: ComposterItemsLeftToProcess, Value: Noch zu bearbeitende Elemente {0}
-Key: ComposterNotEnoughProcessItems, Value: Nicht genug verarbeitete Artikel...
+Key: ComposterNotEnoughProcessItems, Value: Nicht genug verarbeitete Elemente...
 Key: ComposterNotEnoughWater, Value: Nicht genug Wasser...
 Key: CondensationChamberGasConnection, Value: Anschluss für Gaseingang
 Key: CondensationChamberLiquidConnection, Value: Anschluss des Flüssigkeitsausgangs
@@ -477,22 +476,22 @@ Key: Consumables Supplies, Value: Verbrauchsmaterial
 Key: Consume, Value: Verbrauchen
 Key: ConsumeFail, Value: Gescheitert: Helm geschlossen
 Key: ContactEventDefault, Value: Es kam keine Antwort.
-Key: ContactItemLostContact, Value: Verlorener Kontakt
+Key: ContactItemLostContact, Value: Kontakt verlohren
 Key: ContactLandingRequestFailSatellite, Value: Es gibt ein Problem mit Ihrem Satelliten. Prüfen Sie, ob er mit dem Netzwerk verbunden ist und mit Strom versorgt wird.
 Key: ContactLandingRequestFailStorm, Value: Der Traider kann bei diesem Sturm nicht reisen.
-Key: ContactLandingRequestFailVendingMachine, Value: Um mit diesem Traider zu interagieren, benötigen Sie einen eingeschalteten Automaten im Netz.
+Key: ContactLandingRequestFailVendingMachine, Value: Um mit diesem Traider zu interagieren, benötigen Sie einen eingeschalteten Handelsautomaten im Netz.
 Key: ContactNoResponse, Value: Es kam keine Antwort.
-Key: ContactTradeDepartingObstructed, Value: Der Trader kann nicht abreisen, da der Weg versperrt ist
-Key: ContactTradeLandingNoThreshold, Value: Traderflugzeug kann ohne Schwellwerte nicht landen
-Key: ContactTradeLandingObstructed, Value: Trader kann nicht landen, da der Weg zum Ziellandeplatz versperrt ist
-Key: ContactTradeLandingPadError, Value: Trader kann nicht landen, da der Ziellandeplatz falsch konfiguriert ist
-Key: ContactTradeLandingPadToSmall, Value: Trader kann nicht landen, da der Ziellandeplatz zu klein ist
-Key: ContactTradeNoLandingPad, Value: Trader kann nicht landen, da kein aktiver Landeplatz vorhanden ist
-Key: ContactTradePadOff, Value: Trader kann nicht landen, da das Ziel Landeplatz ausgeschaltet ist
-Key: ContactTradePadUnpowered, Value: Trader kann nicht landen, da das Ziellandefeld nicht mit Strom versorgt wird.
-Key: ContactTradeRequest, Value: Ein Trader hat eine Landeerlaubnis beantragt.
-Key: ContactTradeRequestFail, Value: Traider bittet um sichere Landung. Zum Weiterfliegen ist ein motorisierter Landeplatz erforderlich.
-Key: ContactTradeRequestFailInUse, Value: Jemand interagiert bereits mit diesem Traider, versuchen Sie es bald wieder.
+Key: ContactTradeDepartingObstructed, Value: Der Händler kann nicht abreisen, da der Weg versperrt ist
+Key: ContactTradeLandingNoThreshold, Value: Handelsschiff kann ohne Schwellwerte nicht landen
+Key: ContactTradeLandingObstructed, Value: Der Händler kann nicht landen, da der Weg zum Ziellandeplatz versperrt ist
+Key: ContactTradeLandingPadError, Value: Der Händler kann nicht landen, da der Ziellandeplatz falsch konfiguriert ist
+Key: ContactTradeLandingPadToSmall, Value: Der Händler kann nicht landen, da der Ziellandeplatz zu klein ist
+Key: ContactTradeNoLandingPad, Value: Der Händler kann nicht landen, da kein aktiver Landeplatz vorhanden ist
+Key: ContactTradePadOff, Value: Der Händler kann nicht landen, da das Ziel Landeplatz ausgeschaltet ist
+Key: ContactTradePadUnpowered, Value: Der Händler kann nicht landen, da das Ziellandefeld nicht mit Strom versorgt wird.
+Key: ContactTradeRequest, Value: Ein Händler hat eine Landeerlaubnis beantragt.
+Key: ContactTradeRequestFail, Value: Ein Händler bittet um sichere Landung. Zum Weiterfliegen ist ein motorisierter Landeplatz erforderlich.
+Key: ContactTradeRequestFailInUse, Value: Jemand interagiert bereits mit diesem Händler, versuchen Sie es bald wieder.
 Key: ContactsTrading, Value: Kontakte
 Key: ContainerSlot, Value: Container-Steckplatz
 Key: Contents, Value: Inhalt
@@ -502,7 +501,7 @@ Key: ControlHoldPrimaryClick, Value: Halten {KEY:PrimaryAction}
 Key: ControlHoldPrimaryClickConstructDisc, Value: Konstruieren
 Key: ControlHoldPrimaryClickDeconstructDisc, Value: Dekonstruieren
 Key: ControlHoldPrimaryClickHarvestDisc, Value: Ernte
-Key: ControlHoldPrimaryClickPlaceDisc, Value: Ort
+Key: ControlHoldPrimaryClickPlaceDisc, Value: Plaziere
 Key: ControlHoldPrimaryClickPlantDisc, Value: Pflanze
 Key: ControlMineDisc, Value: Erz abbauen
 Key: ControlMouseControl, Value: {KEY:MouseControl}
@@ -518,16 +517,16 @@ Key: ControlPrimaryClickDisc, Value: Zusammenwirken
 Key: ControlQuickMove, Value: Scrollrad + {KEY:InventorySelect}
 Key: ControlQuickMoveDisc, Value: Schnelles Verschieben von Gegenständen
 Key: ControlScrollWheelSelect, Value: {KEY:SecondaryAction}
-Key: ControlScrollWheelSelectDisc, Value: Build-Modus umschalten
+Key: ControlScrollWheelSelectDisc, Value: Bau-Modus umschalten
 Key: ControlSecondaryAction, Value: {KEY:SecondaryAction}
-Key: ControlSecondaryActionBuildModeDisc, Value: Build-Modus umschalten
+Key: ControlSecondaryActionBuildModeDisc, Value: Bau-Modus umschalten
 Key: ControlSecondaryEatDisc, Value: Essen
 Key: ControlSwapHands, Value: {KEY:SwapHands}
 Key: ControlSwapHandsDisc, Value: Hände tauschen
-Key: ControlSystemAtmos, Value: Kontrollsysteme
+Key: ControlSystemAtmos, Value: Steuerungssysteme
 Key: ControlTurnOn, Value: {KEY:SecondaryAction}
 Key: ControlTurnOnDisc, Value: Einschalten
-Key: ControlUseItemDisc, Value: Artikel verwenden
+Key: ControlUseItemDisc, Value: Element verwenden
 Key: Copper, Value: Kupfer
 Key: Corner1, Value: Ecke
 Key: CouplerBetweenTwoRocketPieces, Value: Die Kupplungseinheit muss am Schnittpunkt zweier Raketenteile angebracht werden.
@@ -536,7 +535,7 @@ Key: CreateNewGame, Value: Welt auswählen
 Key: CreatePlan, Value: Plan erstellen
 Key: CreationMultiplier, Value: Erstellungsmultiplikator
 Key: CreditCard, Value: Kreditkarte
-Key: CrowbarToFlip, Value: Umklappen mit Brechstange
+Key: CrowbarToFlip, Value: Umdrehen mit Brechstange
 Key: CrowbarToOpen, Value: Verwenden Sie eine {THING:ItemCrowbar}, um dies zu öffnen
 Key: CryoConditionsNotMet, Value: Bedingungen nicht erfüllt
 Key: CryoN2OPressureOk, Value: <color=green>N2O-Druck ok</color>
@@ -552,22 +551,22 @@ Key: CryoTemperatureOk, Value: <color=green>Temperatur ok</color>
 Key: CryoTemperatureTooHigh, Value: <color=red>Temperatur zu hoch</color>
 Key: Cube, Value: Würfel
 Key: CurrentHeight, Value: Aktuelle Höhe {LOCAL:Height}
-Key: CurrentInstrument, Value: Aktuelles Instrument
-Key: CurrentResearchPodType, Value: Gibt den in der Maschine gespeicherten Pod-Typ zurück.
+Key: CurrentInstrument, Value: Aktuelles Gerät
+Key: CurrentResearchPodType, Value: Gibt den in der Maschine gespeicherten Kapsel-Typ zurück.
 Key: CurrentWaypoint, Value: Nächster Wegpunkt: {LOCAL:NextWaypoint}
-Key: CurrentlyOnFire, Value: Derzeit <color=red>Auf Feuer</color>
+Key: CurrentlyOnFire, Value: Derzeit <color=red>Brennt</color>
 Key: CustomSkeletonName, Value: Menschliches Skelett({LOCAL:UserName})
 Key: CustomSkullName, Value: Menschlicher Schädel({LOCAL:UserName})
 Key: CustomWorld, Value: Benutzerdefinierte Welt
-Key: Cycle, Value: Zyklus
-Key: Cycle, Value: Zyklus
-Key: CycleWaypoint, Value: Zyklus Wegpunkt
-Key: CycleWaypointHeight, Value: Zyklus Höhe
+Key: Cycle, Value: Umschalten
+Key: Cycle, Value: Umschalten
+Key: CycleWaypoint, Value: Wegpunkt wechseln
+Key: CycleWaypointHeight, Value: Höhe umschalten
 Key: D, Value: D
-Key: DarknessDeficient, Value: Dunkelheit Mangelhaft
+Key: DarknessDeficient, Value: Ungenügend Dunkelheit
 Key: DarknessPerDay, Value: Dunkelheit pro Tag
 Key: Data, Value: Daten
-Key: DataDisk, Value: Datenträger
+Key: DataDisk, Value: Diskette
 Key: DawnTemperatureField, Value: Dämmerungstemperatur
 Key: DaysPassedHudText, Value: TAG {LOCAL:DaysPassed}
 Key: DaysPassedPlayerMessage, Value: {LOCAL:DaysPassed} Tage sind vergangen. Dein Charakter hat {LOCAL:DaysLived} Tage überlebt, ohne zu sterben.
@@ -577,7 +576,7 @@ Key: Deconstruct, Value: Dekonstruieren
 Key: DeconstructToolTipText, Value: {0} erforderlich für die Dekonstruktion
 Key: Decrease, Value: Verringern
 Key: DecreasePower, Value: Leistung vermindern
-Key: DeepMinerSomethingInTheWay, Value: Etwas im Weg {LOCAL:Thing}
+Key: DeepMinerSomethingInTheWay, Value: {LOCAL:Thing} ist im Weg
 Key: DegreesCelcius, Value: °C
 Key: DegreesKelvin, Value: °K
 Key: Delete, Value: Löschen
@@ -585,15 +584,15 @@ Key: DeleteBackSavePrompt, Value: Sind Sie sicher?
 Dies wird <color=red>nur die {LOCAL:WorldSaveName}</color> Sicherung löschen.
 Key: DeleteSavePrompt, Value: Sind Sie sicher?
 Dies wird <color=red> {LOCAL:WorldSaveName}</color> und alle seine Sicherungen löschen.
-Key: DeviceAddReagents, Value: Füge <color=green>{LOCAL:Total}</color> Einheiten von {LOCAL:Thing}
-Key: DeviceAlreadyExporting, Value: Bereits exportiert {LOCAL:ItemName}
+Key: DeviceAddReagents, Value: Füge {LOCAL:Thing} mal <color=green>{LOCAL:Total}</color> hinzu 
+Key: DeviceAlreadyExporting, Value: Es wird bereits {LOCAL:ItemName} ausgegeben
 Key: DeviceBroken, Value: Keine Interaktion möglich, da das Gerät komplett kaputt ist
 Key: DeviceCanNotAdd, Value: <color=red>Sie können dies nicht zum Gerät hinzufügen</color>
 Key: DeviceCanNotAddWhileProcessing, Value: <color=red>Kann nicht hinzugefügt werden, während das Gerät am arbeiten ist</color>
 Key: DeviceCannotDragCollision, Value: Kann nicht gezogen werden, da dies zu Kollisionen mit Strukturen führt.
-Key: DeviceDoesNotAllowInternals, Value: Gerät kann nicht betreten werden, wenn man eine {LOCAL:Thing}
+Key: DeviceDoesNotAllowInternals, Value: Gerät kann nicht betreten werden, während man {LOCAL:Thing} trägt
 Key: DeviceDoesNotAllowItemsInHands, Value: Gerät kann nicht betreten werden, wenn {LOCAL:Thing} in {LOCAL:Slot} ist
-Key: DeviceEmpty, Value: Damit wird das Gerät von allen Reagenzien befreit.
+Key: DeviceEmpty, Value: Entfernt alle Reagenzien aus dem Gerät.
 Key: DeviceIsOpen, Value: Interaktion nicht möglich, da das Gerät derzeit geöffnet ist
 Key: DeviceLfoVolume, Value: Niederfrequenz-Oszillator
 Key: DeviceLocked, Value: Interaktion nicht möglich, da das Gerät derzeit gesperrt ist
@@ -601,16 +600,16 @@ Key: DeviceManualHeightWindow, Value: Öffnet ein Eingabefenster für eine neue Hö
 Key: DeviceManualInputWindow, Value: Öffnet ein manuelles Eingabefenster, in dem Sie eine neue Einstellung vornehmen können.
 Key: DeviceNoFuel, Value: Es befindet sich kein Treibstoff mehr im Gerät
 Key: DeviceNoPower, Value: Keine Interaktion möglich, da das Gerät nicht eingeschaltet ist
-Key: DeviceNoUseAbleIngredients, Value: <color=red>Es gibt keine verwertbaren Zutaten, die man hinzufügen könnte</color>
+Key: DeviceNoUseAbleIngredients, Value: <color=red>Es gibt keine verwendbaren Zutaten, die hinzugefügt werden könnte</color>
 Key: DeviceNotHotEnough, Value: Das Gerät ist nicht heiß genug für den Betrieb
 Key: DeviceNotOn, Value: Keine Interaktion möglich, da das Gerät nicht eingeschaltet ist
 Key: DeviceNotOpen, Value: Keine Interaktion möglich, da das Gerät derzeit nicht geöffnet ist
 Key: DeviceNothingSelectedToDispense, Value: Nichts ausgewählt zum Ausgeben
-Key: DeviceNothingToChangeTo, Value: Nichts im Inneren um zu ändern
+Key: DeviceNothingToChangeTo, Value: Nichts enthalten, dass ausgewählt werden kann
 Key: DeviceNothingToClear, Value: <color=red>In diesem Gerät gibt es nichts zu löschen</color>
 Key: DeviceOnlyCookedItems, Value: <color=red>Dieses Gerät nimmt nur gekochte Gegenstände und leere Dosen an</color>
-Key: DevicePortableConnectionFailureGas, Value: Kann Gas nur mit diesem {LOCAL:Thing} verbinden
-Key: DevicePortableConnectionFailureGasLiquid, Value: Kann nur Flüssigkeit mit diesem {LOCAL:Thing} verbinden
+Key: DevicePortableConnectionFailureGas, Value: Kann nur Gase mit {LOCAL:Thing} verbinden
+Key: DevicePortableConnectionFailureGasLiquid, Value: Kann nur Flüssigkeit mit {LOCAL:Thing} verbinden
 Key: DevicePortableConnectionFailureUnknown, Value: Kann nur Unbekannte mit diesem {LOCAL:Thing} verbinden
 Key: DeviceStepUnit, Value: Schritt-Einheit
 Key: DeviceWillProduce, Value: Erzeugt {LOCAL:Device}
@@ -619,7 +618,7 @@ Key: DialogConfirmNoticeClientLeaving, Value: Sind Sie sicher, dass Sie die Sitz
 Key: DialogConfirmNoticeUnsaved, Value: Sind Sie sicher, dass Sie die Sitzung verlassen wollen, ohne zu speichern? Alle nicht gespeicherten Fortschritte gehen verloren.
 Key: DialogConfirmResearchUnlock, Value: Möchten Sie diese Forschung freischalten?
 Key: DifficultyField, Value: Schwierigkeitsgrad
-Key: DirtCanister, Value: Schmutzfangbehälter
+Key: DirtCanister, Value: Sammelbehälter Erde
 Key: Disconnect, Value: Trennen
 Key: Display, Value: Anzeige
 Key: DoNothing, Value: Nichts tun
@@ -627,20 +626,20 @@ Key: DoNothing, Value: Nichts tun
 Key: Dollar, Value: Euro
 Key: DoorCategory, Value: Türen und Luken
 Key: DoorIsWelded, Value: Das {LOCAL:Thing} kann nicht bedient werden, solange es <color=yellow>geschweißt</color> ist.
-Key: DoorUnableToForceOpenLocked, Value: Gewaltsames Öffnen nicht möglich, Türriegel sind verriegelt
+Key: DoorUnableToForceOpenLocked, Value: Gewaltsames Öffnen nicht möglich, Türbolzen sind verriegelt
 Key: DoorUnableToForceOpenPowered, Value: Die Tür kann nicht gewaltsam geöffnet werden, da sie derzeit mit Strom versorgt wird.
-Key: DoubleQuote, Value: Doppelte Quote
-Key: Down, Value: unten
+Key: DoubleQuote, Value: Doppelte Anführungszeichen
+Key: Down, Value: runter
 Key: DownArrow, Value: Pfeil nach unten
 Key: Drag, Value: Ziehen
-Key: DuskTemperatureField, Value: Dämmerung Temperatur
+Key: DuskTemperatureField, Value: Temperatur Sonnenuntergang
 Key: DynamicAirConditioner, Value: Tragbares Klimagerät
 Key: DynamicCrate, Value: Tragbare Kiste
 Key: DynamicCrateBuildingSupplies, Value: Kiste (Baubedarf)
-Key: DynamicCrateCableSupplies, Value: Kiste (Kabelbedarf)
-Key: DynamicCrateConveyorSupplies, Value: Kiste (Schachtbandzubehör)
-Key: DynamicCratePipeSupplies, Value: Kiste (Rohrlieferungen)
-Key: DynamicGPR, Value: Tragbarer Bodendurchdringendes Radar (GPR)
+Key: DynamicCrateCableSupplies, Value: Kiste (Elektronikbedarf)
+Key: DynamicCrateConveyorSupplies, Value: Kiste (Schachtbedarf)
+Key: DynamicCratePipeSupplies, Value: Kiste (Sanitärbedarf)
+Key: DynamicGPR, Value: Tragbares Bodendurchdringendes Radar (GPR)
 Key: DynamicGasCanisterAir, Value: Tragbarer Gastank (Sauerstoff)
 Key: DynamicGasCanisterCarbonDioxide, Value: Tragbarer Gastank (CO2)
 Key: DynamicGasCanisterEmpty, Value: Tragbarer Gastank
@@ -662,9 +661,9 @@ Key: DynamicLightNetworkTest, Value: Tragbarer Lichtnetz-Test
 Key: DynamicLiquidCanisterEmpty, Value: Tragbarer Flüssigkeitstank
 Key: DynamicMKIILiquidCanisterEmpty, Value: Tragbarer Flüssigkeitstank Mk II
 Key: DynamicMKIILiquidCanisterWater, Value: Tragbarer Flüssigkeitstank Mk II (Wasser)
-Key: DynamicModularRocketCommand01, Value: Tragbarer Modulares Raketenkommando
+Key: DynamicModularRocketCommand01, Value: Tragbarer Modulares Raketensteuermodul
 Key: DynamicPortal, Value: Tragbarers Portal
-Key: DynamicScrubber, Value: Tragbarer Luftwäscher
+Key: DynamicScrubber, Value: Tragbarer Luftfilter
 Key: DynamicSkeleton, Value: Skelett
 Key: E, Value: E
 Key: Eat, Value: Essen
@@ -685,7 +684,7 @@ Key: ElectronicReaderCopper, Value: Kupfer
 Key: ElectronicReaderEgg, Value: Ei
 Key: ElectronicReaderElectrum, Value: Elektrum
 Key: ElectronicReaderEnergy, Value: Energie
-Key: ElectronicReaderFenoxitone, Value: Fenoxiton
+Key: ElectronicReaderFenoxitone, Value: Farnextrakt
 Key: ElectronicReaderFlour, Value: Mehl
 Key: ElectronicReaderGold, Value: Gold
 Key: ElectronicReaderHydrocarbon, Value: Kohlenwasserstoff
@@ -710,13 +709,13 @@ Key: ElectronicReaderSilicon, Value: Silizium
 Key: ElectronicReaderSilicon, Value: Silizium
 Key: ElectronicReaderSilver, Value: Silber
 Key: ElectronicReaderSilver, Value: Silber
-Key: ElectronicReaderSolder, Value: Lötmittel
+Key: ElectronicReaderSolder, Value: Lötzinn
 Key: ElectronicReaderSteel, Value: Stahl
 Key: ElectronicReaderTemperature, Value: Temperatur
 Key: ElectronicReaderTime, Value: Zeit
 Key: ElectronicReaderUranium, Value: Uran
 Key: ElectronicReaderUranium, Value: Uran
-Key: ElectronicReaderVolatiles, Value: Flüchtige Stoffe
+Key: ElectronicReaderVolatiles, Value: Wasserstoff
 Key: ElectronicReaderWeightSymbol, Value: g
 Key: ElectronicReadereggs, Value: Eier
 Key: Elevator, Value: Aufzug
@@ -724,13 +723,13 @@ Key: ElevatorCarrage, Value: Aufzug
 Key: ElevatorShaftRotationFail, Value: Alle Gebäudeteile des Elevators müssen in die gleiche Richtung gedreht werden.
 Key: ElevatorUnableToForceOpenLocked, Value: Kann nicht gewaltsam geöffnet werden, {LOCAL:Elevator} gesperrt
 Key: ElevatorUnableToForceOpenPowered, Value: Öffnen kann nicht erzwungen werden, {LOCAL:Elevator} wird derzeit mit Strom versorgt
-Key: Empty, Value: Leere
+Key: Empty, Value: leer
 Key: End, Value: Ende
 Key: EnergyCostMultiplier, Value: Energiekostenmultiplikator
 Key: EnergyRatio, Value: Energieverhältnis
 Key: Entity, Value: Entität
 Key: EntityAlien, Value: Entität Alien
-Key: EntityChick, Value: Entität Kücken
+Key: EntityChick, Value: Entität Küken
 Key: EntityChickenBrown, Value: Entität Huhn Braun
 Key: EntityChickenWhite, Value: Entität Huhn Weiß
 Key: EntityGraylien, Value: Entität Graylien
@@ -738,7 +737,7 @@ Key: EntityIsCurrentlyState, Value: {LOCAL:Thing} ist derzeit <color=yellow>{LOC
 Key: EntityIsDead, Value: {LOCAL:Thing} ist <color=red>Tot</color>
 Key: EntityRoosterBlack, Value: Entität Hahn Schwarz
 Key: EntityRoosterBrown, Value: Entität Hahn Braun
-Key: EnvironmentRequirementFail, Value: Der Trader wird das Shuttle erst verlassen, wenn die Atmosphäre zum Atmen sicher ist.
+Key: EnvironmentRequirementFail, Value: Der Händler wird das Shuttle erst verlassen, wenn die Atmosphäre zum Atmen sicher ist.
 Key: Equals, Value: Entspricht
 Key: Error, Value: Fehler
 Key: Error, Value: Fehler
@@ -758,9 +757,9 @@ Mit dem gesicherten Zugang zum Weltraum wurde ExMin zu einem zentralen Akteur im
 Key: Exclaim, Value: Ausrufezeichen
 Key: ExhaustVelocity, Value: Auslassgeschwindigkeit
 Key: Experiments, Value: Experimente
-Key: Export, Value: Exportieren
-Key: Export, Value: Exportieren
-Key: Export2, Value: Exportieren2
+Key: Export, Value: Auswurf
+Key: Export, Value: Auswurf
+Key: Export2, Value: Auswurf2
 Key: F, Value: F
 Key: F1, Value: F1
 Key: F10, Value: F10
@@ -781,10 +780,10 @@ Key: FabricatorCategoryKey, Value: Verarbeiter
 Key: Fabricators, Value: Fabriken
 Key: FaceBlockedByStructure, Value: Die Platzierung wird durch <color=green>{LOCAL:Structure}</color> blockiert
 Key: False, Value: Falsch
-Key: Fertiliser, Value: Düngen
-Key: Fertiliser, Value: Düngen
+Key: Fertiliser, Value: Dünger
+Key: Fertiliser, Value: Dünger
 Key: FertiliserClearFromSlot, Value: Halte <color=yellow>{0}</color> um {1} zu löschen
-Key: Fertilizer, Value: Düngemittel
+Key: Fertilizer, Value: Dünger
 Key: Filter, Value: Filter
 Key: FireArm, Value: Waffen
 Key: FireArmSMG, Value: Feuerwaffe SMG
@@ -806,13 +805,13 @@ Key: FrozenOreHeader, Value: Gefrorene Erze
 Key: FuelInTankRemaining, Value: Zeigt den verbleibenden Treibstoff im Raketentank an.
 Key: FuelReturnCost, Value: Ermittelt die Treibstoffkosten für die Rückkehr der Rakete in Ihre aktuelle Welt.
 Key: FullyCharged, Value: Vollständig aufgeladen
-Key: FurnaceChamber, Value: Kammer
+Key: FurnaceChamber, Value: Brennkammer
 Key: FurnaceChamberText, Value: 
         Druck {0}
         Temperatur {1}
       
-Key: FurnaceCurrentlySmelting, Value: Derzeit Schmelzen {LOCAL:OreName} x <color=yellow>{LOCAL:Quantity}</color>
-Key: FurnaceNothingToSmelt, Value: <color=red>Nichts zu riechen</color>
+Key: FurnaceCurrentlySmelting, Value: Smelzt {LOCAL:OreName} x <color=yellow>{LOCAL:Quantity}</color>
+Key: FurnaceNothingToSmelt, Value: <color=red>Nichts zu schmelzen</color>
 Key: FurnaceSmelting, Value: Schmelzen {0}
 Key: FurnitureCategoryKey, Value: Möbel
 Key: G, Value: G
