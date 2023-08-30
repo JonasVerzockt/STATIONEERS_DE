@@ -825,14 +825,14 @@ Key: GameMenuButtonReturn, Value: Zum Spiel zurückkehren
 Key: GameMenuButtonSave, Value: Welt retten
 Key: GameMenuButtonSaveAs, Value: Spiel speichern unter...
 Key: GameMenuButtonSettings, Value: Einstellungen
-Key: GameMenuButtonTravel, Value: Reisewelt
+Key: GameMenuButtonTravel, Value: Zu Welt reisen
 Key: GameMenuClearDisconnectedPlayers, Value: Getrennte Spieler löschen
 Key: GameMenuPauseGameButton, Value: Spiel pausieren
 Key: GameMenuRespawn, Value: Wiedererscheinen
 Key: GamePaused, Value: Spiel pausiert
 Key: GameSettingsTitle, Value: Spiel-Einstellungen
 Key: Gas, Value: Gas
-Key: GasCanister, Value: Gas-Gasflasche
+Key: GasCanister, Value: Gasflasche
 Key: GasFilter, Value: Gas Filter
 Key: GasItemGasAmount, Value: 100%
 Key: GasItemGasMole, Value: 12,09 Mol
@@ -854,7 +854,7 @@ Key: GeneDarknessTolerance, Value: Toleranz gegenüber der Dunkelheit
 Key: GeneDescriptionDarkPerDay, Value: Die Zeitspanne, die eine Pflanze pro Tageszyklus in der Dunkelheit verbringen muss, um zu gedeihen. Die Standardlänge des Tageszyklus beträgt 20 Minuten.
 Key: GeneDescriptionDarknessTolerance, Value: Die Zeitspanne, die eine Pflanze im Dunkeln bleiben kann, bevor sie Schaden nimmt.
 Key: GeneDescriptionDroughtTolerance, Value: Die Zeitspanne, die eine Pflanze dehydriert werden kann, bevor sie Schaden nimmt.
-Key: GeneDescriptionGasProduction, Value: Die Gasmenge, die die Pflanze ein- und ausatmet.
+Key: GeneDescriptionGasProduction, Value: Die Gasmenge, die die Pflanze aufnimmt und abgibt.
 Key: GeneDescriptionGrowthSpeedMultiplier, Value: Erhöht die Wachstumsgeschwindigkeit der Pflanze. Pflanzen mit einem höheren Multiplikator für die Wachstumsgeschwindigkeit benötigen weniger Zeit zum Wachsen.
 Key: GeneDescriptionHighPressureResistance, Value: Die Obergrenze des Drucks, bei dem die Pflanze wachsen kann.
 Key: GeneDescriptionHighPressureTolerance, Value: Die Zeitspanne, die eine Pflanze oberhalb ihrer Hochdruckgrenze bleiben kann, bevor sie Schaden nimmt.
@@ -892,21 +892,21 @@ Key: GeneticAppliences, Value: Genetische Geräte
 Key: GeneticDevices, Value: Genetische Geräte
 Key: GeneticsCategoryKey, Value: Genetik
 Key: GeneticsHeader, Value: Gene
-Key: GetIn, Value: Reinkommen
+Key: GetIn, Value: Einsteigen
 Key: Glasses, Value: Brillen
 Key: GlobalAlreadyInUse, Value: Bereits im Einsatz
-Key: GlobalAlreadyMax, Value: Bereits Max
-Key: GlobalAlreadyMin, Value: Bereits Min
+Key: GlobalAlreadyMax, Value: Bereits Maximiert
+Key: GlobalAlreadyMin, Value: Bereits Minimum
 Key: GlobalAttack, Value: Angriff <color=green>{0}</color>
-Key: GlobalChangeReagentSettingTo, Value: Zyklus bis {1}.<color=yellow>{1}.<color=yellow>{1}
-Key: GlobalChangeSettingTo, Value: Zyklus bis {0}
-Key: GlobalChangeSettingToAll, Value: Zyklus bis Alle {0}
-Key: GlobalChangeSettingToFor, Value: Zyklus bis <color=yellow>{0} für {1}</color>
-Key: GlobalChangeSettingToForAll, Value: Zyklus bis <color=yellow>{0} für alle {1}</color>
-Key: GlobalChangeSettingToForIn, Value: Zyklus bis <color=yellow>{0}</color> für {1} <color=yellow>({2})</color> in {1}
-Key: GlobalChangeSlotSettingToFor, Value: Zyklus nach {0}<color=yellow>({0}) für {2}
+Key: GlobalChangeReagentSettingTo, Value: Umschalten auf {1}.<color=yellow>{1}.<color=yellow>{1}
+Key: GlobalChangeSettingTo, Value: Umschalten auf {0}
+Key: GlobalChangeSettingToAll, Value: Alle umschalten auf {0}
+Key: GlobalChangeSettingToFor, Value: Alle bis <color=yellow>{1}</color> für <color=yellow>{0}</color> umschalten
+Key: GlobalChangeSettingToForAll, Value: Alle bis <color=yellow>{1}</color> auf <color=yellow>{0}</color> umschalten
+Key: GlobalChangeSettingToForIn, Value: Für {3} von <color=yellow>({2})</color> in {1} auf &lt;color=yellow&gt;{0}&lt;/color&gt; umschalten
+Key: GlobalChangeSlotSettingToFor, Value: Umschalten auf {1}<color=yellow>({0}) für {2}</color>
 Key: GlobalCombustionLimiter, Value: Verbrennungsbegrenzer <color=green>{0}</color>
-Key: GlobalCurrentInstrument, Value: Aktuelles Instrument <color=green>{0}</color>
+Key: GlobalCurrentInstrument, Value: Aktuelles Gerät <color=green>{0}</color>
 Key: GlobalDecrease, Value: Verringern
 Key: GlobalIncrease, Value: Erhöhung
 Key: GlobalIntensity, Value: Intensität <color=green>{0}</color>
@@ -918,7 +918,7 @@ Key: GlobalSpeed, Value: Geschwindigkeit <color=green>{0}</color>
 Key: GlobalStackSize, Value: Stapelgröße <color=green>{0}</color>
 Key: GlobalStart, Value: Start
 Key: GlobalStop, Value: Stopp
-Key: GlobalThrottle, Value: Drosselklappe <color=green>{0}</color>
+Key: GlobalThrottle, Value: Limitieren <color=green>{0}</color>
 Key: GlobalValue, Value: Wert <color=green>{0}</color>
 Key: GlobalVolume, Value: Volumen <color=green>{0}</color>
 Key: GlobalVolumeLitre, Value: Volumen <color=green>{0} L</color>
@@ -948,10 +948,10 @@ Key: GrowthSpeedMultiplier, Value: Multiplikator der Wachstumsgeschwindigkeit
 Key: GrowthTemperatureRange, Value: Wachstumstemperaturbereich
 Key: Guides, Value: Leitfäden
 Key: H, Value: H
-Key: H2Combustor, Value: H2-Brenner
+Key: H2Combustor, Value: Wasserstoff Verbrenner
 Key: HVSValues, Value: HVS-Werte
 Key: HandSlot, Value: Hand
-Key: HandSlotOccupied, Value: Handslot ist besetzt
+Key: HandSlotOccupied, Value: Hand nicht frei
 Key: HandToolsCategoryKey, Value: Handwerkzeuge
 Key: Handgun, Value: Handfeuerwaffe
 Key: HandgunMagazine, Value: Handfeuerwaffen-Magazin
@@ -974,41 +974,41 @@ Key: HiiragiDesc, Value: Gegründet von Noboru Hiiragi nach der Wirtschaftsblase 
 Wenn Sie in letzter Zeit mit Freunden und Verwandten außerhalb der Welt kommuniziert haben, dann geschah dies über das Hiiragi-Netzwerk, selbst wenn es unter dem Namen einer der vielen Tochtergesellschaften lief. Hiiragi ist auch der größte Verkäufer von PCDs (Personal Communication Devices) und ein großer, wenn auch schwer einzuschätzender Investor in terrestrische Telekommunikationsnetze.
       
 Key: HoldForPreviousObject, Value: Halten Sie {KEY:QuantityModifier} für das vorherige Objekt
-Key: HoldForSmallIncrements, Value: Halten Sie {KEY:QuantityModifier} für kleinere Inkremente
+Key: HoldForSmallIncrements, Value: Halten Sie {KEY:QuantityModifier} für kleinere Schritte
 Key: Home, Value: Startseite
 Key: HorizontalDegrees, Value: <color=yellow>Horizontal</color> <color=green>{0} Grad</color>
 Key: HueField, Value: Farbton:
 Key: HumanSkull, Value: Menschlicher Schädel
-Key: HydrationCaution, Value: Hydratation Vorsicht
+Key: HydrationCaution, Value: Hydratation niedrig
 Key: HydrationCritical, Value: Hydratation kritisch
 Key: HydrationSPDAKey, Value: Hydratation
 Key: I, Value: I
 Key: Ice, Value: Eis
 Key: Idle, Value: Leerlauf
 Key: ImGuiCircuitboardAirlockControl, Value: Luftschleuse (Experimentell)
-Key: Import, Value: Importieren
-Key: Import, Value: Importieren
-Key: ImportExportCategoryKey, Value: Import/Export
-Key: Incident_Supply, Value: Die Satelliten deuten darauf hin, dass eine Kiste in der Nähe gelandet ist, Ihr Baken-Tracker sollte Ihnen den Weg zeigen.
+Key: Import, Value: Einwurf
+Key: Import, Value: Einwurf
+Key: ImportExportCategoryKey, Value: Einwurf/Auswurf
+Key: Incident_Supply, Value: Die Satelliten deuten darauf hin, dass eine Kiste in der Nähe gelandet ist. Der Tracker sollte den Weg weisen.
 Key: Incident_Supply_Title, Value: Vorratskiste
 Key: IncidentsTitle, Value: Vorfälle
 Key: Increase, Value: Erhöhung
-Key: IncreasePower, Value: Leistung erhöhen
+Key: IncreasePower, Value: Leistung steigern
 Key: IngotIsType, Value: Dies ist ein <color=yellow>{LOCAL:Type}</color>
 Key: IngotsCategoryKey, Value: Barren
-Key: Input, Value: Eingabe
-Key: Input, Value: Eingabe
-Key: Input1Ratio, Value: Eingabe 1 <color=green>{0}%</color>
-Key: Input2Ratio, Value: Eingabe 2 <color=green>{0}%</color>
+Key: Input, Value: Eingang
+Key: Input, Value: Eingang
+Key: Input1Ratio, Value: Eingang 1 <color=green>{0}%</color>
+Key: Input2Ratio, Value: Eingang 2 <color=green>{0}%</color>
 Key: InputChatMessage, Value: Nachricht zum Senden eingeben
-Key: InputLeft, Value: Eingabe links
-Key: InputLitres, Value: Eingabe <color=green>{0} L</color>
+Key: InputLeft, Value: Eingang links
+Key: InputLitres, Value: Eingang <color=green>{0} L</color>
 Key: InputPassword, Value: Passwort
 Key: InputPasswordPlaceholder, Value: Passwort eingeben
 Key: InputPasswordTitle, Value: Passwort
-Key: InputRight, Value: Eingabe rechts
-Key: InputSaveNamePlaceholder, Value: Enter Save Name
-Key: InputSaveNameTitle, Value: Name speichern
+Key: InputRight, Value: Eingang rechts
+Key: InputSaveNamePlaceholder, Value: Namen eingeben
+Key: InputSaveNameTitle, Value: Speicherstand benennen
 Key: InputSetting, Value: Einstellung
 Key: InputTextRename, Value: Umbenennen
 Key: InputTextTradingTitle, Value: Handels-Terminal
@@ -1023,14 +1023,14 @@ Key: InsulatedLiquidPipeCrossJunction6, Value: Isolierte Flüssigkeitsrohre 6-Weg
 Key: InsulatedLiquidPipeJunction, Value: Isolierte Flüssigkeitsrohre-Verbindung
 Key: InsulatedLiquidPipeStraight, Value: Isolierte Flüssigkeitsrohre Gerade
 Key: Intensity, Value: Intensität
-Key: InteractCantClose, Value: Irgendetwas verhindert das Schließen dieser Seite
-Key: InteractOpenResearchScreen, Value: Interagieren, um den Bildschirm zum Entsperren der Forschung zu öffnen
+Key: InteractCantClose, Value: Irgendetwas verhindert das Schließen
+Key: InteractOpenResearchScreen, Value: Öffnet den Forschungsbildschirm
 Key: InteractableAction, Value: Setze {LOCAL:InteractableAction}
 Key: InteractionTemporarilyDisabledOnThisObject, Value: Interaktion bei diesem Objekt vorübergehend deaktiviert
 Key: InteractionTemporarilyDisabledOnThisObject, Value: Interaktion bei diesem Objekt vorübergehend deaktiviert
-Key: InternalPressureIs, Value: Der Druck ist <color=yellow>{LOCAL:Value}</color>
-Key: InterrogationProgress, Value: Händler Vernehmungsprozeß
-Key: InvalidDegrees, Value: Null
+Key: InternalPressureIs, Value: Der interne Druck beträgt <color=yellow>{LOCAL:Value}</color>
+Key: InterrogationProgress, Value: Fortschritt der Händlerbefragung
+Key: InvalidDegrees, Value: N/A
 Key: InventoryCloseAll, Value: Alle schließen
 Key: InventorySlotBackpack, Value: Zurück
 Key: InventorySlotBelt, Value: Gürtel
@@ -1044,12 +1044,12 @@ Key: InventoryStackIsFull, Value: Ihr Stapel von {LOCAL:Thing} ist voll
 Key: Iron, Value: Eisen
 Key: IsDestroyed, Value: Ist <color=red>Zerstört</color>
 Key: ItemActiveVent, Value: Bausatz (Aktive Entlüftung)
-Key: ItemAdvancedTablet, Value: Fortgeschrittenes Tablet
+Key: ItemAdvancedTablet, Value: Fortschritliches Tablet
 Key: ItemAlienMushroom, Value: Alien Pilze
 Key: ItemAmmoBox, Value: Munitionskiste
 Key: ItemAngleGrinder, Value: Winkelschleifer
 Key: ItemArcWelder, Value: Lichtbogenschweißer
-Key: ItemAreaPowerControl, Value: Bausatz (Stromversorgungs-Controller)
+Key: ItemAreaPowerControl, Value: Bausatz (Strom Unterverteilung)
 Key: ItemAstroloyIngot, Value: Legierung (Astroloy)
 Key: ItemAstroloySheets, Value: Astroloy-Platten
 Key: ItemAuthoringTool, Value: Sicherheits-Werkzeug
@@ -1059,13 +1059,13 @@ Key: ItemBatteryCellLarge, Value: Batteriezelle (groß)
 Key: ItemBatteryCellNuclear, Value: Batteriezelle (nuklear)
 Key: ItemBatteryCharger, Value: Bausatz (Batterieladegerät)
 Key: ItemBatteryChargerSmall, Value: Batterieladegerät klein
-Key: ItemBeacon, Value: Bake
+Key: ItemBeacon, Value: Leuchtfeuer
 Key: ItemBiomass, Value: Biomasse
 Key: ItemBook, Value: Buch
 Key: ItemBreadLoaf, Value: Brotlaib
 Key: ItemCableAnalyser, Value: Bausatz (Kabelanalysator)
-Key: ItemCableCoil, Value: Kabel
-Key: ItemCableCoilHeavy, Value: Starkstromkabel
+Key: ItemCableCoil, Value: Kabel (Niederspannung)
+Key: ItemCableCoilHeavy, Value: Kabel (Hochspannung)
 Key: ItemCableFuse, Value: Bausatz (Kabel Sicherungen)
 Key: ItemCannedCondensedMilk, Value: Kondensmilch in Dosen
 Key: ItemCannedEdamame, Value: Edamame in Dosen
@@ -1074,26 +1074,26 @@ Key: ItemCannedPowderedEggs, Value: Dosen-Eier in Pulverform
 Key: ItemCannedRicePudding, Value: Reispudding aus der Dose
 Key: ItemCerealBar, Value: Müsliriegel
 Key: ItemCharcoal, Value: Holzkohle
-Key: ItemChemLightBlue, Value: Chemisches Licht (Blau)
-Key: ItemChemLightGreen, Value: Chemisches Licht (Grün)
-Key: ItemChemLightRed, Value: Chemisches Licht (Rot)
-Key: ItemChemLightWhite, Value: Chemisches Licht (Weiß)
-Key: ItemChemLightYellow, Value: Chemisches Licht (Gelb)
-Key: ItemClothingBagOveralls_Aus, Value: Latzhose (Australien)
-Key: ItemClothingBagOveralls_Brazil, Value: Latzhose (Brasilien)
-Key: ItemClothingBagOveralls_Canada, Value: Latzhose (Kanada)
-Key: ItemClothingBagOveralls_China, Value: Latzhose (China)
-Key: ItemClothingBagOveralls_EU, Value: Latzhose (Europa)
-Key: ItemClothingBagOveralls_France, Value: Latzhose (Frankreich)
-Key: ItemClothingBagOveralls_Germany, Value: Latzhose (Deutschland)
-Key: ItemClothingBagOveralls_Japan, Value: Latzhose (Japan)
-Key: ItemClothingBagOveralls_Korea, Value: Latzhose (Korea)
-Key: ItemClothingBagOveralls_NZ, Value: Latzhose (Neuseeland)
-Key: ItemClothingBagOveralls_Russia, Value: Latzhose (Russland)
-Key: ItemClothingBagOveralls_SouthAfrica, Value: Overalls (Südafrika)
-Key: ItemClothingBagOveralls_UK, Value: Overalls (England)
-Key: ItemClothingBagOveralls_US, Value: Latzhose (Amerika)
-Key: ItemClothingBagOveralls_Ukraine, Value: Latzhose (Ukraine)
+Key: ItemChemLightBlue, Value: Knicklicht (Blau)
+Key: ItemChemLightGreen, Value: Knicklicht (Grün)
+Key: ItemChemLightRed, Value: Knicklicht (Rot)
+Key: ItemChemLightWhite, Value: Knicklicht (Weiß)
+Key: ItemChemLightYellow, Value: Knicklicht (Gelb)
+Key: ItemClothingBagOveralls_Aus, Value: Taschen-Overalls (Australien)
+Key: ItemClothingBagOveralls_Brazil, Value: Taschen-Overalls (Brasilien)
+Key: ItemClothingBagOveralls_Canada, Value: Taschen-Overalls (Kanada)
+Key: ItemClothingBagOveralls_China, Value: Taschen-Overalls (China)
+Key: ItemClothingBagOveralls_EU, Value: Taschen-Overalls (Europa)
+Key: ItemClothingBagOveralls_France, Value: Taschen-Overalls (Frankreich)
+Key: ItemClothingBagOveralls_Germany, Value: Taschen-Overalls (Deutschland)
+Key: ItemClothingBagOveralls_Japan, Value: Taschen-Overalls (Japan)
+Key: ItemClothingBagOveralls_Korea, Value: Taschen-Overalls (Korea)
+Key: ItemClothingBagOveralls_NZ, Value: Taschen-Overalls (Neuseeland)
+Key: ItemClothingBagOveralls_Russia, Value: Taschen-Overalls (Russland)
+Key: ItemClothingBagOveralls_SouthAfrica, Value: Taschen-Overalls (Südafrika)
+Key: ItemClothingBagOveralls_UK, Value: Taschen-Overalls (England)
+Key: ItemClothingBagOveralls_US, Value: Taschen-Overalls (Amerika)
+Key: ItemClothingBagOveralls_Ukraine, Value: Taschen-Overalls (Ukraine)
 Key: ItemCoalOre, Value: Erz (Kohle)
 Key: ItemCobaltIngot, Value: Barren (Kobalt)
 Key: ItemCobaltOre, Value: Erz (Kobalt)
@@ -1117,14 +1117,14 @@ Key: ItemCropHay, Value: Heu
 Key: ItemCrowbar, Value: Brechstange
 Key: ItemDataDisk, Value: Datenträger
 Key: ItemDecorFern, Value: Dekorativer Farn
-Key: ItemDirtCanister, Value: Schmutzfangbehälter
-Key: ItemDirtCannister, Value: Schmutzkanister
-Key: ItemDirtyOre, Value: Schmutziges Erz
+Key: ItemDirtCanister, Value: Sammelbehälter Erde
+Key: ItemDirtCannister, Value: Sammelbehälter Erde
+Key: ItemDirtyOre, Value: Verunreinigtes Erz
 Key: ItemDisposableBatteryCharger, Value: Einweg-Batterieladegerät
 Key: ItemDrill, Value: Handbohrmaschine
 Key: ItemDuctTape, Value: Klebeband
 Key: ItemDynamicAirCon, Value: Bausatz (Tragbare Klimaanlage)
-Key: ItemDynamicScrubber, Value: Bausatz (Tragbarer Schrubber)
+Key: ItemDynamicScrubber, Value: Bausatz (Tragbarer Luftfilter)
 Key: ItemDynamite, Value: Dynamit
 Key: ItemEgg, Value: Ei
 Key: ItemEggBottom, Value: Ei-Unten
@@ -1166,11 +1166,11 @@ Key: ItemGasCanisterCarbonDioxide, Value: Gasflasche (CO2)
 Key: ItemGasCanisterEmpty, Value: Gasflasche
 Key: ItemGasCanisterFuel, Value: Gasflasche (Treibstoff)
 Key: ItemGasCanisterNitrogen, Value: Gasflasche (Stickstoff)
-Key: ItemGasCanisterNitrousOxide, Value: Gaskanister (Distickstoffmonoxid)
+Key: ItemGasCanisterNitrousOxide, Value: Gasflasche (Lachgas)
 Key: ItemGasCanisterOxygen, Value: Gasflasche (Sauerstoff)
 Key: ItemGasCanisterPollutants, Value: Gasflasche (Schadstoffe)
-Key: ItemGasCanisterSmart, Value: Gaskanister (Smart)
-Key: ItemGasCanisterVolatiles, Value: Gasflasche (Flüchtige Stoffe)
+Key: ItemGasCanisterSmart, Value: Gasflasche (Smart)
+Key: ItemGasCanisterVolatiles, Value: Gasflasche (Wasserstoff)
 Key: ItemGasCanisterWater, Value: Gasflasche (Wasser)
 Key: ItemGasFilterCarbonDioxide, Value: Filter (Kohlendioxid)
 Key: ItemGasFilterCarbonDioxideInfinite, Value: Katalytischer Filter (Kohlendioxid)
@@ -1180,10 +1180,10 @@ Key: ItemGasFilterNitrogen, Value: Filter (Stickstoff)
 Key: ItemGasFilterNitrogenInfinite, Value: Catalytic Filter (Stickstoff)
 Key: ItemGasFilterNitrogenL, Value: Schwerer Filter (Stickstoff)
 Key: ItemGasFilterNitrogenM, Value: Normaler Filter (Stickstoff)
-Key: ItemGasFilterNitrousOxide, Value: Filter (Distickstoffmonoxid)
-Key: ItemGasFilterNitrousOxideInfinite, Value: Katalytischer Filter (Distickstoffmonoxid)
-Key: ItemGasFilterNitrousOxideL, Value: Schwerer Filter (Distickstoffmonoxid)
-Key: ItemGasFilterNitrousOxideM, Value: Normaler Filter (Distickstoffmonoxid)
+Key: ItemGasFilterNitrousOxide, Value: Filter (Lachgas)
+Key: ItemGasFilterNitrousOxideInfinite, Value: Katalytischer Filter (Lachgas)
+Key: ItemGasFilterNitrousOxideL, Value: Schwerer Filter (Lachgas)
+Key: ItemGasFilterNitrousOxideM, Value: Normaler Filter (Lachgas)
 Key: ItemGasFilterOxygen, Value: Filter (Sauerstoff)
 Key: ItemGasFilterOxygenInfinite, Value: Katalytischer Filter (Sauerstoff)
 Key: ItemGasFilterOxygenL, Value: Schwerer Filter (Sauerstoff)
@@ -1192,16 +1192,16 @@ Key: ItemGasFilterPollutants, Value: Filter (Schadstoff)
 Key: ItemGasFilterPollutantsInfinite, Value: Katalytischer Filter (Schadstoffe)
 Key: ItemGasFilterPollutantsL, Value: Schwerer Filter (Schadstoffe)
 Key: ItemGasFilterPollutantsM, Value: Normaler Filter (Schadstoffe)
-Key: ItemGasFilterVolatiles, Value: Filter (Flüchtige Stoffe)
-Key: ItemGasFilterVolatilesInfinite, Value: Katalytischer Filter (flüchtige Stoffe)
-Key: ItemGasFilterVolatilesL, Value: Schwerer Filter (flüchtige Stoffe)
-Key: ItemGasFilterVolatilesM, Value: Normaler Filter (Flüchtige Stoffe)
+Key: ItemGasFilterVolatiles, Value: Filter (Wasserstoff)
+Key: ItemGasFilterVolatilesInfinite, Value: Katalytischer Filter (Wasserstoff)
+Key: ItemGasFilterVolatilesL, Value: Schwerer Filter (Wasserstoff)
+Key: ItemGasFilterVolatilesM, Value: Normaler Filter (Wasserstoff)
 Key: ItemGasFilterWater, Value: Filter (Wasser)
 Key: ItemGasFilterWaterInfinite, Value: Katalytischer Filter (Wasser)
 Key: ItemGasFilterWaterL, Value: Schwerer Filter (Wasser)
 Key: ItemGasFilterWaterM, Value: Normaler Filter (Wasser)
 Key: ItemGasSensor, Value: Bausatz (Gas Sensor)
-Key: ItemGasTankStorage, Value: Bausatz (Gasflaschenlagerung)
+Key: ItemGasTankStorage, Value: Bausatz (Gasspeicher)
 Key: ItemGlassSheets, Value: Glasscheiben
 Key: ItemGlasses, Value: Brille
 Key: ItemGoldIngot, Value: Barren (Gold)
@@ -1232,58 +1232,58 @@ Key: ItemIronFrames, Value: Eisenrahmen
 Key: ItemIronIngot, Value: Barren (Eisen)
 Key: ItemIronOre, Value: Erz (Eisen)
 Key: ItemIronSheets, Value: Eisenbleche
-Key: ItemJetpackBasic, Value: Jetpack Basic
+Key: ItemJetpackBasic, Value: Jetpack Standard
 Key: ItemKitAIMeE, Value: Bausatz (AIMeE)
-Key: ItemKitAdvancedComposter, Value: Bausatz (Fortgeschrittener Komposter)
-Key: ItemKitAdvancedFurnace, Value: Bausatz (Fortgeschrittener Ofen)
+Key: ItemKitAdvancedComposter, Value: Bausatz (Fortschrittlicher Komposter)
+Key: ItemKitAdvancedFurnace, Value: Bausatz (Fortschrittlicher Ofen)
 Key: ItemKitAdvancedPackagingMachine, Value: Bausatz (Fortschrittliche Verpackungsmaschine)
 Key: ItemKitAirlock, Value: Bausatz (Luftschleuse)
 Key: ItemKitAirlockGate, Value: Bausatz (Hangartür)
 Key: ItemKitArcFurnace, Value: Bausatz (Lichtbogenofen)
-Key: ItemKitAtmospherics, Value: Bausatz (Atmosphärisches)
-Key: ItemKitAutoMiner, Value: Bausatz (Autominer)
-Key: ItemKitAutoMinerSmall, Value: Bausatz (Autominer Klein)
-Key: ItemKitAutolathe, Value: Bausatz (Autodrehmaschine)
+Key: ItemKitAtmospherics, Value: Bausatz (Atmosphäre)
+Key: ItemKitAutoMiner, Value: Bausatz (Automatischer Bergbau)
+Key: ItemKitAutoMinerSmall, Value: Bausatz (Automatischer Bergbau Klein)
+Key: ItemKitAutolathe, Value: Bausatz (Automatische Drehmaschine)
 Key: ItemKitAutomatedOven, Value: Bausatz (Automatischer Backofen)
-Key: ItemKitBasket, Value: Bausatz (Korb)
+Key: ItemKitBasket, Value: Bausatz (Basketballkorb)
 Key: ItemKitBattery, Value: Bausatz (Batterie)
 Key: ItemKitBatteryLarge, Value: Bausatz (Batterie groß)
-Key: ItemKitBeacon, Value: Bausatz (Bake)
+Key: ItemKitBeacon, Value: Bausatz (Leuchtfeuer)
 Key: ItemKitBeds, Value: Bausatz (Betten)
 Key: ItemKitBlastDoor, Value: Bausatz (Explosionsschutztür)
 Key: ItemKitCentrifuge, Value: Bausatz (Zentrifuge)
 Key: ItemKitChairs, Value: Bausatz (Stühle)
-Key: ItemKitChute, Value: Bausatz (Basisschächte)
+Key: ItemKitChute, Value: Bausatz (Schächte)
 Key: ItemKitCompositeCladding, Value: Bausatz (Fassade)
-Key: ItemKitCompositeFloorGrating, Value: Bausatz (Bodengitterrost)
+Key: ItemKitCompositeFloorGrating, Value: Bausatz (Bodenrost)
 Key: ItemKitComputer, Value: Bausatz (Computer)
 Key: ItemKitConsole, Value: Bausatz (Konsolen)
-Key: ItemKitConveyor, Value: Bausatz (Schächte)
+Key: ItemKitConveyor, Value: Bausatz (Förderband)
 Key: ItemKitCrate, Value: Bausatz (Kiste)
 Key: ItemKitCrateMkII, Value: Bausatz (Kiste Mk II)
-Key: ItemKitCrateMount, Value: Bausatz (Kiste-Montage)
-Key: ItemKitCryoTube, Value: Bausatz (Kryoröhren)
+Key: ItemKitCrateMount, Value: Bausatz (Kistenhalterung)
+Key: ItemKitCryoTube, Value: Bausatz (Kälteschlaf)
 Key: ItemKitCube, Value: Bausatz (Würfel)
 Key: ItemKitDebug, Value: Bausatz (Debug)
-Key: ItemKitDeepMiner, Value: Bausatz (Autominer Tief)
-Key: ItemKitDockingPort, Value: Bausatz (Docking Port)
+Key: ItemKitDeepMiner, Value: Bausatz (Automatischer Bergbau Tief)
+Key: ItemKitDockingPort, Value: Bausatz (Andockschleuse)
 Key: ItemKitDoor, Value: Bausatz (Tür)
 Key: ItemKitDuct, Value: Bausatz (Kanal)
 Key: ItemKitDynamicCanister, Value: Bausatz (Tragbarer Gastank)
 Key: ItemKitDynamicGasTankAdvanced, Value: Bausatz (Tragbarer Gastank Mk II)
 Key: ItemKitDynamicGenerator, Value: Bausatz (Tragbarer Generator)
-Key: ItemKitDynamicHydroponics, Value: Bausatz (Tragbare Hydroponik)
+Key: ItemKitDynamicHydroponics, Value: Bausatz (Tragbares Hydroponisches Beet)
 Key: ItemKitDynamicLiquidCanister, Value: Bausatz (Tragbarer Flüssigkeitstank)
 Key: ItemKitDynamicMKIILiquidCanister, Value: Bausatz (Tragbarer Flüssigkeitstank Mk II)
 Key: ItemKitElectronicsPrinter, Value: Bausatz (Elektronikdrucker)
 Key: ItemKitElevator, Value: Bausatz (Aufzug)
-Key: ItemKitEngine, Value: Bausatz (Motoren)
-Key: ItemKitEngineLarge, Value: Bausatz (Motor Groß)
-Key: ItemKitEngineMedium, Value: Bausatz (Motor Normal)
-Key: ItemKitEngineSmall, Value: Bausatz (Motor Klein)
-Key: ItemKitEvaporationChamber, Value: Bausatz (Phasenwechselgerät)
+Key: ItemKitEngine, Value: Bausatz (Triebwerk)
+Key: ItemKitEngineLarge, Value: Bausatz (Triebwerk Groß)
+Key: ItemKitEngineMedium, Value: Bausatz (Triebwerk Normal)
+Key: ItemKitEngineSmall, Value: Bausatz (Triebwerk Klein)
+Key: ItemKitEvaporationChamber, Value: Bausatz (Verdampfer)
 Key: ItemKitFabrication, Value: Bausatz (Fabrikation)
-Key: ItemKitFabricator, Value: Bausatz (Hersteller)
+Key: ItemKitFabricator, Value: Bausatz (Fabrikator)
 Key: ItemKitFlagODA, Value: Bausatz (ODA-Flagge)
 Key: ItemKitFridgeBig, Value: Bausatz (Kühlschrank Groß)
 Key: ItemKitFridgeSmall, Value: Bausatz (Kühlschrank Klein)
@@ -1291,79 +1291,79 @@ Key: ItemKitFurnace, Value: Bausatz (Ofen)
 Key: ItemKitFurniture, Value: Bausatz (Möbel)
 Key: ItemKitGasGenerator, Value: Bausatz (Gas-Treibstoff-Generator)
 Key: ItemKitGenerator, Value: Bausatz (Generator)
-Key: ItemKitGrowLight, Value: Bausatz (Pflanzen Licht)
+Key: ItemKitGrowLight, Value: Bausatz (UV-Lampe)
 Key: ItemKitGyroscope, Value: Bausatz (Gyroskop)
 Key: ItemKitHarvie, Value: Bausatz (Harvie)
 Key: ItemKitHeatExchanger, Value: Bausatz (Wärmetauscher)
-Key: ItemKitHorizontalAutoMiner, Value: Bausatz (Horizontaler Autominer)
+Key: ItemKitHorizontalAutoMiner, Value: Bausatz (Automatischer Bergbau Horizontal)
 Key: ItemKitHydraulicPipeBender, Value: Bausatz (Hydraulische Rohrbiegemaschine)
-Key: ItemKitHydroponicAutomated, Value: Bausatz (Automatisierte Hydroponik)
+Key: ItemKitHydroponicAutomated, Value: Bausatz (Automatisiertes Hydroponisches Beet)
 Key: ItemKitHydroponicStation, Value: Bausatz (Hydroponisches Beet)
-Key: ItemKitIceCrusher, Value: Bausatz (Eiszerkleinerer)
+Key: ItemKitIceCrusher, Value: Bausatz (Eisschmelzer)
 Key: ItemKitInsulatedLiquidPipe, Value: Bausatz (Isolierte Flüssigkeitsleitung)
 Key: ItemKitInsulatedPipe, Value: Bausatz (Isolierte Gasrohre)
-Key: ItemKitInsulatedWaterPipe, Value: Bausatz (Isolierte Wasserrohre)
+Key: ItemKitInsulatedWaterPipe, Value: Bausatz (Isolierte Flüssigkeitsleitung)
 Key: ItemKitInteriorDoors, Value: Bausatz (Innentüren)
 Key: ItemKitLadder, Value: Bausatz (Leiter)
 Key: ItemKitLandingPad, Value: Bausatz (Landeplatz)
-Key: ItemKitLandingPadAtmos, Value: Bausatz (Landeplatz-Atmosphären)
-Key: ItemKitLandingPadBasic, Value: Bausatz (Landeplatz Basic)
+Key: ItemKitLandingPadAtmos, Value: Bausatz (Landeplatz Atmosphären)
+Key: ItemKitLandingPadBasic, Value: Bausatz (Landeplatz Standard)
 Key: ItemKitLandingPadWaypoint, Value: Bausatz (Landeplatz Landebahn)
 Key: ItemKitLargeDirectHeatExchanger, Value: Bausatz (großer direkter Wärmetauscher)
-Key: ItemKitLargeExtendableRadiator, Value: Bausatz (großer ausziehbarer Heizkörper)
+Key: ItemKitLargeExtendableRadiator, Value: Bausatz (großer erweiterbarer Radiator)
 Key: ItemKitLargeSatelliteDish, Value: Bausatz (Große Satellitenschüssel)
-Key: ItemKitLaunchPad, Value: Artikel Kit Launch Pad
-Key: ItemKitLiquidRegulator, Value: Bausatz (Flüssigkeitsregulator)
+Key: ItemKitLaunchPad, Value: Bausatz (Landeplattform)
+Key: ItemKitLiquidRegulator, Value: Bausatz (Flüssigkeitsregler)
 Key: ItemKitLiquidTank, Value: Bausatz (Flüssigkeitstank)
 Key: ItemKitLiquidTankInsulated, Value: Bausatz (isolierter Flüssigkeitstank)
 Key: ItemKitLiquidTurboVolumePump, Value: Bausatz (Turbo-Volumenpumpe - Flüssigkeit)
-Key: ItemKitLocker, Value: Bausatz (Schließfach)
-Key: ItemKitLogic, Value: Bausatz (Logikeinheit)
+Key: ItemKitLocker, Value: Bausatz (Schrank)
+Key: ItemKitLogic, Value: Bausatz (Logik)
 Key: ItemKitLogicCircuit, Value: Bausatz (IC-Gehäuse)
 Key: ItemKitLogicInputOutput, Value: Bausatz (Logik I/O)
-Key: ItemKitLogicMemory, Value: Bausatz (Logischer Speicher)
-Key: ItemKitLogicProcessor, Value: Bausatz (Logikprozessor)
-Key: ItemKitLogicSwitch, Value: Bausatz (Logikschalter)
-Key: ItemKitLogicTransmitter, Value: Bausatz (Logik-Sender)
-Key: ItemKitLowVolumeLiquidPipes, Value: Bausatz (Niedervolumen-Flüssigkeitsleitung)
-Key: ItemKitLowVolumePipes, Value: Bausatz (Niedervolumen-Gasleitung)
-Key: ItemKitModularRocketAutomation, Value: Bausatz (Automatisiertes Raketenautomatisierungsmodul)
-Key: ItemKitModularRocketCoupling, Value: Bausatz (Automatisches Raketenkopplungsmodul)
-Key: ItemKitModularRocketGasMining, Value: Bausatz (Automatisiertes Raketengasabbaumodul)
-Key: ItemKitModularRocketIceMining, Value: Bausatz (Automatisiertes Raketeneisabbaumodul)
-Key: ItemKitModularRocketOreMining, Value: Bausatz (Automatisiertes Raketenerzabbaumodul)
-Key: ItemKitModularRocketOreStorage, Value: Bausatz (Automatisiertes Raketensilo-Modul)
-Key: ItemKitModularRocketScrapMining, Value: Bausatz (Automatisches Raketenbergungsmodul)
+Key: ItemKitLogicMemory, Value: Bausatz (Logik Speicher)
+Key: ItemKitLogicProcessor, Value: Bausatz (Logik Prozessor)
+Key: ItemKitLogicSwitch, Value: Bausatz (Logik Schalter)
+Key: ItemKitLogicTransmitter, Value: Bausatz (Logik Übermittler)
+Key: ItemKitLowVolumeLiquidPipes, Value: Bausatz (schmale Flüssigkeitsleitung)
+Key: ItemKitLowVolumePipes, Value: Bausatz (schmale Gasleitung)
+Key: ItemKitModularRocketAutomation, Value: Bausatz (Raketensteuerungsmodul)
+Key: ItemKitModularRocketCoupling, Value: Bausatz (Raketenkopplungsmodul)
+Key: ItemKitModularRocketGasMining, Value: Bausatz (Raketengasabbaumodul)
+Key: ItemKitModularRocketIceMining, Value: Bausatz (Raketeneisabbaumodul)
+Key: ItemKitModularRocketOreMining, Value: Bausatz (Raketenerzabbaumodul)
+Key: ItemKitModularRocketOreStorage, Value: Bausatz (Raketensilomodul)
+Key: ItemKitModularRocketScrapMining, Value: Bausatz (Raketenbergungsmodul)
 Key: ItemKitMotherShipCore, Value: Bausatz (Mutterschiff)
-Key: ItemKitMusicMachines, Value: Bausatz (Musikmaschinen)
-Key: ItemKitOrganicsPrinter, Value: Bausatz (Organik-Drucker)
+Key: ItemKitMusicMachines, Value: Bausatz (Musikgeräte)
+Key: ItemKitOrganicsPrinter, Value: Bausatz (Organik Drucker)
 Key: ItemKitPassiveLargeRadiator, Value: Bausatz (Mittler Radiator)
-Key: ItemKitPassiveLargeRadiatorGas, Value: Bausatz (Mittler Radiator)
-Key: ItemKitPassiveLargeRadiatorLiquid, Value: Bausatz (Mittler Kühlerflüssigkeit)
-Key: ItemKitPassiveVent, Value: Bausatz (Passive Entlüftung)
+Key: ItemKitPassiveLargeRadiatorGas, Value: Bausatz (Mittler Radiator Gas)
+Key: ItemKitPassiveLargeRadiatorLiquid, Value: Bausatz (Mittler Radiator Füssigkeit)
+Key: ItemKitPassiveVent, Value: Bausatz (Passiver Lüfter)
 Key: ItemKitPassthroughHeatExchanger, Value: Bausatz (Gegenstromwärmetauscher)
 Key: ItemKitPictureFrame, Value: Bausatz (Bilderrahmen)
 Key: ItemKitPipe, Value: Bausatz (Gasrohr)
 Key: ItemKitPipeLiquid, Value: Bausatz (Flüssigkeitsrohr)
 Key: ItemKitPipeOrgan, Value: Bausatz (Pfeifenorgel)
-Key: ItemKitPipeRadiator, Value: Bausatz (Gasrohr Radiator)
-Key: ItemKitPipeRadiatorLiquid, Value: Bausatz (Flüssigkeitrohr Radiator)
-Key: ItemKitPipeUtility, Value: Bausatz (Gasrohr Utility)
-Key: ItemKitPipeUtilityLiquid, Value: Bausatz (Flüssigkeitrohr Utility)
-Key: ItemKitPipeValve, Value: Bausatz (Gasrohrleitungsventil)
-Key: ItemKitPlanter, Value: Bausatz (Pflanzer)
-Key: ItemKitPowerTransmitter, Value: Bausatz (Leistungssender)
-Key: ItemKitPowerTransmitterOmni, Value: Bausatz (Leistungssender Omni)
-Key: ItemKitPoweredVent, Value: Bausatz (Angetriebener Entlüfter)
+Key: ItemKitPipeRadiator, Value: Bausatz (Radiator Gas)
+Key: ItemKitPipeRadiatorLiquid, Value: Bausatz (Radiator Füssigkeit)
+Key: ItemKitPipeUtility, Value: Bausatz (Gasrohr speicher)
+Key: ItemKitPipeUtilityLiquid, Value: Bausatz (Flüssigkeitsrohr Speicher)
+Key: ItemKitPipeValve, Value: Bausatz (Gasventil)
+Key: ItemKitPlanter, Value: Bausatz (Pflanztopf)
+Key: ItemKitPowerTransmitter, Value: Bausatz (Stromübermittler)
+Key: ItemKitPowerTransmitterOmni, Value: Bausatz (Stromübermittler gerichtet)
+Key: ItemKitPoweredVent, Value: Bausatz (Automatisierter Lüfter)
 Key: ItemKitPressurePlate, Value: Bausatz (Druckplatte)
 Key: ItemKitRailing, Value: Bausatz (Geländer)
 Key: ItemKitRecycler, Value: Bausatz (Recycler)
-Key: ItemKitRegulator, Value: Bausatz (Druckregler)
+Key: ItemKitRegulator, Value: Bausatz (Gasdruckregler)
 Key: ItemKitReinforcedWindows, Value: Bausatz (Verstärkte Fenster)
 Key: ItemKitResearchMachine, Value: Bausatz (Forschungsmaschine)
 Key: ItemKitRespawnPointWallMounted, Value: Bausatz (Respawn)
 Key: ItemKitRockets, Value: Bausatz (Raketen)
-Key: ItemKitRoverFrame, Value: Bausatz (Rover-Rahmen)
+Key: ItemKitRoverFrame, Value: Bausatz (Rover)
 Key: ItemKitRoverMKI, Value: Bausatz (Rover Mk I)
 Key: ItemKitSDBHopper, Value: Bausatz (SDB Trichter)
 Key: ItemKitSatelliteDish, Value: Bausatz (Normale Satellitenschüssel)
@@ -1374,40 +1374,40 @@ Key: ItemKitSleeper, Value: Bausatz (Schlafkabine)
 Key: ItemKitSmallDirectHeatExchanger, Value: Bausatz (Kleiner direkter Wärmetauscher)
 Key: ItemKitSmallSatelliteDish, Value: Bausatz (Kleiner Satellitenschüssel)
 Key: ItemKitSolarPanel, Value: Bausatz (Solarmodul)
-Key: ItemKitSolarPanelBasic, Value: Bausatz (Solarmodul Basic)
-Key: ItemKitSolarPanelBasicReinforced, Value: Bausatz (Solarmodul Basic Gepanzert)
+Key: ItemKitSolarPanelBasic, Value: Bausatz (Solarmodul Standard)
+Key: ItemKitSolarPanelBasicReinforced, Value: Bausatz (Solarmodul Standard Gepanzert)
 Key: ItemKitSolarPanelReinforced, Value: Bausatz (Solarmodul Gepanzert)
-Key: ItemKitSolidGenerator, Value: Bausatz (fester Generator)
+Key: ItemKitSolidGenerator, Value: Bausatz (Feststoff-Generator)
 Key: ItemKitSorter, Value: Bausatz (Sortierer)
 Key: ItemKitSpeaker, Value: Bausatz (Lautsprecher)
 Key: ItemKitStacker, Value: Bausatz (Stapler)
 Key: ItemKitStairs, Value: Bausatz (Treppe)
 Key: ItemKitStandardChute, Value: Bausatz (Motorisierte Schächte)
-Key: ItemKitStellarAnchor, Value: Bausatz (Stellaranker)
-Key: ItemKitStirlingEngine, Value: Bausatz (Stirlingmotor)
+Key: ItemKitStellarAnchor, Value: Bausatz (Weltraumanker)
+Key: ItemKitStirlingEngine, Value: Bausatz (Stirling Generator)
 Key: ItemKitStorage, Value: Bausatz (Lagerung)
 Key: ItemKitStructureLaunchPad, Value: Bausatz (Startrampe)
-Key: ItemKitStructureModularRocketCargo01, Value: Bausatz (Modulare Raketenfracht)
-Key: ItemKitStructureModularRocketCommand01, Value: Bausatz (Modulares Raketenkommando)
-Key: ItemKitStructureModularRocketEngine01, Value: Bausatz (Modulares Raketentriebwerk)
-Key: ItemKitStructureModularRocketFueltank01, Value: Bausatz (Modularer Raketentreibstofftank)
-Key: ItemKitSuitStorage, Value: Bausatz (Anzug Aufbewahrung)
+Key: ItemKitStructureModularRocketCargo01, Value: Bausatz (manuelles Raketenfrachtmodul)
+Key: ItemKitStructureModularRocketCommand01, Value: Bausatz (manuelle Raketencockpit)
+Key: ItemKitStructureModularRocketEngine01, Value: Bausatz (manuelles Raketentriebwerk)
+Key: ItemKitStructureModularRocketFueltank01, Value: Bausatz (manueller Raketentreibstofftank)
+Key: ItemKitSuitStorage, Value: Bausatz (Anzugstation)
 Key: ItemKitTables, Value: Bausatz (Tische)
 Key: ItemKitTank, Value: Bausatz (Tank)
 Key: ItemKitTankInsulated, Value: Bausatz (Tank isoliert)
 Key: ItemKitToolManufactory, Value: Bausatz (Werkzeugmanufaktur)
-Key: ItemKitTorpedoTube, Value: Bausatz (Torpedo-Werfer)
+Key: ItemKitTorpedoTube, Value: Bausatz (Torpedo Startvorrichtung)
 Key: ItemKitTransformer, Value: Bausatz (Transformer Groß)
 Key: ItemKitTransformerSmall, Value: Bausatz (Transformer Klein)
 Key: ItemKitTurbineGenerator, Value: Bausatz (Turbine Generator)
-Key: ItemKitTurboVolumePump, Value: Bausatz (Turbo-Gasvolumenpumpe)
+Key: ItemKitTurboVolumePump, Value: Bausatz (Turbo-Volumenpumpe - Gas)
 Key: ItemKitTurret, Value: Bausatz (Geschützturm)
 Key: ItemKitUprightWindTurbine, Value: Bausatz (Aufrechte Windturbine)
 Key: ItemKitVendingMachine, Value: Bausatz (Verkaufsautomaten)
 Key: ItemKitVendingMachineRefrigerated, Value: Bausatz (Verkaufsautomaten gekühlt)
 Key: ItemKitWall, Value: Bausatz (Wand)
-Key: ItemKitWallArch, Value: Bausatz (Bogen Wand)
-Key: ItemKitWallFlat, Value: Bausatz (Dünne Wand)
+Key: ItemKitWallArch, Value: Bausatz (Gebogene Wand)
+Key: ItemKitWallFlat, Value: Bausatz (Flache Wand)
 Key: ItemKitWallGeometry, Value: Bausatz (Geometrische Wand)
 Key: ItemKitWallIron, Value: Bausatz (Eisen Wand)
 Key: ItemKitWallPadded, Value: Bausatz (Gepolsterte Wand)
@@ -1427,8 +1427,8 @@ Key: ItemLiquidDrain, Value: Flüssigkeitsablass
 Key: ItemLiquidPipeAnalyzer, Value: Flüssigkeitsrohr-Analysator
 Key: ItemLiquidPipeHeater, Value: Flüssigkeitrohrheizkörper
 Key: ItemLiquidPipeValve, Value: Flüssigkeitsrohrventil
-Key: ItemLiquidPipeVolumePump, Value: Flüssigkeitsmengenpumpe
-Key: ItemLiquidTankStorage, Value: Lagerung von Flüssigkeitstanks
+Key: ItemLiquidPipeVolumePump, Value: Flüssigkeitsvolumenpumpe
+Key: ItemLiquidTankStorage, Value: Flüssigkeitstank Anschluss
 Key: ItemMKIIAngleGrinder, Value: Mk II-Winkelschleifer
 Key: ItemMKIIArcWelder, Value: Mk II Lichtbogenschweißgerät
 Key: ItemMKIICrowbar, Value: Mk II Brechstange
@@ -1438,8 +1438,8 @@ Key: ItemMKIIMiningDrill, Value: Mk II Bergbaubohrer
 Key: ItemMKIIScrewdriver, Value: Mk II Schraubendreher
 Key: ItemMKIIWireCutters, Value: Mk II Drahtschneider
 Key: ItemMKIIWrench, Value: Mk II-Schraubenschlüssel
-Key: ItemMarineBodyArmor, Value: Marine-Rüstung
-Key: ItemMarineHelmet, Value: Marine-Helm
+Key: ItemMarineBodyArmor, Value: Millitär Rüstung
+Key: ItemMarineHelmet, Value: Millitär Helm
 Key: ItemMilk, Value: Milch
 Key: ItemMiningBackPack, Value: Bergbau-Rucksack
 Key: ItemMiningBelt, Value: Bergbau-Gürtel
@@ -1456,7 +1456,7 @@ Key: ItemNickelIngot, Value: Barren (Nickel)
 Key: ItemNickelOre, Value: Erz (Nickel)
 Key: ItemNitrice, Value: Eis (Nitrit)
 Key: ItemOxite, Value: Eis (Sauerstoff)
-Key: ItemPassiveVent, Value: Passive Entlüftung
+Key: ItemPassiveVent, Value: Passive Lüftung
 Key: ItemPeaceLily, Value: Friedenslilie
 Key: ItemPickaxe, Value: Spitzhacke
 Key: ItemPillHeal, Value: Heilpille
@@ -1471,56 +1471,56 @@ Key: ItemPipeCrossJunction6, Value: Gasrohr 6-Wege-Kreuzung
 Key: ItemPipeDigitalValve, Value: Digitales Ventil
 Key: ItemPipeGasMixer, Value: Gas Mixer
 Key: ItemPipeHeater, Value: Gasrohrheizkörper
-Key: ItemPipeLabel, Value: Gasrohr-Etikett
-Key: ItemPipeLiquidRadiator, Value: Flüssigkeitsrohrradiator
-Key: ItemPipeMeter, Value: Gasrohrzähler
-Key: ItemPipeRadiator, Value: Gasrohr Radiator
+Key: ItemPipeLabel, Value: Rohr Etikett
+Key: ItemPipeLiquidRadiator, Value: Radiator (Flüssig)
+Key: ItemPipeMeter, Value: Druckmesser (Gas)
+Key: ItemPipeRadiator, Value: Radiator (Gas)
 Key: ItemPipeStraight, Value: Gasrohr gerade
 Key: ItemPipeTJunction, Value: Gasrohr T-Abzweigung
-Key: ItemPipeValve, Value: Gasrohrleitungsventil
-Key: ItemPipeVolumePump, Value: Gasvolumen Pumpe
-Key: ItemPlantEndothermic_Creative, Value: Endothermie Pflanze Kreativ
-Key: ItemPlantEndothermic_Genepool1, Value: Endothermie (Alpha-Variante)
-Key: ItemPlantEndothermic_Genepool2, Value: Endothermie (Beta-Variante)
-Key: ItemPlantSampler, Value: Pflanzenprobenehmer
+Key: ItemPipeValve, Value: Ventil (Gas)
+Key: ItemPipeVolumePump, Value: Volumenpumpe (Gas)
+Key: ItemPlantEndothermic_Creative, Value: Endotherme Pflanzenkreation
+Key: ItemPlantEndothermic_Genepool1, Value: Frostblume (Alpha-Variante)
+Key: ItemPlantEndothermic_Genepool2, Value: Frostblume (Beta-Variante)
+Key: ItemPlantSampler, Value: Pflanzenprobenentnehmer
 Key: ItemPlantSwitchGrass, Value: Gras wechseln
-Key: ItemPlantThermogenic_Creative, Value: Thermogene Pflanze Kreativ
-Key: ItemPlantThermogenic_Genepool1, Value: Thermogene Blume (Alpha-Sorte)
-Key: ItemPlantThermogenic_Genepool2, Value: Thermogene Blume (Beta-Stamm)
+Key: ItemPlantThermogenic_Creative, Value: Exotherme Pflanzenkreation
+Key: ItemPlantThermogenic_Genepool1, Value: Höllenblume (Alpha-Sorte)
+Key: ItemPlantThermogenic_Genepool2, Value: Höllenblume (Beta-Stamm)
 Key: ItemPlasticSheets, Value: Kunststoffplatten
 Key: ItemPotato, Value: Kartoffel
 Key: ItemPotatoBaked, Value: Gebackene Kartoffel
-Key: ItemPowderedeggs, Value: Eier in Pulverform
+Key: ItemPowderedeggs, Value: Eipulver
 Key: ItemPowerConnector, Value: Stromanschluss
-Key: ItemPoweredEggs, Value: Potenzierte Eier
+Key: ItemPoweredEggs, Value: Geboostete Eier
 Key: ItemPumpkin, Value: Kürbis
 Key: ItemPumpkinPie, Value: Kürbiskuchen
 Key: ItemPumpkinSoup, Value: Kürbissuppe
-Key: ItemPureIce, Value: Reines Eis Wasser
+Key: ItemPureIce, Value: Reines Wasser Eis
 Key: ItemPureIceCarbonDioxide, Value: Reines Eis Kohlendioxid
 Key: ItemPureIceLiquidCarbonDioxide, Value: Reines Eis Flüssiges Kohlendioxid
-Key: ItemPureIceLiquidNitrogen, Value: Reines Eis Flüssiges Stickstoff
-Key: ItemPureIceLiquidNitrous, Value: Reines Eis Flüssiges Stickstoff
-Key: ItemPureIceLiquidOxygen, Value: Reines Eis Flüssiges Sauerstoff
-Key: ItemPureIceLiquidPollutant, Value: Reines Eis Flüssiges Schadstoff
-Key: ItemPureIceLiquidVolatiles, Value: Reines Eis Flüssiges flüchtige Stoffe
+Key: ItemPureIceLiquidNitrogen, Value: Reines Eis Flüssiger Stickstoff
+Key: ItemPureIceLiquidNitrous, Value: Reines Eis Flüssiges Lachgas
+Key: ItemPureIceLiquidOxygen, Value: Reines Eis Flüssiger Sauerstoff
+Key: ItemPureIceLiquidPollutant, Value: Reines Eis Flüssiger Schadstoffe
+Key: ItemPureIceLiquidVolatiles, Value: Reines Eis Flüssiger Wasserstoff
 Key: ItemPureIceNitrogen, Value: Reiners Eis Stickstoff
-Key: ItemPureIceNitrous, Value: Reines Eis Distickstoffoxid
+Key: ItemPureIceNitrous, Value: Reines Eis Lachgas
 Key: ItemPureIceOxygen, Value: Reines Eis Sauerstoff
 Key: ItemPureIcePollutant, Value: Reines Eis Schadstoff
 Key: ItemPureIceSteam, Value: Reines Eis Dampf
-Key: ItemPureIceVolatiles, Value: Reines Eis Flüchtige Stoffe
-Key: ItemRTG, Value: Kreatives RTG
-Key: ItemRTGSurvival, Value: RTG
-Key: ItemReagentMix, Value: Reagenzien-Mix
+Key: ItemPureIceVolatiles, Value: Reines Eis Wasserstoff
+Key: ItemRTG, Value: Radio isotopen Generator
+Key: ItemRTGSurvival, Value: Radio isotopen Generator
+Key: ItemReagentMix, Value: Reagenzmischung
 Key: ItemRemoteDetonator, Value: Fernzünder
 Key: ItemResearchCapsule, Value: Forschungskapsel Blau
 Key: ItemResearchCapsuleGreen, Value: Forschungskapsel Grün
 Key: ItemResearchCapsuleRed, Value: Forschungskapsel Rot
 Key: ItemResearchCapsuleYellow, Value: Forschungskapsel Gelb
 Key: ItemRice, Value: Reis
-Key: ItemRoadFlare, Value: Straßenfackel
-Key: ItemScanner, Value: Handheld-Scanner
+Key: ItemRoadFlare, Value: Magnesiumfackel
+Key: ItemScanner, Value: Scanner
 Key: ItemScrewdriver, Value: Schraubendreher
 Key: ItemSecurityCamera, Value: Sicherheitskamera
 Key: ItemSensorLenses, Value: Sensor-Brille
@@ -1531,13 +1531,13 @@ Key: ItemSilverIngot, Value: Barren (Silber)
 Key: ItemSilverOre, Value: Erz (Silber)
 Key: ItemSolderIngot, Value: Legierung (Solder)
 Key: ItemSolidFuel, Value: Fester Brennstoff (Kohlenwasserstoff)
-Key: ItemSoundCartridgeBass, Value: Tonkassette Bass
-Key: ItemSoundCartridgeDrums, Value: Tonkassette Trommeln
-Key: ItemSoundCartridgeLeads, Value: Tonkassette Leitungen
-Key: ItemSoundCartridgeSynth, Value: Tonkassette Synthesizer
+Key: ItemSoundCartridgeBass, Value: Synthesizer Bass
+Key: ItemSoundCartridgeDrums, Value: Synthesizer Trommeln
+Key: ItemSoundCartridgeLeads, Value: Synthesizer Leitungen
+Key: ItemSoundCartridgeSynth, Value: Synthesizer Synthesizer
 Key: ItemSoyOil, Value: Sojaöl
 Key: ItemSoybean, Value: Sojabohnen
-Key: ItemSpaceCleaner, Value: Weltraum-Reiniger
+Key: ItemSpaceCleaner, Value: Weltraum-Reinigungsmittel
 Key: ItemSpaceHelmet, Value: Weltraum-Helm
 Key: ItemSpacepack, Value: Weltraum-Rucksack
 Key: ItemSprayCanBlack, Value: Sprühfarbe (Schwarz)
@@ -1552,13 +1552,13 @@ Key: ItemSprayCanPurple, Value: Sprühfarbe (Violett)
 Key: ItemSprayCanRed, Value: Sprühfarbe (Rot)
 Key: ItemSprayCanWhite, Value: Sprühfarbe (Weiß)
 Key: ItemSprayCanYellow, Value: Sprühfarbe (Gelb)
-Key: ItemSprayGun, Value: Spritzpistole
+Key: ItemSprayGun, Value: Farbpistole
 Key: ItemSteelFrames, Value: Stahlrahmen
 Key: ItemSteelIngot, Value: Barren (Stahl)
 Key: ItemSteelSheets, Value: Stahlbleche
-Key: ItemStelliteGlassSheets, Value: Stellite Glasscheiben
+Key: ItemStelliteGlassSheets, Value: Panzerglas
 Key: ItemStelliteIngot, Value: Legierung (Stellite)
-Key: ItemSuitStorage, Value: Anzug Aufbewahrung
+Key: ItemSuitStorage, Value: Anzugstation
 Key: ItemTablet, Value: Tablet
 Key: ItemTankConnector, Value: Gastankanschluss
 Key: ItemTankConnectorLiquid, Value: Flüssigtankanschluss
@@ -1569,20 +1569,20 @@ Key: ItemToolBelt, Value: Werkzeuggürtel
 Key: ItemTransactionClientError, Value: Item-Transaktion sollte nur auf dem Server aufgerufen werden
 Key: ItemTropicalPlant, Value: Tropische Lilie
 Key: ItemUraniumOre, Value: Erz (Uran)
-Key: ItemVolatiles, Value: Eis (flüchtige Stoffe)
+Key: ItemVolatiles, Value: Eis (Wasserstoff)
 Key: ItemVoxelTool, Value: Voxel-Werkzeug
 Key: ItemWallCooler, Value: Wandkühler
-Key: ItemWallHeater, Value: Wandheizgerät
+Key: ItemWallHeater, Value: Wandheizer
 Key: ItemWallLight, Value: Lichter
 Key: ItemWaspaloyIngot, Value: Legierung (Waspaloy)
 Key: ItemWasteIngot, Value: Barren (Abfall)
 Key: ItemWaterBottle, Value: Wasserflasche
 Key: ItemWaterBottleFiller, Value: Wasserflaschenfüller
-Key: ItemWaterPipeDigitalValve, Value: Digitales Flüssigkeitsventil
-Key: ItemWaterPipeHeater, Value: Flüssigkeitrohrheizkörper
-Key: ItemWaterPipeMeter, Value: Flüssigkeitsrohrzähler
-Key: ItemWaterWallCooler, Value: Flüssigkeitsrohr Wandkühler
-Key: ItemWearLamp, Value: Scheinwerfer
+Key: ItemWaterPipeDigitalValve, Value: Digitales Ventil (Flüssigkeit)
+Key: ItemWaterPipeHeater, Value: Rohr Heizung (Flüssigkeit)
+Key: ItemWaterPipeMeter, Value: Rohr Durckmessgerät (Flüssigkeit)
+Key: ItemWaterWallCooler, Value: Wandkühler (Flüssigkeit)
+Key: ItemWearLamp, Value: Kopflampe
 Key: ItemWeldingTorch, Value: Schweißbrenner
 Key: ItemWheat, Value: Weizen
 Key: ItemWireCutters, Value: Drahtschneider
