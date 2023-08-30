@@ -47,7 +47,7 @@ Ich möchte mich bei allen bedanken, die zu diesem Projekt beigetragen haben, se
 
 [konny87]: Für die iniziale Idee und für das Testen und Melden von Fehlern im Twitch Stream, die zur Verbesserung beigetragen haben und werden.  
 
-[rogerwatersx]: Für die iniziale Idee das zu machen.  
+[rogerwatersx]: Für die iniziale Idee das zu machen und Übersetzungen.  
 
 [zynischerboomer]: Für die Ideen was man noch so ergänzen kann an Beschreibungen, Übersetzungen und in der Zukunft Teile der Hilfeartikel Verbesserungen (Nicht in dieser Beta).  
 
