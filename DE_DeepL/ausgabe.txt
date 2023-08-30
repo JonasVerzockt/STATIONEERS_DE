@@ -1415,7 +1415,7 @@ Key: ItemKitWallPadded, Value: Bausatz (Gepolsterte Wand)
 Key: ItemKitWallPanels, Value: Bausatz (Wandpaneele)
 Key: ItemKitWaterBottleFiller, Value: Bausatz (Wasserflaschenfüller)
 Key: ItemKitWeatherStation, Value: Bausatz (Wetterstation)
-Key: ItemKitWindTurbine, Value: Bausatz (Wind Turbine)
+Key: ItemKitWindTurbine, Value: Bausatz (Wind-Turbine)
 Key: ItemKitWindowShutter, Value: Bausatz (Fensterladen)
 Key: ItemLabeller, Value: Etikettierer
 Key: ItemLaptop, Value: Laptop
@@ -1559,10 +1559,10 @@ Key: ItemSteelIngot, Value: Barren (Stahl)
 Key: ItemSteelSheets, Value: Stahlbleche
 Key: ItemStelliteGlassSheets, Value: Stellite Glasscheiben
 Key: ItemStelliteIngot, Value: Legierung (Stellite)
-Key: ItemSuitStorage, Value: Bausatz (Anzug Aufbewahrung)
-Key: ItemTablet, Value: Handheld-Tablet
-Key: ItemTankConnector, Value: Bausatz (Tankanschluss)
-Key: ItemTankConnectorLiquid, Value: Bausatz (Flüssigtankanschluss)
+Key: ItemSuitStorage, Value: Anzug Aufbewahrung
+Key: ItemTablet, Value: Tablet
+Key: ItemTankConnector, Value: Gastankanschluss
+Key: ItemTankConnectorLiquid, Value: Flüssigtankanschluss
 Key: ItemTerrainManipulator, Value: Terrain-Manipulator
 Key: ItemTomato, Value: Tomate
 Key: ItemTomatoSoup, Value: Tomatensuppe
@@ -1572,17 +1572,17 @@ Key: ItemTropicalPlant, Value: Tropische Lilie
 Key: ItemUraniumOre, Value: Erz (Uran)
 Key: ItemVolatiles, Value: Eis (flüchtige Stoffe)
 Key: ItemVoxelTool, Value: Voxel-Werkzeug
-Key: ItemWallCooler, Value: Bausatz (Wandkühler)
-Key: ItemWallHeater, Value: Bausatz (Wandheizgerät)
-Key: ItemWallLight, Value: Bausatz (Lichter)
+Key: ItemWallCooler, Value: Wandkühler
+Key: ItemWallHeater, Value: Wandheizgerät
+Key: ItemWallLight, Value: Lichter
 Key: ItemWaspaloyIngot, Value: Legierung (Waspaloy)
 Key: ItemWasteIngot, Value: Barren (Abfall)
 Key: ItemWaterBottle, Value: Wasserflasche
 Key: ItemWaterBottleFiller, Value: Wasserflaschenfüller
-Key: ItemWaterPipeDigitalValve, Value: Bausatz (Digitales Flüssigkeitsventil)
-Key: ItemWaterPipeHeater, Value: Rohrheizkörper (Flüssigkeit)
-Key: ItemWaterPipeMeter, Value: Bausatz (Flüssigkeitsrohrzähler)
-Key: ItemWaterWallCooler, Value: Bausatz (Flüssigkeits-Wandkühler)
+Key: ItemWaterPipeDigitalValve, Value: Digitales Flüssigkeitsventil
+Key: ItemWaterPipeHeater, Value: Flüssigkeitrohrheizkörper
+Key: ItemWaterPipeMeter, Value: Flüssigkeitsrohrzähler
+Key: ItemWaterWallCooler, Value: Flüssigkeitsrohr Wandkühler
 Key: ItemWearLamp, Value: Scheinwerfer
 Key: ItemWeldingTorch, Value: Schweißbrenner
 Key: ItemWheat, Value: Weizen
@@ -1592,133 +1592,133 @@ Key: ItemWreckage1, Value: Wrackteile
 Key: ItemWreckage2, Value: Wrackteile
 Key: ItemWreckage3, Value: Wrackteile
 Key: ItemWreckage4, Value: Wrackteile
-Key: ItemWreckageActiveVent1, Value: Wrack Aktiv Entlüftung
-Key: ItemWreckageAirConditioner1, Value: Wrack Air Conditioner
-Key: ItemWreckageAirConditioner2, Value: Wrack Air Conditioner
+Key: ItemWreckageActiveVent1, Value: Wrack-Aktive-Entlüftung
+Key: ItemWreckageAirConditioner1, Value: Wrack-Klimagerät
+Key: ItemWreckageAirConditioner2, Value: Wrack-Klimagerät
 Key: ItemWreckageAirlock1, Value: Wrack-Luftschleuse
 Key: ItemWreckageAirlock2, Value: Wrack-Luftschleuse
 Key: ItemWreckageArcFurnace1, Value: Wrack-Lichtbogen-Ofen
 Key: ItemWreckageArcFurnace2, Value: Wrack-Lichtbogen-Ofen
 Key: ItemWreckageArcFurnace3, Value: Wrack-Lichtbogen-Ofen
-Key: ItemWreckageAreaPowerControl1, Value: Wrackbereich Energiekontrolle
-Key: ItemWreckageAreaPowerControl2, Value: Wrackbereich Energiekontrolle
-Key: ItemWreckageAreaPowerControlReversed1, Value: Wrackbereich Energiekontrolle umgedreht
-Key: ItemWreckageAreaPowerControlReversed2, Value: Wrackbereich Energiekontrolle umgedreht
-Key: ItemWreckageAutolathe1, Value: Wrack Autolathe
-Key: ItemWreckageAutolathe2, Value: Wrack Autolathe
-Key: ItemWreckageAutolathe3, Value: Wrack Autolathe
-Key: ItemWreckageAutolathe4, Value: Wrack Autolathe
-Key: ItemWreckageAutolathe5, Value: Wrack Autolathe
-Key: ItemWreckageAutolathe6, Value: Wrack Autolathe
-Key: ItemWreckageAutolathe7, Value: Wrack Autolathe
-Key: ItemWreckageBlastDoor1, Value: Wrack Sprengtür
-Key: ItemWreckageBlastDoor2, Value: Wrack Sprengtür
+Key: ItemWreckageAreaPowerControl1, Value: Wrack-Energiekontrolle
+Key: ItemWreckageAreaPowerControl2, Value: Wrack-Energiekontrolle
+Key: ItemWreckageAreaPowerControlReversed1, Value: Wrack-Energiekontrolle-umgedreht
+Key: ItemWreckageAreaPowerControlReversed2, Value: Wrack-Energiekontrolle-umgedreht
+Key: ItemWreckageAutolathe1, Value: Wrack-Autolathe
+Key: ItemWreckageAutolathe2, Value: Wrack-Autolathe
+Key: ItemWreckageAutolathe3, Value: Wrack-Autolathe
+Key: ItemWreckageAutolathe4, Value: Wrack-Autolathe
+Key: ItemWreckageAutolathe5, Value: Wrack-Autolathe
+Key: ItemWreckageAutolathe6, Value: Wrack-Autolathe
+Key: ItemWreckageAutolathe7, Value: Wrack-Autolathe
+Key: ItemWreckageBlastDoor1, Value: Wrack-Sprengtür
+Key: ItemWreckageBlastDoor2, Value: Wrack-Sprengtür
 Key: ItemWreckageCentrifuge1, Value: Wrack-Zentrifuge
 Key: ItemWreckageCentrifuge2, Value: Wrack-Zentrifuge
 Key: ItemWreckageCentrifuge3, Value: Wrack-Zentrifuge
 Key: ItemWreckageCentrifuge4, Value: Wrack-Zentrifuge
 Key: ItemWreckageCentrifuge5, Value: Wrack-Zentrifuge
-Key: ItemWreckageCoalGenerator1, Value: Wrack Kohle Generator
-Key: ItemWreckageCoalGenerator2, Value: Wrack Kohle Generator
-Key: ItemWreckageCoalGenerator3, Value: Wrack Kohle Generator
-Key: ItemWreckageCompositeDoor1, Value: Wrack Komposittür
-Key: ItemWreckageCompositeDoor2, Value: Wrack Komposittür
-Key: ItemWreckageCompositeDoor3, Value: Wrack Komposittür
-Key: ItemWreckageCompositeDoorGlass1, Value: Wrack Verbundtürglas
-Key: ItemWreckageCompositeDoorGlass2, Value: Wrack Verbundtürglas
+Key: ItemWreckageCoalGenerator1, Value: Wrack-Kohle-Generator
+Key: ItemWreckageCoalGenerator2, Value: Wrack-Kohle-Generator
+Key: ItemWreckageCoalGenerator3, Value: Wrack-Kohle-Generator
+Key: ItemWreckageCompositeDoor1, Value: Wrack-Komposittür
+Key: ItemWreckageCompositeDoor2, Value: Wrack-Komposittür
+Key: ItemWreckageCompositeDoor3, Value: Wrack-Komposittür
+Key: ItemWreckageCompositeDoorGlass1, Value: Wrack-Verbundtürglas
+Key: ItemWreckageCompositeDoorGlass2, Value: Wrack-Verbundtürglas
 Key: ItemWreckageConstructor, Value: Wrack-Konstruktor
 Key: ItemWreckageElectrolysis1, Value: Wrack-Elektrolyse
 Key: ItemWreckageElectrolysis2, Value: Wrack-Elektrolyse
-Key: ItemWreckageElectronicsPrinter1, Value: Wrack Elektronik Drucker1
-Key: ItemWreckageElectronicsPrinter2, Value: Wrack Elektronik Drucker2
-Key: ItemWreckageElectronicsPrinter3, Value: Wrack Elektronik Drucker3
-Key: ItemWreckageElectronicsPrinter4, Value: Wrack Elektronik Drucker4
-Key: ItemWreckageElectronicsPrinter5, Value: Wrack Elektronik Drucker5
-Key: ItemWreckageElectronicsPrinter6, Value: Wrack Elektronik Drucker6
-Key: ItemWreckageElevatorLevelFront1, Value: Wrack Elevator Ebene Front
-Key: ItemWreckageElevatorLevelFront2, Value: Wrack Elevator Ebene Front
-Key: ItemWreckageElevatorShaftIndustrial1, Value: Wrack Aufzugsschacht Industrial
-Key: ItemWreckageElevatorShaftIndustrial2, Value: Wrack Aufzugsschacht Industrial
-Key: ItemWreckageElevatorShaftIndustrial3, Value: Wrack Aufzugsschacht Industrial
+Key: ItemWreckageElectronicsPrinter1, Value: Wrack-Elektronik-Drucker1
+Key: ItemWreckageElectronicsPrinter2, Value: Wrack-Elektronik-Drucker2
+Key: ItemWreckageElectronicsPrinter3, Value: Wrack-Elektronik-Drucker3
+Key: ItemWreckageElectronicsPrinter4, Value: Wrack-Elektronik-Drucker4
+Key: ItemWreckageElectronicsPrinter5, Value: Wrack-Elektronik-Drucker5
+Key: ItemWreckageElectronicsPrinter6, Value: Wrack-Elektronik-Drucker6
+Key: ItemWreckageElevatorLevelFront1, Value: Wrack-Elevator-Ebene-Front
+Key: ItemWreckageElevatorLevelFront2, Value: Wrack-Elevator-Ebene-Front
+Key: ItemWreckageElevatorShaftIndustrial1, Value: Wrack-Aufzugsschacht-Industrial
+Key: ItemWreckageElevatorShaftIndustrial2, Value: Wrack-Aufzugsschacht-Industrial
+Key: ItemWreckageElevatorShaftIndustrial3, Value: Wrack-Aufzugsschacht-Industrial
 Key: ItemWreckageFlashingLight1, Value: Wrack-Blinklicht
 Key: ItemWreckageFlashingLight2, Value: Wrack-Blinklicht
-Key: ItemWreckageGasGenerator1, Value: Wrack Gas Generator
-Key: ItemWreckageGasGenerator2, Value: Wrack Gas Generator
-Key: ItemWreckageH2Combustor1, Value: Wrack H2 Combustor
-Key: ItemWreckageHydroponicsAutomatic1, Value: Wrack Hydroponics Automatisch
-Key: ItemWreckageHydroponicsAutomatic2, Value: Wrack Hydroponics Automatisch
-Key: ItemWreckageHydroponicsAutomatic3, Value: Wrack Hydroponics Automatisch
-Key: ItemWreckageHydroponicsStation1, Value: Wrack Hydroponische Station
-Key: ItemWreckageHydroponicsStation2, Value: Wrack Hydroponische Station
-Key: ItemWreckageHydroponicsTray1, Value: Wrack Hydroponisches Beet
-Key: ItemWreckageLargeExtendableRadiator01, Value: Wrack Großer ausziehbarer Heizkörper
-Key: ItemWreckageLight1, Value: Wrack Licht
-Key: ItemWreckageLight2, Value: Wrack Licht
-Key: ItemWreckageLightLongAngled1, Value: Wrackleuchte lang gewinkelt
-Key: ItemWreckageLightLongAngled2, Value: Wrackleuchte lang gewinkelt
-Key: ItemWreckageLightLongWide1, Value: Wrack Licht Lang Breit
-Key: ItemWreckageLightLongWide2, Value: Wrack Licht Lang Breit
-Key: ItemWreckagePassiveVent1, Value: Wrackteile Passive Entlüftung
-Key: ItemWreckageRecycler1, Value: Wrackverwerter
-Key: ItemWreckageRecycler2, Value: Wrackverwerter
-Key: ItemWreckageRecycler3, Value: Wrackverwerter
-Key: ItemWreckageRecycler4, Value: Wrackverwerter
-Key: ItemWreckageRecycler5, Value: Wrackverwerter
-Key: ItemWreckageRecycler6, Value: Wrackverwerter
-Key: ItemWreckageSDBSilo1, Value: Wrackteile SDB Silo
-Key: ItemWreckageSDBSilo2, Value: Wrackteile SDB Silo
-Key: ItemWreckageSDBSilo3, Value: Wrackteile SDB Silo
-Key: ItemWreckageSDBSilo4, Value: Wrackteile SDB Silo
-Key: ItemWreckageSDBSilo5, Value: Wrackteile SDB Silo
-Key: ItemWreckageSatelliteDish1, Value: Wrack Normal Satellite Dish
-Key: ItemWreckageSatelliteDish2, Value: Wrack Normal Satellite Dish
-Key: ItemWreckageSatelliteDish3, Value: Wrack Normal Satellite Dish
+Key: ItemWreckageGasGenerator1, Value: Wrack-Gas-Generator
+Key: ItemWreckageGasGenerator2, Value: Wrack-Gas-Generator
+Key: ItemWreckageH2Combustor1, Value: Wrack-H2-Combustor
+Key: ItemWreckageHydroponicsAutomatic1, Value: Wrack-Hydroponics-Automatisch
+Key: ItemWreckageHydroponicsAutomatic2, Value: Wrack-Hydroponics-Automatisch
+Key: ItemWreckageHydroponicsAutomatic3, Value: Wrack-Hydroponics-Automatisch
+Key: ItemWreckageHydroponicsStation1, Value: Wrack-Hydroponische-Station
+Key: ItemWreckageHydroponicsStation2, Value: Wrack-Hydroponische-Station
+Key: ItemWreckageHydroponicsTray1, Value: Wrack-Hydroponisches-Beet
+Key: ItemWreckageLargeExtendableRadiator01, Value: Wrack-Großer-ausziehbarer-Heizkörper
+Key: ItemWreckageLight1, Value: Wrack-Licht
+Key: ItemWreckageLight2, Value: Wrack-Licht
+Key: ItemWreckageLightLongAngled1, Value: Wrack-Licht-lang-gewinkelt
+Key: ItemWreckageLightLongAngled2, Value: Wrack-Licht-lang-gewinkelt
+Key: ItemWreckageLightLongWide1, Value: Wrack-Licht-Lang-Breit
+Key: ItemWreckageLightLongWide2, Value: Wrack-Licht-Lang-Breit
+Key: ItemWreckagePassiveVent1, Value: Wrackt-Passive-Entlüftung
+Key: ItemWreckageRecycler1, Value: Wrack-Recycler
+Key: ItemWreckageRecycler2, Value: Wrack-Recycler
+Key: ItemWreckageRecycler3, Value: Wrack-Recycler
+Key: ItemWreckageRecycler4, Value: Wrack-Recycler
+Key: ItemWreckageRecycler5, Value: Wrack-Recycler
+Key: ItemWreckageRecycler6, Value: Wrack-Recycler
+Key: ItemWreckageSDBSilo1, Value: Wrack-SDB-Silo
+Key: ItemWreckageSDBSilo2, Value: Wrack-SDB-Silo
+Key: ItemWreckageSDBSilo3, Value: Wrack-SDB-Silo
+Key: ItemWreckageSDBSilo4, Value: Wrack-SDB-Silo
+Key: ItemWreckageSDBSilo5, Value: Wrack-SDB-Silo
+Key: ItemWreckageSatelliteDish1, Value: Wrack-Normal-Satellite-Dish
+Key: ItemWreckageSatelliteDish2, Value: Wrack-Normal-Satellite-Dish
+Key: ItemWreckageSatelliteDish3, Value: Wrack-Normal-Satellite-Dish
 Key: ItemWreckageSecurityPrinter1, Value: Wrack-Sicherheitsdrucker
 Key: ItemWreckageSecurityPrinter2, Value: Wrack-Sicherheitsdrucker
 Key: ItemWreckageSecurityPrinter3, Value: Wrack-Sicherheitsdrucker
 Key: ItemWreckageSecurityPrinter4, Value: Wrack-Sicherheitsdrucker
 Key: ItemWreckageSecurityPrinter5, Value: Wrack-Sicherheitsdrucker
 Key: ItemWreckageSecurityPrinter6, Value: Wrack-Sicherheitsdrucker
-Key: ItemWreckageShuttleLandingPad1, Value: Wrack Shuttle Landeplatz
-Key: ItemWreckageShuttleLandingPad2, Value: Wrack Shuttle Landeplatz
-Key: ItemWreckageShuttleLandingPad3, Value: Wrack Shuttle Landeplatz
-Key: ItemWreckageShuttleLandingPad4, Value: Wrack Shuttle Landeplatz
-Key: ItemWreckageShuttleLandingPad5, Value: Wrack Shuttle Landeplatz
+Key: ItemWreckageShuttleLandingPad1, Value: Wrack-Shuttle-Landeplatz
+Key: ItemWreckageShuttleLandingPad2, Value: Wrack-Shuttle-Landeplatz
+Key: ItemWreckageShuttleLandingPad3, Value: Wrack-Shuttle-Landeplatz
+Key: ItemWreckageShuttleLandingPad4, Value: Wrack-Shuttle-Landeplatz
+Key: ItemWreckageShuttleLandingPad5, Value: Wrack-Shuttle-Landeplatz
 Key: ItemWreckageSolarPanel1, Value: Wrack-Solarmodul
 Key: ItemWreckageSolarPanel2, Value: Wrack-Solarmodul
 Key: ItemWreckageSolarPanel3, Value: Wrack-Solarmodul
-Key: ItemWreckageStructureRTG1, Value: Wrack RTG
-Key: ItemWreckageStructureWeatherStation001, Value: Wrack Wetterstation
-Key: ItemWreckageStructureWeatherStation002, Value: Wrack Wetterstation
-Key: ItemWreckageStructureWeatherStation003, Value: Wrack Wetterstation
-Key: ItemWreckageStructureWeatherStation004, Value: Wrack Wetterstation
-Key: ItemWreckageStructureWeatherStation005, Value: Wrack Wetterstation
-Key: ItemWreckageStructureWeatherStation006, Value: Wrack Wetterstation
-Key: ItemWreckageStructureWeatherStation007, Value: Wrack Wetterstation
-Key: ItemWreckageStructureWeatherStation008, Value: Wrack Wetterstation
+Key: ItemWreckageStructureRTG1, Value: Wrack-RTG
+Key: ItemWreckageStructureWeatherStation001, Value: Wrack-Wetterstation
+Key: ItemWreckageStructureWeatherStation002, Value: Wrack-Wetterstation
+Key: ItemWreckageStructureWeatherStation003, Value: Wrack-Wetterstation
+Key: ItemWreckageStructureWeatherStation004, Value: Wrack-Wetterstation
+Key: ItemWreckageStructureWeatherStation005, Value: Wrack-Wetterstation
+Key: ItemWreckageStructureWeatherStation006, Value: Wrack-Wetterstation
+Key: ItemWreckageStructureWeatherStation007, Value: Wrack-Wetterstation
+Key: ItemWreckageStructureWeatherStation008, Value: Wrack-Wetterstation
 Key: ItemWreckageTransformer1, Value: Wrack-Transformator
 Key: ItemWreckageTransformer2, Value: Wrack-Transformator
-Key: ItemWreckageTransformerMedium1, Value: Wrack Transformer Normal
-Key: ItemWreckageTransformerMedium2, Value: Wrack Transformer Normal
-Key: ItemWreckageTransformerSmall1, Value: Wracktransformator Klein
-Key: ItemWreckageTransformerSmall2, Value: Wracktransformator Klein
-Key: ItemWreckageTurbineGenerator1, Value: Wrack Turbine Generator
-Key: ItemWreckageTurbineGenerator2, Value: Wrack Turbine Generator
-Key: ItemWreckageTurbineGenerator3, Value: Wrack Turbine Generator
+Key: ItemWreckageTransformerMedium1, Value: Wrack-Transformer-Normal
+Key: ItemWreckageTransformerMedium2, Value: Wrack-Transformer-Normal
+Key: ItemWreckageTransformerSmall1, Value: Wrack-Transformator-Klein
+Key: ItemWreckageTransformerSmall2, Value: Wrack-Transformator-Klein
+Key: ItemWreckageTurbineGenerator1, Value: Wrack-Turbine-Generator
+Key: ItemWreckageTurbineGenerator2, Value: Wrack-Turbine-Generator
+Key: ItemWreckageTurbineGenerator3, Value: Wrack-Turbine-Generator
 Key: ItemWreckageVendingMachine1, Value: Wrack-Automat
 Key: ItemWreckageVendingMachine2, Value: Wrack-Automat
 Key: ItemWreckageVendingMachine3, Value: Wrack-Automat
 Key: ItemWreckageVendingMachine4, Value: Wrack-Automat
-Key: ItemWreckageVent1, Value: Wrack Vent
-Key: ItemWreckageWallCooler1, Value: Wrack Wall Cooler
-Key: ItemWreckageWallCooler2, Value: Wrack Wall Cooler
-Key: ItemWreckageWallLightBatteryPowered1, Value: Wrack Wandleuchte Batteriebetrieben
-Key: ItemWreckageWallLightBatteryPowered2, Value: Wrack Wandleuchte Batteriebetrieben
-Key: ItemWreckageWindTurbine001, Value: Wrack Wind Turbine
-Key: ItemWreckageWindTurbine002, Value: Wrack Wind Turbine
-Key: ItemWreckageWindTurbine003, Value: Wrack Wind Turbine
-Key: ItemWreckageWindTurbine004, Value: Wrack Wind Turbine
-Key: ItemWreckageWindTurbine005, Value: Wrack Wind Turbine
+Key: ItemWreckageVent1, Value: Wrack-Vent
+Key: ItemWreckageWallCooler1, Value: Wrack-Wand-Kühler
+Key: ItemWreckageWallCooler2, Value: Wrack-Wand-Kühler
+Key: ItemWreckageWallLightBatteryPowered1, Value: Wrack-Wandleuchte-Batteriebetrieben
+Key: ItemWreckageWallLightBatteryPowered2, Value: Wrack-Wandleuchte-Batteriebetrieben
+Key: ItemWreckageWindTurbine001, Value: Wrack-Wind-Turbine
+Key: ItemWreckageWindTurbine002, Value: Wrack-Wind-Turbine
+Key: ItemWreckageWindTurbine003, Value: Wrack-Wind-Turbine
+Key: ItemWreckageWindTurbine004, Value: Wrack-Wind-Turbine
+Key: ItemWreckageWindTurbine005, Value: Wrack-Wind-Turbine
 Key: ItemWrench, Value: Schraubenschlüssel
 Key: J, Value: J
 Key: JoinMenuAddressPlaceholder, Value: Geben Sie hier IP:Port ein...
@@ -3871,7 +3871,7 @@ Key: StructureWaterPipeHeater, Value: Rohrheizkörper (Flüssigkeit)
 Key: StructureWaterPipeMeter, Value: Flüssigkeitszähler für Rohre
 Key: StructureWaterWallCooler, Value: Flüssigkeits-Wandkühler
 Key: StructureWeatherStation, Value: Wetterstation
-Key: StructureWindTurbine, Value: Wind Turbine
+Key: StructureWindTurbine, Value: Wind-Turbine
 Key: StructureWindowShutter, Value: Fensterladen
 Key: StructureYouRequireToCompleteTask, Value: Sie benötigen {0} in {1}, um diese Aufgabe zu erledigen
 Key: Suit, Value: Folge
