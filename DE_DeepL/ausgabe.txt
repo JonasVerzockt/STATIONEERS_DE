@@ -1978,12 +1978,12 @@ Key: LeftAlt, Value: Links Alt
 Key: LeftApple, Value: Links Apple
 Key: LeftArrow, Value: Linker Pfeil
 Key: LeftBracket, Value: Linke Klammer
-Key: LeftCommand, Value: Links Befehl
-Key: LeftControl, Value: Links Strg
+Key: LeftCommand, Value: Links Command
+Key: LeftControl, Value: Linke Steuerung
 Key: LeftCurlyBracket, Value: Linke geschweifte Klammer
 Key: LeftHand, Value: Linke Hand
 Key: LeftParen, Value: Linke Paare
-Key: LeftShift, Value: Links Shift
+Key: LeftShift, Value: Linke Umschalttaste
 Key: LeftWindows, Value: Links Windows
 Key: Less, Value: Weniger
 Key: LevelLevelField, Value: Lava Level
@@ -1994,7 +1994,7 @@ Key: LightPerDay, Value: Licht pro Tag
 Key: LightString, Value: Licht
 Key: Link, Value: verbinden
 Key: Liquid, Value: Flüssig
-Key: LiquidCanister, Value: Flüssigkeitskanister
+Key: LiquidCanister, Value: Flüssigkeitstank
 Key: LiquidCarbonDioxide, Value: Flüssiger Kohlendioxid
 Key: LiquidInGasPipe, Value: Es ist <color=red>Flüssigkeit</color> in der Leitung
 Key: LiquidNitrogen, Value: Flüssiger Stickstoff
