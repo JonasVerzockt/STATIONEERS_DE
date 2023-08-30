@@ -1026,7 +1026,7 @@ Key: InsulatedLiquidPipeStraight, Value: Isolierte Flüssigkeitsrohre Gerade
 Key: Intensity, Value: Intensität
 Key: InteractCantClose, Value: Irgendetwas verhindert das Schließen dieser Seite
 Key: InteractOpenResearchScreen, Value: Interagieren, um den Bildschirm zum Entsperren der Forschung zu öffnen
-Key: InteractableAction, Value: Satz {LOCAL:InteractableAction}
+Key: InteractableAction, Value: Setze {LOCAL:InteractableAction}
 Key: InteractionTemporarilyDisabledOnThisObject, Value: Interaktion bei diesem Objekt vorübergehend deaktiviert
 Key: InteractionTemporarilyDisabledOnThisObject, Value: Interaktion bei diesem Objekt vorübergehend deaktiviert
 Key: InternalPressureIs, Value: Der Druck ist <color=yellow>{LOCAL:Value}</color>
@@ -1035,7 +1035,7 @@ Key: InvalidDegrees, Value: Null
 Key: InventoryCloseAll, Value: Alle schließen
 Key: InventorySlotBackpack, Value: Zurück
 Key: InventorySlotBelt, Value: Gürtel
-Key: InventorySlotGlasses, Value: Glasses
+Key: InventorySlotGlasses, Value: Brille
 Key: InventorySlotHandLeft, Value: Linke Hand
 Key: InventorySlotHandRight, Value: Rechte Hand
 Key: InventorySlotHelmet, Value: Helm
