@@ -308,7 +308,7 @@ Key: CartridgeAtmosAnalyserTemperatureTitle, Value: TEMPARATUR
 Key: CartridgeAtmosAnalyserTitle, Value: ATMOSPHÄRENANALYSATOR
 Key: CartridgeCategory, Value: Chips
 Key: CartridgeConfiguration, Value: Konfiguration
-Key: CartridgeElectronicReader, Value: eReader
+Key: CartridgeElectronicReader, Value: Chip (eReader)
 Key: CartridgeElectronicReaderAutoFlashTitle, Value: Flammpunkt:
 Key: CartridgeElectronicReaderAutoHashTitle, Value: Hash:
 Key: CartridgeElectronicReaderAutoITitle, Value: Selbstentzündung:
@@ -316,7 +316,7 @@ Key: CartridgeElectronicReaderRecipeOrder, Value: 1 von 2
 Key: CartridgeElectronicReaderRecipeTitle, Value: Das Rezept:
 Key: CartridgeElectronicReaderSelected, Value: Stahlrahmen
 Key: CartridgeElectronicReaderTitle, Value: ENZYKLOPEDIE
-Key: CartridgeGPS, Value: GPS
+Key: CartridgeGPS, Value: Chip (GPS)
 Key: CartridgeGuide, Value: Leitfaden
 Key: CartridgeMedicalAnalyser, Value: Chip (Medizinischer Analysator)
 Key: CartridgeNetworkAnalyser, Value: Chip (Netzwerk Analysator)
@@ -908,7 +908,7 @@ Key: GlobalChangeSettingToForIn, Value: Zyklus bis <color=yellow>{0}</color> für
 Key: GlobalChangeSlotSettingToFor, Value: Zyklus nach {0}<color=yellow>({0}) für {2}
 Key: GlobalCombustionLimiter, Value: Verbrennungsbegrenzer <color=green>{0}</color>
 Key: GlobalCurrentInstrument, Value: Aktuelles Instrument <color=green>{0}</color>
-Key: GlobalDecrease, Value: Verringern Sie
+Key: GlobalDecrease, Value: Verringern
 Key: GlobalIncrease, Value: Erhöhung
 Key: GlobalIntensity, Value: Intensität <color=green>{0}</color>
 Key: GlobalMaxMode, Value: Max <color=green>{0}</color>
@@ -927,19 +927,19 @@ Key: GlobalWaveForm, Value: Wellenform <color=green>{0}</color>
 Key: Gold, Value: Gold
 Key: GrabCalfL, Value: Linke Wade greifen
 Key: GrabCalfR, Value: Rechte Wade greifen
-Key: GrabHead, Value: Greiferkopf
-Key: GrabLeftFoot, Value: Linken Fuß fassen
+Key: GrabHead, Value: Kopf greifen
+Key: GrabLeftFoot, Value: Linken Fuß greifen
 Key: GrabLeftHand, Value: Linke Hand greifen
 Key: GrabLowerArmL, Value: Linken Arm greifen
 Key: GrabLowerArmR, Value: Rechten Arm greifen
-Key: GrabRightFoot, Value: Rechten Fuß fassen
+Key: GrabRightFoot, Value: Rechten Fuß greifen
 Key: GrabRightHand, Value: Rechte Hand greifen
 Key: GrabThighL, Value: Linken Oberschenkel greifen
 Key: GrabThighR, Value: Rechten Oberschenkel greifen
 Key: GrabUpperArmL, Value: Linken Arm greifen
 Key: GrabUpperArmR, Value: Rechten Arm greifen
 Key: Gravity, Value: Schwerkraft
-Key: Greater, Value: Größere
+Key: Greater, Value: Größer
 Key: GreenField, Value: Grün:
 Key: GreenPodType, Value: Grün
 Key: GridBlockedByStructure, Value: Die Platzierung wird durch <color=green>{LOCAL:Structure}</color> blockiert
@@ -952,7 +952,7 @@ Key: H, Value: H
 Key: H2Combustor, Value: H2-Brenner
 Key: HVSValues, Value: HVS-Werte
 Key: HandSlot, Value: Hand
-Key: HandSlotOccupied, Value: Handschlitz ist besetzt
+Key: HandSlotOccupied, Value: Handslot ist besetzt
 Key: HandToolsCategoryKey, Value: Handwerkzeuge
 Key: Handgun, Value: Handfeuerwaffe
 Key: HandgunMagazine, Value: Handfeuerwaffen-Magazin
@@ -962,7 +962,7 @@ Key: HasCustomTemperatureField, Value: Hat benutzerdefinierte Temperatur
 Key: HasLODField, Value: Hat LOD
 Key: HasLavaField, Value: Hat Lava
 Key: Hash, Value: Hash
-Key: Hatch, Value: Hatch
+Key: Hatch, Value: Luke
 Key: HeadingEdit, Value: bearbeiten
 Key: HeadingHelp, Value: Hilfe
 Key: HeatExchangerHeatExchangeAreaTooltip, Value: Wärmeaustauschrate: {LOCAL:EnergyResult} W
@@ -1014,15 +1014,15 @@ Key: InputSetting, Value: Einstellung
 Key: InputTextRename, Value: Umbenennen
 Key: InputTextTradingTitle, Value: Handels-Terminal
 Key: Insert, Value: einfügen
-Key: Insert, Value: Einsatz
-Key: InsulatedLiquidPipeCorner, Value: Isolierte Flüssigkeitsrohrecke
+Key: Insert, Value: einfügen
+Key: InsulatedLiquidPipeCorner, Value: Isolierte Flüssigkeitsrohre Ecke
 Key: InsulatedLiquidPipeCrossJunction, Value: Isolierte Flüssigkeitsrohre Kreuzung
 Key: InsulatedLiquidPipeCrossJunction3, Value: Isolierte Flüssigkeitsrohre 3-Wege-Kreuzung
 Key: InsulatedLiquidPipeCrossJunction4, Value: Isolierte Flüssigkeitsrohre 4-Wege-Kreuzung
 Key: InsulatedLiquidPipeCrossJunction5, Value: Isolierte Flüssigkeitsrohre 5-Wege-Kreuzung
 Key: InsulatedLiquidPipeCrossJunction6, Value: Isolierte Flüssigkeitsrohre 6-Wege-Kreuzung
-Key: InsulatedLiquidPipeJunction, Value: Isolierte Flüssigkeitsrohr-Verbindung
-Key: InsulatedLiquidPipeStraight, Value: Isolierte Flüssigkeitsleitung gerade
+Key: InsulatedLiquidPipeJunction, Value: Isolierte Flüssigkeitsrohre-Verbindung
+Key: InsulatedLiquidPipeStraight, Value: Isolierte Flüssigkeitsrohre Gerade
 Key: Intensity, Value: Intensität
 Key: InteractCantClose, Value: Irgendetwas verhindert das Schließen dieser Seite
 Key: InteractOpenResearchScreen, Value: Interagieren, um den Bildschirm zum Entsperren der Forschung zu öffnen
