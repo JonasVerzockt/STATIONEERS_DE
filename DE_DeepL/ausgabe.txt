@@ -1480,19 +1480,19 @@ Key: ItemPipeStraight, Value: Gasrohr gerade
 Key: ItemPipeTJunction, Value: Gasrohr T-Abzweigung
 Key: ItemPipeValve, Value: Gasrohrleitungsventil
 Key: ItemPipeVolumePump, Value: Gasvolumen Pumpe
-Key: ItemPlantEndothermic_Creative, Value: Endotherme Pflanze Kreativ
-Key: ItemPlantEndothermic_Genepool1, Value: Winterspawn (Alpha-Variante)
-Key: ItemPlantEndothermic_Genepool2, Value: Winterspawn (Beta-Variante)
+Key: ItemPlantEndothermic_Creative, Value: Endothermie Pflanze Kreativ
+Key: ItemPlantEndothermic_Genepool1, Value: Endothermie (Alpha-Variante)
+Key: ItemPlantEndothermic_Genepool2, Value: Endothermie (Beta-Variante)
 Key: ItemPlantSampler, Value: Pflanzenprobenehmer
 Key: ItemPlantSwitchGrass, Value: Gras wechseln
 Key: ItemPlantThermogenic_Creative, Value: Thermogene Pflanze Kreativ
-Key: ItemPlantThermogenic_Genepool1, Value: Hades Blume (Alpha-Sorte)
-Key: ItemPlantThermogenic_Genepool2, Value: Hades Blume (Beta-Stamm)
+Key: ItemPlantThermogenic_Genepool1, Value: Thermogene Blume (Alpha-Sorte)
+Key: ItemPlantThermogenic_Genepool2, Value: Thermogene Blume (Beta-Stamm)
 Key: ItemPlasticSheets, Value: Kunststoffplatten
 Key: ItemPotato, Value: Kartoffel
 Key: ItemPotatoBaked, Value: Gebackene Kartoffel
 Key: ItemPowderedeggs, Value: Eier in Pulverform
-Key: ItemPowerConnector, Value: Bausatz (Stromanschluss)
+Key: ItemPowerConnector, Value: Stromanschluss
 Key: ItemPoweredEggs, Value: Potenzierte Eier
 Key: ItemPumpkin, Value: Kürbis
 Key: ItemPumpkinPie, Value: Kürbiskuchen
@@ -1511,8 +1511,8 @@ Key: ItemPureIceOxygen, Value: Reines Eis Sauerstoff
 Key: ItemPureIcePollutant, Value: Reines Eis Schadstoff
 Key: ItemPureIceSteam, Value: Reines Eis Dampf
 Key: ItemPureIceVolatiles, Value: Reines Eis Flüchtige Stoffe
-Key: ItemRTG, Value: Bausatz (Kreatives RTG)
-Key: ItemRTGSurvival, Value: Bausatz (RTG)
+Key: ItemRTG, Value: Kreatives RTG
+Key: ItemRTGSurvival, Value: RTG
 Key: ItemReagentMix, Value: Reagenzien-Mix
 Key: ItemRemoteDetonator, Value: Fernzünder
 Key: ItemResearchCapsule, Value: Forschungskapsel Blau
