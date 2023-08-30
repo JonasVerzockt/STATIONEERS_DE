@@ -833,7 +833,7 @@ Key: GameMenuRespawn, Value: Wiedererscheinen
 Key: GamePaused, Value: Spiel pausiert
 Key: GameSettingsTitle, Value: Spiel-Einstellungen
 Key: Gas, Value: Gas
-Key: GasCanister, Value: Gas-Kanister
+Key: GasCanister, Value: Gas-Gasflasche
 Key: GasFilter, Value: Gas Filter
 Key: GasItemGasAmount, Value: 100%
 Key: GasItemGasMole, Value: 12,09 Mol
@@ -1148,7 +1148,7 @@ Key: ItemEmergencyWrench, Value: Notfall-Schraubenschlüssel
 Key: ItemEmptyCan, Value: Leere Dose
 Key: ItemEvaSuit, Value: Eva-Anzug
 Key: ItemExplosive, Value: Fernsprengstoff
-Key: ItemExplosiveBasic, Value: Explosiv Basic
+Key: ItemExplosiveBasic, Value: Sprengstoff
 Key: ItemFern, Value: Farn
 Key: ItemFertilizedEgg, Value: Befruchtetes Ei
 Key: ItemFilterFern, Value: Darga-Farn
@@ -1163,16 +1163,16 @@ Key: ItemFlowerRed, Value: Blume (Rot)
 Key: ItemFlowerYellow, Value: Blume (Gelb)
 Key: ItemFrenchFries, Value: Pommes aus der Dose
 Key: ItemFries, Value: Pommes
-Key: ItemGasCanisterCarbonDioxide, Value: Kanister (CO2)
-Key: ItemGasCanisterEmpty, Value: Kanister
-Key: ItemGasCanisterFuel, Value: Kanister (Treibstoff)
-Key: ItemGasCanisterNitrogen, Value: Kanister (Stickstoff)
+Key: ItemGasCanisterCarbonDioxide, Value: Gasflasche (CO2)
+Key: ItemGasCanisterEmpty, Value: Gasflasche
+Key: ItemGasCanisterFuel, Value: Gasflasche (Treibstoff)
+Key: ItemGasCanisterNitrogen, Value: Gasflasche (Stickstoff)
 Key: ItemGasCanisterNitrousOxide, Value: Gaskanister (Distickstoffmonoxid)
-Key: ItemGasCanisterOxygen, Value: Kanister (Sauerstoff)
-Key: ItemGasCanisterPollutants, Value: Kanister (Schadstoffe)
+Key: ItemGasCanisterOxygen, Value: Gasflasche (Sauerstoff)
+Key: ItemGasCanisterPollutants, Value: Gasflasche (Schadstoffe)
 Key: ItemGasCanisterSmart, Value: Gaskanister (Smart)
-Key: ItemGasCanisterVolatiles, Value: Kanister (Flüchtige Stoffe)
-Key: ItemGasCanisterWater, Value: Flüssigkeitskanister (Wasser)
+Key: ItemGasCanisterVolatiles, Value: Gasflasche (Flüchtige Stoffe)
+Key: ItemGasCanisterWater, Value: Gasflasche (Wasser)
 Key: ItemGasFilterCarbonDioxide, Value: Filter (Kohlendioxid)
 Key: ItemGasFilterCarbonDioxideInfinite, Value: Katalytischer Filter (Kohlendioxid)
 Key: ItemGasFilterCarbonDioxideL, Value: Schwerer Filter (Kohlendioxid)
@@ -1182,7 +1182,7 @@ Key: ItemGasFilterNitrogenInfinite, Value: Catalytic Filter (Stickstoff)
 Key: ItemGasFilterNitrogenL, Value: Schwerer Filter (Stickstoff)
 Key: ItemGasFilterNitrogenM, Value: Normaler Filter (Stickstoff)
 Key: ItemGasFilterNitrousOxide, Value: Filter (Distickstoffmonoxid)
-Key: ItemGasFilterNitrousOxideInfinite, Value: Catalytic Filter (Distickstoffmonoxid)
+Key: ItemGasFilterNitrousOxideInfinite, Value: Katalytischer Filter (Distickstoffmonoxid)
 Key: ItemGasFilterNitrousOxideL, Value: Schwerer Filter (Distickstoffmonoxid)
 Key: ItemGasFilterNitrousOxideM, Value: Normaler Filter (Distickstoffmonoxid)
 Key: ItemGasFilterOxygen, Value: Filter (Sauerstoff)
@@ -1202,7 +1202,7 @@ Key: ItemGasFilterWaterInfinite, Value: Katalytischer Filter (Wasser)
 Key: ItemGasFilterWaterL, Value: Schwerer Filter (Wasser)
 Key: ItemGasFilterWaterM, Value: Normaler Filter (Wasser)
 Key: ItemGasSensor, Value: Bausatz (Gas Sensor)
-Key: ItemGasTankStorage, Value: Bausatz (Kanisterlagerung)
+Key: ItemGasTankStorage, Value: Bausatz (Gasflaschenlagerung)
 Key: ItemGlassSheets, Value: Glasscheiben
 Key: ItemGlasses, Value: Brille
 Key: ItemGoldIngot, Value: Barren (Gold)
