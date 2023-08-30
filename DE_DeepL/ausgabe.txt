@@ -1210,22 +1210,22 @@ Key: ItemGoldOre, Value: Erz (Gold)
 Key: ItemGrenade, Value: Handgranate
 Key: ItemHEMDroidRepairKit, Value: HEMDroid Reparatursatz
 Key: ItemHardBackpack, Value: Schutzanzug-Rucksack
-Key: ItemHardJetpack, Value: Schutzanzug Jetpack
-Key: ItemHardMiningBackPack, Value: Harter Bergbau-Rucksack
+Key: ItemHardJetpack, Value: Schutzanzug-Jetpack
+Key: ItemHardMiningBackPack, Value: Schutzanzug-Bergbaurucksack
 Key: ItemHardSuit, Value: Schutzanzug
 Key: ItemHardsuitHelmet, Value: Schutzanzug-Helm
 Key: ItemHastelloyIngot, Value: Legierung (Hastelloy)
 Key: ItemHat, Value: Hut
 Key: ItemHealPill, Value: Heilpille
-Key: ItemHighVolumeGasCanisterEmpty, Value: High Volume Gas Canister
+Key: ItemHighVolumeGasCanisterEmpty, Value: Großvolumige Gasflasche
 Key: ItemHydroponicTray, Value: Bausatz (Hydroponisches Beet)
 Key: ItemIce, Value: Eis (Wasser)
 Key: ItemIgniter, Value: Bausatz (Zündvorrichtung)
 Key: ItemInSlotStack, Value: Stapel von <color=yellow>{LOCAL:StackSize}</color> x {LOCAL:Thing}
 Key: ItemInSlotValue, Value: Die {LOCAL:Thing} ist bei <color=yellow>{LOCAL:Value}</color>
 Key: ItemInconelIngot, Value: Legierung (Inconel)
-Key: ItemInsulatedTankConnector, Value: Isoliert (Tankanschluss)
-Key: ItemInsulatedTankConnectorLiquid, Value: Bausatz (isolierter Tankanschluss Flüssigkeit)
+Key: ItemInsulatedTankConnector, Value: Bausatz (Isolierter Gastankanschluss)
+Key: ItemInsulatedTankConnectorLiquid, Value: Bausatz (Isolierter Flüssigkeittankanschluss)
 Key: ItemInsulation, Value: Isolierung
 Key: ItemIntegratedCircuit10, Value: Integrierte Schaltung (IC10)
 Key: ItemInvarIngot, Value: Legierung (Invar)
@@ -1242,7 +1242,7 @@ Key: ItemKitAirlock, Value: Bausatz (Luftschleuse)
 Key: ItemKitAirlockGate, Value: Bausatz (Hangartür)
 Key: ItemKitArcFurnace, Value: Bausatz (Lichtbogenofen)
 Key: ItemKitAtmospherics, Value: Bausatz (Atmosphärisches)
-Key: ItemKitAutoMiner, Value: Bausatz (Auto Miner)
+Key: ItemKitAutoMiner, Value: Bausatz (Autominer)
 Key: ItemKitAutoMinerSmall, Value: Bausatz (Autominer Klein)
 Key: ItemKitAutolathe, Value: Bausatz (Autodrehmaschine)
 Key: ItemKitAutomatedOven, Value: Bausatz (Automatischer Backofen)
@@ -1255,23 +1255,23 @@ Key: ItemKitBlastDoor, Value: Bausatz (Explosionsschutztür)
 Key: ItemKitCentrifuge, Value: Bausatz (Zentrifuge)
 Key: ItemKitChairs, Value: Bausatz (Stühle)
 Key: ItemKitChute, Value: Bausatz (Basisschächte)
-Key: ItemKitCompositeCladding, Value: Bausatz (Ummantelung)
+Key: ItemKitCompositeCladding, Value: Bausatz (Fassade)
 Key: ItemKitCompositeFloorGrating, Value: Bausatz (Bodengitterrost)
 Key: ItemKitComputer, Value: Bausatz (Computer)
 Key: ItemKitConsole, Value: Bausatz (Konsolen)
-Key: ItemKitConveyor, Value: Bausatz (Schachtbänder)
+Key: ItemKitConveyor, Value: Bausatz (Schächte)
 Key: ItemKitCrate, Value: Bausatz (Kiste)
 Key: ItemKitCrateMkII, Value: Bausatz (Kiste Mk II)
-Key: ItemKitCrateMount, Value: Bausatz (Container-Montage)
+Key: ItemKitCrateMount, Value: Bausatz (Kiste-Montage)
 Key: ItemKitCryoTube, Value: Bausatz (Kryoröhren)
 Key: ItemKitCube, Value: Bausatz (Würfel)
 Key: ItemKitDebug, Value: Bausatz (Debug)
-Key: ItemKitDeepMiner, Value: Bausatz (Tiefbohrer)
+Key: ItemKitDeepMiner, Value: Bausatz (Autominer Tief)
 Key: ItemKitDockingPort, Value: Bausatz (Docking Port)
 Key: ItemKitDoor, Value: Bausatz (Tür)
-Key: ItemKitDuct, Value: Bausatz (Duct)
+Key: ItemKitDuct, Value: Bausatz (Kanal)
 Key: ItemKitDynamicCanister, Value: Bausatz (Tragbarer Gastank)
-Key: ItemKitDynamicGasTankAdvanced, Value: Bausatz (Portable Gas Tank Mk II)
+Key: ItemKitDynamicGasTankAdvanced, Value: Bausatz (Tragbarer Gastank Mk II)
 Key: ItemKitDynamicGenerator, Value: Bausatz (Tragbarer Generator)
 Key: ItemKitDynamicHydroponics, Value: Bausatz (Tragbare Hydroponik)
 Key: ItemKitDynamicLiquidCanister, Value: Bausatz (Tragbarer Flüssigkeitstank)
@@ -1279,15 +1279,15 @@ Key: ItemKitDynamicMKIILiquidCanister, Value: Bausatz (Tragbarer Flüssigkeitstan
 Key: ItemKitElectronicsPrinter, Value: Bausatz (Elektronikdrucker)
 Key: ItemKitElevator, Value: Bausatz (Aufzug)
 Key: ItemKitEngine, Value: Bausatz (Motoren)
-Key: ItemKitEngineLarge, Value: Bausatz (Motor groß)
+Key: ItemKitEngineLarge, Value: Bausatz (Motor Groß)
 Key: ItemKitEngineMedium, Value: Bausatz (Motor Normal)
-Key: ItemKitEngineSmall, Value: Bausatz (Motor klein)
+Key: ItemKitEngineSmall, Value: Bausatz (Motor Klein)
 Key: ItemKitEvaporationChamber, Value: Bausatz (Phasenwechselgerät)
-Key: ItemKitFabrication, Value: Bausatz (Herstellung)
-Key: ItemKitFabricator, Value: Bausatz (Verarbeiter)
+Key: ItemKitFabrication, Value: Bausatz (Fabrikation)
+Key: ItemKitFabricator, Value: Bausatz (Hersteller)
 Key: ItemKitFlagODA, Value: Bausatz (ODA-Flagge)
-Key: ItemKitFridgeBig, Value: Bausatz (Kühlschrank groß)
-Key: ItemKitFridgeSmall, Value: Bausatz (Kühlschrank klein)
+Key: ItemKitFridgeBig, Value: Bausatz (Kühlschrank Groß)
+Key: ItemKitFridgeSmall, Value: Bausatz (Kühlschrank Klein)
 Key: ItemKitFurnace, Value: Bausatz (Ofen)
 Key: ItemKitFurniture, Value: Bausatz (Möbel)
 Key: ItemKitGasGenerator, Value: Bausatz (Gas-Treibstoff-Generator)
