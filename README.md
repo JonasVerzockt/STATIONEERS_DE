@@ -41,16 +41,14 @@ Game Version: v0.2.4297.19997
 
 # Danksagungen
 
-Ich möchte mich bei allen bedanken, die zu diesem Projekt beigetragen haben, sei es durch Ideen, Feedback oder Unterstützung:
+Großartiger Applaus und virtuelle High Fives gehen raus an die wahren Helden hinter diesem technologischen Epos! 🎉💻 Ein herzliches Dankeschön an all die klugen Köpfe, die dieses Projekt aus der Taufe gehoben, mit Ideen gefüttert, Feedback geliefert und Support gegeben haben. Hier sind unsere Champions:
 
-(Discord Namen)
+🤖 [konny87] - Deine Ideen haben nicht nur die Funken gezündet, sondern du hast auch tapfer im Twitch-Streams die Updates getestet, um Bugs zu entlarven und den Verbesserungszug anzufeuern.
 
-[konny87]: Für die iniziale Idee und für das Testen und Melden von Fehlern im Twitch Stream, die zur Verbesserung beigetragen haben und werden.  
+🌍 [rogerwatersx] - Der Visionär, der von Anfang an dabei war und sogar Übersetzungen aus dem Hut gezaubert hat! Deine Inspiration und Sprachkünste haben das Projekt größer gemacht.
 
-[rogerwatersx]: Für die iniziale Idee das zu machen und Übersetzungen.  
+🤯 [zynischerboomer] - Der Ideen-Guru, der mit seinen brillanten Einfällen den Beschreibungsozean erweitert hat. Nicht zu vergessen die zukünftigen Meisterwerke der Hilfeartikel, die du aufpolieren wirst (aber nicht in dieser Beta, du Teufelskerl).
 
-[zynischerboomer]: Für die Ideen was man noch so ergänzen kann an Beschreibungen, Übersetzungen und in der Zukunft Teile der Hilfeartikel Verbesserungen (Nicht in dieser Beta).  
-
-Ihre Beteiligung hat dazu beigetragen, dieses Projekt voranzubringen und es für die Community besser zu machen. Ich bin für jede Unterstützung und Zusammenarbeit dankbar!
+Eure Genialität und Zusammenarbeit haben dieses Projekt auf den Raketenantrieb gestellt und es zur Freude der Community gemacht. Ein riesiges Dankeschön für eure Unterstützung – ihr seid wahrhaftig die Legenden hinter den Kulissen! 🚀🙌 
 
 ## Vielen Dank für Ihre Unterstützung und Ihr Interesse an diesem Projekt! Ich hoffe, dass Sie von den Übersetzungen profitieren können.
