@@ -649,7 +649,7 @@ Key: DynamicGasCanisterNitrousOxide, Value: Tragbarer Gastank (Distickstoffmonox
 Key: DynamicGasCanisterOxygen, Value: Tragbarer Gastank (Sauerstoff)
 Key: DynamicGasCanisterPollutants, Value: Tragbarer Gastank (Schadstoffe)
 Key: DynamicGasCanisterRocketFuel, Value: Tragbarer Gastank Raketentreibstoff
-Key: DynamicGasCanisterVolatiles, Value: Tragbarer Gastank (Flüchtige Stoffe)
+Key: DynamicGasCanisterVolatiles, Value: Tragbarer Gastank (Wasserstoff)
 Key: DynamicGasCanisterWater, Value: Tragbarer Flüssigkeitstank (Wasser)
 Key: DynamicGasTankAdvanced, Value: Tragbarer Gastank Mk II
 Key: DynamicGasTankAdvancedOxygen, Value: Tragbarer Gastank Mk II (Sauerstoff)
@@ -1722,7 +1722,7 @@ Key: ItemWrench, Value: Schraubenschlüssel
 Key: J, Value: J
 Key: JoinMenuAddressPlaceholder, Value: Geben Sie hier IP:Port ein...
 Key: JoinMenuButtonDirectConnect, Value: Direktverbindung
-Key: JoinMenuButtonJoin, Value: Welt verbinden
+Key: JoinMenuButtonJoin, Value: Server verbinden
 Key: JoinMenuButtonRefresh, Value: Liste aktualisieren
 Key: JoinMenuButtonStopRefresh, Value: Stop Refresh
 Key: JoinMenuFiltersTitle, Value: Filter
@@ -1735,7 +1735,7 @@ Key: JoinMenuInfoVersion, Value: Version:
 Key: JoinMenuInputAddressTitle, Value: Adresse
 Key: JoinMenuPasswordProtected, Value: Passwortgeschützt ausblenden
 Key: JoinMenuSearchPlaceholder, Value: Suche nach Servernamen
-Key: JoinMenuServerDetailConnectButton, Value: Welt verbinden
+Key: JoinMenuServerDetailConnectButton, Value: Server verbinden
 Key: JoinMenuServerDetailFavoriteButton, Value: Favorit
 Key: JoinMenuServerDetailInfoButton, Value: Infos anzeigen
 Key: JoinMenuServerDetailUnFavoriteButton, Value: Favorit entfernen
@@ -1743,7 +1743,7 @@ Key: JoinMenuServerListMap, Value: Karte
 Key: JoinMenuServerListName, Value: Server Name
 Key: JoinMenuServerListRefreshing, Value: Aktualisieren der Serverliste
 Key: JoinMenuServerListVersion, Value: Version
-Key: JoinMenuTitle, Value: Welt verbinden
+Key: JoinMenuTitle, Value: Server verbinden
 Key: JoinWorldEmptyServers, Value: Leere Server ausblenden
 Key: JoinWorldSortBy, Value: Sortieren nach
 Key: Joystick1Button0, Value: Joystick1 Taste0
@@ -1937,12 +1937,12 @@ Key: Keypad6, Value: Tastenfeld6
 Key: Keypad7, Value: Tastenfeld7
 Key: Keypad8, Value: Tastenfeld8
 Key: Keypad9, Value: Tastenfeld9
-Key: KeypadDivide, Value: Tastenfeld Divide
+Key: KeypadDivide, Value: Tastenfeld Teilen
 Key: KeypadEnter, Value: Tastenfeld Eingabe
 Key: KeypadEquals, Value: Tastenfeld Gleich
 Key: KeypadMinus, Value: Tastenfeld Minus
 Key: KeypadMultiply, Value: Tastenfeld Multiplizieren
-Key: KeypadPeriod, Value: Tastenfeld Zeitraum
+Key: KeypadPeriod, Value: Tastenfeld Komma
 Key: KeypadPlus, Value: Tastenfeld Plus
 Key: KitCategory, Value: Bausätze
 Key: KitPlanter, Value: Bausatz (Pflanzer)
@@ -1982,13 +1982,13 @@ Key: LeftCommand, Value: Links Command
 Key: LeftControl, Value: Linke Steuerung
 Key: LeftCurlyBracket, Value: Linke geschweifte Klammer
 Key: LeftHand, Value: Linke Hand
-Key: LeftParen, Value: Linke Paare
+Key: LeftParen, Value: Klammer auf
 Key: LeftShift, Value: Linke Umschalttaste
 Key: LeftWindows, Value: Links Windows
 Key: Less, Value: Weniger
-Key: LevelLevelField, Value: Lava Level
+Key: LevelLevelField, Value: Ebenes Feld
 Key: LifeSupport, Value: Lebenserhaltung
-Key: LightCategory, Value: Lichter
+Key: LightCategory, Value: Lampen
 Key: LightDeficient, Value: Lichtmangel
 Key: LightPerDay, Value: Licht pro Tag
 Key: LightString, Value: Licht
@@ -2003,24 +2003,24 @@ Key: LiquidOxygen, Value: Flüssiger Sauerstoff
 Key: LiquidPollutant, Value: Flüssiger Schadstoff
 Key: LiquidRocketEngineBasic, Value: Flüssigkeitsraketentriebwerk Basic
 Key: LiquidStress, Value: Flüssiger Stress:
-Key: LiquidVolatiles, Value: Flüssiger flüchtige Stoffe
+Key: LiquidVolatiles, Value: Flüssiger Wasserstoff
 Key: Load, Value: Laden
-Key: LoadBackupsTitle, Value: Ladungssicherung
-Key: LoadMenuFileListTitle, Value: Gerettete Welten
+Key: LoadBackupsTitle, Value: Sicherheitskopien
+Key: LoadMenuFileListTitle, Value: Sicherheitskopien
 Key: LoadMenuTitle, Value: Welt laden
 Key: LoadWorldButtonLoad, Value: Welt laden
 Key: LoadingRail, Value: Verladeschiene
 Key: LoadingScreenCalculatingChunks, Value: Berechnen von Chunks
 Key: LoadingScreenCalculatingMeshes, Value: Berechnen von Meshes
-Key: LoadingScreenCleaningUpPrefabs, Value: Reinigung von Fertighäusern
-Key: LoadingScreenClientJoining, Value: Beitritt des Kunden
+Key: LoadingScreenCleaningUpPrefabs, Value: Reinigung von Prefabs
+Key: LoadingScreenClientJoining, Value: Beitreten
 Key: LoadingScreenConnectingToServer, Value: Verbinden mit dem Server
 Key: LoadingScreenDeserializeCableNetworks, Value: Deserialisierung von Kabelnetzen
 Key: LoadingScreenDeserializeChunks, Value: Chunks deserialisieren
 Key: LoadingScreenDeserializeRocketNetworks, Value: Deserialisierung von Raketennetzen
 Key: LoadingScreenDeserializeWorldLog, Value: Deserialisierung des Weltprotokolls
 Key: LoadingScreenDeserializingAtmospherics, Value: Deserialisierung von Atmosphären
-Key: LoadingScreenDeserializingChuteNetworks, Value: Deserialisierung von Rutschennetzen
+Key: LoadingScreenDeserializingChuteNetworks, Value: Deserialisierung von Schächtennetzen
 Key: LoadingScreenDeserializingNetworks, Value: Deserialisierung von Netzwerken
 Key: LoadingScreenDeserializingPipeNetworks, Value: Rohrleitungsnetze deserialisieren
 Key: LoadingScreenDeserializingStationContacts, Value: Deserialisierung von Stationskontakten
@@ -2032,7 +2032,7 @@ Key: LoadingScreenInitializingChunks, Value: Initialisierung von Chunks
 Key: LoadingScreenInitializingDevices, Value: Geräte initialisieren
 Key: LoadingScreenLoadingAtmosphers, Value: Atmosphären laden
 Key: LoadingScreenLoadingChunks, Value: Chunks laden
-Key: LoadingScreenLoadingRooms, Value: Laderäume
+Key: LoadingScreenLoadingRooms, Value: Lade Räume
 Key: LoadingScreenLoadingStationpedia, Value: Laden von Stationpedia
 Key: LoadingScreenLoadingThings, Value: Dinge laden ({LOCAL:ThingCount})
 Key: LoadingScreenNewWorldMenu, Value: Menü Neue Welt
@@ -2044,7 +2044,7 @@ Key: LoadingScreenReceivingJoinData, Value: Empfang von Join-Daten
 Key: LoadingScreenRegeneratingTerrain, Value: Regenerierung des Geländes
 Key: LoadingScreenRegisteringPrefabs, Value: Registrierung von Fertigteilen
 Key: LoadingScreenRenderingChunks, Value: Rendering-Brocken
-Key: LoadingScreenSpawningThings, Value: Laichende Dinge
+Key: LoadingScreenSpawningThings, Value: Erschaffe Dinge
 Key: LoadingScreenValidatingPrefabs, Value: Validierung von Prefabs
 Key: Lock, Value: Sperren
 Key: Lock, Value: Schloss
@@ -2052,22 +2052,22 @@ Key: Locked, Value: Abgeschlossen
 Key: LockedKey, Value: Abgeschlossen
 Key: LogicCategoryKey, Value: Logische Geräte
 Key: LogicCurrentlySetTo, Value: Die {LOCAL:Thing} ist derzeit auf den <color=yellow>Logic</color> Modus eingestellt
-Key: LogicNoAdditionalSettingsFor, Value: Keine zusätzlichen Einstellungen für {0}
 Key: LogicNoAdditionalSettingsFor, Value: <color=red>Keine zusätzlichen Einstellungen für</color> {LOCAL:Thing}
-Key: LogicNoAdditionalSlotsFor, Value: Keine zusätzlichen Zeitnischen für {0}
+Key: LogicNoAdditionalSettingsFor, Value: <color=red>Keine zusätzlichen Einstellungen für</color> {LOCAL:Thing}
 Key: LogicNoAdditionalSlotsFor, Value: <color=red>Keine zusätzlichen Steckplätze für</color> {LOCAL:Thing}
-Key: LogicNoAvailableSlots, Value: <color=red>Keine freien Steckplätze
+Key: LogicNoAdditionalSlotsFor, Value: <color=red>Keine zusätzlichen Steckplätze für</color> {LOCAL:Thing}
 Key: LogicNoAvailableSlots, Value: <color=red>Keine freien Steckplätze</color>
-Key: LogicNoDevice, Value: Kein Gerät
+Key: LogicNoAvailableSlots, Value: <color=red>Keine freien Steckplätze</color>
 Key: LogicNoDevice, Value: <color=red>Kein Gerät</color>
-Key: LogicNoReadableDevices, Value: Keine anderen lesbaren Geräte im Netzwerk
+Key: LogicNoDevice, Value: <color=red>Kein Gerät</color>
+Key: LogicNoReadableDevices, Value: Keine lesbaren Geräte
 Key: LogicNoReadableDevices, Value: Keine lesbaren Geräte
 Key: LogicNoReadableTypes, Value: Keine anderen lesbaren Typen im Netz
 Key: LogicNoReadableTypes, Value: Keine anderen lesbaren Typen im Netz
-Key: LogicNoSetting, Value: Keine Einstellungen
-Key: LogicNoSetting, Value: <colour=red>Keine Einstellung</colour>.
-Key: LogicNoSlot, Value: <color=red>Kein Steckplatz
-Key: LogicNoSlot, Value: <color=red>Kein Steckplatz</color>.
+Key: LogicNoSetting, Value: <colour=red>Keine Einstellung</colour>
+Key: LogicNoSetting, Value: <colour=red>Keine Einstellung</colour>
+Key: LogicNoSlot, Value: <color=red>Kein Steckplatz</color>
+Key: LogicNoSlot, Value: <color=red>Kein Steckplatz</color>
 Key: LogicNoWritableDevices, Value: Keine anderen beschreibbaren Geräte im Netzwerk
 Key: LogicNoWritableDevices, Value: Keine anderen beschreibbaren Geräte im Netzwerk
 Key: LogicReadersCategory, Value: Logik-Leser
@@ -2090,7 +2090,7 @@ Key: LogicSlotTypePressureWaste, Value: gibt den Druck im Abwassertank des Jetpa
 Key: LogicSlotTypeQuantity, Value: gibt die aktuelle Menge (z. B. die Stapelgröße) des Elements im Steckplatz zurück
 Key: LogicSlotTypeSeeding, Value: Ob eine Pflanze sät (bereit für die Ernte von Samen). Gibt 1 zurück, wenn sie sät, oder 0, wenn nicht.
 Key: LogicSlotTypeTemperature, Value: Rücklauftemperatur der Innenatmosphäre des Slot-Insassen
-Key: LogicState, Value: Zustand <color=green>#VAR1#
+Key: LogicState, Value: Zustand <color=green>#VAR1#</color>
 Key: LogicStepSequencer8, Value: Logischer Schritt-Sequenzer
 Key: LogicTypeActivate, Value: 1, wenn das Gerät aktiviert ist (bedeutet normalerweise, dass es läuft), sonst 0
 Key: LogicTypeAirRelease, Value: Der aktuelle Status des Luftauslösesystems, z.B. AirRelease = 1 für einen Hardsuit setzt Air Release auf On
@@ -2131,8 +2131,8 @@ Key: LogicTypeEnvironmentEfficiency, Value: Die von der Maschine gemeldete Umwel
 Key: LogicTypeError, Value: 1, wenn das Gerät im Fehlerzustand ist, sonst 0
 Key: LogicTypeExportCount, Value: Wie viele Elemente seit dem letzten ClearMemory exportiert wurden
 Key: LogicTypeExportQuantity, Value: Gesamtmenge der vom Gerät exportierten Artikel
-Key: LogicTypeExportSlotHash, Value: ABGESCHLOSSEN
-Key: LogicTypeExportSlotOccupant, Value: ABGESCHLOSSEN
+Key: LogicTypeExportSlotHash, Value: VERALTET
+Key: LogicTypeExportSlotOccupant, Value: VERALTET
 Key: LogicTypeFiltration, Value: Der aktuelle Status des Filtersystems, z. B. Filtration = 1 für einen Schutzanzug setzt die Filtration auf Ein
 Key: LogicTypeFlush, Value: Auf 1 setzen, um die Spülfunktion des Geräts zu aktivieren
 Key: LogicTypeForceWrite, Value: Zwingt Logic-Writer-Geräte, den Wert neu zu schreiben
@@ -2142,8 +2142,8 @@ Key: LogicTypeHorizontalRatio, Value: Radio der horizontalen Einstellung für das
 Key: LogicTypeIdle, Value: Gibt 1 zurück, wenn das Gerät gerade im Leerlauf ist, sonst 0
 Key: LogicTypeImportCount, Value: Wie viele Artikel seit dem letzten ClearMemory importiert wurden
 Key: LogicTypeImportQuantity, Value: Gesamtmenge der vom Gerät importierten Artikel
-Key: LogicTypeImportSlotHash, Value: ABGESCHLOSSEN
-Key: LogicTypeImportSlotOccupant, Value: ABGESCHLOSSEN
+Key: LogicTypeImportSlotHash, Value: VERALTET
+Key: LogicTypeImportSlotOccupant, Value: VERALTET
 Key: LogicTypeInterrogationProgress, Value: Fortschritt der Abfrage des aktuellen Ziels durch diese Satellitenschüssel, als Verhältnis von 0-1
 Key: LogicTypeLineNumber, Value: Die Zeilennummer der aktuellen Ausführung für eine integrierte Schaltung, die auf diesem Gerät läuft. Diese Nummer kann zwar geschrieben werden, ist aber mit Vorsicht zu verwenden
 Key: LogicTypeLock, Value: 1, wenn das Gerät gesperrt ist, sonst 0, kann bei den meisten Geräten eingestellt werden und verhindert den Zugriff des Benutzers auf die Werte
@@ -2156,25 +2156,25 @@ Key: LogicTypeOpen, Value: 1, wenn das Gerät geöffnet ist, sonst 0
 Key: LogicTypeOperationalTemperatureEfficiency, Value: Wie sich die Temperatur der Eingangsleitung auf die Effizienz der Maschine auswirkt
 Key: LogicTypeOutput, Value: Die Ausgabeoperation für ein Sortiergerät, wie z. B. einen Stapler oder eine Sortiermaschine, wenn das Gerät im Logikmodus nur eine Wiederholung durchführt, wenn es auf Null oder höher eingestellt ist, und dann auf -1 zurückgeht und auf weitere Anweisungen wartet.
 Key: LogicTypePlant, Value: Führt die Pflanzaktion für alle pflanzlichen Maschinen durch
-Key: LogicTypePlantEfficiency1, Value: ABGESCHLOSSEN
-Key: LogicTypePlantEfficiency2, Value: ABGESCHLOSSEN
-Key: LogicTypePlantEfficiency3, Value: ABGESCHLOSSEN
-Key: LogicTypePlantEfficiency4, Value: ABGESCHLOSSEN
-Key: LogicTypePlantGrowth1, Value: ABGESCHLOSSEN
-Key: LogicTypePlantGrowth2, Value: ABGESCHLOSSEN
-Key: LogicTypePlantGrowth3, Value: ABGESCHLOSSEN
-Key: LogicTypePlantGrowth4, Value: ABGESCHLOSSEN
-Key: LogicTypePlantHash1, Value: ABGESCHLOSSEN
-Key: LogicTypePlantHash2, Value: ABGESCHLOSSEN
-Key: LogicTypePlantHash3, Value: ABGESCHLOSSEN
-Key: LogicTypePlantHash4, Value: ABGESCHLOSSEN
-Key: LogicTypePlantHealth1, Value: ABGESCHLOSSEN
-Key: LogicTypePlantHealth2, Value: ABGESCHLOSSEN
-Key: LogicTypePlantHealth3, Value: ABGESCHLOSSEN
-Key: LogicTypePlantHealth4, Value: ABGESCHLOSSEN
-Key: LogicTypePositionX, Value: Die aktuelle Position in der X-Dimension in Weltkoordinaten
-Key: LogicTypePositionY, Value: Die aktuelle Position in der Y-Dimension in Weltkoordinaten
-Key: LogicTypePositionZ, Value: Die aktuelle Position in der Z-Dimension in Weltkoordinaten
+Key: LogicTypePlantEfficiency1, Value: VERALTET
+Key: LogicTypePlantEfficiency2, Value: VERALTET
+Key: LogicTypePlantEfficiency3, Value: VERALTET
+Key: LogicTypePlantEfficiency4, Value: VERALTET
+Key: LogicTypePlantGrowth1, Value: VERALTET
+Key: LogicTypePlantGrowth2, Value: VERALTET
+Key: LogicTypePlantGrowth3, Value: VERALTET
+Key: LogicTypePlantGrowth4, Value: VERALTET
+Key: LogicTypePlantHash1, Value: VERALTET
+Key: LogicTypePlantHash2, Value: VERALTET
+Key: LogicTypePlantHash3, Value: VERALTET
+Key: LogicTypePlantHash4, Value: VERALTET
+Key: LogicTypePlantHealth1, Value: VERALTET
+Key: LogicTypePlantHealth2, Value: VERALTET
+Key: LogicTypePlantHealth3, Value: VERALTET
+Key: LogicTypePlantHealth4, Value: VERALTET
+Key: LogicTypePositionX, Value: Die aktuelle Position in der X-Achse in Weltkoordinaten
+Key: LogicTypePositionY, Value: Die aktuelle Position in der Y-Achse in Weltkoordinaten
+Key: LogicTypePositionZ, Value: Die aktuelle Position in der Z-Achse in Weltkoordinaten
 Key: LogicTypePower, Value: Kann ausgelesen werden, um festzustellen, ob das Gerät korrekt mit Strom versorgt wird oder nicht, eingestellt über das Stromversorgungssystem, Rückgabe 1, wenn es mit Strom versorgt wird und 0, wenn nicht
 Key: LogicTypePowerActual, Value: Wie viel Energie das Gerät oder Netzwerk tatsächlich verbraucht
 Key: LogicTypePowerGeneration, Value: Gibt an, wie viel Strom gerade erzeugt wird
@@ -2253,10 +2253,10 @@ Key: LogicTypeRatioSteamInput2, Value: Das Verhältnis von {GAS:Steam} in der Inp
 Key: LogicTypeRatioSteamOutput, Value: Das Verhältnis von {GAS:Steam} in der Output-Atmosphäre des Geräts des Geräts
 Key: LogicTypeRatioSteamOutput2, Value: Das Verhältnis von {GAS:Steam} in der Output2-Atmopshäre des Geräts
 Key: LogicTypeRatioVolatiles, Value: Das Verhältnis der flüchtigen Bestandteile in der Geräteatmosphäre
-Key: LogicTypeRatioVolatilesInput, Value: Das Verhältnis der flüchtigen Stoffe im Eingangsnetz des Geräts
-Key: LogicTypeRatioVolatilesInput2, Value: Das Verhältnis der flüchtigen Stoffe im Input2-Netzwerk des Geräts
-Key: LogicTypeRatioVolatilesOutput, Value: Das Verhältnis der flüchtigen Stoffe im Ausgangsnetz des Geräts
-Key: LogicTypeRatioVolatilesOutput2, Value: Das Verhältnis der flüchtigen Stoffe im Output2-Netzwerk des Geräts
+Key: LogicTypeRatioVolatilesInput, Value: Das Verhältnis von Wasserstoff im Eingangsnetz des Geräts
+Key: LogicTypeRatioVolatilesInput2, Value: Das Verhältnis von Wasserstoff im Input2-Netzwerk des Geräts
+Key: LogicTypeRatioVolatilesOutput, Value: Das Verhältnis von Wasserstoff im Ausgangsnetz des Geräts
+Key: LogicTypeRatioVolatilesOutput2, Value: Das Verhältnis von Wasserstoff im Output2-Netzwerk des Geräts
 Key: LogicTypeRatioWater, Value: Das Verhältnis von Wasser in der Geräteatmosphäre
 Key: LogicTypeRatioWaterInput, Value: Das Verhältnis von Wasser im Eingangsnetz des Geräts
 Key: LogicTypeRatioWaterInput2, Value: Das Verhältnis von Wasser im Input2-Netzwerk des Geräts
@@ -2314,7 +2314,7 @@ Key: LogicWriterCategory, Value: Logik-Schreiber
 Key: Lore, Value: Lore
 Key: Loulan, Value: Loulan
 Key: LoulanShortDesc, Value: Bei der Ankunft auf Loulan werden Sie eine atembare Atmosphäre vorfinden, deren Druck hoch genug ist, um Leben zu erhalten - aber es herrscht ein großer Mangel daran. Dieser sandige Riese befindet sich im Gargantuan-System und nähert sich jeden Tag dem schwarzen Loch im Zentrum. Dieser Planet ist zwar verlassen und nicht mehr grün und voller {GAS:Water}, aber er hat immer noch eine funktionierende Atmosphäre, und du hast die Aufgabe, das Ödland zu durchforsten, um die Materialien und Ressourcen zu finden, die du zum Überleben in dieser ewigen Wüste brauchst.
-Key: Lungs, Value: Lungs
+Key: Lungs, Value: Lunge
 Key: M, Value: M
 Key: Magazine, Value: Zeitschrift
 Key: Magazine, Value: Zeitschrift
@@ -2382,9 +2382,9 @@ Key: MolePollutantDescription, Value: {GAS:Pollutant}, auch als "X" bekannt, ent
       
 Der Schadstoff hat eine hohe spezifische Wärme, was ihn zu einem hervorragenden Kühlmittel macht. Leider ist es extrem schädlich für organische Lebewesen und schädigt die Lungen der meisten {REAGENT:Carbon}-basierten Organismen schwer.
 Key: MoleSteamDescription, Value: Verdampftes {GAS:Water}. Es kann durch Erhöhen der Temperatur von {GAS:Water} auf seinen Siedepunkt erzeugt werden. Wenn {GAS:Steam} in ein Gasrohr eingeleitet wird, kondensiert er wieder zu {GAS:Water}, wenn seine Temperatur unter dem Siedepunkt liegt. Dampf kann durch die Verbrennung von {GAS:Volatiles} und Sauerstoff mit Hilfe des {THING:H2Combustor} erzeugt werden.
-Key: MoleVolatilesDescription, Value: Flüchtige Stoffe sind ein äußerst reaktives, komplexes organisches Molekül, das in Verbindung mit Sauerstoff als brennbarer Treibstoff verwendet werden kann. Es wird aus {THING:ItemVolatiles} raffiniert.
+Key: MoleVolatilesDescription, Value: Wasserstoff sind ein äußerst reaktives, komplexes organisches Molekül, das in Verbindung mit Sauerstoff als brennbarer Treibstoff verwendet werden kann. Es wird aus {THING:ItemVolatiles} raffiniert.
       
-Aufgrund obskurer und weitgehend vergessener {LINK:ODA;ODA} Vorschriften werden flüchtige Stoffe in verschiedenen technischen Geräten manchmal als "H2" bezeichnet. Sie ähneln zwar dem Wasserstoff, sind aber nicht "wirklich" Wasserstoff. Aus {GAS:Volatiles} entsteht bei der Verbrennung ohne einen Katalysator kein {GAS:Water} (siehe {THING:H2Combustor}). Alleine erzeugen sie {GAS:Pollutant} und {GAS:CarbonDioxide}, wenn sie im folgenden Verhältnis verbrannt werden:
+Aufgrund obskurer und weitgehend vergessener {LINK:ODA;ODA} Vorschriften werden Wasserstoff in verschiedenen technischen Geräten manchmal als "H2" bezeichnet. Sie ähneln zwar dem Wasserstoff, sind aber nicht "wirklich" Wasserstoff. Aus {GAS:Volatiles} entsteht bei der Verbrennung ohne einen Katalysator kein {GAS:Water} (siehe {THING:H2Combustor}). Alleine erzeugen sie {GAS:Pollutant} und {GAS:CarbonDioxide}, wenn sie im folgenden Verhältnis verbrannt werden:
       
 2 {GAS:Volatiles} + 1 {GAS:Oxygen} -> 3 {GAS:Pollutant} + 6 {GAS:CarbonDioxide} + Wärme.
 Key: MoleWaterDescription, Value: Du kannst Wasser erhalten, indem du {THING:ItemIce} mit einem {THING:StructureFurnace} oder einem {THING:StructureIceCrusher} verhüttest oder zerkleinerst. {GAS:Water} ist entscheidend für {LINK:OrganicPage;plants}, um am Leben zu bleiben und {LINK:NutritionPage;food} zu wachsen.
@@ -2944,7 +2944,7 @@ Key: ScriptCommandLBNS, Value: Lädt LogicSlotType aus slotIndex von allen Ausgan
 Key: ScriptCommandLBS, Value: Lädt LogicSlotType aus slotIndex von allen Ausgangsnetzgeräten mit angegebenem Typ-Hash unter Verwendung des bereitgestellten Batch-Modus. Durchschnitt (0), Summe (1), Minimum (2), Maximum (3). Kann entweder das Wort oder die Zahl verwenden.
 Key: ScriptCommandLR, Value: Lädt Reagenz des ReagentMode des Geräts, wobei ein Hash des Reagenztyps angegeben wird, auf den geprüft werden soll. ReagentMode kann entweder Contents (0), Required (1), Recipe (2) sein. Es kann entweder das Wort oder die Zahl verwendet werden.
 Key: ScriptCommandLS, Value: Lädt den Slot LogicSlotType auf das zu registrierende Gerät.
-Key: ScriptCommandLabel, Value: ABGESCHLOSSEN
+Key: ScriptCommandLabel, Value: VERALTET
 Key: ScriptCommandLog, Value: Register = log(a)
 Key: ScriptCommandMax, Value: Register = Maximum von a oder b
 Key: ScriptCommandMin, Value: Register = min von a oder b
@@ -4099,8 +4099,8 @@ Key: V, Value: V
 Key: Vend, Value: verkaufen
 Key: VerticalDegrees, Value: <color=yellow>Vertikal</color> <color=green>{0} Grad</color>
 Key: VisualiserState, Value: Visualisieren {LOCAL:State}
-Key: Volatiles, Value: Flüchtige Stoffe
-Key: Volatiles, Value: Flüchtige Stoffe
+Key: Volatiles, Value: Wasserstoff
+Key: Volatiles, Value: Wasserstoff
 Key: Volume, Value: Volumen
 Key: VolumeChangeDirection, Value: Richtungswechsel
 Key: Vulcan, Value: Vulkan
