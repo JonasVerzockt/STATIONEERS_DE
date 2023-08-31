@@ -2020,7 +2020,7 @@ Key: LoadingScreenDeserializeChunks, Value: Chunks laden
 Key: LoadingScreenDeserializeRocketNetworks, Value: Laden von Raketennetzen
 Key: LoadingScreenDeserializeWorldLog, Value: Laden des Weltprotokolls
 Key: LoadingScreenDeserializingAtmospherics, Value: Laden von Atmosphären
-Key: LoadingScreenDeserializingChuteNetworks, Value: Laden von Rutschennetzen
+Key: LoadingScreenDeserializingChuteNetworks, Value: Laden von Schächtennetzen
 Key: LoadingScreenDeserializingNetworks, Value: Laden von Netzwerken
 Key: LoadingScreenDeserializingPipeNetworks, Value: Rohrleitungsnetze laden
 Key: LoadingScreenDeserializingStationContacts, Value: Laden von Stationskontakten
