@@ -649,7 +649,7 @@ Key: DynamicGasCanisterNitrousOxide, Value: Tragbarer Gastank (Distickstoffmonox
 Key: DynamicGasCanisterOxygen, Value: Tragbarer Gastank (Sauerstoff)
 Key: DynamicGasCanisterPollutants, Value: Tragbarer Gastank (Schadstoffe)
 Key: DynamicGasCanisterRocketFuel, Value: Tragbarer Gastank Raketentreibstoff
-Key: DynamicGasCanisterVolatiles, Value: Tragbarer Gastank (Flüchtige Stoffe)
+Key: DynamicGasCanisterVolatiles, Value: Tragbarer Gastank (Wasserstoff)
 Key: DynamicGasCanisterWater, Value: Tragbarer Flüssigkeitstank (Wasser)
 Key: DynamicGasTankAdvanced, Value: Tragbarer Gastank Mk II
 Key: DynamicGasTankAdvancedOxygen, Value: Tragbarer Gastank Mk II (Sauerstoff)
@@ -1722,7 +1722,7 @@ Key: ItemWrench, Value: Schraubenschlüssel
 Key: J, Value: J
 Key: JoinMenuAddressPlaceholder, Value: Geben Sie hier IP:Port ein...
 Key: JoinMenuButtonDirectConnect, Value: Direktverbindung
-Key: JoinMenuButtonJoin, Value: mit Welt verbinden
+Key: JoinMenuButtonJoin, Value: Server verbinden
 Key: JoinMenuButtonRefresh, Value: Liste aktualisieren
 Key: JoinMenuButtonStopRefresh, Value: Stop Refresh
 Key: JoinMenuFiltersTitle, Value: Filter
@@ -1735,7 +1735,7 @@ Key: JoinMenuInfoVersion, Value: Version:
 Key: JoinMenuInputAddressTitle, Value: Adresse
 Key: JoinMenuPasswordProtected, Value: Passwortgeschützt ausblenden
 Key: JoinMenuSearchPlaceholder, Value: Suche nach Servernamen
-Key: JoinMenuServerDetailConnectButton, Value: Welt verbinden
+Key: JoinMenuServerDetailConnectButton, Value: Server verbinden
 Key: JoinMenuServerDetailFavoriteButton, Value: Favorit
 Key: JoinMenuServerDetailInfoButton, Value: Infos anzeigen
 Key: JoinMenuServerDetailUnFavoriteButton, Value: Favorit entfernen
@@ -1743,7 +1743,7 @@ Key: JoinMenuServerListMap, Value: Karte
 Key: JoinMenuServerListName, Value: Server Name
 Key: JoinMenuServerListRefreshing, Value: Aktualisieren der Serverliste
 Key: JoinMenuServerListVersion, Value: Version
-Key: JoinMenuTitle, Value: Welt verbinden
+Key: JoinMenuTitle, Value: Server verbinden
 Key: JoinWorldEmptyServers, Value: Leere Server ausblenden
 Key: JoinWorldSortBy, Value: Sortieren nach
 Key: Joystick1Button0, Value: Joystick1 Taste0
@@ -1942,7 +1942,7 @@ Key: KeypadEnter, Value: Tastenfeld Eingabe
 Key: KeypadEquals, Value: Tastenfeld Gleich
 Key: KeypadMinus, Value: Tastenfeld Minus
 Key: KeypadMultiply, Value: Tastenfeld Multiplizieren
-Key: KeypadPeriod, Value: Tastenfeld Zeitraum
+Key: KeypadPeriod, Value: Tastenfeld Komma
 Key: KeypadPlus, Value: Tastenfeld Plus
 Key: KitCategory, Value: Bausätze
 Key: KitPlanter, Value: Bausatz (Pflanztopf)
@@ -1982,13 +1982,13 @@ Key: LeftCommand, Value: Links Command
 Key: LeftControl, Value: Linke Steuerung
 Key: LeftCurlyBracket, Value: Linke geschweifte Klammer
 Key: LeftHand, Value: Linke Hand
-Key: LeftParen, Value: Linke Paare
+Key: LeftParen, Value: Klammer auf
 Key: LeftShift, Value: Linke Umschalttaste
 Key: LeftWindows, Value: Links Windows
 Key: Less, Value: Weniger
 Key: LevelLevelField, Value: Lava Höhe
 Key: LifeSupport, Value: Lebenserhaltung
-Key: LightCategory, Value: Lichter
+Key: LightCategory, Value: Lampen
 Key: LightDeficient, Value: Lichtmangel
 Key: LightPerDay, Value: Licht pro Tag
 Key: LightString, Value: Licht
@@ -2005,15 +2005,15 @@ Key: LiquidRocketEngineBasic, Value: Flüssigkeitsraketentriebwerk Standard
 Key: LiquidStress, Value: Stress:
 Key: LiquidVolatiles, Value: Flüssiger Wasserstoff
 Key: Load, Value: Laden
-Key: LoadBackupsTitle, Value: Ladungssicherung
-Key: LoadMenuFileListTitle, Value: Backup Welten
+Key: LoadBackupsTitle, Value: Sicherheitskopien
+Key: LoadMenuFileListTitle, Value: Sicherheitskopien
 Key: LoadMenuTitle, Value: Welt laden
 Key: LoadWorldButtonLoad, Value: Welt laden
 Key: LoadingRail, Value: Verladeschiene
 Key: LoadingScreenCalculatingChunks, Value: Berechnen von Chunks
 Key: LoadingScreenCalculatingMeshes, Value: Berechnen von Meshes
 Key: LoadingScreenCleaningUpPrefabs, Value: Reinigung von Prefabs
-Key: LoadingScreenClientJoining, Value: Beitritt des Kunden
+Key: LoadingScreenClientJoining, Value: Beitreten
 Key: LoadingScreenConnectingToServer, Value: Verbinden mit dem Server
 Key: LoadingScreenDeserializeCableNetworks, Value: Laden von Kabelnetzen
 Key: LoadingScreenDeserializeChunks, Value: Chunks laden
@@ -2058,7 +2058,7 @@ Key: LogicNoAdditionalSlotsFor, Value: Keine weiteren Plätze für {0}
 Key: LogicNoAdditionalSlotsFor, Value: <color=red>Keine weiteren Plätze für</color> {LOCAL:Thing}
 Key: LogicNoAvailableSlots, Value: <color=red>Keine freien Steckplätze</color>
 Key: LogicNoAvailableSlots, Value: <color=red>Keine freien Steckplätze</color>
-Key: LogicNoDevice, Value: Kein Gerät
+Key: LogicNoDevice, Value: <color=red>Kein Gerät</color>
 Key: LogicNoDevice, Value: <color=red>Kein Gerät</color>
 Key: LogicNoReadableDevices, Value: Keine anderen lesbaren Geräte im Netzwerk gefunden
 Key: LogicNoReadableDevices, Value: Keine lesbaren Geräte im Netzwerk
@@ -2253,10 +2253,10 @@ Key: LogicTypeRatioSteamInput2, Value: Das Verhältnis von {GAS:Steam} im Eingang
 Key: LogicTypeRatioSteamOutput, Value: Das Verhältnis von {GAS:Steam} im Ausgang des Geräts
 Key: LogicTypeRatioSteamOutput2, Value: Das Verhältnis von {GAS:Steam} im Ausgang2 des Geräts
 Key: LogicTypeRatioVolatiles, Value: Das Verhältnis der flüchtigen Bestandteile in der Geräteatmosphäre
-Key: LogicTypeRatioVolatilesInput, Value: Das Verhältnis der flüchtigen Stoffe im Eingang des Geräts
-Key: LogicTypeRatioVolatilesInput2, Value: Das Verhältnis der flüchtigen Stoffe im Eingang2 des Geräts
-Key: LogicTypeRatioVolatilesOutput, Value: Das Verhältnis der flüchtigen Stoffe im Ausgang des Geräts
-Key: LogicTypeRatioVolatilesOutput2, Value: Das Verhältnis der flüchtigen Stoffe im Ausgang2 des Geräts
+Key: LogicTypeRatioVolatilesInput, Value: Das Verhältnis von Wasserstoff im Eingang des Geräts
+Key: LogicTypeRatioVolatilesInput2, Value: Das Verhältnis von Wasserstoff im Eingang2 des Geräts
+Key: LogicTypeRatioVolatilesOutput, Value: Das Verhältnis von Wasserstoff im Ausgang des Geräts
+Key: LogicTypeRatioVolatilesOutput2, Value: Das Verhältnis von Wasserstoff im Ausgang2 des Geräts
 Key: LogicTypeRatioWater, Value: Das Verhältnis von Wasser in der Geräteatmosphäre
 Key: LogicTypeRatioWaterInput, Value: Das Verhältnis von Wasser im Eingang des Geräts
 Key: LogicTypeRatioWaterInput2, Value: Das Verhältnis von Wasser im Eingang2 des Geräts
@@ -2314,7 +2314,7 @@ Key: LogicWriterCategory, Value: Logik-Schreiber
 Key: Lore, Value: Lore
 Key: Loulan, Value: Loulan
 Key: LoulanShortDesc, Value: Bei der Ankunft auf Loulan werden Sie eine atembare Atmosphäre vorfinden, deren Druck hoch genug ist, um Leben zu erhalten - aber es herrscht ein großer Mangel daran. Dieser sandige Riese befindet sich im Gargantuan-System und nähert sich jeden Tag dem schwarzen Loch im Zentrum. Dieser Planet ist zwar verlassen und nicht mehr grün und voller {GAS:Water}, aber er hat immer noch eine funktionierende Atmosphäre, und du hast die Aufgabe, das Ödland zu durchforsten, um die Materialien und Ressourcen zu finden, die du zum Überleben in dieser ewigen Wüste brauchst.
-Key: Lungs, Value: Lungen
+Key: Lungs, Value: Lunge
 Key: M, Value: M
 Key: Magazine, Value: Zeitschrift
 Key: Magazine, Value: Zeitschrift
@@ -2382,9 +2382,9 @@ Key: MolePollutantDescription, Value: {GAS:Pollutant}, auch als "X" bekannt, ent
       
 Der Schadstoff hat eine hohe spezifische Wärme, was ihn zu einem hervorragenden Kühlmittel macht. Leider ist es extrem schädlich für organische Lebewesen und schädigt die Lungen der meisten {REAGENT:Carbon}-basierten Organismen schwer.
 Key: MoleSteamDescription, Value: Verdampftes {GAS:Water}. Es kann durch Erhöhen der Temperatur von {GAS:Water} auf seinen Siedepunkt erzeugt werden. Wenn {GAS:Steam} in ein Gasrohr eingeleitet wird, kondensiert er wieder zu {GAS:Water}, wenn seine Temperatur unter dem Siedepunkt liegt. Dampf kann durch die Verbrennung von {GAS:Volatiles} und Sauerstoff mit Hilfe des {THING:H2Combustor} erzeugt werden.
-Key: MoleVolatilesDescription, Value: Flüchtige Stoffe sind ein äußerst reaktives, komplexes organisches Molekül, das in Verbindung mit Sauerstoff als brennbarer Treibstoff verwendet werden kann. Es wird aus {THING:ItemVolatiles} raffiniert.
+Key: MoleVolatilesDescription, Value: Wasserstoff sind ein äußerst reaktives, komplexes organisches Molekül, das in Verbindung mit Sauerstoff als brennbarer Treibstoff verwendet werden kann. Es wird aus {THING:ItemVolatiles} raffiniert.
       
-Aufgrund obskurer und weitgehend vergessener {LINK:ODA;ODA} Vorschriften werden flüchtige Stoffe in verschiedenen technischen Geräten manchmal als "H2" bezeichnet. Sie ähneln zwar dem Wasserstoff, sind aber nicht "wirklich" Wasserstoff. Aus {GAS:Volatiles} entsteht bei der Verbrennung ohne einen Katalysator kein {GAS:Water} (siehe {THING:H2Combustor}). Alleine erzeugen sie {GAS:Pollutant} und {GAS:CarbonDioxide}, wenn sie im folgenden Verhältnis verbrannt werden:
+Aufgrund obskurer und weitgehend vergessener {LINK:ODA;ODA} Vorschriften werden Wasserstoff in verschiedenen technischen Geräten manchmal als "H2" bezeichnet. Sie ähneln zwar dem Wasserstoff, sind aber nicht "wirklich" Wasserstoff. Aus {GAS:Volatiles} entsteht bei der Verbrennung ohne einen Katalysator kein {GAS:Water} (siehe {THING:H2Combustor}). Alleine erzeugen sie {GAS:Pollutant} und {GAS:CarbonDioxide}, wenn sie im folgenden Verhältnis verbrannt werden:
       
 2 {GAS:Volatiles} + 1 {GAS:Oxygen} -> 3 {GAS:Pollutant} + 6 {GAS:CarbonDioxide} + Wärme.
 Key: MoleWaterDescription, Value: Du kannst Wasser erhalten, indem du {THING:ItemIce} mit einem {THING:StructureFurnace} oder einem {THING:StructureIceCrusher} verhüttest oder zerkleinerst. {GAS:Water} ist entscheidend für {LINK:OrganicPage;plants}, um am Leben zu bleiben und {LINK:NutritionPage;food} zu wachsen.
@@ -2944,7 +2944,7 @@ Key: ScriptCommandLBNS, Value: Lädt LogicSlotType aus slotIndex von allen Ausgan
 Key: ScriptCommandLBS, Value: Lädt LogicSlotType aus slotIndex von allen Ausgangsnetzgeräten mit angegebenem Typ-Hash unter Verwendung des bereitgestellten Batch-Modus. Durchschnitt (0), Summe (1), Minimum (2), Maximum (3). Kann entweder das Wort oder die Zahl verwenden.
 Key: ScriptCommandLR, Value: Lädt Reagenz des ReagentMode des Geräts, wobei ein Hash des Reagenztyps angegeben wird, auf den geprüft werden soll. ReagentMode kann entweder Contents (0), Required (1), Recipe (2) sein. Es kann entweder das Wort oder die Zahl verwendet werden.
 Key: ScriptCommandLS, Value: Lädt den Slot LogicSlotType auf das zu registrierende Gerät.
-Key: ScriptCommandLabel, Value: ABGESCHLOSSEN
+Key: ScriptCommandLabel, Value: VERALTET
 Key: ScriptCommandLog, Value: Register = log(a)
 Key: ScriptCommandMax, Value: Register = Maximum von a oder b
 Key: ScriptCommandMin, Value: Register = min von a oder b
@@ -4099,8 +4099,8 @@ Key: V, Value: V
 Key: Vend, Value: verkaufen
 Key: VerticalDegrees, Value: <color=yellow>Vertikal</color> <color=green>{0} Grad</color>
 Key: VisualiserState, Value: Visualisieren {LOCAL:State}
-Key: Volatiles, Value: Flüchtige Stoffe
-Key: Volatiles, Value: Flüchtige Stoffe
+Key: Volatiles, Value: Wasserstoff
+Key: Volatiles, Value: Wasserstoff
 Key: Volume, Value: Volumen
 Key: VolumeChangeDirection, Value: Richtungswechsel
 Key: Vulcan, Value: Vulkan
