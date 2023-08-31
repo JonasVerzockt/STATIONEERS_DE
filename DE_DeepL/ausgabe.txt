@@ -1722,7 +1722,7 @@ Key: ItemWrench, Value: Schraubenschlüssel
 Key: J, Value: J
 Key: JoinMenuAddressPlaceholder, Value: Geben Sie hier IP:Port ein...
 Key: JoinMenuButtonDirectConnect, Value: Direktverbindung
-Key: JoinMenuButtonJoin, Value: Welt verbinden
+Key: JoinMenuButtonJoin, Value: mit Welt verbinden
 Key: JoinMenuButtonRefresh, Value: Liste aktualisieren
 Key: JoinMenuButtonStopRefresh, Value: Stop Refresh
 Key: JoinMenuFiltersTitle, Value: Filter
@@ -1937,7 +1937,7 @@ Key: Keypad6, Value: Tastenfeld6
 Key: Keypad7, Value: Tastenfeld7
 Key: Keypad8, Value: Tastenfeld8
 Key: Keypad9, Value: Tastenfeld9
-Key: KeypadDivide, Value: Tastenfeld Divide
+Key: KeypadDivide, Value: Tastenfeld Dividieren
 Key: KeypadEnter, Value: Tastenfeld Eingabe
 Key: KeypadEquals, Value: Tastenfeld Gleich
 Key: KeypadMinus, Value: Tastenfeld Minus
@@ -1945,13 +1945,13 @@ Key: KeypadMultiply, Value: Tastenfeld Multiplizieren
 Key: KeypadPeriod, Value: Tastenfeld Zeitraum
 Key: KeypadPlus, Value: Tastenfeld Plus
 Key: KitCategory, Value: Bausätze
-Key: KitPlanter, Value: Bausatz (Pflanzer)
+Key: KitPlanter, Value: Bausatz (Pflanztopf)
 Key: KitSDBSilo, Value: Bausatz (SDB Silo)
 Key: KitStructureCombustionCentrifuge, Value: Bausatz (Verbrennungszentrifuge)
 Key: KitchenTableShort, Value: Bausatz Küchentisch (kurz)
 Key: KitchenTableSimpleShort, Value: Küchentisch (einfach kurz)
-Key: KitchenTableSimpleTall, Value: Küchentisch (einfach hoch)
-Key: KitchenTableTall, Value: Küchentisch (Hoch)
+Key: KitchenTableSimpleTall, Value: Küchentisch (einfach groß)
+Key: KitchenTableTall, Value: Küchentisch (Groß)
 Key: L, Value: L
 Key: Lander, Value: Lander
 Key: Landingpad_2x2CenterPiece01, Value: Landeplatz 2x2 Mittelstück
@@ -1971,11 +1971,11 @@ Key: Landingpad_TaxiPieceStraight, Value: Landeplatz Taxi gerade
 Key: Landingpad_ThreshholdPiece, Value: Landeplatz Schwelle
 Key: Launch, Value: Start
 Key: LaunchRocketAlert, Value: Wollen Sie diese Rakete starten?
-Key: LavaLevelField, Value: Lava Level
+Key: LavaLevelField, Value: Lava Höhe
 Key: LayEgg, Value: Ei legen
 Key: Lead, Value: Blei
 Key: LeftAlt, Value: Links Alt
-Key: LeftApple, Value: Links Apple
+Key: LeftApple, Value: Links Apfel
 Key: LeftArrow, Value: Linker Pfeil
 Key: LeftBracket, Value: Linke Klammer
 Key: LeftCommand, Value: Links Command
@@ -1986,7 +1986,7 @@ Key: LeftParen, Value: Linke Paare
 Key: LeftShift, Value: Linke Umschalttaste
 Key: LeftWindows, Value: Links Windows
 Key: Less, Value: Weniger
-Key: LevelLevelField, Value: Lava Level
+Key: LevelLevelField, Value: Lava Höhe
 Key: LifeSupport, Value: Lebenserhaltung
 Key: LightCategory, Value: Lichter
 Key: LightDeficient, Value: Lichtmangel
@@ -1994,36 +1994,36 @@ Key: LightPerDay, Value: Licht pro Tag
 Key: LightString, Value: Licht
 Key: Link, Value: verbinden
 Key: Liquid, Value: Flüssig
-Key: LiquidCanister, Value: Flüssigkeitstank
+Key: LiquidCanister, Value: Flüssigkeitskanister
 Key: LiquidCarbonDioxide, Value: Flüssiger Kohlendioxid
 Key: LiquidInGasPipe, Value: Es ist <color=red>Flüssigkeit</color> in der Leitung
 Key: LiquidNitrogen, Value: Flüssiger Stickstoff
-Key: LiquidNitrousOxide, Value: Flüssiger Distickstoffoxid
+Key: LiquidNitrousOxide, Value: Flüssiges Lachgas
 Key: LiquidOxygen, Value: Flüssiger Sauerstoff
 Key: LiquidPollutant, Value: Flüssiger Schadstoff
-Key: LiquidRocketEngineBasic, Value: Flüssigkeitsraketentriebwerk Basic
-Key: LiquidStress, Value: Flüssiger Stress:
-Key: LiquidVolatiles, Value: Flüssiger flüchtige Stoffe
+Key: LiquidRocketEngineBasic, Value: Flüssigkeitsraketentriebwerk Standard
+Key: LiquidStress, Value: Stress:
+Key: LiquidVolatiles, Value: Flüssiger Wasserstoff
 Key: Load, Value: Laden
 Key: LoadBackupsTitle, Value: Ladungssicherung
-Key: LoadMenuFileListTitle, Value: Gerettete Welten
+Key: LoadMenuFileListTitle, Value: Backup Welten
 Key: LoadMenuTitle, Value: Welt laden
 Key: LoadWorldButtonLoad, Value: Welt laden
 Key: LoadingRail, Value: Verladeschiene
 Key: LoadingScreenCalculatingChunks, Value: Berechnen von Chunks
 Key: LoadingScreenCalculatingMeshes, Value: Berechnen von Meshes
-Key: LoadingScreenCleaningUpPrefabs, Value: Reinigung von Fertighäusern
+Key: LoadingScreenCleaningUpPrefabs, Value: Reinigung von Prefabs
 Key: LoadingScreenClientJoining, Value: Beitritt des Kunden
 Key: LoadingScreenConnectingToServer, Value: Verbinden mit dem Server
-Key: LoadingScreenDeserializeCableNetworks, Value: Deserialisierung von Kabelnetzen
-Key: LoadingScreenDeserializeChunks, Value: Chunks deserialisieren
-Key: LoadingScreenDeserializeRocketNetworks, Value: Deserialisierung von Raketennetzen
-Key: LoadingScreenDeserializeWorldLog, Value: Deserialisierung des Weltprotokolls
-Key: LoadingScreenDeserializingAtmospherics, Value: Deserialisierung von Atmosphären
-Key: LoadingScreenDeserializingChuteNetworks, Value: Deserialisierung von Rutschennetzen
-Key: LoadingScreenDeserializingNetworks, Value: Deserialisierung von Netzwerken
-Key: LoadingScreenDeserializingPipeNetworks, Value: Rohrleitungsnetze deserialisieren
-Key: LoadingScreenDeserializingStationContacts, Value: Deserialisierung von Stationskontakten
+Key: LoadingScreenDeserializeCableNetworks, Value: Laden von Kabelnetzen
+Key: LoadingScreenDeserializeChunks, Value: Chunks laden
+Key: LoadingScreenDeserializeRocketNetworks, Value: Laden von Raketennetzen
+Key: LoadingScreenDeserializeWorldLog, Value: Laden des Weltprotokolls
+Key: LoadingScreenDeserializingAtmospherics, Value: Laden von Atmosphären
+Key: LoadingScreenDeserializingChuteNetworks, Value: Laden von Rutschennetzen
+Key: LoadingScreenDeserializingNetworks, Value: Laden von Netzwerken
+Key: LoadingScreenDeserializingPipeNetworks, Value: Rohrleitungsnetze laden
+Key: LoadingScreenDeserializingStationContacts, Value: Laden von Stationskontakten
 Key: LoadingScreenFinishingGeneratingTerrain, Value: Fertig generiertes Terrain
 Key: LoadingScreenGeneratingRecipes, Value: Erzugen von Rezepten
 Key: LoadingScreenGeneratingTerrain, Value: Terrain generieren
@@ -2032,73 +2032,73 @@ Key: LoadingScreenInitializingChunks, Value: Initialisierung von Chunks
 Key: LoadingScreenInitializingDevices, Value: Geräte initialisieren
 Key: LoadingScreenLoadingAtmosphers, Value: Atmosphären laden
 Key: LoadingScreenLoadingChunks, Value: Chunks laden
-Key: LoadingScreenLoadingRooms, Value: Laderäume
+Key: LoadingScreenLoadingRooms, Value: Räume laden
 Key: LoadingScreenLoadingStationpedia, Value: Laden von Stationpedia
 Key: LoadingScreenLoadingThings, Value: Dinge laden ({LOCAL:ThingCount})
 Key: LoadingScreenNewWorldMenu, Value: Menü Neue Welt
 Key: LoadingScreenPleaseWait, Value: Bitte warten
-Key: LoadingScreenPopulatingInventory, Value: Inventar auffüllen
+Key: LoadingScreenPopulatingInventory, Value: Inventar freigeben
 Key: LoadingScreenProcessingThings, Value: Verarbeitung von Dingen
 Key: LoadingScreenReadyToJoin, Value: Bereit zum Beitritt
 Key: LoadingScreenReceivingJoinData, Value: Empfang von Join-Daten
 Key: LoadingScreenRegeneratingTerrain, Value: Regenerierung des Geländes
-Key: LoadingScreenRegisteringPrefabs, Value: Registrierung von Fertigteilen
-Key: LoadingScreenRenderingChunks, Value: Rendering-Brocken
-Key: LoadingScreenSpawningThings, Value: Laichende Dinge
+Key: LoadingScreenRegisteringPrefabs, Value: Registrierung von Prefabs
+Key: LoadingScreenRenderingChunks, Value: Zeichne Chunks
+Key: LoadingScreenSpawningThings, Value: Plaziere Dinge
 Key: LoadingScreenValidatingPrefabs, Value: Validierung von Prefabs
 Key: Lock, Value: Sperren
-Key: Lock, Value: Schloss
-Key: Locked, Value: Abgeschlossen
-Key: LockedKey, Value: Abgeschlossen
-Key: LogicCategoryKey, Value: Logische Geräte
-Key: LogicCurrentlySetTo, Value: Die {LOCAL:Thing} ist derzeit auf den <color=yellow>Logic</color> Modus eingestellt
-Key: LogicNoAdditionalSettingsFor, Value: Keine zusätzlichen Einstellungen für {0}
-Key: LogicNoAdditionalSettingsFor, Value: <color=red>Keine zusätzlichen Einstellungen für</color> {LOCAL:Thing}
-Key: LogicNoAdditionalSlotsFor, Value: Keine zusätzlichen Zeitnischen für {0}
-Key: LogicNoAdditionalSlotsFor, Value: <color=red>Keine zusätzlichen Steckplätze für</color> {LOCAL:Thing}
-Key: LogicNoAvailableSlots, Value: <color=red>Keine freien Steckplätze
+Key: Lock, Value: Sperre
+Key: Locked, Value: Gesperrt
+Key: LockedKey, Value: Gesperrt
+Key: LogicCategoryKey, Value: Logik und Steuerung
+Key: LogicCurrentlySetTo, Value: Die {LOCAL:Thing} ist derzeit auf den <color=yellow>Logik</color> Modus eingestellt
+Key: LogicNoAdditionalSettingsFor, Value: Es gibt keine zusätzlichen Einstellungen für {0}
+Key: LogicNoAdditionalSettingsFor, Value: <color=red>Es gibt keine zusätzlichen Einstellungen für</color> {LOCAL:Thing}
+Key: LogicNoAdditionalSlotsFor, Value: Keine weiteren Plätze für {0}
+Key: LogicNoAdditionalSlotsFor, Value: <color=red>Keine weiteren Plätze für</color> {LOCAL:Thing}
+Key: LogicNoAvailableSlots, Value: <color=red>Keine freien Steckplätze</color>
 Key: LogicNoAvailableSlots, Value: <color=red>Keine freien Steckplätze</color>
 Key: LogicNoDevice, Value: Kein Gerät
 Key: LogicNoDevice, Value: <color=red>Kein Gerät</color>
-Key: LogicNoReadableDevices, Value: Keine anderen lesbaren Geräte im Netzwerk
-Key: LogicNoReadableDevices, Value: Keine lesbaren Geräte
-Key: LogicNoReadableTypes, Value: Keine anderen lesbaren Typen im Netz
-Key: LogicNoReadableTypes, Value: Keine anderen lesbaren Typen im Netz
-Key: LogicNoSetting, Value: Keine Einstellungen
-Key: LogicNoSetting, Value: <colour=red>Keine Einstellung</colour>.
-Key: LogicNoSlot, Value: <color=red>Kein Steckplatz
+Key: LogicNoReadableDevices, Value: Keine anderen lesbaren Geräte im Netzwerk gefunden
+Key: LogicNoReadableDevices, Value: Keine lesbaren Geräte im Netzwerk
+Key: LogicNoReadableTypes, Value: Keine anderen Typen im Netzwerk gefunden
+Key: LogicNoReadableTypes, Value: Keine anderen Typen im Netzwerk gefunden
+Key: LogicNoSetting, Value: Nicht eingestellt
+Key: LogicNoSetting, Value: <colour=red>Nicht eingestellt</colour>.
+Key: LogicNoSlot, Value: <color=red>Kein Steckplatz</color>
 Key: LogicNoSlot, Value: <color=red>Kein Steckplatz</color>.
 Key: LogicNoWritableDevices, Value: Keine anderen beschreibbaren Geräte im Netzwerk
 Key: LogicNoWritableDevices, Value: Keine anderen beschreibbaren Geräte im Netzwerk
 Key: LogicReadersCategory, Value: Logik-Leser
-Key: LogicSlotTypeCharge, Value: gibt die aktuelle Energieladung des Slot-Inhabers zurück
-Key: LogicSlotTypeChargeRatio, Value: gibt die aktuelle Energieladung des Slot-Inhabers als Verhältnis zwischen 0 und 1 zu seiner maximalen Ladung an
+Key: LogicSlotTypeCharge, Value: gibt den Ladezustand für das Element in diesem Steckplatz zurück
+Key: LogicSlotTypeChargeRatio, Value: gibt den Ladezustand für das Element in diesem Steckplatz in Prozent zurück. 1 = der maximalen Ladung; 0 = leer
 Key: LogicSlotTypeClass, Value: gibt eine ganze Zahl zurück, die die Klasse des Objekts angibt
 Key: LogicSlotTypeDamage, Value: gibt den Schadensstatus des Gegenstands im Steckplatz zurück
-Key: LogicSlotTypeEfficiency, Value: gibt die Wachstumseffizienz der Pflanze in der Spalte
+Key: LogicSlotTypeEfficiency, Value: gibt die Wachstumseffizienz der Pflanze in diesem Steckplatz an
 Key: LogicSlotTypeGrowth, Value: gibt den aktuellen Wachstumsstatus der Pflanze im Steckplatz zurück
 Key: LogicSlotTypeHealth, Value: gibt den Gesundheitszustand der Pflanze im Steckplatz zurück
 Key: LogicSlotTypeMature, Value: gibt 1 zurück, wenn die Pflanze in diesem Slot reif ist, 0, wenn sie es nicht ist
 Key: LogicSlotTypeMaxQuantity, Value: gibt die maximale Stapelgröße des Elements im Steckplatz zurück
 Key: LogicSlotTypeNone, Value: Keine Beschreibung
-Key: LogicSlotTypeOccupantHash, Value: gibt den Has des aktuellen Bewohners zurück, den eindeutigen Bezeichner des Dings
+Key: LogicSlotTypeOccupantHash, Value: gibt den Hash des aktuellen Steckplatzes zurück (den eindeutigen Bezeichner des Dings)
 Key: LogicSlotTypeOccupied, Value: gibt 0 zurück, wenn der Steckplatz nicht belegt ist, 1, wenn er belegt ist
-Key: LogicSlotTypePrefabHash, Value: gibt den Hash der Struktur im Slot zurück
-Key: LogicSlotTypePressure, Value: Rücklaufdruck der internen Atmosphäre der Slot-Insassen
-Key: LogicSlotTypePressureAir, Value: gibt den Druck im Lufttank des Jetpacks in diesem Slot zurück
-Key: LogicSlotTypePressureWaste, Value: gibt den Druck im Abwassertank des Jetpacks an dieser Stelle zurück
-Key: LogicSlotTypeQuantity, Value: gibt die aktuelle Menge (z. B. die Stapelgröße) des Elements im Steckplatz zurück
+Key: LogicSlotTypePrefabHash, Value: gibt den Hash der Struktur im Steckplatz zurück
+Key: LogicSlotTypePressure, Value: gibt den internen Druck des Gerätes zurück, das diesen Steckplatz belegt
+Key: LogicSlotTypePressureAir, Value: gibt den Druck im Lufttank des Jetpacks in diesem Steckplatz zurück
+Key: LogicSlotTypePressureWaste, Value: gibt den Druck im Abfalltank des Jetpacks an dieser Stelle zurück
+Key: LogicSlotTypeQuantity, Value: gibt die aktuelle Menge (z.B. die Stapelgröße) des Elements im Steckplatz zurück
 Key: LogicSlotTypeSeeding, Value: Ob eine Pflanze sät (bereit für die Ernte von Samen). Gibt 1 zurück, wenn sie sät, oder 0, wenn nicht.
-Key: LogicSlotTypeTemperature, Value: Rücklauftemperatur der Innenatmosphäre des Slot-Insassen
-Key: LogicState, Value: Zustand <color=green>#VAR1#
-Key: LogicStepSequencer8, Value: Logischer Schritt-Sequenzer
+Key: LogicSlotTypeTemperature, Value: gibt die interne Temperatur des Gerätes zurück, das diesen Steckplatz belegt
+Key: LogicState, Value: Zustand <color=green>#VAR1#</color>
+Key: LogicStepSequencer8, Value: Logik schrittbasierter Synthesyzer
 Key: LogicTypeActivate, Value: 1, wenn das Gerät aktiviert ist (bedeutet normalerweise, dass es läuft), sonst 0
-Key: LogicTypeAirRelease, Value: Der aktuelle Status des Luftauslösesystems, z.B. AirRelease = 1 für einen Hardsuit setzt Air Release auf On
+Key: LogicTypeAirRelease, Value: Der aktuelle Status des Luftauslasses, z.B. Luftauslass = 1 für einen Gepanzerten Anzug setzt aktiviert diesen
 Key: LogicTypeBpm, Value: Bpm
 Key: LogicTypeBypass, Value: Umgeht einige interne Verhaltensweisen des atmosphärischen Geräts
 Key: LogicTypeChannel, Value: Kanal in einem Kabelnetz, der als flüchtig angesehen werden sollte
 Key: LogicTypeCharge, Value: Die aktuelle Ladung des Geräts
-Key: LogicTypeClearMemory, Value: Wenn auf 1 gesetzt, wird der Zählerspeicher (z. B. ExportCount) gelöscht. Setzt sich selbst auf 0 zurück, wenn die Aktion ausgeführt wird.
+Key: LogicTypeClearMemory, Value: Wenn auf 1 gesetzt, wird der Speicher (z.B. AusgabeZähler) gelöscht. Setzt sich selbst auf 0 zurück, wenn die Aktion ausgeführt wird.
 Key: LogicTypeColor, Value: 
         Ob aus Gründen der Klarheit, der Sicherheit oder der einfachen Ästhetik, {LINK:Stationeers;Stationeers} haben Zugang zu einem kleinen Regenbogen von Farben für ihre Konstruktionen. Dies sind die Farbeinstellungen für Geräte, dargestellt als Ganzzahl.
 
@@ -2117,65 +2117,65 @@ Key: LogicTypeColor, Value:
 
         Es ist ein unumstößliches universelles Gesetz, dass alles, was höher als 11 ist, lila ist. Die {LINK:ODA;ODA} ist machtlos, dies zu ändern. Gleichermaßen wird alles, was niedriger als 0 ist, blau sein.
       
-Key: LogicTypeCombustion, Value: Die bewertete Atmosphäre brennt. Gibt 1 zurück, wenn die Atmosphäre brennt, 0 wenn nicht.
-Key: LogicTypeCombustionInput, Value: Die Bewertungsatmosphäre brennt. Gibt 1 zurück, wenn das Eingangsnetzwerk des Geräts brennt, 0, wenn nicht.
-Key: LogicTypeCombustionInput2, Value: Die bewertete Atmosphäre brennt. Gibt 1 zurück, wenn das Input2-Netzwerk des Geräts brennt, andernfalls 0.
+Key: LogicTypeCombustion, Value: Die gemessene Atmosphäre brennt. Gibt 1 zurück, wenn die Atmosphäre brennt, 0 wenn nicht.
+Key: LogicTypeCombustionInput, Value: Die gemessene Atmosphäre brennt. Gibt 1 zurück, wenn der Eingang des Geräts brennt, 0, wenn nicht.
+Key: LogicTypeCombustionInput2, Value: Die gemessene Atmosphäre brennt. Gibt 1 zurück, wenn der Eingang2 des Geräts brennt, andernfalls 0.
 Key: LogicTypeCombustionLimiter, Value: Verlangsamt die Verbrennungsgeschwindigkeit im Gerät (Bereich: 0-100), wobei 0 die langsamste und 100 die schnellste Verbrennungsgeschwindigkeit ist
-Key: LogicTypeCombustionOutput, Value: Die bewertete Atmosphäre brennt. Gibt 1 zurück, wenn das Ausgangsnetz des Geräts brennt, 0, wenn nicht.
-Key: LogicTypeCombustionOutput2, Value: Die bewertete Atmosphäre brennt. Gibt 1 zurück, wenn das Output2-Netzwerk des Geräts brennt, andernfalls 0.
+Key: LogicTypeCombustionOutput, Value: Die gemessene Atmosphäre brennt. Gibt 1 zurück, wenn der Ausgang des Geräts brennt, 0, wenn nicht.
+Key: LogicTypeCombustionOutput2, Value: Die gemessene Atmosphäre brennt. Gibt 1 zurück, wenn das Ausgang2 des Geräts brennt, andernfalls 0.
 Key: LogicTypeCompletionRatio, Value: Wie vollständig die aktuelle Produktion für dieses Gerät ist, zwischen 0 und 1
 Key: LogicTypeContactTypeId, Value: Die Typbezeichnung des Kontakts
 Key: LogicTypeElevatorLevel, Value: Ebene, auf der sich der Aufzug gerade befindet
 Key: LogicTypeElevatorSpeed, Value: Aktuelle Geschwindigkeit des Aufzugs
-Key: LogicTypeEnvironmentEfficiency, Value: Die von der Maschine gemeldete Umwelteffizienz in Form einer Fließkommazahl zwischen 0 und 1
+Key: LogicTypeEnvironmentEfficiency, Value: Die von der Maschine gemeldete Umgebungseffizienz in Form einer Fließkommazahl zwischen 0 und 1
 Key: LogicTypeError, Value: 1, wenn das Gerät im Fehlerzustand ist, sonst 0
-Key: LogicTypeExportCount, Value: Wie viele Elemente seit dem letzten ClearMemory exportiert wurden
-Key: LogicTypeExportQuantity, Value: Gesamtmenge der vom Gerät exportierten Artikel
-Key: LogicTypeExportSlotHash, Value: ABGESCHLOSSEN
-Key: LogicTypeExportSlotOccupant, Value: ABGESCHLOSSEN
-Key: LogicTypeFiltration, Value: Der aktuelle Status des Filtersystems, z. B. Filtration = 1 für einen Schutzanzug setzt die Filtration auf Ein
+Key: LogicTypeExportCount, Value: Wie viele Elemente seit dem letzten Zurücksetzen des Zählers exportiert wurden
+Key: LogicTypeExportQuantity, Value: Gesamtmenge der vom Gerät Ausgegebenen Elemente
+Key: LogicTypeExportSlotHash, Value: VERALTET
+Key: LogicTypeExportSlotOccupant, Value: VERALTET
+Key: LogicTypeFiltration, Value: Der aktuelle Status des Filtersystems, z. B. Filtration = 1 für einen Schutzanzug aktiviert die Filtration
 Key: LogicTypeFlush, Value: Auf 1 setzen, um die Spülfunktion des Geräts zu aktivieren
 Key: LogicTypeForceWrite, Value: Zwingt Logic-Writer-Geräte, den Wert neu zu schreiben
-Key: LogicTypeHarvest, Value: Führt den Erntevorgang für alle pflanzlichen Maschinen durch
+Key: LogicTypeHarvest, Value: Führt den Erntevorgang für alle Maschinen, die mit Pflanzen ineragieren, durch
 Key: LogicTypeHorizontal, Value: Horizontale Einstellung des Geräts
-Key: LogicTypeHorizontalRatio, Value: Radio der horizontalen Einstellung für das Gerät
+Key: LogicTypeHorizontalRatio, Value: Verhältnis der horizontalen Einstellung für das Gerät
 Key: LogicTypeIdle, Value: Gibt 1 zurück, wenn das Gerät gerade im Leerlauf ist, sonst 0
-Key: LogicTypeImportCount, Value: Wie viele Artikel seit dem letzten ClearMemory importiert wurden
-Key: LogicTypeImportQuantity, Value: Gesamtmenge der vom Gerät importierten Artikel
-Key: LogicTypeImportSlotHash, Value: ABGESCHLOSSEN
-Key: LogicTypeImportSlotOccupant, Value: ABGESCHLOSSEN
-Key: LogicTypeInterrogationProgress, Value: Fortschritt der Abfrage des aktuellen Ziels durch diese Satellitenschüssel, als Verhältnis von 0-1
+Key: LogicTypeImportCount, Value: Wie viele Elemente seit dem letzten zurücksetzen des Zählers importiert wurden
+Key: LogicTypeImportQuantity, Value: Gesamtmenge der vom Gerät entgegengenommenen Artikel
+Key: LogicTypeImportSlotHash, Value: VERALTET
+Key: LogicTypeImportSlotOccupant, Value: VERALTET
+Key: LogicTypeInterrogationProgress, Value: Fortschritt der Kommunikation mit dem aktuellen Ziel durch diese Satellitenschüssel, als Verhältnis von 0-1
 Key: LogicTypeLineNumber, Value: Die Zeilennummer der aktuellen Ausführung für eine integrierte Schaltung, die auf diesem Gerät läuft. Diese Nummer kann zwar geschrieben werden, ist aber mit Vorsicht zu verwenden
-Key: LogicTypeLock, Value: 1, wenn das Gerät gesperrt ist, sonst 0, kann bei den meisten Geräten eingestellt werden und verhindert den Zugriff des Benutzers auf die Werte
-Key: LogicTypeMaximum, Value: Maximale Einstellung des Geräts
-Key: LogicTypeMinWattsToContact, Value: Mindestens erforderliche Wattzahl, mit der die Schüssel auf den Kontakt des Zielhändlers trifft, um die Abfrage des Kontakts zu starten
-Key: LogicTypeMode, Value: Integerwert für den Moduszustand, verschiedene Geräte haben verschiedene Moduszustände zur Verfügung
+Key: LogicTypeLock, Value: 1, wenn das Gerät gesperrt ist, sonst 0. kann bei den meisten Geräten eingestellt werden und verhindert den Zugriff des Benutzers auf die Steuerelemente des Gerätes
+Key: LogicTypeMaximum, Value: Einstellung des Maximalwerts des Geräts
+Key: LogicTypeMinWattsToContact, Value: Mindestens erforderliche Wattzahl, mit der die Sattelitenschüssel auf den Kontakt des Zielhändlers trifft, um den Kontakt zu aufzunehmen
+Key: LogicTypeMode, Value: Integerwert für den Modus des Gerätes. Verschiedene Geräte haben verschiedene Modi zur Verfügung
 Key: LogicTypeNone, Value: Keine Beschreibung
 Key: LogicTypeOn, Value: Der aktuelle Zustand des Geräts, 0 für aus, 1 für an
 Key: LogicTypeOpen, Value: 1, wenn das Gerät geöffnet ist, sonst 0
-Key: LogicTypeOperationalTemperatureEfficiency, Value: Wie sich die Temperatur der Eingangsleitung auf die Effizienz der Maschine auswirkt
-Key: LogicTypeOutput, Value: Die Ausgabeoperation für ein Sortiergerät, wie z. B. einen Stapler oder eine Sortiermaschine, wenn das Gerät im Logikmodus nur eine Wiederholung durchführt, wenn es auf Null oder höher eingestellt ist, und dann auf -1 zurückgeht und auf weitere Anweisungen wartet.
-Key: LogicTypePlant, Value: Führt die Pflanzaktion für alle pflanzlichen Maschinen durch
-Key: LogicTypePlantEfficiency1, Value: ABGESCHLOSSEN
-Key: LogicTypePlantEfficiency2, Value: ABGESCHLOSSEN
-Key: LogicTypePlantEfficiency3, Value: ABGESCHLOSSEN
-Key: LogicTypePlantEfficiency4, Value: ABGESCHLOSSEN
-Key: LogicTypePlantGrowth1, Value: ABGESCHLOSSEN
-Key: LogicTypePlantGrowth2, Value: ABGESCHLOSSEN
-Key: LogicTypePlantGrowth3, Value: ABGESCHLOSSEN
-Key: LogicTypePlantGrowth4, Value: ABGESCHLOSSEN
-Key: LogicTypePlantHash1, Value: ABGESCHLOSSEN
-Key: LogicTypePlantHash2, Value: ABGESCHLOSSEN
-Key: LogicTypePlantHash3, Value: ABGESCHLOSSEN
-Key: LogicTypePlantHash4, Value: ABGESCHLOSSEN
-Key: LogicTypePlantHealth1, Value: ABGESCHLOSSEN
-Key: LogicTypePlantHealth2, Value: ABGESCHLOSSEN
-Key: LogicTypePlantHealth3, Value: ABGESCHLOSSEN
-Key: LogicTypePlantHealth4, Value: ABGESCHLOSSEN
+Key: LogicTypeOperationalTemperatureEfficiency, Value: Misst die Temperatureffizienz der Eingangsleitung
+Key: LogicTypeOutput, Value: Der Status der Maschine (z.B. Stapler oder Sortierer) sofern diese in den Logikmodus versetzt wurde. Nach einer durchgeführten Operation (Sortierung oder Stapelung), geht dieser Status auf -1 und signalisiert das neue Operationen angewiesen werden können.
+Key: LogicTypePlant, Value: Weist alle Maschienen, die mit Pflanzen interagieren, an einen Pflanzvorgang vorzunehmen
+Key: LogicTypePlantEfficiency1, Value: VERALTET
+Key: LogicTypePlantEfficiency2, Value: VERALTET
+Key: LogicTypePlantEfficiency3, Value: VERALTET
+Key: LogicTypePlantEfficiency4, Value: VERALTET
+Key: LogicTypePlantGrowth1, Value: VERALTET
+Key: LogicTypePlantGrowth2, Value: VERALTET
+Key: LogicTypePlantGrowth3, Value: VERALTET
+Key: LogicTypePlantGrowth4, Value: VERALTET
+Key: LogicTypePlantHash1, Value: VERALTET
+Key: LogicTypePlantHash2, Value: VERALTET
+Key: LogicTypePlantHash3, Value: VERALTET
+Key: LogicTypePlantHash4, Value: VERALTET
+Key: LogicTypePlantHealth1, Value: VERALTET
+Key: LogicTypePlantHealth2, Value: VERALTET
+Key: LogicTypePlantHealth3, Value: VERALTET
+Key: LogicTypePlantHealth4, Value: VERALTET
 Key: LogicTypePositionX, Value: Die aktuelle Position in der X-Dimension in Weltkoordinaten
 Key: LogicTypePositionY, Value: Die aktuelle Position in der Y-Dimension in Weltkoordinaten
 Key: LogicTypePositionZ, Value: Die aktuelle Position in der Z-Dimension in Weltkoordinaten
-Key: LogicTypePower, Value: Kann ausgelesen werden, um festzustellen, ob das Gerät korrekt mit Strom versorgt wird oder nicht, eingestellt über das Stromversorgungssystem, Rückgabe 1, wenn es mit Strom versorgt wird und 0, wenn nicht
+Key: LogicTypePower, Value: Kann ausgelesen werden, um festzustellen, ob das Gerät korrekt mit Strom versorgt wird oder nicht. Rückgabe 1, wenn es mit Strom versorgt wird und 0, wenn nicht
 Key: LogicTypePowerActual, Value: Wie viel Energie das Gerät oder Netzwerk tatsächlich verbraucht
 Key: LogicTypePowerGeneration, Value: Gibt an, wie viel Strom gerade erzeugt wird
 Key: LogicTypePowerPotential, Value: Wie viel Energie das Gerät oder Netz potenziell liefert
@@ -2183,85 +2183,85 @@ Key: LogicTypePowerRequired, Value: Vom Gerät und/oder Netz angeforderte Leistun
 Key: LogicTypePrefabHash, Value: Der Hash-Wert der Struktur
 Key: LogicTypePressure, Value: Der aktuelle Druckwert des Geräts
 Key: LogicTypePressureEfficiency, Value: Wie sich der Druck der Zuleitung und der Abflussleitung auf die Effizienz der Maschine auswirkt
-Key: LogicTypePressureExternal, Value: Einstellung für externe Drucksicherheit, in KPa
-Key: LogicTypePressureInput, Value: Der aktuelle Druckwert des Eingangsnetzes des Geräts
-Key: LogicTypePressureInput2, Value: Der aktuelle Druckwert des Input2-Netzwerks des Geräts
-Key: LogicTypePressureInternal, Value: Einstellung für die Innendrucksicherheit, in KPa
-Key: LogicTypePressureOutput, Value: Der aktuelle Druckwert des Ausgangsnetzes des Geräts
-Key: LogicTypePressureOutput2, Value: Der aktuelle Druckwert des Output2-Netzwerks des Geräts
-Key: LogicTypePressureSetting, Value: Die aktuelle Einstellung für den Innendruck des Objekts (z. B. der Hardsuit-Luftablass), in KPa
-Key: LogicTypeQuantity, Value: Gesamtmenge auf dem Gerät
-Key: LogicTypeRatio, Value: Kontextspezifischer Wert je nach Gerät, 0 bis 1 basierend auf dem Verhältnis
+Key: LogicTypePressureExternal, Value: Einstellung für externe Drucklimitierung in KPa
+Key: LogicTypePressureInput, Value: Der aktuelle Druckwert des Eingangs des Geräts
+Key: LogicTypePressureInput2, Value: Der aktuelle Druckwert des Eingangs 2 des Geräts
+Key: LogicTypePressureInternal, Value: Einstellung für die Innendruckbegrenzung in KPa
+Key: LogicTypePressureOutput, Value: Der aktuelle Druckwert des Ausgangs des Geräts
+Key: LogicTypePressureOutput2, Value: Der aktuelle Druckwert des Ausgangs2 des Geräts
+Key: LogicTypePressureSetting, Value: Die aktuelle Einstellung für den Innendruck des Objekts (z.B. der Gepanzerter Anzug Entlüftung) in KPa
+Key: LogicTypeQuantity, Value: Anzahl in dem Gerät
+Key: LogicTypeRatio, Value: Kontextspezifisches Verhältnis je nach Gerät, 0 bis 1 basierend auf dem Verhältnis
 Key: LogicTypeRatioCarbonDioxide, Value: Das Verhältnis von {GAS:CarbonDioxide} in der Geräteatmosphäre
-Key: LogicTypeRatioCarbonDioxideInput, Value: Das Verhältnis von {GAS:CarbonDioxide} im Eingangsnetz des Geräts
-Key: LogicTypeRatioCarbonDioxideInput2, Value: Das Verhältnis von {GAS:CarbonDioxide} im Input2-Netzwerk des Geräts
-Key: LogicTypeRatioCarbonDioxideOutput, Value: Das Verhältnis von {GAS:CarbonDioxide} im Ausgangsnetz des Geräts
-Key: LogicTypeRatioCarbonDioxideOutput2, Value: Das Verhältnis von {GAS:CarbonDioxide} im Output2-Netzwerk des Geräts
+Key: LogicTypeRatioCarbonDioxideInput, Value: Das Verhältnis von {GAS:CarbonDioxide} im Eingang des Geräts
+Key: LogicTypeRatioCarbonDioxideInput2, Value: Das Verhältnis von {GAS:CarbonDioxide} im Eingang2 des Geräts
+Key: LogicTypeRatioCarbonDioxideOutput, Value: Das Verhältnis von {GAS:CarbonDioxide} im Ausgang des Geräts
+Key: LogicTypeRatioCarbonDioxideOutput2, Value: Das Verhältnis von {GAS:CarbonDioxide} im Ausgang2 des Geräts
 Key: LogicTypeRatioLiquidCarbonDioxide, Value: Das Verhältnis von {GAS:LiquidCarbonDioxide} in der Atmosphäre des Geräts
-Key: LogicTypeRatioLiquidCarbonDioxideInput, Value: Das Verhältnis von {GAS:LiquidCarbonDioxide} in der Input-Atmosphäre des Geräts
-Key: LogicTypeRatioLiquidCarbonDioxideInput2, Value: Das Verhältnis von {GAS:LiquidCarbonDioxide} in der Input2-Atmosphäre des Geräts
-Key: LogicTypeRatioLiquidCarbonDioxideOutput, Value: Das Verhältnis von {GAS:LiquidCarbonDioxide} in der Output-Atmosphäre des Geräts des Geräts
-Key: LogicTypeRatioLiquidCarbonDioxideOutput2, Value: Das Verhältnis von {GAS:LiquidCarbonDioxide} in der Output2-Atmopshäre des Geräts
+Key: LogicTypeRatioLiquidCarbonDioxideInput, Value: Das Verhältnis von {GAS:LiquidCarbonDioxide} im Eingang des Geräts
+Key: LogicTypeRatioLiquidCarbonDioxideInput2, Value: Das Verhältnis von {GAS:LiquidCarbonDioxide} im Eingang2 des Geräts
+Key: LogicTypeRatioLiquidCarbonDioxideOutput, Value: Das Verhältnis von {GAS:LiquidCarbonDioxide} im Ausgang des Geräts
+Key: LogicTypeRatioLiquidCarbonDioxideOutput2, Value: Das Verhältnis von {GAS:LiquidCarbonDioxide} im Ausgang2 des Geräts
 Key: LogicTypeRatioLiquidNitrogen, Value: Das Verhältnis von {GAS:LiquidNitrogen} in der Geräteatmosphäre
-Key: LogicTypeRatioLiquidNitrogenInput, Value: Das Verhältnis von {GAS:LiquidNitrogen} im Eingangsnetz des Geräts
-Key: LogicTypeRatioLiquidNitrogenInput2, Value: Das Verhältnis von {GAS:LiquidNitrogen} im Input2-Netzwerk des Geräts
-Key: LogicTypeRatioLiquidNitrogenOutput, Value: Das Verhältnis von {GAS:LiquidNitrogen} im Ausgangsnetz des Geräts
-Key: LogicTypeRatioLiquidNitrogenOutput2, Value: Das Verhältnis von {GAS:LiquidNitrogen} im Output2-Netzwerk des Geräts
+Key: LogicTypeRatioLiquidNitrogenInput, Value: Das Verhältnis von {GAS:LiquidNitrogen} im Eingang des Geräts
+Key: LogicTypeRatioLiquidNitrogenInput2, Value: Das Verhältnis von {GAS:LiquidNitrogen} im Eingang2 des Geräts
+Key: LogicTypeRatioLiquidNitrogenOutput, Value: Das Verhältnis von {GAS:LiquidNitrogen} im Ausgang des Geräts
+Key: LogicTypeRatioLiquidNitrogenOutput2, Value: Das Verhältnis von {GAS:LiquidNitrogen} im Ausgang2 des Geräts
 Key: LogicTypeRatioLiquidNitrousOxide, Value: Das Verhältnis von {GAS:LiquidNitrousOxide} in der Atmosphäre des Geräts
-Key: LogicTypeRatioLiquidNitrousOxideInput, Value: Das Verhältnis von {GAS:LiquidNitrousOxide} in der Input-Atmosphäre des Geräts
-Key: LogicTypeRatioLiquidNitrousOxideInput2, Value: Das Verhältnis von {GAS:LiquidNitrousOxide} in der Input2-Atmosphäre des Geräts
-Key: LogicTypeRatioLiquidNitrousOxideOutput, Value: Das Verhältnis von {GAS:LiquidNitrousOxide} in der Output-Atmosphäre des Geräts des Geräts
-Key: LogicTypeRatioLiquidNitrousOxideOutput2, Value: Das Verhältnis von {GAS:LiquidNitrousOxide} in der Output2-Atmopshäre des Geräts
+Key: LogicTypeRatioLiquidNitrousOxideInput, Value: Das Verhältnis von {GAS:LiquidNitrousOxide} im Eingang des Geräts
+Key: LogicTypeRatioLiquidNitrousOxideInput2, Value: Das Verhältnis von {GAS:LiquidNitrousOxide} im Eingang2 des Geräts
+Key: LogicTypeRatioLiquidNitrousOxideOutput, Value: Das Verhältnis von {GAS:LiquidNitrousOxide} im Ausgang des Geräts
+Key: LogicTypeRatioLiquidNitrousOxideOutput2, Value: Das Verhältnis von {GAS:LiquidNitrousOxide} im Ausgang2 des Geräts
 Key: LogicTypeRatioLiquidOxygen, Value: Das Verhältnis von {GAS:LiquidOxygen} in der Atmosphäre des Geräts
-Key: LogicTypeRatioLiquidOxygenInput, Value: Das Verhältnis von {GAS:LiquidOxygen} in der Input-Atmosphäre des Geräts
-Key: LogicTypeRatioLiquidOxygenInput2, Value: Das Verhältnis von {GAS:LiquidOxygen} in der Input2-Atmosphäre des Geräts
-Key: LogicTypeRatioLiquidOxygenOutput, Value: Das Verhältnis von {GAS:LiquidOxygen} in der Output-Atmosphäre des Geräts des Geräts
-Key: LogicTypeRatioLiquidOxygenOutput2, Value: Das Verhältnis von {GAS:LiquidOxygen} in der Output2-Atmopshäre des Geräts
+Key: LogicTypeRatioLiquidOxygenInput, Value: Das Verhältnis von {GAS:LiquidOxygen} im Eingang des Geräts
+Key: LogicTypeRatioLiquidOxygenInput2, Value: Das Verhältnis von {GAS:LiquidOxygen} in im Eingang2 des Geräts
+Key: LogicTypeRatioLiquidOxygenOutput, Value: Das Verhältnis von {GAS:LiquidOxygen} im Ausgang des Geräts
+Key: LogicTypeRatioLiquidOxygenOutput2, Value: Das Verhältnis von {GAS:LiquidOxygen} im Ausgang2 des Geräts
 Key: LogicTypeRatioLiquidPollutant, Value: Das Verhältnis von {GAS:LiquidPollutant} in der Atmosphäre des Geräts
-Key: LogicTypeRatioLiquidPollutantInput, Value: Das Verhältnis von {GAS:LiquidPollutant} in der Input-Atmosphäre des Geräts
-Key: LogicTypeRatioLiquidPollutantInput2, Value: Das Verhältnis von {GAS:LiquidPollutant} in der Input2-Atmosphäre des Geräts
-Key: LogicTypeRatioLiquidPollutantOutput, Value: Das Verhältnis von {GAS:LiquidPollutant} in der Output-Atmosphäre des Geräts des Geräts
-Key: LogicTypeRatioLiquidPollutantOutput2, Value: Das Verhältnis von {GAS:LiquidPollutant} in der Output2-Atmopshäre des Geräts
+Key: LogicTypeRatioLiquidPollutantInput, Value: Das Verhältnis von {GAS:LiquidPollutant} im Eingang des Geräts
+Key: LogicTypeRatioLiquidPollutantInput2, Value: Das Verhältnis von {GAS:LiquidPollutant} im Eingang2 des Geräts
+Key: LogicTypeRatioLiquidPollutantOutput, Value: Das Verhältnis von {GAS:LiquidPollutant} im Ausgang des Geräts
+Key: LogicTypeRatioLiquidPollutantOutput2, Value: Das Verhältnis von {GAS:LiquidPollutant} im Ausgang2 des Geräts
 Key: LogicTypeRatioLiquidVolatiles, Value: Das Verhältnis von {GAS:LiquidVolatiles} in der Atmosphäre des Geräts
-Key: LogicTypeRatioLiquidVolatilesInput, Value: Das Verhältnis von {GAS:LiquidVolatiles} in der Input-Atmosphäre des Geräts
-Key: LogicTypeRatioLiquidVolatilesInput2, Value: Das Verhältnis von {GAS:LiquidVolatiles} in der Input2-Atmosphäre des Geräts
-Key: LogicTypeRatioLiquidVolatilesOutput, Value: Das Verhältnis von {GAS:LiquidVolatiles} in der Output-Atmosphäre des Geräts des Geräts
-Key: LogicTypeRatioLiquidVolatilesOutput2, Value: Das Verhältnis von {GAS:LiquidVolatiles} in der Output2-Atmopshäre des Geräts
+Key: LogicTypeRatioLiquidVolatilesInput, Value: Das Verhältnis von {GAS:LiquidVolatiles} im Eingang des Geräts
+Key: LogicTypeRatioLiquidVolatilesInput2, Value: Das Verhältnis von {GAS:LiquidVolatiles} im Eingang2 des Geräts
+Key: LogicTypeRatioLiquidVolatilesOutput, Value: Das Verhältnis von {GAS:LiquidVolatiles} im Ausgang des Geräts
+Key: LogicTypeRatioLiquidVolatilesOutput2, Value: Das Verhältnis von {GAS:LiquidVolatiles} im Ausgang2 des Geräts
 Key: LogicTypeRatioNitrogen, Value: Das Verhältnis von Stickstoff in der Geräteatmosphäre
-Key: LogicTypeRatioNitrogenInput, Value: Das Verhältnis von Stickstoff im Eingangsnetz des Geräts
-Key: LogicTypeRatioNitrogenInput2, Value: Das Verhältnis von Stickstoff im Input2-Netzwerk des Geräts
-Key: LogicTypeRatioNitrogenOutput, Value: Das Verhältnis von Stickstoff im Ausgangsnetz des Geräts
-Key: LogicTypeRatioNitrogenOutput2, Value: Das Verhältnis von Stickstoff im Output2-Netzwerk des Geräts
+Key: LogicTypeRatioNitrogenInput, Value: Das Verhältnis von Stickstoff im Eingang des Geräts
+Key: LogicTypeRatioNitrogenInput2, Value: Das Verhältnis von Stickstoff im Eingang2 des Geräts
+Key: LogicTypeRatioNitrogenOutput, Value: Das Verhältnis von Stickstoff im Ausgang des Geräts
+Key: LogicTypeRatioNitrogenOutput2, Value: Das Verhältnis von Stickstoff im Ausgang2 des Geräts
 Key: LogicTypeRatioNitrousOxide, Value: Das Verhältnis von {GAS:NitrousOxide} in der Geräteatmosphäre
-Key: LogicTypeRatioNitrousOxideInput, Value: Das Verhältnis von {GAS:NitrousOxide} im Eingangsnetz des Geräts
-Key: LogicTypeRatioNitrousOxideInput2, Value: Das Verhältnis von {GAS:NitrousOxide} im Input2-Netzwerk des Geräts
-Key: LogicTypeRatioNitrousOxideOutput, Value: Das Verhältnis von {GAS:NitrousOxide} im Ausgangsnetz des Geräts
-Key: LogicTypeRatioNitrousOxideOutput2, Value: Das Verhältnis von {GAS:NitrousOxide} im Output2-Netzwerk des Geräts
+Key: LogicTypeRatioNitrousOxideInput, Value: Das Verhältnis von {GAS:NitrousOxide} im Eingang des Geräts
+Key: LogicTypeRatioNitrousOxideInput2, Value: Das Verhältnis von {GAS:NitrousOxide} im Eingang2 des Geräts
+Key: LogicTypeRatioNitrousOxideOutput, Value: Das Verhältnis von {GAS:NitrousOxide} im Ausgang des Geräts
+Key: LogicTypeRatioNitrousOxideOutput2, Value: Das Verhältnis von {GAS:NitrousOxide} im Ausgang2 des Geräts
 Key: LogicTypeRatioOxygen, Value: Das Verhältnis von Sauerstoff in der Geräteatmosphäre
-Key: LogicTypeRatioOxygenInput, Value: Das Verhältnis von Sauerstoff im Eingangsnetz des Geräts
-Key: LogicTypeRatioOxygenInput2, Value: Das Verhältnis von Sauerstoff im Input2-Netzwerk des Geräts
-Key: LogicTypeRatioOxygenOutput, Value: Das Verhältnis von Sauerstoff im Ausgangsnetz des Geräts
-Key: LogicTypeRatioOxygenOutput2, Value: Das Verhältnis von Sauerstoff im Output2-Netzwerk des Geräts
+Key: LogicTypeRatioOxygenInput, Value: Das Verhältnis von Sauerstoff im Eingang des Geräts
+Key: LogicTypeRatioOxygenInput2, Value: Das Verhältnis von Sauerstoff im Eingang2 des Geräts
+Key: LogicTypeRatioOxygenOutput, Value: Das Verhältnis von Sauerstoff im Ausgang des Geräts
+Key: LogicTypeRatioOxygenOutput2, Value: Das Verhältnis von Sauerstoff im Ausgang2 des Geräts
 Key: LogicTypeRatioPollutant, Value: Das Verhältnis von Schadstoffen in der Geräteatmosphäre
-Key: LogicTypeRatioPollutantInput, Value: Das Verhältnis der Schadstoffe im Eingangsnetz des Geräts
-Key: LogicTypeRatioPollutantInput2, Value: Das Verhältnis der Schadstoffe im Input2-Netzwerk des Geräts
-Key: LogicTypeRatioPollutantOutput, Value: Der Anteil der Schadstoffe im Ausgangsnetz des Geräts
-Key: LogicTypeRatioPollutantOutput2, Value: Das Verhältnis der Schadstoffe im Output2-Netz des Geräts
+Key: LogicTypeRatioPollutantInput, Value: Das Verhältnis der Schadstoffe im Eingang des Geräts
+Key: LogicTypeRatioPollutantInput2, Value: Das Verhältnis der Schadstoffe im Eingang2 des Geräts
+Key: LogicTypeRatioPollutantOutput, Value: Der Anteil der Schadstoffe im Ausgang des Geräts
+Key: LogicTypeRatioPollutantOutput2, Value: Das Verhältnis der Schadstoffe im Ausgang2 des Geräts
 Key: LogicTypeRatioSteam, Value: Das Verhältnis von {GAS:Steam} in der Atmosphäre des Geräts
-Key: LogicTypeRatioSteamInput, Value: Das Verhältnis von {GAS:Steam} in der Input-Atmosphäre des Geräts
-Key: LogicTypeRatioSteamInput2, Value: Das Verhältnis von {GAS:Steam} in der Input2-Atmosphäre des Geräts
-Key: LogicTypeRatioSteamOutput, Value: Das Verhältnis von {GAS:Steam} in der Output-Atmosphäre des Geräts des Geräts
-Key: LogicTypeRatioSteamOutput2, Value: Das Verhältnis von {GAS:Steam} in der Output2-Atmopshäre des Geräts
+Key: LogicTypeRatioSteamInput, Value: Das Verhältnis von {GAS:Steam} im Eingang des Geräts
+Key: LogicTypeRatioSteamInput2, Value: Das Verhältnis von {GAS:Steam} im Eingang2 des Geräts
+Key: LogicTypeRatioSteamOutput, Value: Das Verhältnis von {GAS:Steam} im Ausgang des Geräts
+Key: LogicTypeRatioSteamOutput2, Value: Das Verhältnis von {GAS:Steam} im Ausgang2 des Geräts
 Key: LogicTypeRatioVolatiles, Value: Das Verhältnis der flüchtigen Bestandteile in der Geräteatmosphäre
-Key: LogicTypeRatioVolatilesInput, Value: Das Verhältnis der flüchtigen Stoffe im Eingangsnetz des Geräts
-Key: LogicTypeRatioVolatilesInput2, Value: Das Verhältnis der flüchtigen Stoffe im Input2-Netzwerk des Geräts
-Key: LogicTypeRatioVolatilesOutput, Value: Das Verhältnis der flüchtigen Stoffe im Ausgangsnetz des Geräts
-Key: LogicTypeRatioVolatilesOutput2, Value: Das Verhältnis der flüchtigen Stoffe im Output2-Netzwerk des Geräts
+Key: LogicTypeRatioVolatilesInput, Value: Das Verhältnis der flüchtigen Stoffe im Eingang des Geräts
+Key: LogicTypeRatioVolatilesInput2, Value: Das Verhältnis der flüchtigen Stoffe im Eingang2 des Geräts
+Key: LogicTypeRatioVolatilesOutput, Value: Das Verhältnis der flüchtigen Stoffe im Ausgang des Geräts
+Key: LogicTypeRatioVolatilesOutput2, Value: Das Verhältnis der flüchtigen Stoffe im Ausgang2 des Geräts
 Key: LogicTypeRatioWater, Value: Das Verhältnis von Wasser in der Geräteatmosphäre
-Key: LogicTypeRatioWaterInput, Value: Das Verhältnis von Wasser im Eingangsnetz des Geräts
-Key: LogicTypeRatioWaterInput2, Value: Das Verhältnis von Wasser im Input2-Netzwerk des Geräts
-Key: LogicTypeRatioWaterOutput, Value: Das Verhältnis von Wasser im Ausgangsnetz des Geräts
-Key: LogicTypeRatioWaterOutput2, Value: Das Verhältnis von Wasser im Output2-Netz des Geräts
+Key: LogicTypeRatioWaterInput, Value: Das Verhältnis von Wasser im Eingang des Geräts
+Key: LogicTypeRatioWaterInput2, Value: Das Verhältnis von Wasser im Eingang2 des Geräts
+Key: LogicTypeRatioWaterOutput, Value: Das Verhältnis von Wasser im Ausgang des Geräts
+Key: LogicTypeRatioWaterOutput2, Value: Das Verhältnis von Wasser im Ausgang2 des Geräts
 Key: LogicTypeReagents, Value: Gesamtzahl der vom Gerät erfassten Reagenzien
 Key: LogicTypeRecipeHash, Value: Aktueller Hash-Wert des Rezepts, das das Gerät erzeugen soll
 Key: LogicTypeRequestHash, Value: Wenn er auf den eindeutigen Bezeichner gesetzt ist, wird ein Gegenstand des angegebenen Typs aus dem Gerät abgerufen
@@ -2269,43 +2269,43 @@ Key: LogicTypeRequestHash, Value: Wenn er auf den eindeutigen Bezeichner gesetzt
 Key: LogicTypeRequiredPower, Value: Leerlaufbetriebsleistung, umfasst nicht notwendigerweise die zusätzliche Bedarfsleistung
 Key: LogicTypeRpm, Value: Die Anzahl der Umdrehungen pro Minute, die der Rotationsmechanismus des Geräts macht
 Key: LogicTypeSetting, Value: Eine variable Einstellung, die je nach Gerät gelesen oder geschrieben werden kann
-Key: LogicTypeSettingInputHash, Value: Die Eingangseinstellung für das Gerät
-Key: LogicTypeSettingOutputHash, Value: Die Ausgabeeinstellung für das Gerät
+Key: LogicTypeSettingInputHash, Value: Der Eingabe-Hash für das Gerät
+Key: LogicTypeSettingOutputHash, Value: Der Ausgabe-Hash für das Gerät
 Key: LogicTypeSignalID, Value: Gibt die Kontakt-ID des stärksten Signals von diesem Satelliten zurück
-Key: LogicTypeSignalStrength, Value: Gibt den Grad-Offset des stärksten Kontakts zurück
-Key: LogicTypeSizeX, Value: Größe auf der X-Achse (rechts) des Objekts in largeGrids (ein largeGrid ist 2 Meter)
-Key: LogicTypeSizeY, Value: Größe auf der Y(Up)-Achse des Objekts in largeGrids (ein largeGrid ist 2 Meter)
-Key: LogicTypeSizeZ, Value: Größe auf der Z(Forward)-Achse des Objekts in largeGrids (ein largeGrid ist 2 Meter)
-Key: LogicTypeSolarAngle, Value: Sonnenwinkel des Geräts
-Key: LogicTypeSolarConstant, Value: Solarkonstante der Welt
+Key: LogicTypeSignalStrength, Value: Gibt die Abweichung in Grad zum stärksten Kontakt zurück
+Key: LogicTypeSizeX, Value: Größe auf der X-Achse (Rechts) des Objekts in largeGrids (ein largeGrid sind 2 Meter)
+Key: LogicTypeSizeY, Value: Größe auf der Y-Achse(Hoch) des Objekts in largeGrids (ein largeGrid sind 2 Meter)
+Key: LogicTypeSizeZ, Value: Größe auf der Z-Achse(Vorwärz) des Objekts in largeGrids (ein largeGrid sind 2 Meter)
+Key: LogicTypeSolarAngle, Value: Sonneneinfallswinkel relativ zur Position des Geräts
+Key: LogicTypeSolarConstant, Value: Sonnen-Einstrahlungs-konstante der Welt
 Key: LogicTypeSoundAlert, Value: Gibt einen Warnton über den Lautsprecher des Geräts wieder
 Key: LogicTypeStress, Value: Maschinen werden gestresst, wenn sie hart arbeiten. Wenn die Belastung 100 erreicht, wird die Maschine automatisch abgeschaltet.
-Key: LogicTypeTargetPadIndex, Value: Der Index des Landeplatzes des Händlers im Datennetz des Geräts, an dem es versucht, einen Händler zu landen
+Key: LogicTypeTargetPadIndex, Value: Der Index des Landeplatzes, für den versucht wird einen Händler landen zu lassen
 Key: LogicTypeTargetX, Value: Die Zielposition in der X-Dimension in Weltkoordinaten
 Key: LogicTypeTargetY, Value: Die Zielposition in der Y-Dimension in Weltkoordinaten
 Key: LogicTypeTargetZ, Value: Die Zielposition in der Z-Dimension in Weltkoordinaten
 Key: LogicTypeTemperature, Value: Der aktuelle Temperaturwert des Geräts
-Key: LogicTypeTemperatureDifferentialEfficiency, Value: Wie sich der Temperaturunterschied zwischen Zulauf- und Ablaufleitung auf die Effizienz der Maschine auswirkt
+Key: LogicTypeTemperatureDifferentialEfficiency, Value: Wie sich der Temperaturunterschied zwischen Eingang und Ausgang auf die Effizienz der Maschine auswirkt
 Key: LogicTypeTemperatureExternal, Value: Die Temperatur der Außenseite des Geräts, in der Regel die das Gerät umgebende Weltatmosphäre
-Key: LogicTypeTemperatureInput, Value: Der aktuelle Temperaturwert des Eingangsnetzes des Geräts
-Key: LogicTypeTemperatureInput2, Value: Der aktuelle Temperaturwert des Input2-Netzwerks des Geräts
-Key: LogicTypeTemperatureOutput, Value: Der aktuelle Temperaturwert des Ausgangsnetzes des Geräts
-Key: LogicTypeTemperatureOutput2, Value: Der aktuelle Temperaturwert des Output2-Netzwerks des Geräts
-Key: LogicTypeTemperatureSetting, Value: Die aktuelle Einstellung für die Innentemperatur des Objekts (z. B. des Hardsuit A/C)
+Key: LogicTypeTemperatureInput, Value: Der aktuelle Temperaturwert des Eingangs des Geräts
+Key: LogicTypeTemperatureInput2, Value: Der aktuelle Temperaturwert des Eingangs2 des Geräts
+Key: LogicTypeTemperatureOutput, Value: Der aktuelle Temperaturwert des Ausgangs des Geräts
+Key: LogicTypeTemperatureOutput2, Value: Der aktuelle Temperaturwert des Ausgangs2 des Geräts
+Key: LogicTypeTemperatureSetting, Value: Die aktuelle Einstellung für die Innentemperatur des Objekts (z.B. des Gepanzerter Anzug A/C)
 Key: LogicTypeThrottle, Value: Erhöht die Geschwindigkeit, mit der die Maschine arbeitet (Bereich: 0-100)
 Key: LogicTypeTime, Value: Zeit
-Key: LogicTypeTotalMoles, Value: Gibt die Gesamtmolzahl des Geräts zurück
-Key: LogicTypeTotalMolesInput, Value: Gibt die Gesamtmolzahl des Eingangsnetzes des Geräts zurück.
-Key: LogicTypeTotalMolesInput2, Value: Gibt die Gesamtmolzahl des Input2-Netzwerks des Geräts zurück.
-Key: LogicTypeTotalMolesOutput, Value: Gibt die Gesamtmolzahl des Output-Netzwerks des Geräts zurück.
-Key: LogicTypeTotalMolesOutput2, Value: Gibt die Gesamtmolzahl des Output2-Netzwerks des Geräts zurück.
+Key: LogicTypeTotalMoles, Value: Gibt die Gesamtmenge in mol des Geräts zurück
+Key: LogicTypeTotalMolesInput, Value: Gibt die Gesamtmenge in mol des Eingangs des Geräts zurück.
+Key: LogicTypeTotalMolesInput2, Value: Gibt die Gesamtmenge in mol des Eingangs2 des Geräts zurück.
+Key: LogicTypeTotalMolesOutput, Value: Gibt die Gesamtmenge in mol des Ausgangs des Geräts zurück.
+Key: LogicTypeTotalMolesOutput2, Value: Gibt die Gesamtmenge in mol des Ausgangs2 des Geräts zurück.
 Key: LogicTypeUnknown, Value: Keine Beschreibung verfügbar
 Key: LogicTypeVelocityMagnitude, Value: Der aktuelle Betrag des Geschwindigkeitsvektors
-Key: LogicTypeVelocityRelativeX, Value: Die aktuelle Geschwindigkeit X in Bezug auf den Vorwärtsvektor dieses
-Key: LogicTypeVelocityRelativeY, Value: Die aktuelle Geschwindigkeit Y relativ zum Vorwärtsvektor dieser
-Key: LogicTypeVelocityRelativeZ, Value: Die aktuelle Geschwindigkeit Z relativ zum Vorwärtsvektor dieser
+Key: LogicTypeVelocityRelativeX, Value: Die aktuelle Geschwindigkeit X in Bezug zum Vorwärtsvektor
+Key: LogicTypeVelocityRelativeY, Value: Die aktuelle Geschwindigkeit Y in Bezug zum Vorwärtsvektor
+Key: LogicTypeVelocityRelativeZ, Value: Die aktuelle Geschwindigkeit Z in Bezug zum Vorwärtsvektor
 Key: LogicTypeVertical, Value: Vertikale Einstellung des Geräts
-Key: LogicTypeVerticalRatio, Value: Radio der vertikalen Einstellung für das Gerät
+Key: LogicTypeVerticalRatio, Value: Verhältnis des vertikalen Anteils für das Gerät
 Key: LogicTypeVolume, Value: Gibt das Volumen der Geräteatmosphäre zurück
 Key: LogicTypeVolumeOfLiquid, Value: Das Gesamtvolumen aller Flüssigkeiten in Litern in der Atmosphäre
 Key: LogicTypeWattsReachingContact, Value: Die Menge an Watt, die tatsächlich auf den Kontakt trifft. Dies hängt von der Leistung der Schüssel ab und davon, wie weit die Schüssel von der Achse des Kontaktvektors entfernt ist
@@ -2314,7 +2314,7 @@ Key: LogicWriterCategory, Value: Logik-Schreiber
 Key: Lore, Value: Lore
 Key: Loulan, Value: Loulan
 Key: LoulanShortDesc, Value: Bei der Ankunft auf Loulan werden Sie eine atembare Atmosphäre vorfinden, deren Druck hoch genug ist, um Leben zu erhalten - aber es herrscht ein großer Mangel daran. Dieser sandige Riese befindet sich im Gargantuan-System und nähert sich jeden Tag dem schwarzen Loch im Zentrum. Dieser Planet ist zwar verlassen und nicht mehr grün und voller {GAS:Water}, aber er hat immer noch eine funktionierende Atmosphäre, und du hast die Aufgabe, das Ödland zu durchforsten, um die Materialien und Ressourcen zu finden, die du zum Überleben in dieser ewigen Wüste brauchst.
-Key: Lungs, Value: Lungs
+Key: Lungs, Value: Lungen
 Key: M, Value: M
 Key: Magazine, Value: Zeitschrift
 Key: Magazine, Value: Zeitschrift
@@ -3494,7 +3494,7 @@ Key: StructureGasMixer, Value: Gasmischer
 Key: StructureGasSensor, Value: Gas Sensor
 Key: StructureGasTankStorage, Value: Gastank Lagerung
 Key: StructureGlassDoor, Value: Glastür
-Key: StructureGrowLight, Value: Pflanzen Licht
+Key: StructureGrowLight, Value: UV-Lampe
 Key: StructureGunTurret, Value: Geschützturm
 Key: StructureGyroscope, Value: Gyroskop
 Key: StructureH2Combustor, Value: Aufbau H2 Combustor
