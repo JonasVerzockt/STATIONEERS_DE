@@ -1975,7 +1975,7 @@ Key: LavaLevelField, Value: Lava Höhe
 Key: LayEgg, Value: Ei legen
 Key: Lead, Value: Blei
 Key: LeftAlt, Value: Links Alt
-Key: LeftApple, Value: Links Apfel
+Key: LeftApple, Value: Linke Apple-Taste
 Key: LeftArrow, Value: Linker Pfeil
 Key: LeftBracket, Value: Linke Klammer
 Key: LeftCommand, Value: Links Command
@@ -1984,7 +1984,7 @@ Key: LeftCurlyBracket, Value: Linke geschweifte Klammer
 Key: LeftHand, Value: Linke Hand
 Key: LeftParen, Value: Klammer auf
 Key: LeftShift, Value: Linke Umschalttaste
-Key: LeftWindows, Value: Links Windows
+Key: LeftWindows, Value: Linke Windows-Taste
 Key: Less, Value: Weniger
 Key: LevelLevelField, Value: Lava Höhe
 Key: LifeSupport, Value: Lebenserhaltung
@@ -2745,11 +2745,11 @@ Key: Radius, Value: Erkennungsradius
 Key: RailingElegant01, Value: Geländer Elegant (Typ 1)
 Key: RailingElegant02, Value: Geländer Elegant (Typ 2)
 Key: RailingIndustrial02, Value: Geländer Industrie (Typ 2)
-Key: Ratio, Value: Ratio
+Key: Ratio, Value: Verhältnis
 Key: RatioTooltip, Value: Verhältnis <color=green>{LOCAL:RatioValue1}:{LOCAL:RatioValue2}</color>
 Key: ReagentCarbon, Value: Kohlenstoff-Pulver
 Key: ReagentCobalt, Value: Kobalt-Pulver
-Key: ReagentColorBlue, Value: Farbe Farbstoff (Blau)
+Key: ReagentColorBlue, Value: Farbstoff (Blau)
 Key: ReagentColorGreen, Value: Farbstoff (Grün)
 Key: ReagentColorOrange, Value: Farbstoff (Orange)
 Key: ReagentColorRed, Value: Farbstoff (Rot)
@@ -2763,7 +2763,7 @@ Key: ReagentSilver, Value: Silber-Pulver
 Key: ReagentsCategoryKey, Value: Reagenzien
 Key: ReagentsHeader, Value: Reagenzien
 Key: Recharge, Value: Aufladen
-Key: Recurso, Value: Räumliche Ressource
+Key: Recurso, Value: Recurso Espaciais
 Key: RecursoDesc, Value: Dieser traditionsreiche brasilianische Bergbaukonzern expandierte Ende des 21. Jahrhunderts in den Weltraum.
 Das Unternehmen, das sich in erster Linie auf Massenmineralien und Metalle konzentriert, ist vielleicht am besten als verlängerter Arm der brasilianischen Regierung zu verstehen - es gibt nur wenige hochrangige politische Persönlichkeiten im modernen Brasilien, die nicht in den einen oder anderen Arm dieses Industriegiganten verwickelt sind.
 Die Verflechtung mit der südamerikanischen Politik hat dem Unternehmen großen Einfluss auf den Weltraumfahrstuhl in Manaus verschafft. Diese tiefgreifende staatliche Kontrolle hat dazu geführt, dass andere Gruppen - die {LINK:ODA;ODA} eingeschlossen - eine gewisse "Flexibilität" gegenüber Recurso an den Tag legen.
@@ -2789,7 +2789,7 @@ Key: RequiresScrewdriverOrLabeler, Value: Sie benötigen einen Schraubendreher od
 Key: ResearchAutomation, Value: Automatisierung
 Key: ResearchCancel, Value: Abbrechen
 Key: ResearchCantAfford, Value: Sie können es sich nicht leisten, diese Forschung nicht zu nutzen.
-Key: ResearchConfirm, Value: Bestätigen Sie
+Key: ResearchConfirm, Value: Bestätigen
 Key: ResearchConstruction, Value: Bauwesen
 Key: ResearchFilter, Value: Filter
 Key: ResearchLogic, Value: Logik
@@ -2811,31 +2811,31 @@ Key: RespawnConditionNormal, Value: Normal
 Key: RespawnConditionStationeer, Value: Stationeer
 Key: RespawnConditionsField, Value: Respawn-Bedingung
 Key: RespawnPoint, Value: Respawn-Punkt
-Key: RespawnPointWallMounted, Value: Respawn-Punkt (zu Pferde)
+Key: RespawnPointWallMounted, Value: Respawn-Punkt (Montiert)
 Key: Return, Value: Rückkehr
 Key: RightAlt, Value: Rechts Alt
-Key: RightApple, Value: Richtig Apfel
+Key: RightApple, Value: Rechte Apple-Taste
 Key: RightArrow, Value: Pfeil rechts
 Key: RightBracket, Value: Rechte Klammer
 Key: RightCommand, Value: Rechtes Kommando
 Key: RightControl, Value: Rechte Kontrolle
 Key: RightCurlyBracket, Value: Rechte geschweifte Klammer
 Key: RightHand, Value: Rechte Hand
-Key: RightParen, Value: Richtig Paren
-Key: RightShift, Value: Rechtsverschiebung
-Key: RightWindows, Value: Rechte Fenster
+Key: RightParen, Value: Rechte Klammer
+Key: RightShift, Value: Rechte Shift
+Key: RightWindows, Value: Rechte Windows-Taste
 Key: Robot, Value: AIMeE Bot
 Key: RocketCanNotEnterCommand, Value: Befehl kann nicht eingegeben werden Modul ist voll
-Key: RocketMode, Value: Abgelehnt
+Key: RocketMode, Value: VERALTET
 Key: RocketRotationFail, Value: Alle Raketenteile müssen in die gleiche Richtung gedreht werden.
-Key: RoomControlTickSpeed, Value: Raumsteuerung TickSpeed
-Key: Rotate, Value: Drehen Sie
+Key: RoomControlTickSpeed, Value: Raumsteuerung Tick Geschwindigkeit
+Key: Rotate, Value: Drehen
 Key: RotateLeft, Value: Drehen nach links
 Key: RotateRight, Value: Drehen nach rechts
 Key: RoverCargo, Value: Rover (Fracht)
 Key: Rover_MkI, Value: Rover MkI
 Key: Rover_MkI_build_states, Value: Rover MKI
-Key: Rpm, Value: Umdrehungen pro Minute
+Key: Rpm, Value: U/m
 Key: S, Value: S
 Key: SMGMagazine, Value: SMG-Magazin
 Key: SafetyCategory, Value: Sicherheit und Transport
