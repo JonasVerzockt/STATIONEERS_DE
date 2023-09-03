@@ -2316,11 +2316,11 @@ Key: Loulan, Value: Loulan
 Key: LoulanShortDesc, Value: Bei der Ankunft auf Loulan werden Sie eine atembare Atmosphäre vorfinden, deren Druck hoch genug ist, um Leben zu erhalten - aber es herrscht ein großer Mangel daran. Dieser sandige Riese befindet sich im Gargantuan-System und nähert sich jeden Tag dem schwarzen Loch im Zentrum. Dieser Planet ist zwar verlassen und nicht mehr grün und voller {GAS:Water}, aber er hat immer noch eine funktionierende Atmosphäre, und du hast die Aufgabe, das Ödland zu durchforsten, um die Materialien und Ressourcen zu finden, die du zum Überleben in dieser ewigen Wüste brauchst.
 Key: Lungs, Value: Lunge
 Key: M, Value: M
-Key: Magazine, Value: Zeitschrift
-Key: Magazine, Value: Zeitschrift
+Key: Magazine, Value: Magazin
+Key: Magazine, Value: Magazin
 Key: MainMenuChangeAppearance, Value: Erscheinungsbild ändern
 Key: MainMenuContinue, Value: Weiter
-Key: MainMenuCredits, Value: Kredite
+Key: MainMenuCredits, Value: Dankessagung
 Key: MainMenuExit, Value: Beenden auf Desktop
 Key: MainMenuJoinWorld, Value: Welt verbinden
 Key: MainMenuLoadWorld, Value: Welt laden
@@ -2347,16 +2347,16 @@ Key: MenuDownloadDriverWarning, Value: Viele Benutzer von AMD-Grafikkarten haben
 Key: MergeRequiresTool, Value: Die Zusammenführung erfordert <color=green>{LOCAL:Tool}</color> in der anderen Hand
 Key: Meteorite, Value: Meteoriten
 Key: MicrowaveAddUnitsOf, Value: Füge <color=green>{0}</color> Einheiten von {1}
-Key: MicrowaveOpenFailure, Value: Irgendetwas verhindert das Schließen dieser Seite
-Key: MidnightTemperatureField, Value: Mitternachtstemperatur
+Key: MicrowaveOpenFailure, Value: Irgendetwas verhindert das Schließen
+Key: MidnightTemperatureField, Value: Temperatur um Mitternacht
 Key: Mimas, Value: Mimas
 Key: MinGrowPressure, Value: Minimaler Wachstumsdruck
 Key: MinGrowTemperature, Value: Minimale Wachstumstemperatur
 Key: MinIdealGrowPressure, Value: Minimaler idealer Wachstumsdruck
 Key: MinIdealGrowTemperature, Value: Minimale ideale Wachstumstemperatur
 Key: MinLiquidPressure, Value: Mindestkondensationsdruck:
-Key: Mine, Value: Schachtn
-Key: MineablesField, Value: Minables
+Key: Mine, Value: Abbauen
+Key: MineablesField, Value: Abbaubar
 Key: MineablesInQueue, Value: Gibt die Anzahl der Minen zurück, die AIMEe in der Warteschlange zum Abbau hat.
 Key: MineablesInVicinity, Value: Gibt die Menge der potenziellen abbaubaren Stoffe innerhalb eines erweiterten Bereichs um AIMEe zurück.
 Key: Minus, Value: Minus
@@ -2394,12 +2394,12 @@ Key: Moon, Value: Mond
 Key: Motherboard, Value: Hauptplatine
 Key: Motherboard, Value: Hauptplatine
 Key: MotherboardCategory, Value: Hauptplatinen
-Key: MotherboardComms, Value: Kommunikations-Motherboard
-Key: MotherboardLogic, Value: Logik-Motherboard
-Key: MotherboardManufacturing, Value: Herstellung-Motherboard
+Key: MotherboardComms, Value: Kommunikations-Hauptplatine
+Key: MotherboardLogic, Value: Logik-Hauptplatine
+Key: MotherboardManufacturing, Value: Herstellung-Hauptplatine
 Key: MotherboardProgrammableChip, Value: IC-Editor Hauptplatine
-Key: MotherboardRockets, Value: Raketen-Motherboard
-Key: MotherboardSorter, Value: Sorter-Motherboard
+Key: MotherboardRockets, Value: Raketen-Hauptplatine
+Key: MotherboardSorter, Value: Sorter-Hauptplatine
 Key: MothershipConstruction, Value: <color=yellow>Konstruktion auf dem Mutterschiff.
 Key: MothershipCore, Value: Mutterschiff-Kern
 Key: Mouse0, Value: Maus0
@@ -2417,7 +2417,7 @@ Key: MustMountToCable, Value: Muss an einem geraden Kabel montiert werden
 Key: MustMountToPipe, Value: Muss an einem geraden Gasrohr montiert werden
 Key: N, Value: N
 Key: NPCDummyCharacter, Value: NPC-Charakter
-Key: NetworkAnalyserActual, Value: CURRENT
+Key: NetworkAnalyserActual, Value: AKTUELL
 Key: NetworkAnalyserDevices, Value: GERÄTE
 Key: NetworkAnalyserNetwork, Value: KABEL-NETZWERK
 Key: NetworkAnalyserPotential, Value: POTENTIAL
@@ -2438,7 +2438,7 @@ Key: NewWorldAreaVenus, Value: Venus
 Key: NewWorldAreaVulcan, Value: Vulkan
 Key: NewWorldAreaVulcan2, Value: Vulkan
 Key: NewWorldButtonBack, Value: Zurück
-Key: NewWorldButtonCreate, Value: Welt erschaffen
+Key: NewWorldButtonCreate, Value: Welt erstellen
 Key: NewWorldEnableAwayMissions, Value: Auswärtsmissionen aktivieren
 Key: NewWorldEuropaShortDesc, Value: Durch das Schmelzen des Eises auf dieser kalten Welt ist endlich eine Atmosphäre entstanden, aber die extrem kalte Umgebung stellt die Stationsbewohner vor eine ernsthafte Herausforderung: Die extreme Kälte führt dazu, dass die Batterien schnell an Leistung verlieren, so dass eine konstante Stromquelle und ein warmer Standort Priorität haben.
 Key: NewWorldGameMode, Value: Spiel-Modus
@@ -2456,7 +2456,7 @@ Key: NewWorldMoonDesc, Value:
 Key: NewWorldMoonShortDesc, Value: Das Vorhandensein von Kohle ist zwar nicht typisch für den Erdmond, aber das relativ flache Terrain mit seinen zahlreichen großen Kratern und der fehlenden Atmosphäre ist in dieser grauen Landschaft vielleicht vertrauter. Ein großartiger Ort für den angehenden Stationeer, um seine Reise zu beginnen, mit weniger Gefahren und Komplexitäten als auf exotischeren Welten.
 Key: NewWorldPressure, Value: Druck
 Key: NewWorldSolarAngle, Value: Sonnenstandswinkel
-Key: NewWorldSolarEnergy, Value: Solar Energy
+Key: NewWorldSolarEnergy, Value: Solarenergie
 Key: NewWorldSpaceDesc, Value: 
         Dies ist der Kreativmodus von Stationeers, in dem du jedes beliebige Objekt einbauen, Ideen testen und schnell verrückte Sachen bauen kannst.
                                               <color=red>Dieser Modus ist experimentell. Betrachte ihn als eine freie Weltraumparty, bei der aufregende und unerwartete Dinge* passieren können und werden, im Gegensatz zu der zuverlässigeren Nahtoderfahrung des Überlebensmodus.
@@ -2471,25 +2471,25 @@ Key: NewWorldVulcan2ShortDesc, Value: Eine Welt, die durch die massiven Gezeiten
 Key: NewWorldVulcanShortDesc, Value: Die unbeständige Umwelt auf Vulkan ist nur für wenige lebende Organismen überlebensfähig, aber die zerklüftete Oberfläche und die reichen Mineralienvorkommen machen die Insel zu einem riskanten, aber profitablen Unterfangen für geschäftstüchtige Händler.
 Key: Next, Value: Weiter
 Key: Next, Value: Weiter
-Key: NextPage, Value: Next Page
+Key: NextPage, Value: Nächste Seite
 Key: NextPlan, Value: Nächster Plan
 Key: NextTutoiralButtonFail, Value: Nächstes Tutorial kann nicht geladen werden. Bitte kehren Sie zum Menü zurück.
 Key: NextWeatherEventTime, Value: Gibt in Sekunden zurück, wann das nächste Wetterereignis eintrifft.
 Key: Nickel, Value: Nickel
-Key: Nitrice, Value: Nitrice
+Key: Nitrice, Value: Stickstoffmonoxid
 Key: Nitrogen, Value: Stickstoff
-Key: NitrousOxide, Value: Distickstoffmonoxid
+Key: NitrousOxide, Value: Lachgas
 Key: NoAtmos, Value: Die {0} hat keine {1}Atmosphäre{2}
 Key: NoAudioReceiverDevices, Value: Keine Audio-Empfangsgeräte
-Key: NoAudioReceiverDevices, Value: Keine Audioempfangsgeräte
+Key: NoAudioReceiverDevices, Value: Keine Audio-Empfangsgeräte
 Key: NoDeficiency, Value: Kein Defizit
 Key: NoNote, Value: Keine Notiz
-Key: NoPlantToLabel, Value: Keine Anlage zu kennzeichnen
-Key: NoSoundCartridge, Value: Keine Tonkassette
+Key: NoPlantToLabel, Value: Keine Pflanze zu kennzeichnen
+Key: NoSoundCartridge, Value: Kein Tonchip
 Key: NoSprayPaint, Value: Nicht genug Farbe zum Spritzen übrig
 Key: NoWaterAvailable, Value: <color=red>Fehler!</color> es gibt keinen <color=yellow>Wasserdruck</color>
 Key: None, Value: Keine
-Key: NoonTemperatureField, Value: Noon Temperature
+Key: NoonTemperatureField, Value: Mittag Temperatur
 Key: Norsec, Value: Norsec
 Key: NorsecDesc, Value: Mit seinen Wurzeln in der Verteidigungsindustrie des frühen 20. Jahrhunderts war Norsec (auch bekannt als Northern Security Systems) ein früher Anwender des Asteroidenabbaus - einer seiner Schlepper war in den berüchtigten Sisyphus-Hit auf die junge Marskolonie Sanders verwickelt.
 Norsec wurde offiziell von jeglichem Fehlverhalten freigesprochen, aber als die {LINK:ODA;ODA} die Umsiedlung auf Asteroiden verbot, verlagerte das Unternehmen seinen Schwerpunkt auf Infrastruktur und Produktion.
@@ -2501,10 +2501,10 @@ Key: NotEnoughSprayPaint, Value: Nicht genug Farbe in {LOCAL:SprayCanister}
 Key: NotPlantable, Value: A {0} ist nicht pflanzbar
 Key: NothingToSample, Value: Nichts zu probieren
 Key: NothingToWater, Value: Nichts zu bewässern
-Key: NotificationTitle, Value: Erfolgreich speichern
+Key: NotificationTitle, Value: Erfolgreich gespeichert
 Key: NpcChick, Value: Küken
 Key: NpcChicken, Value: Huhn
-Key: NpcGrounder, Value: NPC Bodenleger
+Key: NpcGrounder, Value: Bodenleger
 Key: Numlock, Value: Ziffernblock
 Key: NutritionSPDAKey, Value: Ernährung
 Key: O, Value: O
@@ -2514,16 +2514,16 @@ Key: ODADesc, Value:
 Die im Jahr 2070 u.Z. von den neu gegründeten Vereinten Nationen ins Leben gerufene Offworld Development Agency hatte ein ganz bestimmtes Ziel: Sie sollte die Erforschung des Weltraums durch den Menschen anleiten und fördern, während der Kosmos aus dem Bewusstsein der Öffentlichkeit verschwand.
 Im Jahr 2095 wurde das {LINK:Stationeers;Stationeer}-Programm ins Leben gerufen. Die ODA war sich bewusst, dass es schwierig sein würde, Finanzmittel zu erhalten, und konzipierte das Programm als eine langsame, wenig aufwändige Raumfahrtinitiative. Während einige die Stationeers als "billige kosmische Schiffbrüchige" verspotteten, zeugt der Erfolg des Programms von der Weisheit und dem Pragmatismus der Vision der ODA.
       
-Key: OcclusionTickSpeed, Value: TickSpeed-Occlusion
-Key: Occupant, Value: Insasse
+Key: OcclusionTickSpeed, Value: Tick Speed-Okklusion
+Key: Occupant, Value: Bewohner
 Key: Off, Value: Aus
 Key: On, Value: An
 Key: OnOff, Value: Ein Aus
-Key: OnlyHumansCanDragThings, Value: {LOCAL:Thing} erlaubt kein Ziehen
+Key: OnlyHumansCanDragThings, Value: {LOCAL:Thing} erlaubt nicht das Ziehen
 Key: Open, Value: Öffnen
-Key: Open, Value: Öffnen Sie
-Key: OpenIncidentUI, Value: Offene Vorfälle
-Key: OpenWorkshopButton, Value: Offener Workshop
+Key: Open, Value: Öffnen
+Key: OpenIncidentUI, Value: Öffne Vorfälle
+Key: OpenWorkshopButton, Value: Öffne Workshop
 Key: Opened, Value: Geöffnet
 Key: OperatorAll, Value: Alle
 Key: OperatorAny, Value: Jede
@@ -2532,8 +2532,8 @@ Key: Ore, Value: Erz
 Key: OreCategoryKey, Value: Erz
 Key: OreCategoryKey , Value: Erz
 Key: OreHeader, Value: Erz
-Key: OreNoMiningBelt, Value: Kein Schachtband zum Einlagern
-Key: OreNoSlotInMiningBelt, Value: Kein freier Platz im Schachtband
+Key: OreNoMiningBelt, Value: Kein Bergbaugürtel zum Einlagern
+Key: OreNoSlotInMiningBelt, Value: Kein freier Platz im Bergbaugürtel
 Key: OrganBrain, Value: Menschliches Gehirn
 Key: OrganLungs, Value: Menschliche Lunge
 Key: Organic Supplies, Value: Bio-Lieferungen
@@ -2546,7 +2546,7 @@ Key: Output, Value: Ausgabe
 Key: Output, Value: Ausgabe
 Key: OutputKPA, Value: Ausgang <color=green>{0} kPa</color>
 Key: OutputLitres, Value: Ausgabe <color=green>{0} L</color>
-Key: OutputVolumeRatio, Value: Ausgabe Vollheit <color=green>{0}%</color>
+Key: OutputVolumeRatio, Value: Ausgabe Volumen <color=green>{0}%</color>
 Key: OutputWatts, Value: Ausgabe <color=green>{0} W</color>
 Key: Oxite, Value: Sauerstoff
 Key: Oxygen, Value: Sauerstoff
@@ -2560,14 +2560,14 @@ Key: PassengerSeatRight, Value: Beifahrersitz rechts
 Key: PassengersChair, Value: Fahrgaststuhl
 Key: PassiveSpeaker, Value: Passiv-Lautsprecher
 Key: Pause, Value: Pause
-Key: Percent, Value: Prozentsatz
+Key: Percent, Value: Prozent
 Key: Period, Value: Zeitraum
 Key: PersonalBackpacks, Value: Rucksäcke
 Key: PersonalCategoryKey, Value: Persönlich
 Key: PersonalClothing, Value: Kleidung
 Key: PersonalEyeWear, Value: Augenmode
 Key: PersonalHelmets, Value: Helme
-Key: PersonalSuits, Value: Suits
+Key: PersonalSuits, Value: Anzüge
 Key: PersonalToolbelt, Value: Werkzeuggürtel
 Key: PhaseChangeCelsius, Value: Celsius verwenden
 Key: PhaseChangeLogScale, Value: Log-Skala
@@ -2578,8 +2578,8 @@ Key: PhaseDiagramTemperatureDisplay, Value: Temperatur:
 Key: Phobos, Value: Phobos
 Key: Pickup, Value: Aufheben
 Key: Picture, Value: Bild
-Key: Pipe, Value: Pipe
-Key: Pipe, Value: Pipe
+Key: Pipe, Value: Rohr
+Key: Pipe, Value: Rohr
 Key: PipeBenderMod, Value: Rohrbiegemaschine Mod
 Key: PipeContentTypeIncorrect, Value: Der Inhaltstyp der Rohrleitung stimmt nicht mit dem Inhaltstyp von <color=green>{LOCAL:DevicePipeMounted}</color> überein
 Key: PipeDamageModeFrozen, Value: Beschädigung durch <color=red>Gefrieren von Flüssigkeiten oder Gasen</color>
@@ -2605,7 +2605,7 @@ Key: PlacementRequiresHydroponicsTray, Value: Für die Platzierung ist ein Hydrop
 Key: PlacementRequiresLaunchPad, Value: Platzierung erfordert Launchpad unten
 Key: PlacementRequiresModularRocket, Value: Die Platzierung erfordert ein modulares Raketenteil unten
 Key: PlacementRequiresPipeValve, Value: Muss hinter einem Rohrleitungsventil (oder einem anderen atmosphärischen Gerät) angebracht werden
-Key: Plant, Value: Pflanzen
+Key: Plant, Value: Pflanze
 Key: Plant, Value: Pflanze
 Key: PlantAtmosphereTooCold, Value: Die {LOCAL:Plant} <color=red>Atmosphäre ist zu kalt</color>
 Key: PlantAtmosphereTooHot, Value: Die {LOCAL:Plant} <color=red>Atmosphäre ist zu heiß</color>
@@ -2613,7 +2613,7 @@ Key: PlantBarelyGrowingMature, Value: Die {LOCAL:Plant} wächst gerade erst in Ri
 Key: PlantBarelyGrowingSeed, Value: Die {LOCAL:Plant} wächst kaum in Richtung Aussaat
 Key: PlantCreate, Value: Dies erzeugt <color=yellow>{LOCAL:Count}</color> x {LOCAL:Plant}
 Key: PlantCreateSeeds, Value: Dies erzeugt <color=yellow>{LOCAL:Count}</color> x {LOCAL:Plant} Samen
-Key: PlantDead, Value: Die {0} ist {1}tot{2}
+Key: PlantDead, Value: Die {LOCAL:Plant} ist <color=red>tot</color>
 Key: PlantDead, Value: Die {LOCAL:Plant} ist <color=red>tot</color>
 Key: PlantGrowing, Value: Die {0} ist {1}wachsend{2}
 Key: PlantGrowingModeratelyMature, Value: Der {LOCAL:Plant} wächst mäßig gut in Richtung Fruchtbildung
@@ -2658,18 +2658,18 @@ Key: Plants, Value: Pflanzen und Saatgut
 Key: Player, Value: Spieler
 Key: Player, Value: Spieler
 Key: PlayerIsConnecting, Value: Spieler wird verbunden
-Key: Plus, Value: Mehr
+Key: Plus, Value: Plus
 Key: Poke, Value: Stöbern
 Key: Pollutant, Value: Schadstoff
 Key: Portable Appliance Kits, Value: Bausätze für tragbare Geräte
 Key: PortableComposter, Value: Tragbarer Komposter
 Key: PortableConnectionFailure, Value: Kann nur {0} mit diesem {1} verbinden
-Key: PortableSlot, Value: Portable Slot
+Key: PortableSlot, Value: Portabler Steckplatz
 Key: PortableSolarPanel, Value: Tragbares Solarpanel
 Key: Power, Value: Strom
 Key: PowerAndData, Value: Strom und Daten
 Key: PowerCategoryKey, Value: Elektronik
-Key: PowerControlSetTo, Value: Set <b>{LOCAL:Category}</b> {LOCAL:OnState}
+Key: PowerControlSetTo, Value: Einstellung <b>{LOCAL:Category}</b> {LOCAL:OnState}
 Key: PowerItemNoPower, Value: Keine Batterieleistung!
 Key: PowerTool, Value: Elektrische Werkzeuge
 Key: PowerTools, Value: Elektrische Werkzeuge
@@ -2682,8 +2682,8 @@ Key: PressureDown, Value: Druck nach unten
 Key: PressureKeySPDA, Value: Maximaler Druck:
 Key: PressureSafteySetTo, Value: Die <color=green>{LOCAL:Location} Sicherheit</color> wird auf <color=yellow>{LOCAL:Value}</color> gesetzt
 Key: PressureUp, Value: Druck erhöhen
-Key: Prev, Value: Prev
-Key: Prev, Value: Prev
+Key: Prev, Value: Vorschau
+Key: Prev, Value: Vorschau
 Key: PreviewAtmosphereField, Value: Vorschau Atmosphäre
 Key: Previous, Value: Vorherige
 Key: Previous, Value: Vorherige
@@ -2718,12 +2718,12 @@ Key: PromptQuitBody, Value: Sind Sie sicher, dass Sie aufhören wollen?
 Key: PromptQuitConfirm, Value: Beenden Sie
 Key: PromptQuitTitle, Value: Beenden Sie Stationeers
 Key: PromptResetSettingsBody, Value: Sind Sie sicher?
-Key: PromptResetSettingsConfirm, Value: Reset
+Key: PromptResetSettingsConfirm, Value: Zurücksetzen
 Key: PromptResetSettingsTitle, Value: Einstellungen zurücksetzen
 Key: PromptRespawnBody, Value: Sie sind tot.
 Key: PromptRespawnConfirm, Value: Wiedererscheinen
 Key: PromptRespawnTitle, Value: Wiedererscheinen
-Key: PromptResumeButton, Value: Lebenslauf
+Key: PromptResumeButton, Value: Fortsetzen
 Key: PromptTravelBody, Value: Sind Sie sicher, dass Sie mit der Karte reisen wollen?
 Key: PromptTravelConfirm, Value: Reisen
 Key: PromptUnsubscribeBody, Value: Sind Sie sicher, dass Sie diesen Workshop-Artikel abbestellen möchten?
@@ -2736,9 +2736,9 @@ Key: Quantity, Value: Menge
 Key: QuantityAndRatioTooltip, Value: Menge <color=green>{LOCAL:QuantityValue}
 <color=white>Modus <color=green>{LOCAL:RatioValue1}:{LOCAL:RatioValue2}
 Key: QuantityOfGasTypeInMix, Value: <color=yellow>{LOCAL:Quantity}</color> x {LOCAL:GasType}
-Key: QuarryDrillBitBasic, Value: Steinbruch-Bohrer Basic
+Key: QuarryDrillBitBasic, Value: Steinbruchbohrer Basic
 Key: Question, Value: Frage
-Key: Quote, Value: Quote
+Key: Quote, Value: Zitat
 Key: R, Value: R
 Key: RGBValues, Value: RGB-Werte
 Key: Radius, Value: Erkennungsradius
