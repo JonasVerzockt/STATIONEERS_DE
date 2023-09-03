@@ -860,7 +860,7 @@ Key: GeneDescriptionHighPressureResistance, Value: Die Obergrenze des Drucks, be
 Key: GeneDescriptionHighPressureTolerance, Value: Die Zeitspanne, die eine Pflanze oberhalb ihrer Hochdruckgrenze bleiben kann, bevor sie Schaden nimmt.
 Key: GeneDescriptionHighTemperatureResistance, Value: Die Obergrenze der Temperatur, bei der die Pflanze wachsen kann.
 Key: GeneDescriptionHighTemperatureTolerance, Value: Die Zeitspanne, die eine Pflanze oberhalb ihrer Höchsttemperatur bleiben kann, bevor sie Schaden nimmt.
-Key: GeneDescriptionLightPerDay, Value: Die Zeitspanne, die eine Pflanze pro Tageszyklus von der Sonne oder einem Wachstumslicht beleuchtet werden muss, um zu gedeihen. Die Standardlänge des Tageszyklus beträgt 20 Minuten.
+Key: GeneDescriptionLightPerDay, Value: Die Zeitspanne, die eine Pflanze pro Tageszyklus von der Sonne oder einem Wachstumslicht belampet werden muss, um zu gedeihen. Die Standardlänge des Tageszyklus beträgt 20 Minuten.
 Key: GeneDescriptionLightTolerance, Value: Die Zeitspanne, die eine Pflanze im Licht bleiben kann, bevor sie Schaden nimmt.
 Key: GeneDescriptionLowPressureResistance, Value: Die untere Grenze des Drucks, bei dem die Pflanze wachsen kann.
 Key: GeneDescriptionLowPressureTolerance, Value: Die Zeitspanne, in der eine Anlage unter ihrem Niederdruckgrenzwert bleiben kann, bevor sie Schaden nimmt.
@@ -1300,9 +1300,9 @@ Key: ItemKitHydraulicPipeBender, Value: Bausatz (Hydraulische Rohrbiegemaschine)
 Key: ItemKitHydroponicAutomated, Value: Bausatz (Automatisiertes Hydroponisches Beet)
 Key: ItemKitHydroponicStation, Value: Bausatz (Hydroponisches Beet)
 Key: ItemKitIceCrusher, Value: Bausatz (Eisschmelzer)
-Key: ItemKitInsulatedLiquidPipe, Value: Bausatz (Isolierte Flüssigkeitsleitung)
+Key: ItemKitInsulatedLiquidPipe, Value: Bausatz (Isolierte Flüssigkeitsrohre)
 Key: ItemKitInsulatedPipe, Value: Bausatz (Isolierte Gasrohre)
-Key: ItemKitInsulatedWaterPipe, Value: Bausatz (Isolierte Flüssigkeitsleitung)
+Key: ItemKitInsulatedWaterPipe, Value: Bausatz (Isolierte Flüssigkeitsrohre)
 Key: ItemKitInteriorDoors, Value: Bausatz (Innentüren)
 Key: ItemKitLadder, Value: Bausatz (Leiter)
 Key: ItemKitLandingPad, Value: Bausatz (Landeplatz)
@@ -1325,7 +1325,7 @@ Key: ItemKitLogicMemory, Value: Bausatz (Logik Speicher)
 Key: ItemKitLogicProcessor, Value: Bausatz (Logik Prozessor)
 Key: ItemKitLogicSwitch, Value: Bausatz (Logik Schalter)
 Key: ItemKitLogicTransmitter, Value: Bausatz (Logik Übermittler)
-Key: ItemKitLowVolumeLiquidPipes, Value: Bausatz (schmale Flüssigkeitsleitung)
+Key: ItemKitLowVolumeLiquidPipes, Value: Bausatz (schmale Flüssigkeitsrohre)
 Key: ItemKitLowVolumePipes, Value: Bausatz (schmale Gasleitung)
 Key: ItemKitModularRocketAutomation, Value: Bausatz (Raketensteuerungsmodul)
 Key: ItemKitModularRocketCoupling, Value: Bausatz (Raketenkopplungsmodul)
@@ -1711,8 +1711,8 @@ Key: ItemWreckageVendingMachine4, Value: Wrack-Automat
 Key: ItemWreckageVent1, Value: Wrack-Vent
 Key: ItemWreckageWallCooler1, Value: Wrack-Wand-Kühler
 Key: ItemWreckageWallCooler2, Value: Wrack-Wand-Kühler
-Key: ItemWreckageWallLightBatteryPowered1, Value: Wrack-Wandleuchte-Batteriebetrieben
-Key: ItemWreckageWallLightBatteryPowered2, Value: Wrack-Wandleuchte-Batteriebetrieben
+Key: ItemWreckageWallLightBatteryPowered1, Value: Wrack-Wandlampe-Batteriebetrieben
+Key: ItemWreckageWallLightBatteryPowered2, Value: Wrack-Wandlampe-Batteriebetrieben
 Key: ItemWreckageWindTurbine001, Value: Wrack-Wind-Turbine
 Key: ItemWreckageWindTurbine002, Value: Wrack-Wind-Turbine
 Key: ItemWreckageWindTurbine003, Value: Wrack-Wind-Turbine
@@ -2845,10 +2845,10 @@ Key: SaveBeforeTravel, Value: Du musst dein Spiel speichern, bevor du in eine an
 Key: SaveButtonGameString, Value: Schnellspeicherung <i>{LOCAL:WorldName}</i>
 Key: SaveLocationBroken, Value: Sie können nicht auf den Speicherort der Dateien zugreifen, verwenden Sie ein ungültiges Zeichen? Versuchen Sie, das Speicherverzeichnis in den Einstellungen zu ändern.
 Key: SaveMenuListTitle, Value: Gerettete Welten
-Key: SaveMenuNamePlaceholder, Value: Enter Save Name...
-Key: SaveMenuOverwriteButton, Value: Überschreiben Sie
-Key: SaveMenuSaveWorldButton, Value: Welt retten
-Key: SaveMenuTitle, Value: Welt retten
+Key: SaveMenuNamePlaceholder, Value: Speichername eingeben...
+Key: SaveMenuOverwriteButton, Value: Überschreiben
+Key: SaveMenuSaveWorldButton, Value: Welt speichern
+Key: SaveMenuTitle, Value: Welt speichern
 Key: SaveVersionWarning, Value: WARNUNG! Alte Speicherversion entdeckt
 Key: SaveVersionWarning, Value: WARNUNG! Alte Speicherversion entdeckt
 Key: ScenarioScoreboardBackToMenu, Value: Zurück zum Hauptmenü
@@ -3011,7 +3011,7 @@ Key: SeedBag_Potato, Value: Kartoffel-Saatgut
 Key: SeedBag_Pumpkin, Value: Kürbis-Saatgut
 Key: SeedBag_Rice, Value: Reis-Saatgut
 Key: SeedBag_Soybean, Value: Sojabohnen-Saatgut
-Key: SeedBag_Switchgrass, Value: Switchgrass Seed
+Key: SeedBag_Switchgrass, Value: Weidelgras-Saatgut
 Key: SeedBag_Tomato, Value: Tomaten-Saatgut
 Key: SeedBag_Wheet, Value: Weizen-Saatgut
 Key: Seedsstring, Value: Saatgut
@@ -3025,20 +3025,20 @@ Key: Set, Value: setzen
 Key: SetDifficultyBodyConfirmation, Value: Schwierigkeitseinstellungen nicht gefunden. Bitte wählen Sie eine
 Key: SetDifficultyTitleConfirmation, Value: Schwierigkeitsgrad einstellen
 Key: SetSpawnMessage, Value: Zum Festlegen des Spawn-Punkts verwenden
-Key: SetSpawnTitle, Value: Laichplatz
-Key: SetThingValue, Value: Satz {0}
+Key: SetSpawnTitle, Value: Spawnplatz
+Key: SetThingValue, Value: Setze {0}
 Key: Setting, Value: Einstellung
 Key: SettingsAdvertiseServer, Value: Server inserieren
-Key: SettingsAmbientOcclusion, Value: Ambient Occlusion
+Key: SettingsAmbientOcclusion, Value: Umgebungsunschärfe
 Key: SettingsAntialiasing, Value: Antialiasing-Methode
 Key: SettingsAtmosphericScattering, Value: Atmosphärische Streuung
 Key: SettingsAutosaveInterval, Value: Intervallzeit (Sekunden)
 Key: SettingsBrightness, Value: Helligkeit
-Key: SettingsButtonApply, Value: Bewerbung
+Key: SettingsButtonApply, Value: Bestätigen
 Key: SettingsCameraSensitivity, Value: Empfindlichkeit der Kamera
 Key: SettingsChatFadeTimer, Value: Chat-Überblendverzögerung
 Key: SettingsChunkRenderDistance, Value: Chunk Rendering Abstand
-Key: SettingsClouds, Value: Clouds aktivieren
+Key: SettingsClouds, Value: Cloud aktivieren
 Key: SettingsDifficulty, Value: Schwierigkeitsgrad-Einstellungen
 Key: SettingsDisableParticlesOnMenu, Value: Partikel im Menü deaktivieren
 Key: SettingsDisableWaterVisualizer, Value: Wasser Visualizer deaktivieren
@@ -3046,7 +3046,7 @@ Key: SettingsDisplayFPS, Value: FPS anzeigen
 Key: SettingsDisplayLatency, Value: Anzeige-Latenzzeit
 Key: SettingsDisplayPortrait, Value: Porträt anzeigen
 Key: SettingsDoubleClickDelay, Value: Doppelklick-Verzögerung
-Key: SettingsEnableClouds, Value: Clouds aktivieren
+Key: SettingsEnableClouds, Value: Cloud aktivieren
 Key: SettingsEnvElements, Value: Umweltbezogene Elemente
 Key: SettingsExtendedTerrain, Value: Erweitertes Terrain
 Key: SettingsExtendedTooltips, Value: Erweiterte Tooltips
@@ -3062,17 +3062,17 @@ Key: SettingsInterface, Value: Schnittstelle
 Key: SettingsInvertMouse, Value: Umgekehrte Maus
 Key: SettingsInvertMouseWheelInventory, Value: Inventarliste umkehren
 Key: SettingsLanguage, Value: Sprache
-Key: SettingsLegacyInventory, Value: Inventar der Altlasten
-Key: SettingsLensFlares, Value: Lens Flares
+Key: SettingsLegacyInventory, Value: Altbestand
+Key: SettingsLensFlares, Value: Streulicht
 Key: SettingsLightShadowDistance, Value: Licht-Schatten-Abstand
-Key: SettingsMasterVolume, Value: Master Volume
+Key: SettingsMasterVolume, Value: Hauptlautstärke
 Key: SettingsMenuAdvanced, Value: Fortgeschrittene
 Key: SettingsMenuAppearance, Value: Erscheinungsbild
 Key: SettingsMenuAudio, Value: Audio
-Key: SettingsMenuControls, Value: Kontrolliert
-Key: SettingsMenuGameplay, Value: Spielverlauf
-Key: SettingsMenuMisc, Value: Misc
-Key: SettingsMenuMultiplayer, Value: Multiplayer
+Key: SettingsMenuControls, Value: Tastaturbelegung
+Key: SettingsMenuGameplay, Value: Gameplay
+Key: SettingsMenuMisc, Value: Sonstiges
+Key: SettingsMenuMultiplayer, Value: Mehrspieler
 Key: SettingsMenuTitle, Value: Einstellungen
 Key: SettingsMenuVideo, Value: Video
 Key: SettingsMineableRenderDistance, Value: Abbaubarer Renderabstand
@@ -3088,7 +3088,7 @@ Key: SettingsPopupChat, Value: Popup-Chat
 Key: SettingsReflections, Value: Reflexionen
 Key: SettingsResearch, Value: Auswahl des Forschungspools
 Key: SettingsResolution, Value: Auflösung
-Key: SettingsSavePath, Value: Path
+Key: SettingsSavePath, Value: Pfad
 Key: SettingsScreenMode, Value: Bildschirm-Modus
 Key: SettingsServerAdminPassword, Value: Server-Administrator-Passwort
 Key: SettingsServerMaxPlayers, Value: Maximale Spieler
@@ -3098,24 +3098,24 @@ Key: SettingsShadowDistamce, Value: Entfernung der Schatten
 Key: SettingsShadowResolution, Value: Schattenauflösung
 Key: SettingsShadows, Value: Schatten
 Key: SettingsShowSlotTooltips, Value: Slot-Tooltips anzeigen
-Key: SettingsSmoothTerrain, Value: Glattes Terrain
+Key: SettingsSmoothTerrain, Value: Glattes Gelände
 Key: SettingsSoftParticles, Value: Weiche Partikel
 Key: SettingsSound, Value: Ton
 Key: SettingsSoundFX, Value: Ton-Effekte
-Key: SettingsStartLocalHost, Value: StartLocalHost
+Key: SettingsStartLocalHost, Value: Start Localhost
 Key: SettingsStartingCondition, Value: Ausgangssituation
 Key: SettingsSunOrbitPeriod, Value: Zeitraum der Sonnenumlaufbahn
-Key: SettingsTerrainClutter, Value: Terrain Unordnung
-Key: SettingsTerrainClutterMultiplier, Value: Terrain Clutter Multiplikator
+Key: SettingsTerrainClutter, Value: Gelände Unordnung
+Key: SettingsTerrainClutterMultiplier, Value: Gelände Unordnung Multiplikator
 Key: SettingsTextureQuality, Value: Qualität der Textur
-Key: SettingsThingRenderDistance, Value: Thing Render Distance
+Key: SettingsThingRenderDistance, Value: Dinge Render Entfernung
 Key: SettingsTitleAdvScreen, Value: Erweiterte Einstellungen
 Key: SettingsTitleAudioAlerts, Value: Sprachbenachrichtigungen
 Key: SettingsTitleAutosave, Value: AutoSave-Einstellungen
 Key: SettingsTitleBasicScreen, Value: Grundeinstellungen
 Key: SettingsTitleDisplayTools, Value: Tools anzeigen
 Key: SettingsTitleGameSettings, Value: Spiel-Einstellungen
-Key: SettingsTitleKeybinds, Value: Keybinds
+Key: SettingsTitleKeybinds, Value: Tastenkombinationen
 Key: SettingsTitleMisc, Value: Sonstige Einstellungen
 Key: SettingsTitleMixer, Value: Mischpult
 Key: SettingsTitleMultiplayer, Value: Multiplayer-Einstellungen
@@ -3124,17 +3124,16 @@ Key: SettingsTitleScreen, Value: Fenster-Einstellungen
 Key: SettingsTooltipOpacity, Value: Tooltip-Deckkraft
 Key: SettingsUPNPEnabled, Value: UPNP aktivieren
 Key: SettingsUPNPNote, Value: Wenn Universal Plug and Play (UPNP) hier und auf Ihrem Router aktiviert ist, werden diese Ports automatisch weitergeleitet, wenn Sie ein Spiel erstellen.
-Key: SettingsUpdatePort, Value: Hafen aktualisieren
+Key: SettingsUpdatePort, Value: Update Port
 Key: SettingsUserSpeakerMode, Value: Lautsprecher-Modus:
 Key: SettingsVirtualizedRendering, Value: Virtualisiertes Rendering
-
 Key: SettingsVoiceControl, Value: Sprachsteuerung
 Key: SettingsVoiceLanguage, Value: Stimme Sprache
 Key: SettingsVoiceNotifications, Value: Sprachbenachrichtigungen
 Key: SettingsVolumetricLighting, Value: Volumetrische Beleuchtung
 Key: SettingsVsync, Value: V-Sync
 Key: SettingsWeatherQuality, Value: Wetterqualität
-Key: SettingsWindowDisplayMode, Value: Mit Fenster
+Key: SettingsWindowDisplayMode, Value: Fenster
 Key: SettingsWorldOrigin, Value: Neuberechnung des Weltursprungs
 Key: ShaftNotOn, Value: Keine Interaktion möglich, da die aktuelle Welle nicht eingeschaltet ist
 Key: ShowPreviousVideoText, Value: Vorheriges Video anzeigen
@@ -3147,31 +3146,31 @@ Zu Beginn des 21. Jahrhunderts hat sie ihr Können unter Beweis gestellt, indem s
 Unabhängig von der Wahrheit hat Sinotai bei der Entwicklung außerhalb der Welt einen "Soft-Power"-Ansatz verfolgt, der von Absichtserklärungen mit {LINK:Recurso;Recurso} (die ihnen bevorzugten Zugang zum Weltraumlift in Manaus gewähren) bis hin zu undurchsichtigen Zweckbündnissen mit einer Reihe von Händlerkonzernen reicht.
       
 Key: Slash, Value: Schrägstrich
-Key: Slot1, Value: Steckplatz 1
+Key: Slot1, Value: Steckplatz1
 Key: Slot10, Value: Steckplatz10
 Key: Slot11, Value: Steckplatz11
 Key: Slot12, Value: Steckplatz12
-Key: Slot13, Value: Steckplatz 13
-Key: Slot14, Value: Steckplatz 14
+Key: Slot13, Value: Steckplatz13
+Key: Slot14, Value: Steckplatz14
 Key: Slot15, Value: Steckplatz15
 Key: Slot16, Value: Steckplatz16
-Key: Slot17, Value: Schlitz17
+Key: Slot17, Value: Steckplatz17
 Key: Slot18, Value: Steckplatz18
-Key: Slot19, Value: Steckplatz 19
-Key: Slot2, Value: Steckplatz 2
-Key: Slot20, Value: Schloss 20
-Key: Slot21, Value: Schloss 21
+Key: Slot19, Value: Steckplatz19
+Key: Slot2, Value: Steckplatz2
+Key: Slot20, Value: Steckplatz20
+Key: Slot21, Value: Steckplatz21
 Key: Slot22, Value: Steckplatz22
 Key: Slot23, Value: Steckplatz23
 Key: Slot24, Value: Steckplatz24
-Key: Slot25, Value: Schloss 25
-Key: Slot26, Value: Schloss 26
-Key: Slot27, Value: Schloss 27
+Key: Slot25, Value: Steckplatz25
+Key: Slot26, Value: Steckplatz26
+Key: Slot27, Value: Steckplatz27
 Key: Slot28, Value: Steckplatz28
 Key: Slot29, Value: Steckplatz29
 Key: Slot3, Value: Steckplatz3
 Key: Slot30, Value: Steckplatz30
-Key: Slot4, Value: Steckplatz 4
+Key: Slot4, Value: Steckplatz4
 Key: Slot5, Value: Steckplatz5
 Key: Slot6, Value: Steckplatz6
 Key: Slot7, Value: Steckplatz7
@@ -3183,7 +3182,7 @@ Key: SlotFull, Value: Steckplatz ist besetzt
 Key: SlotKey, Value: Steckplatz
 Key: SlotOccupiedBy, Value: Derzeit belegt durch {LOCAL:DynamicThing}
 Key: SlotTakeThingFromSlot, Value: Nimm {LOCAL:Item} vom Steckplatz
-Key: SlotsTitle, Value: Alle Spielautomaten
+Key: SlotsTitle, Value: Alle Steckplätze
 Key: SolarScaleField, Value: Sonnenintensitätsskala
 Key: SoldOut, Value: Ausverkauft
 Key: SolidTerrainColourField, Value: Festes Terrain Farbe
@@ -3194,13 +3193,13 @@ Key: SomethingWentWrongTrading2, Value: Bei der Abwicklung des Geschäfts ist etw
 Key: SoonTM, Value: Demnächst...
 Key: SourcePlant, Value: Quelle Pflanze
 Key: Space, Value: Asteroidengürtel
-Key: Space, Value: Weltraum
+Key: Space, Value: Leertaste
 Key: SpaceShuttle, Value: Raumfähre
 Key: SpawnPoint, Value: Spawn-Punkt
 Key: SpecialBlocks, Value: Besondere Blöcke
 Key: Speed, Value: Geschwindigkeit
 Key: SpinnerPannelDone, Value: Erledigt
-Key: SpinnerPannelSaving, Value: Sparen
+Key: SpinnerPannelSaving, Value: Speichern
 Key: SplicerAddOneToSlot, Value: Hinzufügen von {LOCAL:Plant} zum Steckplatz
 Key: SplicerBusy, Value: Derzeit Spleißen <color=green>{LOCAL:PercentComplete}%</color> abgeschlossen
 Key: SplicerChangeGene, Value: Gen ändern
@@ -3210,7 +3209,7 @@ Key: SplicerNeedSourceAndTargetPlant, Value: Zum Starten des Spleißens sind eine
 Key: SplicerNextGene, Value: Gen ändern in: {LOCAL:Gene}
 Key: SplicerPreviewSplice, Value: Spleißt <color=green>{LOCAL:Gene}</color> von {LOCAL:SourcePlant} in {LOCAL:TargetPlant}
 Key: SplicerStartSplice, Value: Start Spleiß
-Key: SplitHalf, Value: Geteilte Hälfte
+Key: SplitHalf, Value: Split Hälfte
 Key: SplitOne, Value: Split Eins
 Key: SprayCan, Value: Spraydose
 Key: SprayPaintExtendedMethod, Value: Die {0} wird {1} gemalt
@@ -3223,20 +3222,19 @@ Key: Stage1Contains, Value: Enthält {0} in {1}Stadium {1}{3}
 Key: StartNewGameButton, Value: Spiel starten
 Key: StateChangePopup, Value: Zustandsänderung: Möchten Sie, dass Stationeers versucht, den Inhalt der atmosphärischen Netze im geladenen Spiel zu ändern, um sofortige Explosionen und Überdruckereignisse aufgrund von Flüssiggas-Festkörper-Zustandsänderungen zu verhindern?
 Key: StateChangePopup, Value: Gas-zu-Flüssig-Zustandsänderung: Dieser Spielstand stammt aus Version 0.2.4120.19431 oder älter und ist möglicherweise nicht mit dem neuen System zur Änderung des atmosphärischen Zustands kompatibel. Möchten Sie, dass Stationeers versucht, den Inhalt der atmosphärischen Netze im geladenen Spiel zu ändern, um sofortige Explosionen und Überdruckereignisse aufgrund der Änderung des Flüssiggaszustands zu verhindern? (einige Gase/Flüssigkeiten könnten durch diesen Prozess gelöscht und/oder in ihrer Temperatur verändert werden)
-Key: Stationeers, Value: Bahnhofsvorsteher
+Key: Stationeers, Value: Stationeers
 Key: StationeersDesc, Value: Zu Beginn des 22. Jahrhunderts hatte die Erde gerade eine Katastrophe hinter sich. Ihre Ressourcen waren erschöpft, die Bevölkerung reduziert, und der Wiederaufbau war das Gebot der Stunde.
 Das von der {LINK:ODA;Offworld Development Agency} (ODA) im Jahr 2095CE initiierte Stationeers-Programm war einem einzigen Ideal gewidmet: die Menschheit zu den Sternen zu führen.
 Stationeers sind alles: Astronauten, Ingenieure und Forscher, die mit begrenzter Ausrüstung und Werkzeugen eingesetzt werden und darauf trainiert sind, mit weniger mehr zu erreichen. Ihre Aufgabe ist es, die Umwelt zu ihrem Vorteil zu nutzen und eine Infrastruktur für Menschen im Weltraum bereitzustellen, und zwar zu einem Bruchteil der Kosten herkömmlicher Raumfahrtprogramme.
 Die Stationäre sind in der Lage, überall vom Mond bis zu Mimas und darüber hinaus Basen zu errichten und zu unterhalten und sind unsere Vorhut im Kosmos. Ausgebildet in außerweltlichen Überlebens-, Bergbau- und Bautechniken, grundlegender Metallurgie, Elektronik, Raketentechnik, Hydrokultur und weiteren "geheimen" Wissenschaften, tun Stationeers, was sie tun müssen, um zu überleben und zu gedeihen.
 Da es keine Aufnahmekriterien gibt, gibt es auch keinen "typischen" Stationeer. Die psychologische Profilierung legt nahe, dass erfolgreiche Kadetten einen Grundpragmatismus und Zielstrebigkeit an den Tag legen, aber einige der berühmtesten Stationeers besitzen keine dieser Eigenschaften.
 Das Stationeers-Programm ist grundsätzlich offen für alle Menschen, denn es rekrutiert Kadetten aus dem Bauwesen, der Militär- und Raumfahrtindustrie, der Softwareentwicklung, dem Bergbau, der Wissenschaft und sogar aus religiösen Orden.
-      
-Key: StationpediaAdvancedGuides, Value: Universum
+Key: StationpediaAdvancedGuides, Value: Erweiterte Leitfäden
 Key: StationpediaAutoIgniteHeader, Value: Selbstentzündung:
-Key: StationpediaBasePowerUsage, Value: Basis-Stromverbrauch:
+Key: StationpediaBasePowerUsage, Value: Standby-Stromverbrauch:
 Key: StationpediaBeginnerGuides, Value: Leitfäden
 Key: StationpediaBuildStateUpgrade, Value: <color=yellow>Geräte-Upgrade</color>
-Key: StationpediaBuildStates, Value: Staaten aufbauen
+Key: StationpediaBuildStates, Value: Zustände aufbauen
 Key: StationpediaConnectionsHeader, Value: Verbindungen
 Key: StationpediaConstructWith, Value: Konstruieren Sie mit:
 Key: StationpediaConstructedFrom, Value: Konstruiert aus
@@ -3253,19 +3251,19 @@ Key: StationpediaLatentHeatHeader, Value: Latente Wärme:
 Key: StationpediaLogicHeader, Value: Logik
 Key: StationpediaLogicSlotHeader, Value: Logische Steckplätze
 Key: StationpediaMachineVersion, Value: Versionen
-Key: StationpediaManufactures, Value: Fertigt
+Key: StationpediaManufactures, Value: Herstellung
 Key: StationpediaMaxPressure, Value: Maximaler Druck:
 Key: StationpediaModeHeader, Value: Modus
 Key: StationpediaMolesPerLitreHeader, Value: Mols pro Liter:
 Key: StationpediaNoResults, Value: Keine Ergebnisse gefunden...
 Key: StationpediaNutrition, Value: Ernährung:
 Key: StationpediaPaintable, Value: Überstreichbar:
-Key: StationpediaPrefabHash, Value: Vorgefertigtes Haschisch:
+Key: StationpediaPrefabHash, Value: Vorgefertigtes Hash:
 Key: StationpediaPrefabName, Value: Prefab Name:
 Key: StationpediaReagentsHeader, Value: Reagenzien:
 Key: StationpediaResoucesHeader, Value: Verwendete Ressourcen
 Key: StationpediaSearch, Value: Suche
-Key: StationpediaShatterHeader, Value: Zerschmettern:
+Key: StationpediaShatterHeader, Value: Shatter:
 Key: StationpediaSlotsHeader, Value: Steckplätze
 Key: StationpediaStackSize, Value: Stapelgröße:
 Key: StationpediaThermalConductivityConvection, Value: Thermische Konvektion:
@@ -3288,8 +3286,8 @@ Key: StatusWindowThrust, Value: Schubkraft
 Key: StatusWindowVitals, Value: Lebensdaten
 Key: Steam, Value: Dampf
 Key: SteamErrorBody, Value: Es konnte keine Verbindung zu Steam hergestellt werden.  Versuchen Sie, Steam neu zu starten, bevor Sie Stationeers neu starten.
-Key: SteamErrorButton, Value: Beenden Sie
-Key: SteamErrorTitle, Value: Dampf-Fehler
+Key: SteamErrorButton, Value: Beenden
+Key: SteamErrorTitle, Value: Steam-Fehler
 Key: StockFull, Value: Lager voll
 Key: StopWatch, Value: Uhr anhalten
 Key: Storage, Value: Lagerung
@@ -3315,13 +3313,13 @@ Key: StructureBattery, Value: Station Batterie
 Key: StructureBatteryCharger, Value: Batteriezellen-Ladegerät
 Key: StructureBatteryChargerSmall, Value: Batterieladegerät klein
 Key: StructureBatteryLarge, Value: Station Batterie (groß)
-Key: StructureBatterySmall, Value: Struktur Batterie Klein
+Key: StructureBatterySmall, Value: Station Batterie (klein)
 Key: StructureBeacon, Value: Bake
 Key: StructureBench, Value: Angetriebene Werkbank
-Key: StructureBench1, Value: Bank (Counter Style)
+Key: StructureBench1, Value: Bank (Thekenstil)
 Key: StructureBench2, Value: Bank (High-Tech-Stil)
-Key: StructureBench3, Value: Bank (Frame Style)
-Key: StructureBench4, Value: Sitzbank (Workbench Style)
+Key: StructureBench3, Value: Bank (Rahmenstil)
+Key: StructureBench4, Value: Sitzbank (Werkbank-Stil)
 Key: StructureBlastDoor, Value: Explosionsschutztür
 Key: StructureBlockBed, Value: Block Bett
 Key: StructureBlocker, Value: Blocker
@@ -3331,7 +3329,7 @@ Key: StructureCableCorner3, Value: Kabel (3-Wege-Ecke)
 Key: StructureCableCorner3Burnt, Value: Verbranntes Kabel (3-Wege-Ecke)
 Key: StructureCableCorner4, Value: Kabel (4-Wege-Ecke)
 Key: StructureCableCorner4Burnt, Value: Verbranntes Kabel (4-Wege-Ecke)
-Key: StructureCableCorner4HBurnt, Value: Verbranntes schweres Kabel (4-Wege-Ecke)
+Key: StructureCableCorner4HBurnt, Value: Verbranntes Starkstromkabel (4-Wege-Ecke)
 Key: StructureCableCornerBurnt, Value: Verbranntes Kabel (Ecke)
 Key: StructureCableCornerH, Value: Starkstromkabel (Ecke)
 Key: StructureCableCornerH3, Value: Starkstromkabel (3-Wege-Ecke)
@@ -3354,7 +3352,7 @@ Key: StructureCableJunctionBurnt, Value: Verbranntes Kabel (Verzweigung)
 Key: StructureCableJunctionH, Value: Starkstromkabel (3-Wege-Verteiler)
 Key: StructureCableJunctionH4, Value: Starkstromkabel (4-Wege-Verteiler)
 Key: StructureCableJunctionH5, Value: Starkstromkabel (5-Wege Verzweigung)
-Key: StructureCableJunctionH5Burnt, Value: Verbranntes schweres Kabel (5-Wege-Verzweigung)
+Key: StructureCableJunctionH5Burnt, Value: Verbranntes Starkstromkabel (5-Wege-Verzweigung)
 Key: StructureCableJunctionH6, Value: Starkstromkabel (6-polige Verzweigung)
 Key: StructureCableJunctionHBurnt, Value: Verbranntes Kabel (Verzweigung)
 Key: StructureCableStraight, Value: Kabel (gerade)
@@ -3362,32 +3360,32 @@ Key: StructureCableStraightBurnt, Value: Verbranntes Kabel (gerade)
 Key: StructureCableStraightH, Value: Starkstromkabel (gerade)
 Key: StructureCableStraightHBurnt, Value: Verbranntes Kabel (gerade)
 Key: StructureCamera, Value: Kamera
-Key: StructureCapsuleTank, Value: Struktur Capsule Tank
+Key: StructureCapsuleTank, Value: Kapsel-Tank
 Key: StructureCategoryKey, Value: Strukturen
 Key: StructureCentrifuge, Value: Zentrifuge
 Key: StructureChair, Value: Stuhl
-Key: StructureChairBacklessDouble, Value: Stuhl (Backless Double)
-Key: StructureChairBacklessSingle, Value: Stuhl (rückenfrei, einzeln)
+Key: StructureChairBacklessDouble, Value: Stuhl (Rückenfrei)
+Key: StructureChairBacklessSingle, Value: Stuhl (rückenfrei einzeln)
 Key: StructureChairBoothCornerLeft, Value: Stuhl (Kabinenecke links)
 Key: StructureChairBoothCornerRight, Value: Stuhl (Standecke rechts)
 Key: StructureChairBoothMiddle, Value: Stuhl (Stand Mitte)
-Key: StructureChairRectangleDouble, Value: Stuhl (Rechteckig Doppelt)
+Key: StructureChairRectangleDouble, Value: Stuhl (Rechteckig)
 Key: StructureChairRectangleSingle, Value: Stuhl (Rechteckig Einzel)
-Key: StructureChairThickDouble, Value: Stuhl (Dickes Doppelt)
-Key: StructureChairThickSingle, Value: Stuhl (Dickes Einzelstück)
+Key: StructureChairThickDouble, Value: Stuhl (Dickes)
+Key: StructureChairThickSingle, Value: Stuhl (Dickes Einzel)
 Key: StructureChuteBin, Value: Schacht Behälter
 Key: StructureChuteCorner, Value: Schacht (Ecke)
 Key: StructureChuteDigitalFlipFlopSplitterLeft, Value: Schacht Digital Flip Flop Splitter Links
 Key: StructureChuteDigitalFlipFlopSplitterRight, Value: Schacht Digital Flip Flop Splitter Rechts
 Key: StructureChuteDigitalValveLeft, Value: Schacht Digitalventil links
-Key: StructureChuteDigitalValveRight, Value: Schütte Digitales Ventil Rechts
+Key: StructureChuteDigitalValveRight, Value: Schacht Digitales Ventil Rechts
 Key: StructureChuteFlipFlopSplitter, Value: Schacht Flip Flop Splitter
 Key: StructureChuteInlet, Value: Schacht Eingang
 Key: StructureChuteJunction, Value: Schacht (Abzweigung)
 Key: StructureChuteOutlet, Value: Schacht Ausgang
-Key: StructureChuteOverflow, Value: Schütte Überlauf
+Key: StructureChuteOverflow, Value: Schacht Überlauf
 Key: StructureChuteStraight, Value: Schacht (gerade)
-Key: StructureChuteValve, Value: Schurrenventil
+Key: StructureChuteValve, Value: Schachtventil
 Key: StructureChuteWindow, Value: Schacht (Fenster)
 Key: StructureCircuitHousing, Value: IC-Gehäuse
 Key: StructureCombustionCentrifuge, Value: Verbrennungszentrifuge
@@ -3455,18 +3453,18 @@ Key: StructureDaylightSensor, Value: Tageslicht-Sensor
 Key: StructureDeconstructionFailed, Value: Dekonstruktion gescheitert
 Key: StructureDeepMiner, Value: Tiefschürfer
 Key: StructureDigitalValve, Value: Digitales Ventil
-Key: StructureDiode, Value: LED
+Key: StructureDiode, Value: Diode
 Key: StructureDiodeSlide, Value: Diodenschlitten
 Key: StructureDockPortSide, Value: Dock (Backbordseite)
-Key: StructureDockShipSide, Value: Dock Schiffsseite
-Key: StructureDuctCorner, Value: Kanalecke
-Key: StructureDuctCrossJunction, Value: Duct Cross Junction
-Key: StructureDuctCrossJunction3, Value: Kanal-Kreuzungspunkt3
-Key: StructureDuctCrossJunction4, Value: Kanal-Kreuzungspunkt4
-Key: StructureDuctCrossJunction5, Value: Kanal-Kreuzungspunkt5
-Key: StructureDuctCrossJunction6, Value: Kanal-Kreuzungspunkt6
-Key: StructureDuctStraight, Value: Duct Straight
-Key: StructureDuctTJunction, Value: Duct T Abzweigung
+Key: StructureDockShipSide, Value: Dock (Schiffsseite)
+Key: StructureDuctCorner, Value: Schachtecke
+Key: StructureDuctCrossJunction, Value: Schacht Kreuzung
+Key: StructureDuctCrossJunction3, Value: Schacht-Kreuzungspunkt3
+Key: StructureDuctCrossJunction4, Value: Schacht-Kreuzungspunkt4
+Key: StructureDuctCrossJunction5, Value: Schacht-Kreuzungspunkt5
+Key: StructureDuctCrossJunction6, Value: Schacht-Kreuzungspunkt6
+Key: StructureDuctStraight, Value: Schacht Gerade
+Key: StructureDuctTJunction, Value: Schacht T Abzweigung
 Key: StructureElectrolyzer, Value: Elektrolyseur
 Key: StructureElectronicsPrinter, Value: Elektronik Drucker
 Key: StructureElevatorLevelFront, Value: Aufzug Ebene
@@ -3486,7 +3484,7 @@ Key: StructureFrameCornerCut, Value: Stahlrahmen (Eckenschnitt)
 Key: StructureFrameIron, Value: Eisengestell
 Key: StructureFrameSide, Value: Stahlrahmen (Seite)
 Key: StructureFridgeBig, Value: Kühlschrank (groß)
-Key: StructureFridgeSmall, Value: Kühlschrank klein
+Key: StructureFridgeSmall, Value: Kühlschrank (klein)
 Key: StructureFurnace, Value: Ofen
 Key: StructureFuselage1x1, Value: Rumpf 1x1
 Key: StructureGasGenerator, Value: Gas-Treibstoff-Generator
@@ -3497,10 +3495,10 @@ Key: StructureGlassDoor, Value: Glastür
 Key: StructureGrowLight, Value: UV-Lampe
 Key: StructureGunTurret, Value: Geschützturm
 Key: StructureGyroscope, Value: Gyroskop
-Key: StructureH2Combustor, Value: Aufbau H2 Combustor
+Key: StructureH2Combustor, Value: H2 Verbrenner
 Key: StructureHarvie, Value: Harvie
 Key: StructureHarvieReversed, Value: Harvie
-Key: StructureHeatExchangeLiquidAndGas, Value: Wärmeaustausch Flüssigkeit und Gas
+Key: StructureHeatExchangeLiquidAndGas, Value: Wärmeaustausch - Flüssigkeit und Gas
 Key: StructureHeatExchangeLiquidtoGas, Value: Wärmetauscher - Flüssigkeit + Gas
 Key: StructureHeatExchangerGastoGas, Value: Wärmetauscher - Gas
 Key: StructureHeatExchangerLiquidtoLiquid, Value: Wärmetauscher - Flüssigkeit
@@ -3516,26 +3514,26 @@ Key: StructureInLineTankGas1x1, Value: In-Line Tank Klein Gas
 Key: StructureInLineTankGas1x2, Value: In-Line Tank Gas
 Key: StructureInLineTankLiquid1x1, Value: In-Line-Tank Kleine Flüssigkeit
 Key: StructureInLineTankLiquid1x2, Value: In-Line Tank Liquid
-Key: StructureInsulatedPipeCorner, Value: Isolierte Rohre (Ecke)
-Key: StructureInsulatedPipeCrossJunction, Value: Isolierte Rohre (Kreuzungspunkt)
-Key: StructureInsulatedPipeCrossJunction3, Value: Isolierte Rohre (3-Wege-Abzweigung)
-Key: StructureInsulatedPipeCrossJunction4, Value: Isolierte Rohre (4-Wege-Abzweigung)
-Key: StructureInsulatedPipeCrossJunction5, Value: Isolierte Rohre (5-Wege-Abzweigung)
-Key: StructureInsulatedPipeCrossJunction6, Value: Isolierte Rohre (6-Wege-Abzweigung)
-Key: StructureInsulatedPipeLiquidCorner, Value: Isolierte Flüssigkeitsleitung (Ecke)
-Key: StructureInsulatedPipeLiquidCrossJunction, Value: Isolierte Flüssigkeitsleitung (3-Wege-Kreuzung)
-Key: StructureInsulatedPipeLiquidCrossJunction4, Value: Isolierte Flüssigkeitsleitung (4-Wege-Kreuzung)
-Key: StructureInsulatedPipeLiquidCrossJunction5, Value: Isolierte Flüssigkeitsleitung (5-Wege-Kreuzung)
-Key: StructureInsulatedPipeLiquidCrossJunction6, Value: Isolierte Flüssigkeitsleitung (6-Wege-Abzweigung)
+Key: StructureInsulatedPipeCorner, Value: Isolierte Gasrohre (Ecke)
+Key: StructureInsulatedPipeCrossJunction, Value: Isolierte Gasrohre (Kreuzungspunkt)
+Key: StructureInsulatedPipeCrossJunction3, Value: Isolierte Gasrohre (3-Wege-Abzweigung)
+Key: StructureInsulatedPipeCrossJunction4, Value: Isolierte Gasrohre (4-Wege-Abzweigung)
+Key: StructureInsulatedPipeCrossJunction5, Value: Isolierte Gasrohre (5-Wege-Abzweigung)
+Key: StructureInsulatedPipeCrossJunction6, Value: Isolierte Gasrohre (6-Wege-Abzweigung)
+Key: StructureInsulatedPipeLiquidCorner, Value: Isolierte Flüssigkeitsrohre (Ecke)
+Key: StructureInsulatedPipeLiquidCrossJunction, Value: Isolierte Flüssigkeitsrohre (3-Wege-Kreuzung)
+Key: StructureInsulatedPipeLiquidCrossJunction4, Value: Isolierte Flüssigkeitsrohre (4-Wege-Kreuzung)
+Key: StructureInsulatedPipeLiquidCrossJunction5, Value: Isolierte Flüssigkeitsrohre (5-Wege-Kreuzung)
+Key: StructureInsulatedPipeLiquidCrossJunction6, Value: Isolierte Flüssigkeitsrohre (6-Wege-Abzweigung)
 Key: StructureInsulatedPipeLiquidStraight, Value: Isolierte Flüssigkeitsrohre (gerade)
-Key: StructureInsulatedPipeLiquidTJunction, Value: Isolierte Flüssigkeitsleitung (T-Verbindung)
-Key: StructureInsulatedPipeStraight, Value: Isolierte Rohre (gerade)
-Key: StructureInsulatedPipeTJunction, Value: Isolierte Rohre (T-Verbindung)
-Key: StructureInsulatedTankConnector, Value: Isolierter Tankanschluss
-Key: StructureInsulatedTankConnectorLiquid, Value: Isolierter Tankanschluss Flüssigkeit
-Key: StructureInteriorDoorGlass, Value: Glas der Innentür
-Key: StructureInteriorDoorPadded, Value: Innentür gepolstert
-Key: StructureInteriorDoorPaddedThin, Value: Innentür gepolstert dünn
+Key: StructureInsulatedPipeLiquidTJunction, Value: Isolierte Flüssigkeitsrohre (T-Verbindung)
+Key: StructureInsulatedPipeStraight, Value: Isolierte Gasrohre (gerade)
+Key: StructureInsulatedPipeTJunction, Value: Isolierte Gasrohre (T-Verbindung)
+Key: StructureInsulatedTankConnector, Value: Isolierter Gastankanschluss
+Key: StructureInsulatedTankConnectorLiquid, Value: Isolierter Flüssigkeittankanschluss
+Key: StructureInteriorDoorGlass, Value: Innentür (Glas)
+Key: StructureInteriorDoorPadded, Value: Innentür (gepolstert)
+Key: StructureInteriorDoorPaddedThin, Value: Innentür (gepolstert dünn)
 Key: StructureInteriorDoorTriangle, Value: Innentür-Dreieck
 Key: StructureIsNotDamaged, Value: {LOCAL:Structure} ist nicht beschädigt
 Key: StructureKlaxon, Value: Klaxon-Lautsprecher
@@ -3546,17 +3544,17 @@ Key: StructureLargeDirectHeatExchangeGastoLiquid, Value: Großer direkter Wärmeta
 Key: StructureLargeDirectHeatExchangeLiquidtoLiquid, Value: Großer direkter Wärmeaustausch - Flüssigkeit + Flüssigkeit
 Key: StructureLargeExtendableRadiator, Value: Struktur Großer ausziehbarer Heizkörper
 Key: StructureLargeHangerDoor, Value: Große Hangartür
-Key: StructureLargeSatelliteDish, Value: Large Satellite Dish
+Key: StructureLargeSatelliteDish, Value: Große Satellitenschüssel
 Key: StructureLaunchPad, Value: Modulare Raketenstartrampe
-Key: StructureLaunchPadCenter, Value: Struktur Launch Pad Center
-Key: StructureLaunchPadModule, Value: Struktur Startrampe Modul
-Key: StructureLaunchPadTower, Value: Struktur Startrampe Turm
-Key: StructureLightLong, Value: Wandleuchte (lang)
-Key: StructureLightLongAngled, Value: Wandleuchte (lang gewinkelt)
-Key: StructureLightLongWide, Value: Wandleuchte (lang und breit)
-Key: StructureLightRound, Value: Licht Rund
-Key: StructureLightRoundAngled, Value: Licht rund (gewinkelt)
-Key: StructureLightRoundSmall, Value: Leicht Rund (Klein)
+Key: StructureLaunchPadCenter, Value: Startrampe Center
+Key: StructureLaunchPadModule, Value: Startrampe Modul
+Key: StructureLaunchPadTower, Value: Startrampe Turm
+Key: StructureLightLong, Value: Wandlampe (lang)
+Key: StructureLightLongAngled, Value: Wandlampe (lang gewinkelt)
+Key: StructureLightLongWide, Value: Wandlampe (lang und breit)
+Key: StructureLightRound, Value: Lampe (Rund)
+Key: StructureLightRoundAngled, Value: Lampe rund (gewinkelt)
+Key: StructureLightRoundSmall, Value: Leicht rund (klein)
 Key: StructureLiquidDrain, Value: Aktiver Flüssigkeitsauslass
 Key: StructureLiquidPipeAnalyzer, Value: Flüssigkeitsrohr-Analysator
 Key: StructureLiquidPipeHeater, Value: Rohrheizkörper (Flüssigkeit)
@@ -3578,7 +3576,7 @@ Key: StructureLogicBatchSlotReader, Value: Stapelschlitzleser
 Key: StructureLogicBatchWriter, Value: Batch-Schreiber
 Key: StructureLogicButton, Value: Schaltfläche
 Key: StructureLogicCompare, Value: Logischer Vergleich
-Key: StructureLogicDial, Value: Dial
+Key: StructureLogicDial, Value: Wähle
 Key: StructureLogicDisplay5, Value: LED-Anzeige (klein)
 Key: StructureLogicGate, Value: Logisches Gatter
 Key: StructureLogicHashGen, Value: Logischer Hash-Generator
@@ -3586,33 +3584,33 @@ Key: StructureLogicMath, Value: Logik und Mathematik
 Key: StructureLogicMathUnary, Value: Mathe Unary
 Key: StructureLogicMemory, Value: Logischer Speicher
 Key: StructureLogicMinMax, Value: Logik Min/Max
-Key: StructureLogicMirror, Value: Logik-Spiegel
-Key: StructureLogicReader, Value: Logik-Leser
+Key: StructureLogicMirror, Value: Logik Spiegel
+Key: StructureLogicReader, Value: Logik Leser
 Key: StructureLogicReagentReader, Value: Reagenzien-Lesegerät
 Key: StructureLogicSelect, Value: Logik Wähler
-Key: StructureLogicSlotReader, Value: Schlitzleser
+Key: StructureLogicSlotReader, Value: Steckplatzleser
 Key: StructureLogicSwitch, Value: Hebel
 Key: StructureLogicSwitch2, Value: Schalter
 Key: StructureLogicTransmitter, Value: Logik-Sender
 Key: StructureLogicUnit, Value: Logische Einheit
 Key: StructureLogicWriter, Value: Logik-Schreiber
 Key: StructureLogicWriterSwitch, Value: Logik-Schreiber Schalter
-Key: StructureLowVolumeLiquidPipeCorner, Value: Flüssigkeitsleitung mit geringem Volumen (Ecke)
-Key: StructureLowVolumeLiquidPipeCrossJunction, Value: Flüssigkeitsleitung mit geringem Volumen (Kreuzungspunkt)
-Key: StructureLowVolumeLiquidPipeCrossJunction3, Value: Flüssigkeitsleitung mit geringem Volumen (3-Wege-Verzweigung)
-Key: StructureLowVolumeLiquidPipeCrossJunction4, Value: Flüssigkeitsleitung mit geringem Volumen (4-Wege-Verzweigung)
-Key: StructureLowVolumeLiquidPipeCrossJunction5, Value: Flüssigkeitsleitung mit geringem Volumen (5-Wege-Verzweigung)
-Key: StructureLowVolumeLiquidPipeCrossJunction6, Value: Flüssigkeitsleitung mit geringem Volumen (6-Wege-Verzweigung)
-Key: StructureLowVolumeLiquidPipeStraight, Value: Flüssigkeitsleitung mit geringem Volumen (gerade)
-Key: StructureLowVolumeLiquidPipeTJunction, Value: Flüssigkeitsleitung mit geringem Volumen (T-Verteiler)
-Key: StructureLowVolumePipeCorner, Value: Low Volume Pfeife (Corner)
-Key: StructureLowVolumePipeCrossJunction, Value: Niedrigvolumige Rohre (Kreuzung)
-Key: StructureLowVolumePipeCrossJunction3, Value: Niedrigvolumige Rohre (3-Wege-Kreuzung)
-Key: StructureLowVolumePipeCrossJunction4, Value: Gasrohr mit geringem Volumen (4-Wege-Kreuzung)
-Key: StructureLowVolumePipeCrossJunction5, Value: Niedrigvolumige Rohre (5-Wege-Kreuzung)
-Key: StructureLowVolumePipeCrossJunction6, Value: Niedrigvolumige Rohre (6-Wege-Kreuzung)
-Key: StructureLowVolumePipeStraight, Value: Niedrigvolumige Rohre (gerade)
-Key: StructureLowVolumePipeTJunction, Value: Low Volume Pipe (T Junction)
+Key: StructureLowVolumeLiquidPipeCorner, Value: Flüssigkeitsrohre mit geringem Volumen (Ecke)
+Key: StructureLowVolumeLiquidPipeCrossJunction, Value: Flüssigkeitsrohre mit geringem Volumen (Kreuzungspunkt)
+Key: StructureLowVolumeLiquidPipeCrossJunction3, Value: Flüssigkeitsrohre mit geringem Volumen (3-Wege-Verzweigung)
+Key: StructureLowVolumeLiquidPipeCrossJunction4, Value: Flüssigkeitsrohre mit geringem Volumen (4-Wege-Verzweigung)
+Key: StructureLowVolumeLiquidPipeCrossJunction5, Value: Flüssigkeitsrohre mit geringem Volumen (5-Wege-Verzweigung)
+Key: StructureLowVolumeLiquidPipeCrossJunction6, Value: Flüssigkeitsrohre mit geringem Volumen (6-Wege-Verzweigung)
+Key: StructureLowVolumeLiquidPipeStraight, Value: Flüssigkeitsrohre mit geringem Volumen (gerade)
+Key: StructureLowVolumeLiquidPipeTJunction, Value: Flüssigkeitsrohre mit geringem Volumen (T-Verteiler)
+Key: StructureLowVolumePipeCorner, Value: Niedrigvolumige Gasrohre (Ecke)
+Key: StructureLowVolumePipeCrossJunction, Value: Niedrigvolumige Gasrohre (Kreuzung)
+Key: StructureLowVolumePipeCrossJunction3, Value: Niedrigvolumige Gasrohre (3-Wege-Kreuzung)
+Key: StructureLowVolumePipeCrossJunction4, Value: Niedrigvolumige Gasrohre (4-Wege-Kreuzung)
+Key: StructureLowVolumePipeCrossJunction5, Value: Niedrigvolumige Gasrohre (5-Wege-Kreuzung)
+Key: StructureLowVolumePipeCrossJunction6, Value: Niedrigvolumige Gasrohre (6-Wege-Kreuzung)
+Key: StructureLowVolumePipeStraight, Value: Niedrigvolumige Gasrohre (gerade)
+Key: StructureLowVolumePipeTJunction, Value: Niedrigvolumige Gasrohre (T-Kreuzung)
 Key: StructureManualHatch, Value: Manuelle Klappe
 Key: StructureMediumConvectionRadiator, Value: Normaler Konvektionsradiator
 Key: StructureMediumConvectionRadiatorLiquid, Value: Normaler Konvektionsradiator Flüssigkeit
@@ -3633,7 +3631,7 @@ Key: StructureModularRocketLiquidTank, Value: Automatisiertes Modul zur Lagerung
 Key: StructureModularRocketScrapMining, Value: Automatisches Raketenbergungsmodul
 Key: StructureMotionSensor, Value: Bewegungsmelder
 Key: StructureNitrolyzer, Value: Nitrolyzer
-Key: StructureNosecone1x1, Value: Nosecone 1x1
+Key: StructureNosecone1x1, Value: Nasenkonus 1x1
 Key: StructureOccupancySensor, Value: Anwesenheitssensor
 Key: StructureOneWayValve, Value: Rückschlagventil (Gas)
 Key: StructureOrganicsPrinter, Value: Organik-Drucker
@@ -3672,16 +3670,16 @@ Key: StructurePipeCrossJunction4, Value: Gasrohr (4-Wege-Abzweigung)
 Key: StructurePipeCrossJunction5, Value: Gasrohr (5-Wege-Kreuzung)
 Key: StructurePipeCrossJunction6, Value: Gasrohr (6-fache Verzweigung)
 Key: StructurePipeHeater, Value: Rohrheizkörper (Gas)
-Key: StructurePipeInsulatedLiquidCrossJunction, Value: Isolierte Flüssigkeitsleitung (Kreuzung)
+Key: StructurePipeInsulatedLiquidCrossJunction, Value: Isolierte Flüssigkeitsrohre (Kreuzung)
 Key: StructurePipeLabel, Value: Gasrohr-Etikett
-Key: StructurePipeLiquidCorner, Value: Flüssigkeitsleitung (Ecke)
-Key: StructurePipeLiquidCrossJunction, Value: Flüssigkeitsleitung (Kreuzungspunkt)
-Key: StructurePipeLiquidCrossJunction3, Value: Flüssigkeitsleitung (3-Wege-Verteiler)
-Key: StructurePipeLiquidCrossJunction4, Value: Flüssigkeitsleitung (4-Wege-Verteiler)
-Key: StructurePipeLiquidCrossJunction5, Value: Flüssigkeitsleitung (5-Wege-Verteiler)
-Key: StructurePipeLiquidCrossJunction6, Value: Flüssigkeitsleitung (6-Wege-Verteiler)
-Key: StructurePipeLiquidStraight, Value: Flüssigkeitsleitung (gerade)
-Key: StructurePipeLiquidTJunction, Value: Flüssigkeitsleitung (T-Verteiler)
+Key: StructurePipeLiquidCorner, Value: Flüssigkeitsrohre (Ecke)
+Key: StructurePipeLiquidCrossJunction, Value: Flüssigkeitsrohre (Kreuzungspunkt)
+Key: StructurePipeLiquidCrossJunction3, Value: Flüssigkeitsrohre (3-Wege-Verteiler)
+Key: StructurePipeLiquidCrossJunction4, Value: Flüssigkeitsrohre (4-Wege-Verteiler)
+Key: StructurePipeLiquidCrossJunction5, Value: Flüssigkeitsrohre (5-Wege-Verteiler)
+Key: StructurePipeLiquidCrossJunction6, Value: Flüssigkeitsrohre (6-Wege-Verteiler)
+Key: StructurePipeLiquidStraight, Value: Flüssigkeitsrohre (gerade)
+Key: StructurePipeLiquidTJunction, Value: Flüssigkeitsrohre (T-Verteiler)
 Key: StructurePipeMeter, Value: Rohrzähler
 Key: StructurePipeOneWayValve, Value: Rückschlagventil (Gas)
 Key: StructurePipeOrgan, Value: Pfeifenorgel
@@ -3834,12 +3832,12 @@ Key: StructureWallIron03, Value: Eisenwand (Type 3)
 Key: StructureWallIron04, Value: Eisenwand (Type 4)
 Key: StructureWallLargePanel, Value: Wand (große Platte)
 Key: StructureWallLargePanelArrow, Value: Wand (großer Plattenpfeil)
-Key: StructureWallLight, Value: Wandleuchte
-Key: StructureWallLightBattery, Value: Wandleuchte (Batterie)
+Key: StructureWallLight, Value: Wandlampe
+Key: StructureWallLightBattery, Value: Wandlampe (Batterie)
 Key: StructureWallPaddedArch, Value: Wand (gepolsterter Bogen)
 Key: StructureWallPaddedArchCorner, Value: Wand (gepolsterte Bogenecke)
-Key: StructureWallPaddedArchLightFittingTop, Value: Wand (gepolsterte Bogenleuchte oben)
-Key: StructureWallPaddedArchLightsFittings, Value: Wand (gepolsterte Lichtbogenleuchten)
+Key: StructureWallPaddedArchLightFittingTop, Value: Wand (gepolsterte Bogenlampe oben)
+Key: StructureWallPaddedArchLightsFittings, Value: Wand (gepolsterte Lichtbogenlampen)
 Key: StructureWallPaddedCorner, Value: Wand (gepolsterte Ecke)
 Key: StructureWallPaddedCornerThin, Value: Wand (gepolsterte Ecke dünn)
 Key: StructureWallPaddedNoBorder, Value: Wand (gepolstert, ohne Umrandung)
@@ -3873,19 +3871,19 @@ Key: StructureWeatherStation, Value: Wetterstation
 Key: StructureWindTurbine, Value: Wind-Turbine
 Key: StructureWindowShutter, Value: Fensterladen
 Key: StructureYouRequireToCompleteTask, Value: Sie benötigen {0} in {1}, um diese Aufgabe zu erledigen
-Key: Suit, Value: Folge
+Key: Suit, Value: Anzug
 Key: SuitContextAirConState, Value: A/C {LOCAL:IsTurnedOn}
 Key: SuitContextAirPumpState, Value: Luft {LOCAL:IsTurnedOn}
 Key: SuitContextFilterState, Value: Filter {LOCAL:IsTurnedOn}
 Key: Swap, Value: Tauschen
-Key: SysReq, Value: Sys Req
+Key: SysReq, Value: Systemanforderung
 Key: T, Value: T
 Key: TK, Value: TK Systems
 Key: TKDesc, Value: Ursprünglich war das tansanische Unternehmen Kinetic Systems ein Verteidigungsunternehmen, das sich auf die Herstellung von Hochleistungswaffen spezialisierte. In Friedenszeiten vollzog es einen groß angelegten Schwenk und wurde zum führenden Konstrukteur von Hochgeschwindigkeits-Schachtanlagen in Afrika.
 Heute produziert TK eine Reihe von Rutschennetzdesigns und -komponenten und ist dank der afro-chinesischen Partnerschaften im späten 21. Jahrhundert auch außerhalb der Welt stark vertreten. Das Unternehmen mit Sitz im "wiederentdeckten" Kigamboni-Bezirk von Dar E Salaam geht regelmäßig Entwicklungspartnerschaften mit {LINK:CHAC;CHAC} ein, und infolgedessen weisen viele ihrer Produkte deutliche Ähnlichkeiten auf.
         Schließlich ist eine Waffe nichts anderes als ein "Hochgeschwindigkeits-Schachtband".
       
-Key: Tab, Value: Registerkarte
+Key: Tab, Value: Tab
 Key: Take, Value: Nehmen
 Key: TankPressure, Value: Tankdruck
 Key: TargetPadIndex, Value: Ziellandeplatz-Index
