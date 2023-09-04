@@ -3896,7 +3896,7 @@ Key: TemperatureUp, Value: Temperatur nach oben
 Key: TerrainFeaturesField, Value: Geländeeigenschaften
 Key: TextboxEnterDescription, Value: Beschreibung eingeben...
 Key: TextboxEnterName, Value: Enter Name...
-Key: TextboxEnterSeed, Value: Saatgut eingeben...
+Key: TextboxEnterSeed, Value: Seed eingeben...
 Key: ThingAlreadyDraggedBy, Value: {LOCAL:Thing0} wird bereits von {LOCAL:Thing1} geschleppt
 Key: ThingCanNotBeDraggedWithSomethingIn, Value: Kann nicht mit etwas in {LOCAL:Thing} gezogen werden
 Key: ThingCanNotEnterSlot, Value: {LOCAL:Thing0} kann nicht eingeben {LOCAL:Thing1}
@@ -3923,19 +3923,19 @@ Key: ThingWillDecayIn, Value: Wird in <color=yellow>{0}</color> vollständig zerf
 Key: ThingWillDecayInHours, Value: Dieser wird in {0} Stunden verfallen.
 Key: ThingWillDecayInMinutes, Value: Dieser wird in {0} Minuten abklingen.
 Key: ThingWillDecayInSeconds, Value: Dies wird in {0} Sekunden abklingen.
-Key: Throttle, Value: Drosselklappe
+Key: Throttle, Value: Drosselventil
 Key: Thrust, Value: Schubkraft
-Key: ThrustDown, Value: Nach unten schieben
-Key: ThrustUp, Value: Schub nach oben
-Key: TierOne, Value: Tier One
+Key: ThrustDown, Value: Weniger Schub
+Key: ThrustUp, Value: Mehr Schub
+Key: TierOne, Value: Tier Eins
 Key: TierThree, Value: Stufe Drei
-Key: TierTwo, Value: Tier Two
+Key: TierTwo, Value: Tier Zwei
 Key: Tilde, Value: Tilde
 Key: TiltDownwards, Value: Nach unten kippen
 Key: TiltUpwards, Value: Nach oben kippen
 Key: TimeUntilDarknessDamage, Value: Zeit bis zum Eintritt der Dunkelheit
 Key: TimeUntilDehydrationDamage, Value: Zeit bis zu Dürreschäden
-Key: TimeUntilFrozenDamage, Value: Zeit bis zum Einfrieren des Schadens
+Key: TimeUntilFrozenDamage, Value: Zeit bis zum Gefrierschaden
 Key: TimeUntilHighPressureDamage, Value: Zeit bis zum Hochdruckschaden
 Key: TimeUntilLightDamage, Value: Zeit bis zur leichten Beschädigung
 Key: TimeUntilLowPressureDamage, Value: Zeit bis zur Beschädigung durch Unterdruck
@@ -3952,9 +3952,9 @@ Key: ToolDoesNotHaveAnythingInSlot, Value: {LOCAL:Tool} hat nichts in seinem Ste
 Key: ToolDoesNotHaveEnoughCharge, Value: {LOCAL:Tool} hat nicht genug {LOCAL:Battery} Ladung.
 Key: ToolNotCurrentlyOperableForTask, Value: {LOCAL:Tool} ist derzeit für diese Aufgabe nicht geeignet
 Key: ToolPrinterMod, Value: Werkzeugdrucker Mod
-Key: ToolRequiredToDeconstruct, Value: {LOCAL:Tool} erforderlich für <color=red>deconstruct</color>
+Key: ToolRequiredToDeconstruct, Value: {LOCAL:Tool} erforderlich fürs <color=red>dekonstruieren</color>
 Key: TooltipAllowsMounting, Value: Ermöglicht die Montage von an der Wand angebrachten Geräten. Upgrade für einen besseren Platzierungsbereich.
-Key: TooltipNeedMoreKit, Value: <color=red>Brauche mehr {0}.
+Key: TooltipNeedMoreKit, Value: <color=red>Brauche mehr {0}.</color>
 Key: TooltipPlacementSnapFace, Value: Die Platzierung wird an den Rasterflächen eingerastet.
 Key: TooltipPlacementSnapFaceMount, Value: Die Platzierung wird auf dem kleinen Raster eingerastet.
 Key: TooltipPlacementSnapFaceMountBlockedDynamic, Value: Platzierung blockiert durch #VAR1#
@@ -3983,22 +3983,22 @@ Key: TradeErrorNoMotherboardInsertedMessage, Value: Der angeschlossene Computer 
 Key: TradeErrorNoMotherboardInsertedTitle, Value: Nicht handelsfähig
 Key: TradeErrorPadError, Value: Der Landing Pad befindet sich in einem Fehlerzustand. Stellen Sie den normalen Betrieb der Landeplattform wieder her, bevor der Handel fortgesetzt werden kann.
 Key: TradeErrorPadOff, Value: Der Landeplatz ist nicht mit Strom versorgt. Stellen Sie den normalen Betrieb des Landeplatzes wieder her, bevor der Handel fortgesetzt werden kann.
-Key: TraderBasic, Value: Spes'mall Grundlagen
-Key: TraderChemistry, Value: Chem Lab
-Key: TraderCommunication, Value: Kommunikation mit Händlern
+Key: TraderBasic, Value: Händler-Grundlagen
+Key: TraderChemistry, Value: Händler-Chemielabor
+Key: TraderCommunication, Value: Händler-Kommunikation
 Key: TraderCommunicationText, Value: Der Händler wartet auf eine atembare Atmosphäre, bevor er das Shuttle verlässt
 Key: TraderCrashedEvent, Value: Der Händler {LOCAL:Name} ist an der Position {LOCAL:Position} auf {LOCAL:Collision} gestoßen.
-Key: TraderCustom, Value: Spes'mall
-Key: TraderElectronics, Value: TechTree Elektronik
+Key: TraderCustom, Value: Händler
+Key: TraderElectronics, Value: Händler-Elektronik
 Key: TraderEnteredRangeEvent, Value: Der Händler {LOCAL:Name} hat den Kontaktbereich betreten.
 Key: TraderErrorConnectWires, Value: Der Händler konnte den Handel nicht abschließen, überprüfen Sie Ihre Kabel auf eventuelle Brüche!
 Key: TraderErrorMissingMotherboard, Value: Ihnen fehlt eine Hauptplatine in Ihrem Computer, Sie haben den Kontakt zum Händler verloren.
 Key: TraderErrorMissingVendingMachine, Value: Ihnen fehlt ein angeschlossener leerer Automat, der Handel konnte nicht abgeschlossen werden.
 Key: TraderErrorNoGasSpace, Value: Die Kapazität des Landeplatzes reicht nicht aus, um das angeforderte Gas aufzunehmen. Fügen Sie dem Landeplatz mehr Gasspeicher zu.
-Key: TraderExotics, Value: ExoTech
-Key: TraderGas, Value: GasTrade
+Key: TraderExotics, Value: Händler-Exotisch
+Key: TraderGas, Value: Händler-Gas
 Key: TraderGoneMissing, Value: Der Kontakt hat sich offenbar weiterentwickelt.
-Key: TraderHydraulic, Value: HydrauliKit
+Key: TraderHydraulic, Value: Händler-Hydraulik
 Key: TraderInUse, Value: Dieser Kontakt ist bereits mit jemandem in Kontakt, versuchen Sie es bald wieder.
 Key: TraderLeftRangeEvent, Value: Der Händler {LOCAL:Name} hat den Kontaktbereich verlassen.
 Key: TraderLocked, Value: Abgeschlossen
