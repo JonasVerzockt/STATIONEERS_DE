@@ -3510,10 +3510,10 @@ Key: StructureHydroponicsTray, Value: Hydroponisches Beet
 Key: StructureHydroponicsTrayData, Value: Hydroponisches Beet
 Key: StructureIceCrusher, Value: Eiszerkleinerer
 Key: StructureIgniter, Value: Zündvorrichtung
-Key: StructureInLineTankGas1x1, Value: In-Line Tank Klein Gas
-Key: StructureInLineTankGas1x2, Value: In-Line Tank Gas
-Key: StructureInLineTankLiquid1x1, Value: In-Line-Tank Kleine Flüssigkeit
-Key: StructureInLineTankLiquid1x2, Value: In-Line Tank Liquid
+Key: StructureInLineTankGas1x1, Value: In-Line Tank 1x1 Gas
+Key: StructureInLineTankGas1x2, Value: In-Line Tank 1x2 Gas
+Key: StructureInLineTankLiquid1x1, Value: In-Line-Tank 1x1 Flüssigkeit
+Key: StructureInLineTankLiquid1x2, Value: In-Line Tank 1x2 Flüssigkeit
 Key: StructureInsulatedPipeCorner, Value: Isolierte Gasrohre (Ecke)
 Key: StructureInsulatedPipeCrossJunction, Value: Isolierte Gasrohre (Kreuzungspunkt)
 Key: StructureInsulatedPipeCrossJunction3, Value: Isolierte Gasrohre (3-Wege-Abzweigung)
@@ -4067,7 +4067,7 @@ Key: UndesiredGasResistance, Value: Unerwünschter Gaswiderstand
 Key: Uniform, Value: Uniform
 Key: UniformCommander, Value: Uniformierter Kommandant
 Key: UniformMarine, Value: Marineuniform
-Key: UniformOrangeJumpSuit, Value: Jump Anzug (Orange)
+Key: UniformOrangeJumpSuit, Value: Jumpuniform (Orange)
 Key: UnitDay, Value: {LOCAL:Value} Tag
 Key: UnitDays, Value: {LOCAL:Value} Tage
 Key: UnitHour, Value: {LOCAL:Value} Stunde
@@ -4091,7 +4091,7 @@ Key: UnweldingWillUnLockDoor, Value: <color=yellow>Entschweißen</color> der {LOC
 Key: Up, Value: oben
 Key: UpArrow, Value: Pfeil nach oben
 Key: Uranium, Value: Uran
-Key: Use, Value: Verwenden Sie
+Key: Use, Value: Verwenden
 Key: UseLabelerToSet, Value: Verwenden Sie einen <color=yellow>Labeler</color>, um einen Wert direkt einzugeben
 Key: V, Value: V
 Key: Vend, Value: verkaufen
@@ -4099,16 +4099,16 @@ Key: VerticalDegrees, Value: <color=yellow>Vertikal</color> <color=green>{0} Gra
 Key: VisualiserState, Value: Visualisieren {LOCAL:State}
 Key: Volatiles, Value: Wasserstoff
 Key: Volatiles, Value: Wasserstoff
-Key: Volume, Value: Volumen
+Key: Volume, Value: Lautstärke
 Key: VolumeChangeDirection, Value: Richtungswechsel
 Key: Vulcan, Value: Vulkan
-Key: Vulcan2, Value: Vulkan
+Key: Vulcan2, Value: Vulkan2
 Key: W, Value: W
 Key: WaitingBody, Value: Die Weltdaten werden noch gespeichert.  Bitte versuchen Sie es erneut, wenn es fertig ist.
 Key: WaitingTitle, Value: Warnung speichern
 Key: WallFloorCategory, Value: Wände und Böden
 Key: WallFrameCornerCut, Value: Stahlrahmen (Eckenschnitt)
-Key: Wants, Value: Wants
+Key: Wants, Value: Bedürfnisse
 Key: WarningControlConflict, Value: Kontrolle des Konflikts
 Key: WarningControlConflictDescription, Value: Bitte besuchen Sie das Steuerungszuweisungsfenster und beseitigen Sie Konflikte
 Key: WarningSavePathNotWritable, Value: Speicherpfad nicht beschreibbar
@@ -4118,10 +4118,10 @@ Key: Water, Value: Wasser
 Key: Water, Value: Wasser
 Key: WaterPlantWith, Value: Wasserpflanze mit {LOCAL:InHand}
 Key: WaterUsage, Value: Wasserverbrauch
-Key: WaterWrongTemp, Value: <color=red>Fehler!</color> Wasser muss zwischen <color=yellow>0 und 100 Grad C</color></color> sein
+Key: WaterWrongTemp, Value: <color=red>Fehler!</color> Wasser muss zwischen <color=yellow>0 und 100 Grad C</color> sein
 Key: WattEnergyMeasurement, Value: W
 Key: Waveform, Value: Wellenform
-Key: WeaponEnergy, Value: Energie Waffe
+Key: WeaponEnergy, Value: Energie-Waffe
 Key: WeaponPistolEnergy, Value: Energie-Pistole
 Key: WeaponRifleEnergy, Value: Energie-Gewehr
 Key: WeaponTorpedo, Value: Torpedo
@@ -4144,21 +4144,21 @@ Key: WorldDescriptionLabel, Value: Beschreibung
 Key: WorldInfoButtonDebugLoad, Value: Debug Laden
 Key: WorldInfoButtonDelete, Value: Löschen
 Key: WorldInfoButtonDeleteBackup, Value: Sicherung löschen
-Key: WorldInfoButtonPublish, Value: veröffentlichen.
+Key: WorldInfoButtonPublish, Value: veröffentlichen
 Key: WorldInfoMapName, Value: Karte:
 Key: WorldInfoTextAsteroids, Value: Asteroiden:
-Key: WorldInfoTextDate, Value: Gerettet:
+Key: WorldInfoTextDate, Value: Gespeichert:
 Key: WorldInfoTextPlaytime, Value: Spielzeit:
 Key: WorldInfoTextVersion, Value: Version:
 Key: WorldNameLabel, Value: Name der Welt
-Key: WorldPresetLabel, Value: Preset
+Key: WorldPresetLabel, Value: Voreinstellung
 Key: WorldPresetTitle, Value: Welt Voreinstellung
-Key: WorldResetButton, Value: Reset
-Key: WorldSaveButton, Value: Speichern Sie
-Key: WorldSeedLabel, Value: Weltsaatgut
+Key: WorldResetButton, Value: Zurücksetzen
+Key: WorldSaveButton, Value: Speichern
+Key: WorldSeedLabel, Value: Weltseed
 Key: WorldSettingsTitle, Value: Weltweite Einstellungen
-Key: WorldTerrain, Value: Grundstück
-Key: WorldTerrainPresetLabel, Value: Grundstück
+Key: WorldTerrain, Value: Terrain
+Key: WorldTerrainPresetLabel, Value: Terrain
 Key: X, Value: X
 Key: Xigo, Value: Xigo
 Key: XigoDesc, Value: Eine Umfrage von 2150CE ergab, dass das Xigo "X" eines der bekanntesten Symbole der Welt ist. Doch nur wenige Teilnehmer konnten den tatsächlichen Umfang des Unternehmens klar beschreiben.
