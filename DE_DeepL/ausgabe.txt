@@ -2515,8 +2515,8 @@ Key: ODADesc, Value:
 Die im Jahr 2070 u.Z. von den neu gegründeten Vereinten Nationen ins Leben gerufene Offworld Development Agency hatte ein ganz bestimmtes Ziel: Sie sollte die Erforschung des Weltraums durch den Menschen anleiten und fördern, während der Kosmos aus dem Bewusstsein der Öffentlichkeit verschwand.
 Im Jahr 2095 wurde das {LINK:Stationeers;Stationeer}-Programm ins Leben gerufen. Die ODA war sich bewusst, dass es schwierig sein würde, Finanzmittel zu erhalten, und konzipierte das Programm als eine langsame, wenig aufwändige Raumfahrtinitiative. Während einige die Stationeers als "billige kosmische Schiffbrüchige" verspotteten, zeugt der Erfolg des Programms von der Weisheit und dem Pragmatismus der Vision der ODA.
       
-Key: OcclusionTickSpeed, Value: Tick Speed-Okklusion
-Key: Occupant, Value: Bewohner
+Key: OcclusionTickSpeed, Value: Verdeckungsgeschwindigkeit (Ticks)
+Key: Occupant, Value: Belegt durch
 Key: Off, Value: Aus
 Key: On, Value: An
 Key: OnOff, Value: Ein Aus
@@ -2554,11 +2554,11 @@ Key: Oxygen, Value: Sauerstoff
 Key: P, Value: P
 Key: PageDown, Value: Seite unten
 Key: PageUp, Value: Seite oben
-Key: Paint, Value: Farbe
+Key: Paint, Value: Einfärben
 Key: PanelPlantGeneticsTitle, Value: Genetische Informationen
 Key: PassengerSeatLeft, Value: Beifahrersitz links
 Key: PassengerSeatRight, Value: Beifahrersitz rechts
-Key: PassengersChair, Value: Fahrgaststuhl
+Key: PassengersChair, Value: Beifahrersitz
 Key: PassiveSpeaker, Value: Passiv-Lautsprecher
 Key: Pause, Value: Pause
 Key: Percent, Value: Prozent
@@ -2588,12 +2588,12 @@ Key: PipeDamageModeLiquid, Value: Beschädigt durch das <color=red>Vorhandensein 
 Key: PipeDamageModePressure, Value: Beschädigt durch ein <color=red>Überdruckereignis</color>
 Key: PipeFailModeFrozen, Value: Zerstört durch <color=red>Gefrieren von Flüssigkeiten oder Gasen</color>
 Key: PipeFailModeLiquid, Value: Zerstört durch das <color=red>Vorhandensein von Flüssigkeit</color>
-Key: PipeFailModePressure, Value: Zerstört aufgrund eines <color=red>Überdrucks</color>-Ereignisses
+Key: PipeFailModePressure, Value: Zerstört aufgrund eines <color=red>Überdrucks</color>
 Key: PipeLiquid, Value: Rohrleitung Flüssigkeit
 Key: PipeStressed, Value: Der Druck in der Leitung ist gefährlich hoch
 Key: PipeVolumeChangePopup, Value: Rohrvolumen ändern: Möchten Sie, dass Stationeers versucht, den Inhalt aller Rohrnetze zu verändern, um Rohrbrüche zu verhindern?
 Key: PipeVolumeChangePopup, Value: Änderung der Rohrvolumen-Balance: Dieser Spielstand stammt aus Version 0.2.4120.19448 oder älter und ist möglicherweise nicht mit den neuen Balance-Änderungen an den Rohrvolumina kompatibel. Möchten Sie, dass Stationeers versucht, den Inhalt atmosphärischer Netze im geladenen Spiel zu ändern, um sofortige Explosionen und Überdruckereignisse aufgrund dieser Änderungen zu verhindern? (einige Gase/Flüssigkeiten könnten durch diesen Prozess gelöscht werden)
-Key: Pitch, Value: Stellplatz
+Key: Pitch, Value: Pitch
 Key: PixelLightCount, Value: Pixel Licht Anzahl
 Key: PlacementBlockedByAdjacentDevice, Value: Kann nicht in der Nähe von <color=green>{LOCAL:Device}</color> platziert werden
 Key: PlacementBlockedByRocket, Value: Platzierung wird durch eine Rakete blockiert
@@ -2602,65 +2602,65 @@ Key: PlacementBlockedByStructure, Value: Die Platzierung wird durch <color=green
 Key: PlacementBlockedByUnknownDevice, Value: Kann nicht neben einem anderen Gerät platziert werden
 Key: PlacementRequiresFrame, Value: Die Platzierung erfordert einen Rahmen darunter zur Unterstützung
 Key: PlacementRequiresFrameOrGround, Value: Die Platzierung erfordert einen Rahmen oder einen festen Untergrund zur Unterstützung
-Key: PlacementRequiresHydroponicsTray, Value: Für die Platzierung ist ein Hydroponics-Tablett unten erforderlich
+Key: PlacementRequiresHydroponicsTray, Value: Für die Platzierung ist ein Hydroponisches Beet unterhalb erforderlich
 Key: PlacementRequiresLaunchPad, Value: Platzierung erfordert Launchpad unten
-Key: PlacementRequiresModularRocket, Value: Die Platzierung erfordert ein modulares Raketenteil unten
+Key: PlacementRequiresModularRocket, Value: Die Platzierung erfordert ein modulares Raketenteil darunter
 Key: PlacementRequiresPipeValve, Value: Muss hinter einem Rohrleitungsventil (oder einem anderen atmosphärischen Gerät) angebracht werden
-Key: Plant, Value: Pflanze
-Key: Plant, Value: Pflanze
+Key: Plant, Value: Pflanzen
+Key: Plant, Value: Pflanzen
 Key: PlantAtmosphereTooCold, Value: Die {LOCAL:Plant} <color=red>Atmosphäre ist zu kalt</color>
 Key: PlantAtmosphereTooHot, Value: Die {LOCAL:Plant} <color=red>Atmosphäre ist zu heiß</color>
-Key: PlantBarelyGrowingMature, Value: Die {LOCAL:Plant} wächst gerade erst in Richtung Fruchtbildung
-Key: PlantBarelyGrowingSeed, Value: Die {LOCAL:Plant} wächst kaum in Richtung Aussaat
+Key: PlantBarelyGrowingMature, Value: Die {LOCAL:Plant} wächst kaum Richtung Fruchtbildung
+Key: PlantBarelyGrowingSeed, Value: Die {LOCAL:Plant} wächst kaum Richtung Samenbildung
 Key: PlantCreate, Value: Dies erzeugt <color=yellow>{LOCAL:Count}</color> x {LOCAL:Plant}
 Key: PlantCreateSeeds, Value: Dies erzeugt <color=yellow>{LOCAL:Count}</color> x {LOCAL:Plant} Samen
 Key: PlantDead, Value: Die {LOCAL:Plant} ist <color=red>tot</color>
 Key: PlantDead, Value: Die {LOCAL:Plant} ist <color=red>tot</color>
 Key: PlantGrowing, Value: Die {0} ist {1}wachsend{2}
 Key: PlantGrowingModeratelyMature, Value: Der {LOCAL:Plant} wächst mäßig gut in Richtung Fruchtbildung
-Key: PlantGrowingModeratelySeed, Value: Die {LOCAL:Plant} wächst mäßig gut in Richtung Aussaat
+Key: PlantGrowingModeratelySeed, Value: Die {LOCAL:Plant} wächst mäßig gut in Richtung Samenbildung
 Key: PlantGrowingPoorlyMature, Value: Die {LOCAL:Plant} wächst schlecht in Richtung Fruchtbildung
-Key: PlantGrowingPoorlySeed, Value: Die {LOCAL:Plant} wächst schlecht in Richtung Aussaat
+Key: PlantGrowingPoorlySeed, Value: Die {LOCAL:Plant} wächst schlecht in Richtung Samenbildung
 Key: PlantHoldToClear, Value: Halte <color=yellow>{KEY:QuantityModifier}</color> um {LOCAL:Plant} zu löschen
 Key: PlantHydrate, Value: Der {0} fehlt die {1}Hydratisierung{2}
 Key: PlantIsInDarkness, Value: Die {LOCAL:Plant} <color=red>ist in der Dunkelheit</color>
-Key: PlantIsInHighPressureEnvironment, Value: Der {LOCAL:Plant} <color=red>ist in einer Hochdruckumgebung</color>
-Key: PlantIsInLowPressureEnvironment, Value: Der {LOCAL:Plant} <color=red>befindet sich in einer Niederdruckumgebung</color>
-Key: PlantIsPollutedByAir, Value: Der {LOCAL:Plant} <color=red>wird von der Luft verschmutzt</color>
-Key: PlantIsReceivingLight, Value: Die {LOCAL:Plant} empfängt Licht
-Key: PlantNoSunlight, Value: Die {0} hat nicht das erforderliche {1}Sonnenlicht{2}
-Key: PlantNotCorrectAtmosphere, Value: Die {LOCAL:Plant} <color=red>hat nicht die richtige Gaszusammensetzung der Atmosphäre</color>
-Key: PlantNotEnoughLight, Value: Der {LOCAL:Plant} <color=red>erhält nicht die richtige Menge an Licht pro Tag</color>
+Key: PlantIsInHighPressureEnvironment, Value: Die {LOCAL:Plant} <color=red>hat Überduruck</color>
+Key: PlantIsInLowPressureEnvironment, Value: Die {LOCAL:Plant} <color=red>hat Unterdruck</color>
+Key: PlantIsPollutedByAir, Value: Die {LOCAL:Plant} <color=red>wird Vergiftet</color>
+Key: PlantIsReceivingLight, Value: Die {LOCAL:Plant} ist beleuchtet
+Key: PlantNoSunlight, Value: Die {0} hat nicht die erforderliche {1}Beleuchtung{2}
+Key: PlantNotCorrectAtmosphere, Value: Die {LOCAL:Plant} <color=red>hat falsche Atmosphärenzusammensetzung</color>
+Key: PlantNotEnoughLight, Value: Die {LOCAL:Plant} <color=red>erhält nicht die richtige Menge an Licht pro Tag</color>
 Key: PlantNotGrowingMature, Value: Die {LOCAL:Plant} <color=red>wächst nicht</color> und wird nie Früchte tragen
-Key: PlantNotGrowingSeed, Value: Die {LOCAL:Plant} <color=red>wächst nicht</color> und wird nie säen
+Key: PlantNotGrowingSeed, Value: Die {LOCAL:Plant} <color=red>wächst nicht</color> und wird nie Samen tragen
 Key: PlantSamplerAction, Value: Probe {LOCAL:Plant}
-Key: PlantSamplerNoSample, Value: Kein ausgefülltes Muster zur Ansicht
+Key: PlantSamplerNoSample, Value: Keine abgeschlossene Probe zur Auswahl
 Key: PlantStabilizerDestabilizeMode, Value: Destabilisieren
 Key: PlantStabilizerDestabilizePlant, Value: Destabilisiere <color=green>{LOCAL:Gene}</color> Gen auf {LOCAL:Plant}
-Key: PlantStabilizerDestabilizingPlant, Value: Destabilisierend {LOCAL:Plant} <color=yellow>{LOCAL:Value}%</color>
+Key: PlantStabilizerDestabilizingPlant, Value: Destabilisierung {LOCAL:Plant} <color=yellow>{LOCAL:Value}%</color>
 Key: PlantStabilizerNoPlantInSlot, Value: Keine Pflanze im Steckplatz
-Key: PlantStabilizerStabilizeMode, Value: Stabilisieren Sie
+Key: PlantStabilizerStabilizeMode, Value: Stabilisieren
 Key: PlantStabilizerStabilizePlant, Value: Alle Gene auf {LOCAL:Plant} stabilisieren
 Key: PlantStabilizerStabilizingPlant, Value: Stabilisierung {LOCAL:Plant} <color=yellow>{LOCAL:Value}%</color>
-Key: PlantStabilizerStartDestabilizing, Value: Beginn der Destabilisierung
+Key: PlantStabilizerStartDestabilizing, Value: Destabilisierung beginnen
 Key: PlantStabilizerStartStabilizing, Value: Stabilisierung beginnen
 Key: PlantStabilizerToggleModeToDestabilize, Value: Destabilisieren einstellen
 Key: PlantStabilizerToggleModeToStabilize, Value: Stabilisieren einstellen
 Key: PlantTemperature, Value: Die {0} ist nicht bei der richtigen {1}Temperatur{2}
-Key: PlantThrivingMature, Value: Die {LOCAL:Plant} gedeiht zur Fruchtbildung
-Key: PlantThrivingSeed, Value: Die {LOCAL:Plant} gedeiht in Richtung Aussaat
+Key: PlantThrivingMature, Value: Die {LOCAL:Plant} gedeiht in Richtung Fruchtbildung
+Key: PlantThrivingSeed, Value: Die {LOCAL:Plant} gedeiht in Richtung Samenbildung
 Key: PlantToxic, Value: Die {0} wird durch hohe {1}Schadstoffe{2} in der Atmosphäre geschädigt
-Key: PlantViewSampleInfo, Value: <color=green>Mit der linken Maustaste anklicken</color>, um Informationen über das ausgefüllte Muster anzuzeigen
-Key: PlantWaterNeeds, Value: Der {LOCAL:Plant} <color=red>Bedarf Wasser</color>
-Key: PlantWaterTooCold, Value: Das {LOCAL:Plant} <color=red>Wasser ist zu kalt</color>
-Key: PlantWaterTooHot, Value: Das {LOCAL:Plant} <color=red>Wasser ist zu heiß</color>
+Key: PlantViewSampleInfo, Value: <color=green>Mit der linken Maustaste anklicken</color>, um Informationen über die Probe anzuzeigen
+Key: PlantWaterNeeds, Value: Die {LOCAL:Plant} <color=red>benötigt Wasser</color>
+Key: PlantWaterTooCold, Value: {LOCAL:Plant} <color=red>Wasser ist zu kalt</color>
+Key: PlantWaterTooHot, Value: {LOCAL:Plant} <color=red>Wasser ist zu heiß</color>
 Key: PlantWillCreate, Value: So entsteht {1}{1}{1} x {1}
 Key: Plants, Value: Pflanzen und Saatgut
 Key: Player, Value: Spieler
 Key: Player, Value: Spieler
 Key: PlayerIsConnecting, Value: Spieler wird verbunden
 Key: Plus, Value: Plus
-Key: Poke, Value: Stöbern
+Key: Poke, Value: Stubsen
 Key: Pollutant, Value: Schadstoff
 Key: Portable Appliance Kits, Value: Bausätze für tragbare Geräte
 Key: PortableComposter, Value: Tragbarer Komposter
@@ -2670,8 +2670,8 @@ Key: PortableSolarPanel, Value: Tragbares Solarpanel
 Key: Power, Value: Strom
 Key: PowerAndData, Value: Strom und Daten
 Key: PowerCategoryKey, Value: Elektronik
-Key: PowerControlSetTo, Value: Einstellung <b>{LOCAL:Category}</b> {LOCAL:OnState}
-Key: PowerItemNoPower, Value: Keine Batterieleistung!
+Key: PowerControlSetTo, Value: Setze <b>{LOCAL:Category}</b> {LOCAL:OnState}
+Key: PowerItemNoPower, Value: Keine Batterieladung!
 Key: PowerTool, Value: Elektrische Werkzeuge
 Key: PowerTools, Value: Elektrische Werkzeuge
 Key: Powered, Value: Angetrieben
@@ -2679,24 +2679,24 @@ Key: Powered, Value: Angetrieben
 Key: PressEnterToContinue, Value: Zum Fortfahren Leertaste drücken
 Key: Pressure, Value: Druck
 Key: PressureDifferential, Value: Druckdifferenz <color=green>{LOCAL:PressureDelta} kPa</color>
-Key: PressureDown, Value: Druck nach unten
+Key: PressureDown, Value: Druck reduzieren
 Key: PressureKeySPDA, Value: Maximaler Druck:
-Key: PressureSafteySetTo, Value: Die <color=green>{LOCAL:Location} Sicherheit</color> wird auf <color=yellow>{LOCAL:Value}</color> gesetzt
+Key: PressureSafteySetTo, Value: Der Sicherheitswert für <color=green>{LOCAL:Location}</color> wird auf <color=yellow>{LOCAL:Value}</color> gesetzt
 Key: PressureUp, Value: Druck erhöhen
-Key: Prev, Value: Vorschau
-Key: Prev, Value: Vorschau
+Key: Prev, Value: Zurück
+Key: Prev, Value: Zurück
 Key: PreviewAtmosphereField, Value: Vorschau Atmosphäre
 Key: Previous, Value: Vorherige
 Key: Previous, Value: Vorherige
 Key: PreviousPage, Value: Vorherige Seite
 Key: PreviousPlan, Value: Vorheriger Plan
 Key: Print, Value: Drucken
-Key: ProcessedMoles, Value: Verarbeitete Mole {LOCAL:Moles} Mole
-Key: Processing, Value: Verarbeitung
-Key: Processing, Value: Verarbeitung
+Key: ProcessedMoles, Value: Verarbeitet {LOCAL:Moles} Mole
+Key: Processing, Value: Verarbeite
+Key: Processing, Value: Verarbeite
 Key: ProgrammableChip, Value: Programmierbarer Chip
 Key: ProgrammableChip, Value: Programmierbarer Chip
-Key: ProgrammableChipErrorCode, Value: Fehler {LOCAL:ErrorType} in Zeile {LOCAL:LineNumber}
+Key: ProgrammableChipErrorCode, Value: Fehler in Zeile {LOCAL:LineNumber}: {LOCAL:ErrorType}
 Key: PromptButtonLeave, Value: Sitzung verlassen
 Key: PromptDebugLoadBody, Value: Sind Sie sicher, dass Sie diese Welt mit nur einem Zeichen laden wollen?
 Key: PromptDebugLoadConfirm, Value: Debug Laden
@@ -2704,34 +2704,34 @@ Key: PromptDebugLoadTitle, Value: Debug Laden
 Key: PromptDeleteBody, Value: Sind Sie sicher?
 Key: PromptDeleteConfirm, Value: Löschen
 Key: PromptDeleteTitle, Value: Gesamten Speicher löschen
-Key: PromptGiveUpBody, Value: Sie sind bewusstlos. Willst du aufgeben und wieder auftauchen?
+Key: PromptGiveUpBody, Value: Sie sind bewusstlos. Willst du aufgeben und wiederbeleben?
 Key: PromptGiveUpConfirm, Value: Aufgeben
 Key: PromptGiveUpTitle, Value: Aufgeben
 Key: PromptOverwriteBody, Value: Sind Sie sicher, dass Sie eine bereits gespeicherte Welt überschreiben wollen?
-Key: PromptOverwriteConfirm, Value: Überschreiben Sie
-Key: PromptOverwriteTitle, Value: Überschreiben Sie
+Key: PromptOverwriteConfirm, Value: Überschreiben
+Key: PromptOverwriteTitle, Value: Überschreiben
 Key: PromptPauseBody, Value: Spiel pausiert
 Key: PromptPauseTitle, Value: Pause
-Key: PromptPublishBody, Value: Sind Sie sicher, dass Sie diese Welt in der Werkstatt veröffentlichen wollen?
+Key: PromptPublishBody, Value: Sind Sie sicher, dass Sie diese Welt im Workshop veröffentlichen wollen?
 Key: PromptPublishConfirm, Value: veröffentlichen.
 Key: PromptPublishTitle, Value: Im Workshop veröffentlichen
 Key: PromptQuitBody, Value: Sind Sie sicher, dass Sie aufhören wollen?
-Key: PromptQuitConfirm, Value: Beenden Sie
-Key: PromptQuitTitle, Value: Beenden Sie Stationeers
+Key: PromptQuitConfirm, Value: Beenden
+Key: PromptQuitTitle, Value: Stationeers beenden
 Key: PromptResetSettingsBody, Value: Sind Sie sicher?
 Key: PromptResetSettingsConfirm, Value: Zurücksetzen
 Key: PromptResetSettingsTitle, Value: Einstellungen zurücksetzen
 Key: PromptRespawnBody, Value: Sie sind tot.
-Key: PromptRespawnConfirm, Value: Wiedererscheinen
-Key: PromptRespawnTitle, Value: Wiedererscheinen
+Key: PromptRespawnConfirm, Value: Wiederbeleben
+Key: PromptRespawnTitle, Value: Wiederbeleben
 Key: PromptResumeButton, Value: Fortsetzen
-Key: PromptTravelBody, Value: Sind Sie sicher, dass Sie mit der Karte reisen wollen?
+Key: PromptTravelBody, Value: Sind Sie sicher, dass Sie zu dieser Welt reisen möchten?
 Key: PromptTravelConfirm, Value: Reisen
 Key: PromptUnsubscribeBody, Value: Sind Sie sicher, dass Sie diesen Workshop-Artikel abbestellen möchten?
 Key: PromptUnsubscribeConfirm, Value: Abbestellen
 Key: PromptUnsubscribeTitle, Value: Abbestellen
 Key: Propellent, Value: Treibstoff
-Key: PureIceHeader, Value: Reine Eissorten
+Key: PureIceHeader, Value: Reines Eis
 Key: Q, Value: Q
 Key: Quantity, Value: Menge
 Key: QuantityAndRatioTooltip, Value: Menge <color=green>{LOCAL:QuantityValue}
