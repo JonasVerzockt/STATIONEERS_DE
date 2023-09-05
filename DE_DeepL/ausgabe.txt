@@ -4060,15 +4060,15 @@ Key: TutorialsTitle, Value: Anleitungenen
 Key: TypeOfSlot, Value: Dies ist ein <color=yellow>{LOCAL:SlotType}</color> Steckplatz
 Key: U, Value: U
 Key: UnLink, Value: entkoppeln
-Key: UnableToConstruct, Value: <color=red>Können nicht konstruiert werden.
-Key: UnableToInteractAsYouDoNotHaveTheRequiredAccessCard, Value: Interaktion nicht möglich, da Sie nicht über die erforderlichen {SLOT:AccessCard}
-Key: Unconscious, Value: Unbewusst
+Key: UnableToConstruct, Value: <color=red>Kann nicht konstruiert werden.
+Key: UnableToInteractAsYouDoNotHaveTheRequiredAccessCard, Value: Interaktion nicht möglich, da Sie nicht über die erforderliche {SLOT:AccessCard} verfügen
+Key: Unconscious, Value: Bewustlos
 Key: Underscore, Value: Unterstrich
-Key: UndesiredGasResistance, Value: Unerwünschter Gaswiderstand
+Key: UndesiredGasResistance, Value: Wiederstand gegen unverträgliche Gase
 Key: Uniform, Value: Uniform
 Key: UniformCommander, Value: Uniformierter Kommandant
-Key: UniformMarine, Value: Marineuniform
-Key: UniformOrangeJumpSuit, Value: Jumpuniform (Orange)
+Key: UniformMarine, Value: Militäruniform
+Key: UniformOrangeJumpSuit, Value: Strampelanzug (Orange)
 Key: UnitDay, Value: {LOCAL:Value} Tag
 Key: UnitDays, Value: {LOCAL:Value} Tage
 Key: UnitHour, Value: {LOCAL:Value} Stunde
@@ -4087,17 +4087,17 @@ Key: Unload, Value: Entladen
 Key: Unlock, Value: entsperren
 Key: Unpack, Value: Auspacken
 Key: UnpackAll, Value: Alle auspacken
-Key: Unpowered, Value: Unbestromt
+Key: Unpowered, Value: Stromlos
 Key: UnweldingWillUnLockDoor, Value: <color=yellow>Entschweißen</color> der {LOCAL:Thing} wird sie entsperren
-Key: Up, Value: oben
+Key: Up, Value: hoch
 Key: UpArrow, Value: Pfeil nach oben
 Key: Uranium, Value: Uran
 Key: Use, Value: Verwenden
 Key: UseLabelerToSet, Value: Verwenden Sie einen <color=yellow>Labeler</color>, um einen Wert direkt einzugeben
 Key: V, Value: V
-Key: Vend, Value: verkaufen
+Key: Vend, Value: ausgeben
 Key: VerticalDegrees, Value: <color=yellow>Vertikal</color> <color=green>{0} Grad</color>
-Key: VisualiserState, Value: Visualisieren {LOCAL:State}
+Key: VisualiserState, Value: Anzeige {LOCAL:State}
 Key: Volatiles, Value: Wasserstoff
 Key: Volatiles, Value: Wasserstoff
 Key: Volume, Value: Lautstärke
@@ -4105,19 +4105,19 @@ Key: VolumeChangeDirection, Value: Richtungswechsel
 Key: Vulcan, Value: Vulkan
 Key: Vulcan2, Value: Vulkan2
 Key: W, Value: W
-Key: WaitingBody, Value: Die Weltdaten werden noch gespeichert.  Bitte versuchen Sie es erneut, wenn es fertig ist.
+Key: WaitingBody, Value: Die Weltdaten werden noch gespeichert. Bitte versuchen Sie es erneut, wenn es fertig ist.
 Key: WaitingTitle, Value: Warnung speichern
 Key: WallFloorCategory, Value: Wände und Böden
 Key: WallFrameCornerCut, Value: Stahlrahmen (Eckenschnitt)
 Key: Wants, Value: Bedürfnisse
-Key: WarningControlConflict, Value: Kontrolle des Konflikts
-Key: WarningControlConflictDescription, Value: Bitte besuchen Sie das Steuerungszuweisungsfenster und beseitigen Sie Konflikte
+Key: WarningControlConflict, Value: Tastenbelegungen doppelt
+Key: WarningControlConflictDescription, Value: Bitte besuche die Tastenbelegung und beseitige Konflikte
 Key: WarningSavePathNotWritable, Value: Speicherpfad nicht beschreibbar
 Key: WarningSavePathNotWritableDescription, Value: Es konnte nicht in den Speicherpfad geschrieben werden. Er wurde auf die Standardeinstellungen zurückgesetzt.
-Key: WasteTank, Value: Waste Tank
+Key: WasteTank, Value: Abgastank
 Key: Water, Value: Wasser
 Key: Water, Value: Wasser
-Key: WaterPlantWith, Value: Wasserpflanze mit {LOCAL:InHand}
+Key: WaterPlantWith, Value: Pflanze mit {LOCAL:InHand} bewässern
 Key: WaterUsage, Value: Wasserverbrauch
 Key: WaterWrongTemp, Value: <color=red>Fehler!</color> Wasser muss zwischen <color=yellow>0 und 100 Grad C</color> sein
 Key: WattEnergyMeasurement, Value: W
@@ -4130,7 +4130,7 @@ Key: WeatherCategoryKey, Value: Wetter
 Key: WeatherEventsField, Value: Hat Wetterereignisse
 Key: WeldingTorchNoFuel, Value: Kein Treibstoff mehr!
 Key: WeldingWillLockDoor, Value: <color=yellow>Das Schweißen</color> der {LOCAL:Thing} fixiert sie an ihrem Platz
-Key: WorkshopModsTitle, Value: Werkstatt-Mods
+Key: WorkshopModsTitle, Value: Workshop Mods
 Key: WorkshopPageButton, Value: Workshop Seite
 Key: WorkshopSubscribedModsTitle, Value: Abonnierte Mods
 Key: WorkshopUnsubscribeButton, Value: Abbestellen
@@ -4157,7 +4157,7 @@ Key: WorldPresetTitle, Value: Welt Voreinstellung
 Key: WorldResetButton, Value: Zurücksetzen
 Key: WorldSaveButton, Value: Speichern
 Key: WorldSeedLabel, Value: Weltseed
-Key: WorldSettingsTitle, Value: Weltweite Einstellungen
+Key: WorldSettingsTitle, Value: Welt Einstellungen
 Key: WorldTerrain, Value: Terrain
 Key: WorldTerrainPresetLabel, Value: Terrain
 Key: X, Value: X
