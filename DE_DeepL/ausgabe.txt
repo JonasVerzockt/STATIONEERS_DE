@@ -3889,69 +3889,69 @@ Key: Take, Value: Nehmen
 Key: TankPressure, Value: Tankdruck
 Key: TargetPadIndex, Value: Ziellandeplatz-Index
 Key: TargetPlant, Value: Zielpflanze
-Key: TargetPressureKPA, Value: Solldruck <color=green>{0} kPa</color>
+Key: TargetPressureKPA, Value: Zieldruck <color=green>{0} kPa</color>
 Key: Temperature, Value: Temperatur
 Key: TemperatureBetween, Value: Temperatur zwischen
-Key: TemperatureDown, Value: Temperatur nach unten
-Key: TemperatureUp, Value: Temperatur nach oben
+Key: TemperatureDown, Value: Temperatur anheben
+Key: TemperatureUp, Value: Temperatur absenken
 Key: TerrainFeaturesField, Value: Geländeeigenschaften
 Key: TextboxEnterDescription, Value: Beschreibung eingeben...
 Key: TextboxEnterName, Value: Enter Name...
 Key: TextboxEnterSeed, Value: Seed eingeben...
-Key: ThingAlreadyDraggedBy, Value: {LOCAL:Thing0} wird bereits von {LOCAL:Thing1} geschleppt
+Key: ThingAlreadyDraggedBy, Value: {LOCAL:Thing0} wird bereits von {LOCAL:Thing1} gezogen
 Key: ThingCanNotBeDraggedWithSomethingIn, Value: Kann nicht mit etwas in {LOCAL:Thing} gezogen werden
-Key: ThingCanNotEnterSlot, Value: {LOCAL:Thing0} kann nicht eingeben {LOCAL:Thing1}
+Key: ThingCanNotEnterSlot, Value: {LOCAL:Thing0} kann nicht in {LOCAL:Thing1} plaziert werden
 Key: ThingCanNotInsertAlreadyContains, Value: Kann {LOCAL:Thing0} nicht einfügen, da es bereits {LOCAL:Thing1} enthält
-Key: ThingCanNotInsertInteractionsDisabled, Value: Kann nicht eingefügt werden {LOCAL:Thing0} Interaktionen sind deaktiviert auf {LOCAL:Thing1}
+Key: ThingCanNotInsertInteractionsDisabled, Value: {LOCAL:Thing0} kann nicht eingefügt werden. Interaktionen sind deaktiviert auf {LOCAL:Thing1}
 Key: ThingCanNotManufacture, Value: Kann {LOCAL:Thing} ohne alle erforderlichen Reagenzien nicht herstellen
-Key: ThingCanNotPickUp, Value: Sie können die {LOCAL:Thing} nicht aufheben
-Key: ThingCanNotSwap, Value: Sie können {LOCAL:Thing0} nicht mit {LOCAL:Thing1} vertauschen
+Key: ThingCanNotPickUp, Value: Kann {LOCAL:Thing} nicht aufheben
+Key: ThingCanNotSwap, Value: Kann {LOCAL:Thing0} nicht mit {LOCAL:Thing1} austauschen
 Key: ThingClearUnknownRecipe, Value: Unbekanntes Rezept löschen
 Key: ThingCreateThing, Value: Erstellen {LOCAL:Thing} <color=yellow>{1:F0}%</color>
 Key: ThingCurrentlyFlashingError, Value: Derzeit blinkt ein Fehler
 Key: ThingCurrentlyNotInteractable, Value: {LOCAL:Thing} ist derzeit nicht interaktionsfähig
-Key: ThingCycleTo, Value: Zyklus bis {LOCAL:Thing}
+Key: ThingCycleTo, Value: Umschalten zu {LOCAL:Thing}
 Key: ThingInteractionDisabled, Value: Interaktion bei diesem Objekt vorübergehend deaktiviert
-Key: ThingIsNotType, Value: {LOCAL:Thing0} ist nicht Typ {LOCAL:Thing1}
+Key: ThingIsNotType, Value: {LOCAL:Thing0} ist nicht vom Typ {LOCAL:Thing1}
 Key: ThingModeDoesNotSupportLinking, Value: Modus unterstützt keine Verknüpfung
 Key: ThingMoveToWorld, Value: Verschiebe {LOCAL:Thing} in die Welt
 Key: ThingNotEnoughReagents, Value: Nicht genügend Reagenzien für den aktuellen Plan
-Key: ThingOverPressure, Value: Der <color=green>{LOCAL:Thing}</color> ist <color=red>Überdruck</color>!
+Key: ThingOverPressure, Value: <color=green>{LOCAL:Thing}</color> hat <color=red>Überdruck</color>!
 Key: ThingSelectRecipeFromList, Value: Rezept aus Liste auswählen
-Key: ThingToFarAwayForDrag, Value: {LOCAL:Thing} ist zu weit weg, um geschleppt zu werden
-Key: ThingWillBeSprayed, Value: Die {LOCAL:Thing} wird {LOCAL:Color} gemalt
+Key: ThingToFarAwayForDrag, Value: {LOCAL:Thing} ist zu weit weg, um gezogen zu werden
+Key: ThingWillBeSprayed, Value: {LOCAL:Thing} wird {LOCAL:Color} gefärbt
 Key: ThingWillDecayIn, Value: Wird in <color=yellow>{0}</color> vollständig zerfallen
 Key: ThingWillDecayInHours, Value: Dieser wird in {0} Stunden verfallen.
 Key: ThingWillDecayInMinutes, Value: Dieser wird in {0} Minuten abklingen.
 Key: ThingWillDecayInSeconds, Value: Dies wird in {0} Sekunden abklingen.
 Key: Throttle, Value: Drosselventil
 Key: Thrust, Value: Schubkraft
-Key: ThrustDown, Value: Weniger Schub
-Key: ThrustUp, Value: Mehr Schub
-Key: TierOne, Value: Tier Eins
+Key: ThrustDown, Value: Schub reduzieren
+Key: ThrustUp, Value: Schub erhöhen
+Key: TierOne, Value: Stufe Eins
 Key: TierThree, Value: Stufe Drei
-Key: TierTwo, Value: Tier Zwei
+Key: TierTwo, Value: Stufe Zwei
 Key: Tilde, Value: Tilde
 Key: TiltDownwards, Value: Nach unten kippen
 Key: TiltUpwards, Value: Nach oben kippen
-Key: TimeUntilDarknessDamage, Value: Zeit bis zum Eintritt der Dunkelheit
-Key: TimeUntilDehydrationDamage, Value: Zeit bis zu Dürreschäden
-Key: TimeUntilFrozenDamage, Value: Zeit bis zum Gefrierschaden
-Key: TimeUntilHighPressureDamage, Value: Zeit bis zum Hochdruckschaden
-Key: TimeUntilLightDamage, Value: Zeit bis zur leichten Beschädigung
-Key: TimeUntilLowPressureDamage, Value: Zeit bis zur Beschädigung durch Unterdruck
-Key: TimeUntilOverheatDamage, Value: Zeit bis zum Überhitzungsschaden
-Key: TimeUntilSuffocateDamage, Value: Zeit bis zum Erstickungsschaden
-Key: TimeUntilUndesiredGasDamage, Value: Zeit bis zur Schädigung durch das Gift
-Key: TimerPanel, Value: Zeitschaltuhr
+Key: TimeUntilDarknessDamage, Value: Zeit bis zum Eintritt von Schaden durch Dunkelheit
+Key: TimeUntilDehydrationDamage, Value: Zeit bis zum Eintritt von Schaden durch Dürre
+Key: TimeUntilFrozenDamage, Value: Zeit bis zum Eintritt von Schaden durch Gefrieren
+Key: TimeUntilHighPressureDamage, Value: Zeit bis zum Eintritt von Schaden durch Überdruck
+Key: TimeUntilLightDamage, Value: Zeit bis zum Eintritt von Schaden durch Überbelichtung
+Key: TimeUntilLowPressureDamage, Value: Zeit bis zum Eintritt von Schaden durch Unterdruck
+Key: TimeUntilOverheatDamage, Value: Zeit bis zum Eintritt von Schaden durch Überhitzung
+Key: TimeUntilSuffocateDamage, Value: Zeit bis zum Eintritt von Schaden durch Ersticken
+Key: TimeUntilUndesiredGasDamage, Value: Zeit bis zum Eintritt von Schaden durch Gift
+Key: TimerPanel, Value: Chronometer
 Key: ToggleChangeLog, Value: Changelog umschalten
-Key: ToggleMode, Value: Toggle-Modus
-Key: ToggleVisualiser, Value: Toggle visualisieren
+Key: ToggleMode, Value: Modus wechseln
+Key: ToggleVisualiser, Value: Anzeige wechseln
 Key: Tool, Value: Werkzeug
 Key: ToolCanNotCompleteTask, Value: {LOCAL:Tool} kann diese Aufgabe nicht erledigen.
 Key: ToolDoesNotHaveAnythingInSlot, Value: {LOCAL:Tool} hat nichts in seinem Steckplatz {LOCAL:Slot}.
 Key: ToolDoesNotHaveEnoughCharge, Value: {LOCAL:Tool} hat nicht genug {LOCAL:Battery} Ladung.
-Key: ToolNotCurrentlyOperableForTask, Value: {LOCAL:Tool} ist derzeit für diese Aufgabe nicht geeignet
+Key: ToolNotCurrentlyOperableForTask, Value: {LOCAL:Tool} ist derzeit für diese Aufgabe nicht bereit
 Key: ToolPrinterMod, Value: Werkzeugdrucker Mod
 Key: ToolRequiredToDeconstruct, Value: {LOCAL:Tool} erforderlich fürs <color=red>dekonstruieren</color>
 Key: TooltipAllowsMounting, Value: Ermöglicht die Montage von an der Wand angebrachten Geräten. Upgrade für einen besseren Platzierungsbereich.
@@ -3965,13 +3965,13 @@ Key: TooltipPlacementSnapFaceMountMissingSupport, Value: Platzierung erfordert U
 Key: TooltipPlacementSnapFaceNotMountableDynamic, Value: #VAR1# erlaubt keine Montage
 Key: TooltipPlacementSnapFaceNotMountableFallback, Value: Eine dieser Strukturen erlaubt keine Montage
 Key: TooltipPlacementSnapFaceWrongFaceDynamic, Value: Kann nicht auf diese Seite von #VAR1# montiert werden, versuchen Sie eine andere
-Key: TooltipPlacementSnapFaceWrongFaceFallback, Value: Kann nicht auf dieses Gesicht montiert werden, versuchen Sie ein anderes
+Key: TooltipPlacementSnapFaceWrongFaceFallback, Value: Kann nicht auf diese Seite montiert werden, versuchen Sie ein andere
 Key: TooltipPlacementSnapGrid, Value: Die Platzierung wird auf dem Raster eingerastet.
-Key: TooltipRollLeftRight, Value: Rolle links und rechts = {KEY:RotateRollLeft} und {KEY:RotateRollRight}.
+Key: TooltipRollLeftRight, Value: Rollen links und rechts = {KEY:RotateRollLeft} und {KEY:RotateRollRight}.
 Key: TooltipRotateLeftRight, Value: Drehung nach links und rechts = {KEY:RotateLeft} und {KEY:RotateRight}.
 Key: TooltipRotateUpDown, Value: Drehen nach oben und unten = {KEY:RotateUp} und {KEY:RotateDown}.
-Key: TooltipUpgrade, Value: Einmal platziert, verwenden Sie {0} für das Upgrade.
-Key: TooltipUpgrade2, Value: Einmal platziert, verwenden Sie {0} und {1} zum Aufrüsten.
+Key: TooltipUpgrade, Value: Sobald platziert, verwenden Sie {0} für das Upgrade.
+Key: TooltipUpgrade2, Value: Sobald platziert, verwenden Sie {0} und {1} zum Aufrüsten.
 Key: Torpedo, Value: Torpedo
 Key: TorpedoTubeCanNotWhileExteriorDoorIsClosed, Value: Kann nicht {LOCAL:Context}, wenn die Außentür geschlossen ist
 Key: TorpedoTubeCurrentlyObscuring, Value: {LOCAL:Slot0} verdunkelt derzeit die {LOCAL:Slot1}
@@ -3982,34 +3982,34 @@ Key: ToyLuna, Value: Spielzeug-Luna
 Key: Trade, Value: Handel
 Key: TradeErrorNoMotherboardInsertedMessage, Value: Der angeschlossene Computer benötigt eine Kommunikations-Hauptplatine, um handeln zu können.
 Key: TradeErrorNoMotherboardInsertedTitle, Value: Nicht handelsfähig
-Key: TradeErrorPadError, Value: Der Landing Pad befindet sich in einem Fehlerzustand. Stellen Sie den normalen Betrieb der Landeplattform wieder her, bevor der Handel fortgesetzt werden kann.
-Key: TradeErrorPadOff, Value: Der Landeplatz ist nicht mit Strom versorgt. Stellen Sie den normalen Betrieb des Landeplatzes wieder her, bevor der Handel fortgesetzt werden kann.
-Key: TraderBasic, Value: Händler-Grundlagen
-Key: TraderChemistry, Value: Händler-Chemielabor
+Key: TradeErrorPadError, Value: Die Landeplattform befindet sich in einem Fehlerzustand. Stellen Sie den normalen Betrieb der Landeplattform wieder her, bevor der Handel fortgesetzt werden kann.
+Key: TradeErrorPadOff, Value: Die Landeplattform ist nicht mit Strom versorgt. Stellen Sie den normalen Betrieb des Landeplatzes wieder her, bevor der Handel fortgesetzt werden kann.
+Key: TraderBasic, Value: Spes'mall Basics
+Key: TraderChemistry, Value: Chem Lab
 Key: TraderCommunication, Value: Händler-Kommunikation
 Key: TraderCommunicationText, Value: Der Händler wartet auf eine atembare Atmosphäre, bevor er das Shuttle verlässt
 Key: TraderCrashedEvent, Value: Der Händler {LOCAL:Name} ist an der Position {LOCAL:Position} auf {LOCAL:Collision} gestoßen.
-Key: TraderCustom, Value: Händler
-Key: TraderElectronics, Value: Händler-Elektronik
+Key: TraderCustom, Value: Spes'mall
+Key: TraderElectronics, Value: TechTree Electronics
 Key: TraderEnteredRangeEvent, Value: Der Händler {LOCAL:Name} hat den Kontaktbereich betreten.
 Key: TraderErrorConnectWires, Value: Der Händler konnte den Handel nicht abschließen, überprüfen Sie Ihre Kabel auf eventuelle Brüche!
 Key: TraderErrorMissingMotherboard, Value: Ihnen fehlt eine Hauptplatine in Ihrem Computer, Sie haben den Kontakt zum Händler verloren.
 Key: TraderErrorMissingVendingMachine, Value: Ihnen fehlt ein angeschlossener leerer Automat, der Handel konnte nicht abgeschlossen werden.
 Key: TraderErrorNoGasSpace, Value: Die Kapazität des Landeplatzes reicht nicht aus, um das angeforderte Gas aufzunehmen. Fügen Sie dem Landeplatz mehr Gasspeicher zu.
-Key: TraderExotics, Value: Händler-Exotisch
-Key: TraderGas, Value: Händler-Gas
-Key: TraderGoneMissing, Value: Der Kontakt hat sich offenbar weiterentwickelt.
-Key: TraderHydraulic, Value: Händler-Hydraulik
-Key: TraderInUse, Value: Dieser Kontakt ist bereits mit jemandem in Kontakt, versuchen Sie es bald wieder.
+Key: TraderExotics, Value: ExoTech
+Key: TraderGas, Value: GasTrade
+Key: TraderGoneMissing, Value: Der Händler ist weitergezogen.
+Key: TraderHydraulic, Value: HydrauliKit
+Key: TraderInUse, Value: Der Händler ist bereits mit jemandem in Kontakt, versuchen Sie es bald wieder.
 Key: TraderLeftRangeEvent, Value: Der Händler {LOCAL:Name} hat den Kontaktbereich verlassen.
-Key: TraderLocked, Value: Abgeschlossen
-Key: TraderMicrowave, Value: Mikrowaren
+Key: TraderLocked, Value: Gesperrt
+Key: TraderMicrowave, Value: Microwares
 Key: TraderOre, Value: MineRiteOres
 Key: TraderOrganics, Value: Organicon
-Key: TraderOther, Value: Kolders' Assortiment
-Key: TraderPaint, Value: Color Corp-Farben
-Key: TraderSecurity, Value: Hall Corp Sicherheit
-Key: TraderTool, Value: Werkzeug Corp.
+Key: TraderOther, Value: Kolders' Assorted Goods
+Key: TraderPaint, Value: Color Corp Paints
+Key: TraderSecurity, Value: Hall Corp Security
+Key: TraderTool, Value: Tool Corp
 Key: TraderTrade, Value: Handel
 Key: TradingCategoryKey, Value: Handel
 Key: TradingDevices, Value: Handelsgeräte
@@ -4019,7 +4019,7 @@ Key: TradingToolTipNoRequirements, Value: Keine zusätzlichen Anforderungen
 Key: TradingWith, Value: Handel mit
 Key: TransactionAtmosError, Value: Landeplatzatmosphäre nicht gefunden
 Key: TransactionErrorNonTradable, Value: Nicht handelbarer Artikel im Bestand:
-Key: TransactionErrorTradableCast, Value: Handelbare Gegenstände können nicht auf ein Ding geworfen werden
+Key: TransactionErrorTradableCast, Value: Handelbare Gegenstände können nicht auf ein Ding gewandelt werden
 Key: TransactionFailCreditCard, Value: Transaktion kann nicht abgeschlossen werden. Keine Kreditkarte gefunden. Die Kreditkarte muss sich in der Hand oder im Kreditkartenfach Ihrer Uniform befinden.
 Key: TransactionFailInsufficientAvailable, Value: Transaktion kann nicht abgeschlossen werden. Sie versuchen, mehr zu verkaufen, als Sie gespeichert haben.
 Key: TransactionFailInsufficientFunds, Value: Sie haben nicht genug Geld, um diese Transaktion abzuschließen.
@@ -4030,18 +4030,18 @@ Key: TransactionFailVendingMachine, Value: Transaktion kann nicht abgeschlossen 
 Key: TransactionTradableError, Value: Trader hat etwas hervorgebracht, das kein ITradable ist
 Key: TransportSlot, Value: Transport Slot
 Key: TravelCategoryKey, Value: Reisen
-Key: TravelMenuButtonTravel, Value: Reisewelt
+Key: TravelMenuButtonTravel, Value: Zu Welt reisen
 Key: TravelMenuButtonTravelLoad, Value: Welt laden
 Key: TravelMenuButtonTravelNew, Value: Neue Welt
 Key: TravelMenuListTitle, Value: Verfügbare Welten
 Key: TravelMenuNamePlaceholder, Value: Name der Reisewelt
-Key: TravelMenuTitle, Value: Reisewelt
-Key: TriggerZone, Value: Ausgelöste Zone
+Key: TravelMenuTitle, Value: Reise zur Welt
+Key: TriggerZone, Value: Auslösebereich
 Key: True, Value: Wahr
 Key: TutorialBackToMenu, Value: Zurück zum Menü
 Key: TutorialComplete, Value: Tutorial abgeschlossen
 Key: TutorialCompleteDateOfCompletion, Value: Datum der Fertigstellung:
-Key: TutorialCompleteDeanHall, Value: Dekanat Halle
+Key: TutorialCompleteDeanHall, Value: Dean Hall
 Key: TutorialCompleteHeading, Value: Tutorial abgeschlossen
 Key: TutorialCompleteMessage, Value: 
         Es gibt noch viel zu lernen.
@@ -4056,7 +4056,7 @@ Key: TutorialSelectKey, Value: Tutorial auswählen
 Key: TutorialSkipButton, Value: Überspringen
 Key: TutorialStartButton, Value: Tutorial starten
 Key: TutorialsObjectiveTitle, Value: Zielsetzung
-Key: TutorialsTitle, Value: Anleitungen
+Key: TutorialsTitle, Value: Anleitungenen
 Key: TypeOfSlot, Value: Dies ist ein <color=yellow>{LOCAL:SlotType}</color> Steckplatz
 Key: U, Value: U
 Key: UnLink, Value: entkoppeln
