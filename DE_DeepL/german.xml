@@ -10364,11 +10364,7 @@ Sieht aus, als würdest du eine Weile hier bleiben.
     </Record>
     <Record>
       <Key>FurnaceChamber</Key>
-      <Value>Brennkammer
-Key; FurnaceChamberText; Value;
-Druck {0}
-Temperatur {1}
-</Value>
+      <Value>Brennkammer</Value>
     </Record>
     <Record>
       <Key>FurnaceChamberText</Key>
