@@ -1953,7 +1953,7 @@ Key: KitchenTableSimpleShort, Value: Küchentisch (einfach kurz)
 Key: KitchenTableSimpleTall, Value: Küchentisch (einfach groß)
 Key: KitchenTableTall, Value: Küchentisch (Groß)
 Key: L, Value: L
-Key: Lander, Value: Lander
+Key: Lander, Value: Landefähre
 Key: Landingpad_2x2CenterPiece01, Value: Landeplatz 2x2 Mittelstück
 Key: Landingpad_CenterPiece01, Value: Landeplatz Mitte
 Key: Landingpad_CrossPiece, Value: Landeplatz Kreuz
@@ -2333,7 +2333,7 @@ Key: ManualGetResearchPodsRequired, Value: Zu suchender Pod-Typ
 Key: ManualGetResearchPodsRequired, Value: Legt den Pod-Typ fest, nach dem bei der Aufschlüsselung eines Pods gesucht werden soll.
 Key: ManualTools, Value: Manuelle Werkzeuge
 Key: ManufacturesAppliesMultiplier, Value: <color=orange>{LOCAL:ModifierName}</color> arbeitet mit <color=yellow>{LOCAL:Percent}</color>
-Key: ManufacturesAtTier, Value: Fertigt bei <color=yellow>{LOCAL:MachineTier}</color>
+Key: ManufacturesAtTier, Value: Produziert ab <color=yellow>{LOCAL:MachineTier}</color>
 Key: Mars, Value: Mars
 Key: MaterialCostMultiplier, Value: Materialkostenmultiplikator
 Key: MaxGrowPressure, Value: Maximaler Wachstumsdruck
@@ -2346,7 +2346,7 @@ Key: MenuDownloadDriverButton, Value: Treiber herunterladen
 Key: MenuDownloadDriverWarning, Value: Viele Benutzer von AMD-Grafikkarten haben von Problemen mit dem Spiel berichtet, die durch eine Aktualisierung ihrer Treiber behoben werden konnten.  Wir empfehlen dringend, vor dem Spielen zu aktualisieren.
 Key: MergeRequiresTool, Value: Die Zusammenführung erfordert <color=green>{LOCAL:Tool}</color> in der anderen Hand
 Key: Meteorite, Value: Meteoriten
-Key: MicrowaveAddUnitsOf, Value: Füge <color=green>{0}</color> Einheiten von {1}
+Key: MicrowaveAddUnitsOf, Value: Füge <color=green>{0}</color> Einheiten von {1} hinzu
 Key: MicrowaveOpenFailure, Value: Irgendetwas verhindert das Schließen
 Key: MidnightTemperatureField, Value: Temperatur um Mitternacht
 Key: Mimas, Value: Mimas
@@ -2354,16 +2354,16 @@ Key: MinGrowPressure, Value: Minimaler Wachstumsdruck
 Key: MinGrowTemperature, Value: Minimale Wachstumstemperatur
 Key: MinIdealGrowPressure, Value: Minimaler idealer Wachstumsdruck
 Key: MinIdealGrowTemperature, Value: Minimale ideale Wachstumstemperatur
-Key: MinLiquidPressure, Value: Mindestkondensationsdruck:
+Key: MinLiquidPressure, Value: Minimaler Kondensationsdruck:
 Key: Mine, Value: Abbauen
 Key: MineablesField, Value: Abbaubar
-Key: MineablesInQueue, Value: Gibt die Anzahl der Minen zurück, die AIMEe in der Warteschlange zum Abbau hat.
-Key: MineablesInVicinity, Value: Gibt die Menge der potenziellen abbaubaren Stoffe innerhalb eines erweiterten Bereichs um AIMEe zurück.
+Key: MineablesInQueue, Value: Gibt die Anzahl der Ressourcen zurück, die AIMEe in der Warteschlange zum Abbau hat.
+Key: MineablesInVicinity, Value: Gibt die Menge der potenziellen abbaubaren Ressourcen innerhalb eines erweiterten Bereichs um AIMEe zurück.
 Key: Minus, Value: Minus
 Key: Misc Crate, Value: Sonstige Kiste
 Key: Mode, Value: Modus
 Key: ModularRocketCargo01, Value: Rakete Fracht
-Key: ModularRocketCommand01Lander, Value: Raketenkommando Lander
+Key: ModularRocketCommand01Lander, Value: Raketensteuerung Lander
 Key: MoleCarbonDioxideDescription, Value: Sie atmen es aus, {LINK:OrganicPage;plants} atmen es ein. Sie wachsen nicht ohne es. Du kannst Gegenstände in {SLOT:GasFilter} Slots verwenden, um es aus der Atmosphäre zu entfernen.
       
 {GAS:CarbonDioxide} hat eine mäßig hohe spezifische Wärme, d.h. es ist ein gutes Kühlmittel für Geräte wie den
@@ -2382,12 +2382,13 @@ Key: MolePollutantDescription, Value: {GAS:Pollutant}, auch als "X" bekannt, ent
       
 Der Schadstoff hat eine hohe spezifische Wärme, was ihn zu einem hervorragenden Kühlmittel macht. Leider ist es extrem schädlich für organische Lebewesen und schädigt die Lungen der meisten {REAGENT:Carbon}-basierten Organismen schwer.
 Key: MoleSteamDescription, Value: Verdampftes {GAS:Water}. Es kann durch Erhöhen der Temperatur von {GAS:Water} auf seinen Siedepunkt erzeugt werden. Wenn {GAS:Steam} in ein Gasrohr eingeleitet wird, kondensiert er wieder zu {GAS:Water}, wenn seine Temperatur unter dem Siedepunkt liegt. Dampf kann durch die Verbrennung von {GAS:Volatiles} und Sauerstoff mit Hilfe des {THING:H2Combustor} erzeugt werden.
-Key: MoleVolatilesDescription, Value: Wasserstoff sind ein äußerst reaktives, komplexes organisches Molekül, das in Verbindung mit Sauerstoff als brennbarer Treibstoff verwendet werden kann. Es wird aus {THING:ItemVolatiles} raffiniert.
+Key: MoleVolatilesDescription, Value: Wasserstoff ist ein äußerst reaktives einfaches Element, dass in Verbindung mit Sauerstoff als brennbarer Treibstoff verwendet werden kann. Es wird aus {THING:ItemVolatiles} raffiniert.
       
-Aufgrund obskurer und weitgehend vergessener {LINK:ODA;ODA} Vorschriften werden Wasserstoff in verschiedenen technischen Geräten manchmal als "H2" bezeichnet. Sie ähneln zwar dem Wasserstoff, sind aber nicht "wirklich" Wasserstoff. Aus {GAS:Volatiles} entsteht bei der Verbrennung ohne einen Katalysator kein {GAS:Water} (siehe {THING:H2Combustor}). Alleine erzeugen sie {GAS:Pollutant} und {GAS:CarbonDioxide}, wenn sie im folgenden Verhältnis verbrannt werden:
+Der Wasserstoff ist zur Sicherheit in eine komplexe Molekülverbindung eingewoben, um bei normalen Temperaturen nicht selbstenzündend zu reagieren.
+Aufgrund obskurer und weitgehend vergessener {LINK:ODA;ODA} Vorschriften wird Wasserstoff in verschiedenen technischen Geräten manchmal als "H2" bezeichnet. Aus {GAS:Volatiles} entsteht bei der Verbrennung ohne einen Katalysator, der den Wasserstoff wieder aus der Molekühlkette trennt, kein {GAS:Water} (siehe {THING:H2Combustor}). Alleine erzeugen sie {GAS:Pollutant} und {GAS:CarbonDioxide}, wenn sie im folgenden Verhältnis verbrannt werden:
       
 2 {GAS:Volatiles} + 1 {GAS:Oxygen} -> 3 {GAS:Pollutant} + 6 {GAS:CarbonDioxide} + Wärme.
-Key: MoleWaterDescription, Value: Du kannst Wasser erhalten, indem du {THING:ItemIce} mit einem {THING:StructureFurnace} oder einem {THING:StructureIceCrusher} verhüttest oder zerkleinerst. {GAS:Water} ist entscheidend für {LINK:OrganicPage;plants}, um am Leben zu bleiben und {LINK:NutritionPage;food} zu wachsen.
+Key: MoleWaterDescription, Value: Du kannst Wasser erhalten, indem du {THING:ItemIce} mit einem {THING:StructureFurnace} schmilzt oder einem {THING:StructureIceCrusher} zerkleinerst. {GAS:Water} ist entscheidend für {LINK:OrganicPage;plants}, um am Leben zu bleiben und {LINK:NutritionPage;food} anzubauen.
         Es ist auch ein außergewöhnliches Kühlmittel mit einer sehr hohen spezifischen Wärmekapazität. {GAS:Water} verdampft zu {GAS:Steam}, wenn seine Temperatur über seinen Siedepunkt steigt.
 Key: Moles, Value: Moles
 Key: Moon, Value: Mond
@@ -2399,9 +2400,9 @@ Key: MotherboardLogic, Value: Logik-Hauptplatine
 Key: MotherboardManufacturing, Value: Herstellung-Hauptplatine
 Key: MotherboardProgrammableChip, Value: IC-Editor Hauptplatine
 Key: MotherboardRockets, Value: Raketen-Hauptplatine
-Key: MotherboardSorter, Value: Sorter-Hauptplatine
-Key: MothershipConstruction, Value: <color=yellow>Konstruktion auf dem Mutterschiff.
-Key: MothershipCore, Value: Mutterschiff-Kern
+Key: MotherboardSorter, Value: Sortierer-Hauptplatine
+Key: MothershipConstruction, Value: <color=yellow>Auf dem Mutterschiff gebaut.
+Key: MothershipCore, Value: Mutterschiff-Kernmodul
 Key: Mouse0, Value: Maus0
 Key: Mouse1, Value: Maus1
 Key: Mouse2, Value: Maus2
