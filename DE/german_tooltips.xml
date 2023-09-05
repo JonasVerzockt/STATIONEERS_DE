@@ -43,7 +43,7 @@
     </Record>
     <Record>
       <Key>StatusIconOxygenWarning</Key>
-      <Value>Der Tank des Anzugs geht zur Neige und benötigt Aufmerksamkeit</Value>
+      <Value>Der Tank des Anzugs ist fast leer und muss repariert werden</Value>
     </Record>
     <Record>
       <Key>StatusIconOxyegnCritical</Key>
@@ -79,7 +79,7 @@
     </Record>
     <Record>
       <Key>StatusIconTempuratureCritical</Key>
-      <Value>Anzeige des aktuellen Toxizitätslevels</Value>
+      <Value>Zeigt das aktuelle Toxizitätslevel an</Value>
     </Record>
     <Record>
       <Key>StatusIconLeakingName</Key>
