@@ -123,7 +123,7 @@ Key: AtmosphereScatteringField, Value: Streuung in der Atmosphäre
 Key: Attack, Value: Angriff
 Key: AttemptToFix, Value: Versuch der Korrektur
 Key: AttemptToFix, Value: Versuch der Korrektur
-Key: AutolathePrinterMod, Value: Autodrehmaschine Drucker Mod
+Key: AutolathePrinterMod, Value: Automatische Drehmaschine Drucker Mod
 Key: Available, Value: Verfügbar
 Key: B, Value: B
 Key: Back, Value: Zurück
@@ -655,7 +655,7 @@ Key: DynamicGasTankAdvanced, Value: Tragbarer Gastank Mk II
 Key: DynamicGasTankAdvancedOxygen, Value: Tragbarer Gastank Mk II (Sauerstoff)
 Key: DynamicGasTankAdvancedWater, Value: Tragbarer Flüssigkeitstank Mk II (Wasser)
 Key: DynamicGenerator, Value: Tragbarer Generator
-Key: DynamicHydroponics, Value: Tragbare Hydroponik
+Key: DynamicHydroponics, Value: Tragbares Hydroponisches Beet
 Key: DynamicLight, Value: Tragbares Licht
 Key: DynamicLightNetworkTest, Value: Tragbarer Lichtnetz-Test
 Key: DynamicLiquidCanisterEmpty, Value: Tragbarer Flüssigkeitstank
@@ -1246,7 +1246,7 @@ Key: ItemKitAutoMinerSmall, Value: Bausatz (Automatischer Bergbau Klein)
 Key: ItemKitAutolathe, Value: Bausatz (Automatische Drehmaschine)
 Key: ItemKitAutomatedOven, Value: Bausatz (Automatischer Backofen)
 Key: ItemKitBasket, Value: Bausatz (Basketballkorb)
-Key: ItemKitBattery, Value: Bausatz (Batterie)
+Key: ItemKitBattery, Value: Bausatz (Batterie klein)
 Key: ItemKitBatteryLarge, Value: Bausatz (Batterie groß)
 Key: ItemKitBeacon, Value: Bausatz (Leuchtfeuer)
 Key: ItemKitBeds, Value: Bausatz (Betten)
@@ -1296,7 +1296,7 @@ Key: ItemKitGyroscope, Value: Bausatz (Gyroskop)
 Key: ItemKitHarvie, Value: Bausatz (Harvie)
 Key: ItemKitHeatExchanger, Value: Bausatz (Wärmetauscher)
 Key: ItemKitHorizontalAutoMiner, Value: Bausatz (Automatischer Bergbau Horizontal)
-Key: ItemKitHydraulicPipeBender, Value: Bausatz (Hydraulische Rohrbiegemaschine)
+Key: ItemKitHydraulicPipeBender, Value: Bausatz (Rohrbiegemaschine)
 Key: ItemKitHydroponicAutomated, Value: Bausatz (Automatisiertes Hydroponisches Beet)
 Key: ItemKitHydroponicStation, Value: Bausatz (Hydroponisches Beet)
 Key: ItemKitIceCrusher, Value: Bausatz (Eisschmelzer)
@@ -1469,7 +1469,7 @@ Key: ItemPipeCrossJunction3, Value: Gasrohr 3-Wege-Kreuzung
 Key: ItemPipeCrossJunction5, Value: Gasrohr 5-Wege-Verzweigung
 Key: ItemPipeCrossJunction6, Value: Gasrohr 6-Wege-Kreuzung
 Key: ItemPipeDigitalValve, Value: Digitales Ventil
-Key: ItemPipeGasMixer, Value: Gas Mixer
+Key: ItemPipeGasMixer, Value: Gasmischer
 Key: ItemPipeHeater, Value: Gasrohrheizkörper
 Key: ItemPipeLabel, Value: Rohr Etikett
 Key: ItemPipeLiquidRadiator, Value: Radiator (Flüssig)
@@ -1483,7 +1483,7 @@ Key: ItemPlantEndothermic_Creative, Value: Endotherme Pflanzenkreation
 Key: ItemPlantEndothermic_Genepool1, Value: Frostblume (Alpha-Variante)
 Key: ItemPlantEndothermic_Genepool2, Value: Frostblume (Beta-Variante)
 Key: ItemPlantSampler, Value: Pflanzenprobenentnehmer
-Key: ItemPlantSwitchGrass, Value: Gras wechseln
+Key: ItemPlantSwitchGrass, Value: Weidelgras
 Key: ItemPlantThermogenic_Creative, Value: Exotherme Pflanzenkreation
 Key: ItemPlantThermogenic_Genepool1, Value: Höllenblume (Alpha-Sorte)
 Key: ItemPlantThermogenic_Genepool2, Value: Höllenblume (Beta-Stamm)
@@ -1603,13 +1603,13 @@ Key: ItemWreckageAreaPowerControl1, Value: Wrack-Energiekontrolle
 Key: ItemWreckageAreaPowerControl2, Value: Wrack-Energiekontrolle
 Key: ItemWreckageAreaPowerControlReversed1, Value: Wrack-Energiekontrolle-umgedreht
 Key: ItemWreckageAreaPowerControlReversed2, Value: Wrack-Energiekontrolle-umgedreht
-Key: ItemWreckageAutolathe1, Value: Wrack-Autolathe
-Key: ItemWreckageAutolathe2, Value: Wrack-Autolathe
-Key: ItemWreckageAutolathe3, Value: Wrack-Autolathe
-Key: ItemWreckageAutolathe4, Value: Wrack-Autolathe
-Key: ItemWreckageAutolathe5, Value: Wrack-Autolathe
-Key: ItemWreckageAutolathe6, Value: Wrack-Autolathe
-Key: ItemWreckageAutolathe7, Value: Wrack-Autolathe
+Key: ItemWreckageAutolathe1, Value: Wrack-Automatische Drehmaschine
+Key: ItemWreckageAutolathe2, Value: Wrack-Automatische Drehmaschine
+Key: ItemWreckageAutolathe3, Value: Wrack-Automatische Drehmaschine
+Key: ItemWreckageAutolathe4, Value: Wrack-Automatische Drehmaschine
+Key: ItemWreckageAutolathe5, Value: Wrack-Automatische Drehmaschine
+Key: ItemWreckageAutolathe6, Value: Wrack-Automatische Drehmaschine
+Key: ItemWreckageAutolathe7, Value: Wrack-Automatische Drehmaschine
 Key: ItemWreckageBlastDoor1, Value: Wrack-Sprengtür
 Key: ItemWreckageBlastDoor2, Value: Wrack-Sprengtür
 Key: ItemWreckageCentrifuge1, Value: Wrack-Zentrifuge
@@ -1650,7 +1650,7 @@ Key: ItemWreckageHydroponicsAutomatic3, Value: Wrack-Hydroponics-Automatisch
 Key: ItemWreckageHydroponicsStation1, Value: Wrack-Hydroponische-Station
 Key: ItemWreckageHydroponicsStation2, Value: Wrack-Hydroponische-Station
 Key: ItemWreckageHydroponicsTray1, Value: Wrack-Hydroponisches-Beet
-Key: ItemWreckageLargeExtendableRadiator01, Value: Wrack-Großer-ausziehbarer-Heizkörper
+Key: ItemWreckageLargeExtendableRadiator01, Value: Wrack-Großer-ausziehbarer-Radiator
 Key: ItemWreckageLight1, Value: Wrack-Licht
 Key: ItemWreckageLight2, Value: Wrack-Licht
 Key: ItemWreckageLightLongAngled1, Value: Wrack-Licht-lang-gewinkelt
@@ -2780,16 +2780,16 @@ Key: Rename, Value: Umbenennen
 Key: RenameThing, Value: Umbenennen {0}
 Key: Repair, Value: Reparatur
 Key: Repair, Value: Reparatur
-Key: RequireDlcToFabricate, Value: Sie verfügen nicht über den erforderlichen DLC, um diesen Artikel zu drucken.
+Key: RequireDlcToFabricate, Value: Sie verfügen nicht über das erforderliche DLC, um diesen Artikel zu drucken.
 Key: RequiredContinueConstruction, Value: erforderlich, um <color=yellow>den Bau fortzusetzen</color>
 Key: RequiredToRepair, Value: erforderlich zur <color=yellow>Reparatur</color>
 Key: RequiredUpgradeDevice, Value: erforderlich zur <color=yellow>Aufrüstung des Geräts</color>
-Key: RequiresScrewdriver, Value: Sie benötigen eine {THING:ItemScrewdriver}, um die Einstellungen zu ändern
+Key: RequiresScrewdriver, Value: Sie benötigen einen {THING:ItemScrewdriver}, um die Einstellungen zu ändern
 Key: RequiresScrewdriver, Value: Erfordert Schraubendreher
 Key: RequiresScrewdriverOrLabeler, Value: Sie benötigen einen Schraubendreher oder einen Etikettierer, um die Einstellungen zu ändern
 Key: ResearchAutomation, Value: Automatisierung
 Key: ResearchCancel, Value: Abbrechen
-Key: ResearchCantAfford, Value: Sie können es sich nicht leisten, diese Forschung nicht zu nutzen.
+Key: ResearchCantAfford, Value: Sie können es sich nicht leisten, diese Forschung freizuschalten.
 Key: ResearchConfirm, Value: Bestätigen
 Key: ResearchConstruction, Value: Bauwesen
 Key: ResearchFilter, Value: Filter
@@ -2799,11 +2799,11 @@ Key: ResearchOrganics, Value: Organische Stoffe
 Key: ResearchProduction, Value: Produktion
 Key: ResearchRequirementNotMet, Value: Sie erfüllen nicht die Voraussetzungen, um diese Forschung freizuschalten.
 Key: ResearchRequirementTitle, Value: Anforderungen
-Key: ResearchShowLocked, Value: Gesperrt anzeigen
+Key: ResearchShowLocked, Value: Gesperrte anzeigen
 Key: ResearchTitle, Value: Forschung
 Key: ResearchTools, Value: Werkzeuge
 Key: ResearchUnlockConfirm, Value: Möchten Sie diese Forschung freischalten?
-Key: ResearchUnlocksTitle, Value: Entriegelt
+Key: ResearchUnlocksTitle, Value: Freischalten
 Key: ResearchVehicles, Value: Fahrzeuge
 Key: ResetInventoryDescription, Value: Dadurch werden alle nicht angedockten Inventarfenster zurückgesetzt.
 Key: ResetInventoryTitle, Value: Inventarfenster zurücksetzen
@@ -2818,25 +2818,25 @@ Key: RightAlt, Value: Rechts Alt
 Key: RightApple, Value: Rechte Apple-Taste
 Key: RightArrow, Value: Pfeil rechts
 Key: RightBracket, Value: Rechte Klammer
-Key: RightCommand, Value: Rechtes Kommando
-Key: RightControl, Value: Rechte Kontrolle
+Key: RightCommand, Value: Rechts CMD
+Key: RightControl, Value: Rechts STRG
 Key: RightCurlyBracket, Value: Rechte geschweifte Klammer
 Key: RightHand, Value: Rechte Hand
 Key: RightParen, Value: Rechte Klammer
 Key: RightShift, Value: Rechte Shift
 Key: RightWindows, Value: Rechte Windows-Taste
 Key: Robot, Value: AIMeE Bot
-Key: RocketCanNotEnterCommand, Value: Befehl kann nicht eingegeben werden Modul ist voll
+Key: RocketCanNotEnterCommand, Value: Befehl kann nicht eingegeben werden. Modul ist voll
 Key: RocketMode, Value: VERALTET
 Key: RocketRotationFail, Value: Alle Raketenteile müssen in die gleiche Richtung gedreht werden.
-Key: RoomControlTickSpeed, Value: Raumsteuerung Tick Geschwindigkeit
+Key: RoomControlTickSpeed, Value: Raumsteuerung Geschwindigkeit in Ticks
 Key: Rotate, Value: Drehen
 Key: RotateLeft, Value: Drehen nach links
 Key: RotateRight, Value: Drehen nach rechts
 Key: RoverCargo, Value: Rover (Fracht)
 Key: Rover_MkI, Value: Rover MkI
 Key: Rover_MkI_build_states, Value: Rover MKI
-Key: Rpm, Value: U/m
+Key: Rpm, Value: RPM
 Key: S, Value: S
 Key: SMGMagazine, Value: SMG-Magazin
 Key: SafetyCategory, Value: Sicherheit und Transport
@@ -2845,8 +2845,8 @@ Key: SaveAsButtonGameString, Value: Speichern unter...
 Key: SaveBeforeTravel, Value: Du musst dein Spiel speichern, bevor du in eine andere Welt reist!
 Key: SaveButtonGameString, Value: Schnellspeicherung <i>{LOCAL:WorldName}</i>
 Key: SaveLocationBroken, Value: Sie können nicht auf den Speicherort der Dateien zugreifen, verwenden Sie ein ungültiges Zeichen? Versuchen Sie, das Speicherverzeichnis in den Einstellungen zu ändern.
-Key: SaveMenuListTitle, Value: Gerettete Welten
-Key: SaveMenuNamePlaceholder, Value: Speichername eingeben...
+Key: SaveMenuListTitle, Value: Gespeicherte Welten
+Key: SaveMenuNamePlaceholder, Value: Name eingeben...
 Key: SaveMenuOverwriteButton, Value: Überschreiben
 Key: SaveMenuSaveWorldButton, Value: Welt speichern
 Key: SaveMenuTitle, Value: Welt speichern
@@ -3029,8 +3029,8 @@ Key: SetSpawnMessage, Value: Zum Festlegen des Spawn-Punkts verwenden
 Key: SetSpawnTitle, Value: Spawnplatz
 Key: SetThingValue, Value: Setze {0}
 Key: Setting, Value: Einstellung
-Key: SettingsAdvertiseServer, Value: Server inserieren
-Key: SettingsAmbientOcclusion, Value: Umgebungsunschärfe
+Key: SettingsAdvertiseServer, Value: Server Sichtbar machen
+Key: SettingsAmbientOcclusion, Value: Umgebungsverdeckung
 Key: SettingsAntialiasing, Value: Antialiasing-Methode
 Key: SettingsAtmosphericScattering, Value: Atmosphärische Streuung
 Key: SettingsAutosaveInterval, Value: Intervallzeit (Sekunden)
@@ -3038,16 +3038,16 @@ Key: SettingsBrightness, Value: Helligkeit
 Key: SettingsButtonApply, Value: Bestätigen
 Key: SettingsCameraSensitivity, Value: Empfindlichkeit der Kamera
 Key: SettingsChatFadeTimer, Value: Chat-Überblendverzögerung
-Key: SettingsChunkRenderDistance, Value: Chunk Rendering Abstand
+Key: SettingsChunkRenderDistance, Value: Entfernung sichtbarer Chunks
 Key: SettingsClouds, Value: Cloud aktivieren
 Key: SettingsDifficulty, Value: Schwierigkeitsgrad-Einstellungen
 Key: SettingsDisableParticlesOnMenu, Value: Partikel im Menü deaktivieren
-Key: SettingsDisableWaterVisualizer, Value: Wasser Visualizer deaktivieren
+Key: SettingsDisableWaterVisualizer, Value: Wasser anzeige deaktivieren
 Key: SettingsDisplayFPS, Value: FPS anzeigen
 Key: SettingsDisplayLatency, Value: Anzeige-Latenzzeit
 Key: SettingsDisplayPortrait, Value: Porträt anzeigen
 Key: SettingsDoubleClickDelay, Value: Doppelklick-Verzögerung
-Key: SettingsEnableClouds, Value: Cloud aktivieren
+Key: SettingsEnableClouds, Value: Wolken aktivieren
 Key: SettingsEnvElements, Value: Umweltbezogene Elemente
 Key: SettingsExtendedTerrain, Value: Erweitertes Terrain
 Key: SettingsExtendedTooltips, Value: Erweiterte Tooltips
@@ -3059,12 +3059,12 @@ Key: SettingsGameplayAutosave, Value: Automatisches Speichern einschalten
 Key: SettingsHUDScale, Value: HUD-Skala
 Key: SettingsHungerRate, Value: Hunger/Hydration Rate
 Key: SettingsInputSettings, Value: Eingabe-Einstellungen
-Key: SettingsInterface, Value: Schnittstelle
-Key: SettingsInvertMouse, Value: Umgekehrte Maus
-Key: SettingsInvertMouseWheelInventory, Value: Inventarliste umkehren
+Key: SettingsInterface, Value: Oberfläche
+Key: SettingsInvertMouse, Value: Maus invertieren
+Key: SettingsInvertMouseWheelInventory, Value: Scrollen umkehren (Inventar)
 Key: SettingsLanguage, Value: Sprache
 Key: SettingsLegacyInventory, Value: Altbestand
-Key: SettingsLensFlares, Value: Streulicht
+Key: SettingsLensFlares, Value: Blendenflecke
 Key: SettingsLightShadowDistance, Value: Licht-Schatten-Abstand
 Key: SettingsMasterVolume, Value: Hauptlautstärke
 Key: SettingsMenuAdvanced, Value: Fortgeschrittene
@@ -3082,7 +3082,7 @@ Key: SettingsMouseWheelZoom, Value: Mausrad-Zoom
 Key: SettingsMusic, Value: Musik
 Key: SettingsOverallQuality, Value: Allgemeine Qualität
 Key: SettingsP2PHostEnabled, Value: Enable P2PHost
-Key: SettingsP2PHostNote, Value: Wenn P2PHost aktiviert ist, verwendet Stationeers das Packet Relay von Steam, so dass Sie mit Ihrem Freund unter NAT oder VPN spielen können. Es ist nicht kompatibel mit TCP/IP und erzwingt keine Serverwerbung.
+Key: SettingsP2PHostNote, Value: Wenn P2PHost aktiviert ist, verwendet Stationeers das Packet Relay von Steam, so dass Sie mit Ihrem Freund unter NAT oder VPN spielen können. Es ist nicht kompatibel mit TCP/IP und erzwingt keine Serververöffentlichung.
 Key: SettingsParticleQuality, Value: Partikelqualität
 Key: SettingsPixelLightCount, Value: Pixel Licht Anzahl
 Key: SettingsPopupChat, Value: Popup-Chat
@@ -3095,21 +3095,21 @@ Key: SettingsServerAdminPassword, Value: Server-Administrator-Passwort
 Key: SettingsServerMaxPlayers, Value: Maximale Spieler
 Key: SettingsServerName, Value: Server Name
 Key: SettingsServerPassword, Value: Passwort
-Key: SettingsShadowDistamce, Value: Entfernung der Schatten
+Key: SettingsShadowDistamce, Value: Schattensichtweite
 Key: SettingsShadowResolution, Value: Schattenauflösung
 Key: SettingsShadows, Value: Schatten
 Key: SettingsShowSlotTooltips, Value: Slot-Tooltips anzeigen
-Key: SettingsSmoothTerrain, Value: Glattes Gelände
-Key: SettingsSoftParticles, Value: Weiche Partikel
+Key: SettingsSmoothTerrain, Value: Geländeglättung
+Key: SettingsSoftParticles, Value: Weiche Blende für Partikeln
 Key: SettingsSound, Value: Ton
 Key: SettingsSoundFX, Value: Ton-Effekte
 Key: SettingsStartLocalHost, Value: Start Localhost
-Key: SettingsStartingCondition, Value: Ausgangssituation
+Key: SettingsStartingCondition, Value: Startbedingung
 Key: SettingsSunOrbitPeriod, Value: Zeitraum der Sonnenumlaufbahn
-Key: SettingsTerrainClutter, Value: Gelände Unordnung
-Key: SettingsTerrainClutterMultiplier, Value: Gelände Unordnung Multiplikator
+Key: SettingsTerrainClutter, Value: Geländedetail
+Key: SettingsTerrainClutterMultiplier, Value: Geländedetail Multiplikator
 Key: SettingsTextureQuality, Value: Qualität der Textur
-Key: SettingsThingRenderDistance, Value: Dinge Render Entfernung
+Key: SettingsThingRenderDistance, Value: Distanz der Anzeige von Elementen
 Key: SettingsTitleAdvScreen, Value: Erweiterte Einstellungen
 Key: SettingsTitleAudioAlerts, Value: Sprachbenachrichtigungen
 Key: SettingsTitleAutosave, Value: AutoSave-Einstellungen
@@ -3136,10 +3136,10 @@ Key: SettingsVsync, Value: V-Sync
 Key: SettingsWeatherQuality, Value: Wetterqualität
 Key: SettingsWindowDisplayMode, Value: Fenster
 Key: SettingsWorldOrigin, Value: Neuberechnung des Weltursprungs
-Key: ShaftNotOn, Value: Keine Interaktion möglich, da die aktuelle Welle nicht eingeschaltet ist
+Key: ShaftNotOn, Value: Keine Interaktion möglich, da der aktuelle Einschub nicht eingeschaltet ist
 Key: ShowPreviousVideoText, Value: Vorheriges Video anzeigen
 Key: Silicon, Value: Silizium
-Key: SiloDeconstruct, Value: Ihr Silo muss leer sein, bevor Sie es dekonstruieren können.
+Key: SiloDeconstruct, Value: Ihr Silo muss leer sein, bevor Sie es abbauen können.
 Key: Silver, Value: Silber
 Key: Sinotai, Value: Sinotai
 Key: SinotaiDesc, Value: Als einziges "traditionelles" Staatsgebilde, das die außerweltliche Politik überlebt hat, ist Sinotai in seiner Reichweite und Macht nur von der {LINK:ODA;ODA} selbst übertroffen worden. In vielerlei Hinsicht ein Relikt - eine Unterbehörde einer atemberaubend komplizierten, erdgebundenen Unternehmensbürokratie - hat ihre Struktur es Sinotai ermöglicht, unglaubliche Dinge zu erreichen.
@@ -3186,38 +3186,38 @@ Key: SlotTakeThingFromSlot, Value: Nimm {LOCAL:Item} vom Steckplatz
 Key: SlotsTitle, Value: Alle Steckplätze
 Key: SolarScaleField, Value: Sonnenintensitätsskala
 Key: SoldOut, Value: Ausverkauft
-Key: SolidTerrainColourField, Value: Festes Terrain Farbe
+Key: SolidTerrainColourField, Value: Terrain Farbe
 Key: SomethingInThisSlot, Value: Es gibt bereits etwas in diesem Steckplatz
 Key: SomethingPlantedHere, Value: Hier ist bereits etwas gepflanzt worden
 Key: SomethingWentWrongTrading, Value: Irgendetwas ist bei der Abwicklung des Geschäfts schief gelaufen, ist etwas beim Verkäufer liegen geblieben!
 Key: SomethingWentWrongTrading2, Value: Bei der Abwicklung des Geschäfts ist etwas schief gelaufen, Sie haben keine Kreditkarte!
 Key: SoonTM, Value: Demnächst...
-Key: SourcePlant, Value: Quelle Pflanze
+Key: SourcePlant, Value: Ursprungspflanze
 Key: Space, Value: Asteroidengürtel
 Key: Space, Value: Leertaste
 Key: SpaceShuttle, Value: Raumfähre
 Key: SpawnPoint, Value: Spawn-Punkt
-Key: SpecialBlocks, Value: Besondere Blöcke
+Key: SpecialBlocks, Value: Spezial Blöcke
 Key: Speed, Value: Geschwindigkeit
 Key: SpinnerPannelDone, Value: Erledigt
 Key: SpinnerPannelSaving, Value: Speichern
 Key: SplicerAddOneToSlot, Value: Hinzufügen von {LOCAL:Plant} zum Steckplatz
-Key: SplicerBusy, Value: Derzeit Spleißen <color=green>{LOCAL:PercentComplete}%</color> abgeschlossen
+Key: SplicerBusy, Value: Aufteilen <color=green>{LOCAL:PercentComplete}%</color> abgeschlossen
 Key: SplicerChangeGene, Value: Gen ändern
 Key: SplicerCurrentGene, Value: Aktuelles Gen: <color=green>{LOCAL:Gene}</color>
-Key: SplicerDeviceIsOpen, Value: Gerät vor Beginn der Verbindung schließen
-Key: SplicerNeedSourceAndTargetPlant, Value: Zum Starten des Spleißens sind eine Quell- und eine Zielanlage desselben Typs erforderlich.
+Key: SplicerDeviceIsOpen, Value: Gerät vor Beginn der Auftrennung schließen
+Key: SplicerNeedSourceAndTargetPlant, Value: Zum Starten des Aufteilens ist eine Ursprungs- und eine Zielpflanze desselben Typs erforderlich.
 Key: SplicerNextGene, Value: Gen ändern in: {LOCAL:Gene}
-Key: SplicerPreviewSplice, Value: Spleißt <color=green>{LOCAL:Gene}</color> von {LOCAL:SourcePlant} in {LOCAL:TargetPlant}
-Key: SplicerStartSplice, Value: Start Spleiß
-Key: SplitHalf, Value: Split Hälfte
-Key: SplitOne, Value: Split Eins
+Key: SplicerPreviewSplice, Value: Überträgt <color=green>{LOCAL:Gene}</color> von {LOCAL:SourcePlant} auf {LOCAL:TargetPlant}
+Key: SplicerStartSplice, Value: Start Auftrennung
+Key: SplitHalf, Value: Halbieren
+Key: SplitOne, Value: Eins nehmen
 Key: SprayCan, Value: Spraydose
 Key: SprayPaintExtendedMethod, Value: Die {0} wird {1} gemalt
 Key: StackableNotEnoughInStack, Value: Nicht genug im Stapel!
 Key: StackableNotEnoughInStackOf, Value: Nicht genug im Stapel von {LOCAL:Item} zum Abschließen, <color=yellow>{LOCAL:Quantity0}</color>/<color=yellow>{LOCAL:Quantity1}</color>
 Key: StackerContainsQuantity, Value: Enthält {LOCAL:Quantity} x {LOCAL:Item}
-Key: StackerNoContentsToClear, Value: <color=red>Kein Inhalt zu löschen</color>
+Key: StackerNoContentsToClear, Value: <color=red>Kein Inhalt zum Auswerfen</color>
 Key: StackerWillForceChangeFromLogicToAutomatic, Value: Erzwingt den Wechsel vom <color=yellow>Logic</color> zum <color=yellow>Automatic</color> Modus
 Key: Stage1Contains, Value: Enthält {0} in {1}Stadium {1}{3}
 Key: StartNewGameButton, Value: Spiel starten
@@ -3237,7 +3237,7 @@ Key: StationpediaBeginnerGuides, Value: Leitfäden
 Key: StationpediaBuildStateUpgrade, Value: <color=yellow>Geräte-Upgrade</color>
 Key: StationpediaBuildStates, Value: Zustände aufbauen
 Key: StationpediaConnectionsHeader, Value: Verbindungen
-Key: StationpediaConstructWith, Value: Konstruieren Sie mit:
+Key: StationpediaConstructWith, Value: Konstruieren mit:
 Key: StationpediaConstructedFrom, Value: Konstruiert aus
 Key: StationpediaConstructionOptions, Value: 
         Bauoptionen
@@ -3245,9 +3245,9 @@ Key: StationpediaConstructionOptions, Value:
 Key: StationpediaFlashpointHeader, Value: Flammpunkt:
 Key: StationpediaFoundIn, Value: Gefunden in
 Key: StationpediaGasHeader, Value: Gase und Flüssigkeiten
-Key: StationpediaGrowthTime, Value: Wachstumszeit:
+Key: StationpediaGrowthTime, Value: Wachstumsdauer:
 Key: StationpediaHeatHeader, Value: Spezifische Wärme:
-Key: StationpediaHowToManufacture, Value: Wie man herstellt
+Key: StationpediaHowToManufacture, Value: Hergestellt mit
 Key: StationpediaLatentHeatHeader, Value: Latente Wärme:
 Key: StationpediaLogicHeader, Value: Logik
 Key: StationpediaLogicSlotHeader, Value: Logische Steckplätze
@@ -3258,13 +3258,13 @@ Key: StationpediaModeHeader, Value: Modus
 Key: StationpediaMolesPerLitreHeader, Value: Mols pro Liter:
 Key: StationpediaNoResults, Value: Keine Ergebnisse gefunden...
 Key: StationpediaNutrition, Value: Ernährung:
-Key: StationpediaPaintable, Value: Überstreichbar:
-Key: StationpediaPrefabHash, Value: Vorgefertigtes Hash:
-Key: StationpediaPrefabName, Value: Prefab Name:
+Key: StationpediaPaintable, Value: Einfärbbar:
+Key: StationpediaPrefabHash, Value: Hash:
+Key: StationpediaPrefabName, Value: Name:
 Key: StationpediaReagentsHeader, Value: Reagenzien:
 Key: StationpediaResoucesHeader, Value: Verwendete Ressourcen
 Key: StationpediaSearch, Value: Suche
-Key: StationpediaShatterHeader, Value: Shatter:
+Key: StationpediaShatterHeader, Value: Beschädigung:
 Key: StationpediaSlotsHeader, Value: Steckplätze
 Key: StationpediaStackSize, Value: Stapelgröße:
 Key: StationpediaThermalConductivityConvection, Value: Thermische Konvektion:
@@ -3286,7 +3286,7 @@ Key: StatusWindowTarget, Value: Ziel
 Key: StatusWindowThrust, Value: Schubkraft
 Key: StatusWindowVitals, Value: Lebensdaten
 Key: Steam, Value: Dampf
-Key: SteamErrorBody, Value: Es konnte keine Verbindung zu Steam hergestellt werden.  Versuchen Sie, Steam neu zu starten, bevor Sie Stationeers neu starten.
+Key: SteamErrorBody, Value: Es konnte keine Verbindung zu Steam hergestellt werden. Versuchen Sie, Steam neu zu starten, bevor Sie Stationeers neu starten.
 Key: SteamErrorButton, Value: Beenden
 Key: SteamErrorTitle, Value: Steam-Fehler
 Key: StockFull, Value: Lager voll
@@ -3294,36 +3294,36 @@ Key: StopWatch, Value: Uhr anhalten
 Key: Storage, Value: Lagerung
 Key: Stress, Value: Stress
 Key: StructureActiveVent, Value: Aktive Entlüftung
-Key: StructureAdvancedComposter, Value: Fortgeschrittener Komposter
-Key: StructureAdvancedFurnace, Value: Fortgeschrittener Ofen
+Key: StructureAdvancedComposter, Value: Fortschrittlicher Komposter
+Key: StructureAdvancedFurnace, Value: Fortschrittlicher Ofen
 Key: StructureAdvancedPackagingMachine, Value: Fortschrittliche Verpackungsmaschine
 Key: StructureAirConditioner, Value: Klimagerät
 Key: StructureAirlock, Value: Schleuse
 Key: StructureAirlockGate, Value: Kleine Hangartür
-Key: StructureAngledBench, Value: Bank (gewinkelt)
+Key: StructureAngledBench, Value: Sitzbank (gewinkelt)
 Key: StructureArcFurnace, Value: Lichtbogenofen
 Key: StructureAreaPowerControl, Value: Stromversorgungs-Controller
-Key: StructureAreaPowerControlReversed, Value: Stromversorgungs-Controller Umgekehrt
-Key: StructureAutoMinerSmall, Value: Autominer (klein)
-Key: StructureAutolathe, Value: Autodrehmaschine
+Key: StructureAreaPowerControlReversed, Value: Stromversorgungs-Controller invertiert
+Key: StructureAutoMinerSmall, Value: Automatischer Bergbau (klein)
+Key: StructureAutolathe, Value: Automatische Drehmaschine
 Key: StructureAutomatedOven, Value: Automatischer Backofen
-Key: StructureBackLiquidPressureRegulator, Value: Flüssigkeitsrücklaufmengenregler
-Key: StructureBackPressureRegulator, Value: Gegendruckregulator
+Key: StructureBackLiquidPressureRegulator, Value: Gegendruckregler (Flüssigkeit)
+Key: StructureBackPressureRegulator, Value: Gegendruckregler
 Key: StructureBasketHoop, Value: Korb Ring
-Key: StructureBattery, Value: Station Batterie
+Key: StructureBattery, Value: Batterie
 Key: StructureBatteryCharger, Value: Batteriezellen-Ladegerät
-Key: StructureBatteryChargerSmall, Value: Batterieladegerät klein
-Key: StructureBatteryLarge, Value: Station Batterie (groß)
-Key: StructureBatterySmall, Value: Station Batterie (klein)
-Key: StructureBeacon, Value: Bake
-Key: StructureBench, Value: Angetriebene Werkbank
-Key: StructureBench1, Value: Bank (Thekenstil)
-Key: StructureBench2, Value: Bank (High-Tech-Stil)
-Key: StructureBench3, Value: Bank (Rahmenstil)
+Key: StructureBatteryChargerSmall, Value: Batteriezellen-Ladegerät (klein)
+Key: StructureBatteryLarge, Value: Batterie (groß)
+Key: StructureBatterySmall, Value: Batterie (klein)
+Key: StructureBeacon, Value: Leuchtfeuer
+Key: StructureBench, Value: Werkbank
+Key: StructureBench1, Value: Sitzbank (Thekenstil)
+Key: StructureBench2, Value: Sitzbank (High-Tech-Stil)
+Key: StructureBench3, Value: Sitzbank (Rahmenstil)
 Key: StructureBench4, Value: Sitzbank (Werkbank-Stil)
 Key: StructureBlastDoor, Value: Explosionsschutztür
 Key: StructureBlockBed, Value: Block Bett
-Key: StructureBlocker, Value: Blocker
+Key: StructureBlocker, Value: Blockierer
 Key: StructureCableAnalysizer, Value: Kabel-Analysator
 Key: StructureCableCorner, Value: Kabel (Ecke)
 Key: StructureCableCorner3, Value: Kabel (3-Wege-Ecke)
@@ -3365,28 +3365,28 @@ Key: StructureCapsuleTank, Value: Kapsel-Tank
 Key: StructureCategoryKey, Value: Strukturen
 Key: StructureCentrifuge, Value: Zentrifuge
 Key: StructureChair, Value: Stuhl
-Key: StructureChairBacklessDouble, Value: Stuhl (Rückenfrei)
+Key: StructureChairBacklessDouble, Value: Stuhl (Rückenfrei doppelt)
 Key: StructureChairBacklessSingle, Value: Stuhl (rückenfrei einzeln)
-Key: StructureChairBoothCornerLeft, Value: Stuhl (Kabinenecke links)
-Key: StructureChairBoothCornerRight, Value: Stuhl (Standecke rechts)
-Key: StructureChairBoothMiddle, Value: Stuhl (Stand Mitte)
-Key: StructureChairRectangleDouble, Value: Stuhl (Rechteckig)
-Key: StructureChairRectangleSingle, Value: Stuhl (Rechteckig Einzel)
-Key: StructureChairThickDouble, Value: Stuhl (Dickes)
-Key: StructureChairThickSingle, Value: Stuhl (Dickes Einzel)
-Key: StructureChuteBin, Value: Schacht Behälter
+Key: StructureChairBoothCornerLeft, Value: Stuhl (Ecke links)
+Key: StructureChairBoothCornerRight, Value: Stuhl (Ecke rechts)
+Key: StructureChairBoothMiddle, Value: Stuhl (Mitte)
+Key: StructureChairRectangleDouble, Value: Stuhl (Rechteckig doppelt)
+Key: StructureChairRectangleSingle, Value: Stuhl (Rechteckig einzeln)
+Key: StructureChairThickDouble, Value: Stuhl (Dick doppelt)
+Key: StructureChairThickSingle, Value: Stuhl (Dick einzeln)
+Key: StructureChuteBin, Value: Schacht Abfall
 Key: StructureChuteCorner, Value: Schacht (Ecke)
-Key: StructureChuteDigitalFlipFlopSplitterLeft, Value: Schacht Digital Flip Flop Splitter Links
-Key: StructureChuteDigitalFlipFlopSplitterRight, Value: Schacht Digital Flip Flop Splitter Rechts
-Key: StructureChuteDigitalValveLeft, Value: Schacht Digitalventil links
-Key: StructureChuteDigitalValveRight, Value: Schacht Digitales Ventil Rechts
-Key: StructureChuteFlipFlopSplitter, Value: Schacht Flip Flop Splitter
-Key: StructureChuteInlet, Value: Schacht Eingang
-Key: StructureChuteJunction, Value: Schacht (Abzweigung)
-Key: StructureChuteOutlet, Value: Schacht Ausgang
-Key: StructureChuteOverflow, Value: Schacht Überlauf
+Key: StructureChuteDigitalFlipFlopSplitterLeft, Value: Schacht (Digital Flip Flop Splitter Links)
+Key: StructureChuteDigitalFlipFlopSplitterRight, Value: Schacht (Digital Flip Flop Splitter Rechts)
+Key: StructureChuteDigitalValveLeft, Value: Schacht (Digitalventil links)
+Key: StructureChuteDigitalValveRight, Value: Schacht (Digitales Ventil Rechts)
+Key: StructureChuteFlipFlopSplitter, Value: Schacht (Flip Flop Splitter)
+Key: StructureChuteInlet, Value: Schacht (Einwurf)
+Key: StructureChuteJunction, Value: Schacht (Zusammenführung)
+Key: StructureChuteOutlet, Value: Schacht (Auswurf)
+Key: StructureChuteOverflow, Value: Schacht (Überlauf)
 Key: StructureChuteStraight, Value: Schacht (gerade)
-Key: StructureChuteValve, Value: Schachtventil
+Key: StructureChuteValve, Value: Schacht (Ventil)
 Key: StructureChuteWindow, Value: Schacht (Fenster)
 Key: StructureCircuitHousing, Value: IC-Gehäuse
 Key: StructureCombustionCentrifuge, Value: Verbrennungszentrifuge
@@ -3432,13 +3432,13 @@ Key: StructureComputer, Value: Computer
 Key: StructureCondensationChamber, Value: Kondensationskammer
 Key: StructureCondensationValve, Value: Kondensationsventil
 Key: StructureConsole, Value: Konsole
-Key: StructureConsoleDual, Value: Konsole Zweifach
+Key: StructureConsoleDual, Value: Konsole (getrennt)
 Key: StructureConsoleLED1x2, Value: LED-Anzeige (Normal)
 Key: StructureConsoleLED1x3, Value: LED-Anzeige (groß)
 Key: StructureConsoleLED5, Value: LED-Anzeige (klein)
 Key: StructureConsoleLED5Large, Value: LED-Anzeige (Normal)
 Key: StructureConsoleLED8Large, Value: LED-Anzeige (groß)
-Key: StructureConsoleMonitor, Value: Konsolen-Monitor
+Key: StructureConsoleMonitor, Value: Konsole (gewinkelt)
 Key: StructureControlChair, Value: Kontrollstuhl
 Key: StructureConveyorCorner, Value: Schacht (Ecke)
 Key: StructureConveyorRiser, Value: Schacht (Steigleitung)
@@ -3446,26 +3446,26 @@ Key: StructureConveyorStraight, Value: Schacht (gerade)
 Key: StructureConveyorStraightLong, Value: Schacht (gerade lang)
 Key: StructureConveyorStraightShort, Value: Schacht (gerade kurz)
 Key: StructureCornerLocker, Value: Eckschließfach
-Key: StructureCrateMount, Value: Container-Montage
-Key: StructureCryoTube, Value: Kryoröhre
-Key: StructureCryoTubeHorizontal, Value: Horizontales Kryoröhrchen
-Key: StructureCryoTubeVertical, Value: Kryoröhre vertikal
+Key: StructureCrateMount, Value: Kistenhalterung
+Key: StructureCryoTube, Value: Kryokammer
+Key: StructureCryoTubeHorizontal, Value: Horizontale Kryokammer
+Key: StructureCryoTubeVertical, Value: Vertikale Kryokammer
 Key: StructureDaylightSensor, Value: Tageslicht-Sensor
 Key: StructureDeconstructionFailed, Value: Dekonstruktion gescheitert
-Key: StructureDeepMiner, Value: Tiefschürfer
+Key: StructureDeepMiner, Value: Automatischer Bergbau (Tiefenbergbau)
 Key: StructureDigitalValve, Value: Digitales Ventil
 Key: StructureDiode, Value: Diode
-Key: StructureDiodeSlide, Value: Diodenschlitten
+Key: StructureDiodeSlide, Value: Diode (Fortschrittsbalken)
 Key: StructureDockPortSide, Value: Dock (Backbordseite)
-Key: StructureDockShipSide, Value: Dock (Schiffsseite)
-Key: StructureDuctCorner, Value: Schachtecke
-Key: StructureDuctCrossJunction, Value: Schacht Kreuzung
-Key: StructureDuctCrossJunction3, Value: Schacht-Kreuzungspunkt3
-Key: StructureDuctCrossJunction4, Value: Schacht-Kreuzungspunkt4
-Key: StructureDuctCrossJunction5, Value: Schacht-Kreuzungspunkt5
-Key: StructureDuctCrossJunction6, Value: Schacht-Kreuzungspunkt6
-Key: StructureDuctStraight, Value: Schacht Gerade
-Key: StructureDuctTJunction, Value: Schacht T Abzweigung
+Key: StructureDockShipSide, Value: Dock (Steuerbordseite)
+Key: StructureDuctCorner, Value: Kanalwinkel
+Key: StructureDuctCrossJunction, Value: Kanal Kreuzung
+Key: StructureDuctCrossJunction3, Value: Kanal-Kreuzungspunkt3
+Key: StructureDuctCrossJunction4, Value: Kanal-Kreuzungspunkt4
+Key: StructureDuctCrossJunction5, Value: Kanal-Kreuzungspunkt5
+Key: StructureDuctCrossJunction6, Value: Kanal-Kreuzungspunkt6
+Key: StructureDuctStraight, Value: Kanal Gerade
+Key: StructureDuctTJunction, Value: Kanal T Abzweigung
 Key: StructureElectrolyzer, Value: Elektrolyseur
 Key: StructureElectronicsPrinter, Value: Elektronik Drucker
 Key: StructureElevatorLevelFront, Value: Aufzug Ebene
@@ -3476,13 +3476,13 @@ Key: StructureExpansionValve, Value: Expansionsventil
 Key: StructureFabricator, Value: Verarbeiter
 Key: StructureFiltration, Value: Filtration
 Key: StructureFlagSmall, Value: Kleine Flagge
-Key: StructureFlashingLight, Value: Blinkendes Licht
-Key: StructureFlatBench, Value: Bank (Flach)
+Key: StructureFlashingLight, Value: Blinklicht
+Key: StructureFlatBench, Value: Sitzbank (Flach)
 Key: StructureFloorDrain, Value: Passiver Flüssigkeitseinlass
 Key: StructureFrame, Value: Stahlrahmen
 Key: StructureFrameCorner, Value: Stahlrahmen (Ecke)
 Key: StructureFrameCornerCut, Value: Stahlrahmen (Eckenschnitt)
-Key: StructureFrameIron, Value: Eisengestell
+Key: StructureFrameIron, Value: Eisenrahmen
 Key: StructureFrameSide, Value: Stahlrahmen (Seite)
 Key: StructureFridgeBig, Value: Kühlschrank (groß)
 Key: StructureFridgeSmall, Value: Kühlschrank (klein)
@@ -3491,24 +3491,24 @@ Key: StructureFuselage1x1, Value: Rumpf 1x1
 Key: StructureGasGenerator, Value: Gas-Treibstoff-Generator
 Key: StructureGasMixer, Value: Gasmischer
 Key: StructureGasSensor, Value: Gas Sensor
-Key: StructureGasTankStorage, Value: Gastank Lagerung
+Key: StructureGasTankStorage, Value: Gasspeicher
 Key: StructureGlassDoor, Value: Glastür
 Key: StructureGrowLight, Value: UV-Lampe
 Key: StructureGunTurret, Value: Geschützturm
 Key: StructureGyroscope, Value: Gyroskop
-Key: StructureH2Combustor, Value: H2 Verbrenner
+Key: StructureH2Combustor, Value: Wasserstoff Verbrenner
 Key: StructureHarvie, Value: Harvie
-Key: StructureHarvieReversed, Value: Harvie
-Key: StructureHeatExchangeLiquidAndGas, Value: Wärmeaustausch - Flüssigkeit und Gas
-Key: StructureHeatExchangeLiquidtoGas, Value: Wärmetauscher - Flüssigkeit + Gas
-Key: StructureHeatExchangerGastoGas, Value: Wärmetauscher - Gas
-Key: StructureHeatExchangerLiquidtoLiquid, Value: Wärmetauscher - Flüssigkeit
+Key: StructureHarvieReversed, Value: Harvie (seitlich)
+Key: StructureHeatExchangeLiquidAndGas, Value: Wärmetauscher (Flüssigkeit und Gas)
+Key: StructureHeatExchangeLiquidtoGas, Value: Wärmetauscher (Flüssigkeit zu Gas)
+Key: StructureHeatExchangerGastoGas, Value: Wärmetauscher (Gas zu Gas)
+Key: StructureHeatExchangerLiquidtoLiquid, Value: Wärmetauscher (Flüssigkeit zu Flüssigkeit)
 Key: StructureHorizontalAutoMiner, Value: OGRE
-Key: StructureHydraulicPipeBender, Value: Hydraulische Rohrbiegemaschine
-Key: StructureHydroponicsAutomated, Value: Automatisierte Hydroponik
-Key: StructureHydroponicsStation, Value: Hydroponische Station
-Key: StructureHydroponicsTray, Value: Hydroponisches Beet
-Key: StructureHydroponicsTrayData, Value: Hydroponisches Beet
+Key: StructureHydraulicPipeBender, Value: Rohrbiegemaschine
+Key: StructureHydroponicsAutomated, Value: Hydroponisches Beet (Automatisiert)
+Key: StructureHydroponicsStation, Value: Hydroponisches Beet (Station)
+Key: StructureHydroponicsTray, Value: Hydroponisches Beet (Einzelplatz)
+Key: StructureHydroponicsTrayData, Value: Hydroponisches Beet (Einzelplatz + Daten)
 Key: StructureIceCrusher, Value: Eiszerkleinerer
 Key: StructureIgniter, Value: Zündvorrichtung
 Key: StructureInLineTankGas1x1, Value: In-Line Tank 1x1 Gas
@@ -3539,63 +3539,63 @@ Key: StructureInteriorDoorTriangle, Value: Innentür-Dreieck
 Key: StructureIsNotDamaged, Value: {LOCAL:Structure} ist nicht beschädigt
 Key: StructureKlaxon, Value: Klaxon-Lautsprecher
 Key: StructureLadder, Value: Leiter
-Key: StructureLadderEnd, Value: Leiter Ende
-Key: StructureLargeDirectHeatExchangeGastoGas, Value: Großer direkter Wärmetauscher - Gas + Gas
-Key: StructureLargeDirectHeatExchangeGastoLiquid, Value: Großer direkter Wärmetauscher - Gas + Flüssigkeit
-Key: StructureLargeDirectHeatExchangeLiquidtoLiquid, Value: Großer direkter Wärmeaustausch - Flüssigkeit + Flüssigkeit
-Key: StructureLargeExtendableRadiator, Value: Struktur Großer ausziehbarer Heizkörper
+Key: StructureLadderEnd, Value: Leiter Abschluss
+Key: StructureLargeDirectHeatExchangeGastoGas, Value: Großer direkter Wärmetauscher (Gas zu Gas)
+Key: StructureLargeDirectHeatExchangeGastoLiquid, Value: Großer direkter Wärmetauscher (Gas zu Flüssigkeit)
+Key: StructureLargeDirectHeatExchangeLiquidtoLiquid, Value: Großer direkter Wärmeaustausch (Flüssigkeit zu Flüssigkeit)
+Key: StructureLargeExtendableRadiator, Value: Struktur Großer ausziehbarer Radiator
 Key: StructureLargeHangerDoor, Value: Große Hangartür
 Key: StructureLargeSatelliteDish, Value: Große Satellitenschüssel
 Key: StructureLaunchPad, Value: Modulare Raketenstartrampe
-Key: StructureLaunchPadCenter, Value: Startrampe Center
-Key: StructureLaunchPadModule, Value: Startrampe Modul
-Key: StructureLaunchPadTower, Value: Startrampe Turm
-Key: StructureLightLong, Value: Wandlampe (lang)
-Key: StructureLightLongAngled, Value: Wandlampe (lang gewinkelt)
-Key: StructureLightLongWide, Value: Wandlampe (lang und breit)
+Key: StructureLaunchPadCenter, Value: Raketenstartrampe Center
+Key: StructureLaunchPadModule, Value: Raketenstartrampe Modul
+Key: StructureLaunchPadTower, Value: Raketenstartrampe Turm
+Key: StructureLightLong, Value: Lampe (lang)
+Key: StructureLightLongAngled, Value: Lampe (lang gewinkelt)
+Key: StructureLightLongWide, Value: Lampe (lang und breit)
 Key: StructureLightRound, Value: Lampe (Rund)
-Key: StructureLightRoundAngled, Value: Lampe rund (gewinkelt)
-Key: StructureLightRoundSmall, Value: Leicht rund (klein)
+Key: StructureLightRoundAngled, Value: Lampe (Rund gewinkelt)
+Key: StructureLightRoundSmall, Value: Leicht (Rund klein)
 Key: StructureLiquidDrain, Value: Aktiver Flüssigkeitsauslass
 Key: StructureLiquidPipeAnalyzer, Value: Flüssigkeitsrohr-Analysator
 Key: StructureLiquidPipeHeater, Value: Rohrheizkörper (Flüssigkeit)
 Key: StructureLiquidPipeOneWayValve, Value: Rückschlagventil (Flüssigkeit)
-Key: StructureLiquidPipeRadiator, Value: Flüssigkeitsrohr-Konvektionsheizkörper
-Key: StructureLiquidPressureRegulator, Value: Flüssigkeitsvolumen-Regler
-Key: StructureLiquidTankBig, Value: Flüssigkeitstank groß
-Key: StructureLiquidTankBigInsulated, Value: Isolierter Flüssigkeitstank groß
-Key: StructureLiquidTankSmall, Value: Flüssigkeitstank Klein
-Key: StructureLiquidTankSmallInsulated, Value: Isolierter Flüssigkeitstank Klein
-Key: StructureLiquidTankStorage, Value: Lagerung von Flüssigkeitstanks
+Key: StructureLiquidPipeRadiator, Value: Flüssigkeitsrohr-Konvektionsradiator
+Key: StructureLiquidPressureRegulator, Value: Druckregler (Flüssigkeit)
+Key: StructureLiquidTankBig, Value: Flüssigkeitstank (groß)
+Key: StructureLiquidTankBigInsulated, Value: Isolierter Flüssigkeitstank (groß)
+Key: StructureLiquidTankSmall, Value: Flüssigkeitstank (klein)
+Key: StructureLiquidTankSmallInsulated, Value: Isolierter Flüssigkeitstank (Klein)
+Key: StructureLiquidTankStorage, Value: Halterung für Tragbaren Flüssigkeitstank
 Key: StructureLiquidTurboVolumePump, Value: Turbo-Volumenpumpe (Flüssigkeit)
 Key: StructureLiquidValve, Value: Flüssigkeitsventil
 Key: StructureLiquidVolumePump, Value: Flüssigkeitsvolumenpumpe
 Key: StructureLocker, Value: Schließfach
 Key: StructureLockerSmall, Value: Schließfach (klein)
-Key: StructureLogicBatchReader, Value: Batch-Leser
-Key: StructureLogicBatchSlotReader, Value: Stapelschlitzleser
-Key: StructureLogicBatchWriter, Value: Batch-Schreiber
-Key: StructureLogicButton, Value: Schaltfläche
-Key: StructureLogicCompare, Value: Logischer Vergleich
-Key: StructureLogicDial, Value: Wähle
+Key: StructureLogicBatchReader, Value: Logik-Batch-Leser
+Key: StructureLogicBatchSlotReader, Value: Logik-Batch-Steckplatz-Leser
+Key: StructureLogicBatchWriter, Value: Logik-Batch-Schreiber
+Key: StructureLogicButton, Value: Logik-Knopf
+Key: StructureLogicCompare, Value: Logik-Vergleich
+Key: StructureLogicDial, Value: Logik-Drehpotentionmeter
 Key: StructureLogicDisplay5, Value: LED-Anzeige (klein)
-Key: StructureLogicGate, Value: Logisches Gatter
-Key: StructureLogicHashGen, Value: Logischer Hash-Generator
+Key: StructureLogicGate, Value: Logik-Gatter
+Key: StructureLogicHashGen, Value: Logik-Hash-Generator
 Key: StructureLogicMath, Value: Logik und Mathematik
-Key: StructureLogicMathUnary, Value: Mathe Unary
-Key: StructureLogicMemory, Value: Logischer Speicher
-Key: StructureLogicMinMax, Value: Logik Min/Max
-Key: StructureLogicMirror, Value: Logik Spiegel
-Key: StructureLogicReader, Value: Logik Leser
-Key: StructureLogicReagentReader, Value: Reagenzien-Lesegerät
-Key: StructureLogicSelect, Value: Logik Wähler
-Key: StructureLogicSlotReader, Value: Steckplatzleser
-Key: StructureLogicSwitch, Value: Hebel
-Key: StructureLogicSwitch2, Value: Schalter
+Key: StructureLogicMathUnary, Value: Logik-Unär/Monadisch
+Key: StructureLogicMemory, Value: Logik-Speicher
+Key: StructureLogicMinMax, Value: Logik-Min/Max
+Key: StructureLogicMirror, Value: Logik-Stellvertreter
+Key: StructureLogicReader, Value: Logik-Leser
+Key: StructureLogicReagentReader, Value: Logik-Reagenzien-Lesegerät
+Key: StructureLogicSelect, Value: Logik-Wähler
+Key: StructureLogicSlotReader, Value: Logik-Steckplatz-Leser
+Key: StructureLogicSwitch, Value: Logik-Hebel
+Key: StructureLogicSwitch2, Value: Logik-Schalter
 Key: StructureLogicTransmitter, Value: Logik-Sender
-Key: StructureLogicUnit, Value: Logische Einheit
+Key: StructureLogicUnit, Value: Logik-Einheit
 Key: StructureLogicWriter, Value: Logik-Schreiber
-Key: StructureLogicWriterSwitch, Value: Logik-Schreiber Schalter
+Key: StructureLogicWriterSwitch, Value: Logik-Schalter-Schreiber
 Key: StructureLowVolumeLiquidPipeCorner, Value: Flüssigkeitsrohre mit geringem Volumen (Ecke)
 Key: StructureLowVolumeLiquidPipeCrossJunction, Value: Flüssigkeitsrohre mit geringem Volumen (Kreuzungspunkt)
 Key: StructureLowVolumeLiquidPipeCrossJunction3, Value: Flüssigkeitsrohre mit geringem Volumen (3-Wege-Verzweigung)
@@ -3614,54 +3614,54 @@ Key: StructureLowVolumePipeStraight, Value: Niedrigvolumige Gasrohre (gerade)
 Key: StructureLowVolumePipeTJunction, Value: Niedrigvolumige Gasrohre (T-Kreuzung)
 Key: StructureManualHatch, Value: Manuelle Klappe
 Key: StructureMediumConvectionRadiator, Value: Normaler Konvektionsradiator
-Key: StructureMediumConvectionRadiatorLiquid, Value: Normaler Konvektionsradiator Flüssigkeit
+Key: StructureMediumConvectionRadiatorLiquid, Value: Normaler Konvektionsradiator (Flüssigkeit)
 Key: StructureMediumHangerDoor, Value: Mittlere Hangartür
 Key: StructureMediumRadiator, Value: Normaler Radiator
-Key: StructureMediumRadiatorLiquid, Value: Normaler Kühlerflüssigkeit
-Key: StructureModularRocketAutomation, Value: Automatisiertes Raketen-Automatisierungsmodul
-Key: StructureModularRocketAutonomous, Value: Rakete Modular Autonom
-Key: StructureModularRocketCargo01, Value: Modulare Raketenfracht
-Key: StructureModularRocketCommand01, Value: Modulares Raketenkommando
-Key: StructureModularRocketCouplingDown, Value: Automatisches Raketenkopplungsmodul (unten)
-Key: StructureModularRocketCouplingUp, Value: Automatisches Raketenkopplungsmodul (Up)
-Key: StructureModularRocketEngine01, Value: Modulares Raketentriebwerk
-Key: StructureModularRocketFueltank01, Value: Modularer Raketentreibstofftank
-Key: StructureModularRocketGasMining, Value: Automatisiertes Raketengasabbaumodul
-Key: StructureModularRocketIceMining, Value: Automatisiertes Raketeneisabbaumodul
-Key: StructureModularRocketLiquidTank, Value: Automatisiertes Modul zur Lagerung von Raketenflüssigkeit
-Key: StructureModularRocketScrapMining, Value: Automatisches Raketenbergungsmodul
+Key: StructureMediumRadiatorLiquid, Value: Normaler Radiator (Flüssigkeit)
+Key: StructureModularRocketAutomation, Value: Raketen-Steuerung (Modular)
+Key: StructureModularRocketAutonomous, Value: Raketen-Autonomie (Modular)
+Key: StructureModularRocketCargo01, Value: Raketen-Fracht (Modular)
+Key: StructureModularRocketCommand01, Value: Raketen-Kontrolleinheit (Modular)
+Key: StructureModularRocketCouplingDown, Value: Raketen-Trennung (Unterhalb Modular)
+Key: StructureModularRocketCouplingUp, Value: Raketen-Trennung (Oberhalb Modular)
+Key: StructureModularRocketEngine01, Value: Raketen-Triebwertk (Modular)
+Key: StructureModularRocketFueltank01, Value: Raketen-Treibstofftank (Modular)
+Key: StructureModularRocketGasMining, Value: Raketen-Gasspeicher (Modular)
+Key: StructureModularRocketIceMining, Value: Raketen-Eisspeicher (Modular)
+Key: StructureModularRocketLiquidTank, Value: Raketen-Flüssigkeitsspeicher (Modular)
+Key: StructureModularRocketScrapMining, Value: Raketen-Trümmerbergung (Modular)
 Key: StructureMotionSensor, Value: Bewegungsmelder
 Key: StructureNitrolyzer, Value: Nitrolyzer
 Key: StructureNosecone1x1, Value: Nasenkonus 1x1
 Key: StructureOccupancySensor, Value: Anwesenheitssensor
 Key: StructureOneWayValve, Value: Rückschlagventil (Gas)
 Key: StructureOrganicsPrinter, Value: Organik-Drucker
-Key: StructureOverheadShortCornerLocker, Value: Überkopf-Eckschließfach
+Key: StructureOverheadShortCornerLocker, Value: Hängeschrank (Ecke)
 Key: StructureOverheadShortLocker, Value: Hängeschrank
 Key: StructurePassiveLargeRadiator, Value: Normaler Konvektionsradiator
 Key: StructurePassiveLargeRadiatorGas, Value: Normaler Konvektionsradiator
-Key: StructurePassiveLargeRadiatorLiquid, Value: Normaler Konvektionsradiator Flüssigkeit
-Key: StructurePassiveLiquidDrain, Value: Passiver Flüssigkeitsabfluss
+Key: StructurePassiveLargeRadiatorLiquid, Value: Normaler Konvektionsradiator (Flüssigkeit)
+Key: StructurePassiveLiquidDrain, Value: Passiver Flüssigkeitsauslass
 Key: StructurePassiveVent, Value: Passive Entlüftung
-Key: StructurePassthroughHeatExchangerGasToGas, Value: Gegenstrom-Wärmetauscher - Gas + Gas
-Key: StructurePassthroughHeatExchangerGasToLiquid, Value: Gegenstromwärmetauscher - Gas + Flüssigkeit
-Key: StructurePassthroughHeatExchangerLiquidToLiquid, Value: Gegenstromwärmetauscher - Flüssigkeit + Flüssigkeit
-Key: StructurePictureFrameThickLandscapeLarge, Value: Bilderrahmen Dickes Querformat Groß
-Key: StructurePictureFrameThickLandscapeSmall, Value: Bilderrahmen Dickes Querformat Klein
-Key: StructurePictureFrameThickMountLandscapeLarge, Value: Bilderrahmen Dickes Querformat Groß
-Key: StructurePictureFrameThickMountLandscapeSmall, Value: Bilderrahmen Dickes Querformat Klein
-Key: StructurePictureFrameThickMountPortraitLarge, Value: Bilderrahmen Dickes Gestell Portrait Groß
-Key: StructurePictureFrameThickMountPortraitSmall, Value: Bilderrahmen Dickes Gestell Portrait Klein
-Key: StructurePictureFrameThickPortraitLarge, Value: Bilderrahmen Dickes Portrait Groß
-Key: StructurePictureFrameThickPortraitSmall, Value: Bilderrahmen Dickes Portrait Klein
-Key: StructurePictureFrameThinLandscapeLarge, Value: Bilderrahmen Dünne Landschaft Groß
-Key: StructurePictureFrameThinLandscapeSmall, Value: Bilderrahmen Dünne Landschaft Klein
-Key: StructurePictureFrameThinMountLandscapeLarge, Value: Bilderrahmen Dünne Landschaft Groß
-Key: StructurePictureFrameThinMountLandscapeSmall, Value: Bilderrahmen Dünne Landschaft Klein
-Key: StructurePictureFrameThinMountPortraitLarge, Value: Bilderrahmen Dünnes Porträt Groß
-Key: StructurePictureFrameThinMountPortraitSmall, Value: Bilderrahmen Dünnes Porträt Klein
-Key: StructurePictureFrameThinPortraitLarge, Value: Bilderrahmen Dünnes Porträt Groß
-Key: StructurePictureFrameThinPortraitSmall, Value: Bilderrahmen Dünnes Porträt Klein
+Key: StructurePassthroughHeatExchangerGasToGas, Value: Durchlauf-Wärmetauscher (Gas zu Gas)
+Key: StructurePassthroughHeatExchangerGasToLiquid, Value: Durchlauf-Wärmetauscher (Gas zu Flüssigkeit)
+Key: StructurePassthroughHeatExchangerLiquidToLiquid, Value: Durchlauf-Wärmetauscher (Flüssigkeit zu Flüssigkeit)
+Key: StructurePictureFrameThickLandscapeLarge, Value: Dicker Bilderrahmen (Querformat Groß)
+Key: StructurePictureFrameThickLandscapeSmall, Value: Dicker Bilderrahmen (Querformat Klein)
+Key: StructurePictureFrameThickMountLandscapeLarge, Value: Dicker Bilderrahmen (Querformat Groß)
+Key: StructurePictureFrameThickMountLandscapeSmall, Value: Dicker Bilderrahmen (Querformat Klein)
+Key: StructurePictureFrameThickMountPortraitLarge, Value: Dicker Bilderrahmen (Hochformat Groß)
+Key: StructurePictureFrameThickMountPortraitSmall, Value: Dicker Bilderrahmen (Hochformat Klein)
+Key: StructurePictureFrameThickPortraitLarge, Value: Dicker Bilderrahmen (Portrait Groß)
+Key: StructurePictureFrameThickPortraitSmall, Value: Dicker Bilderrahmen (Portrait Klein)
+Key: StructurePictureFrameThinLandscapeLarge, Value: Dünner Bilderrahmen (Hochformat Groß)
+Key: StructurePictureFrameThinLandscapeSmall, Value: Dünner Bilderrahmen (Hochformat Klein)
+Key: StructurePictureFrameThinMountLandscapeLarge, Value: Dünner Bilderrahmen (Querformat Groß)
+Key: StructurePictureFrameThinMountLandscapeSmall, Value: Dünner Bilderrahmen (Querformat Klein)
+Key: StructurePictureFrameThinMountPortraitLarge, Value: Dünner Bilderrahmen (Hochformat Groß)
+Key: StructurePictureFrameThinMountPortraitSmall, Value: Dünner Bilderrahmen (Hochformat Klein)
+Key: StructurePictureFrameThinPortraitLarge, Value: Dünner Bilderrahmen (Hochformat Groß)
+Key: StructurePictureFrameThinPortraitSmall, Value: Dünner Bilderrahmen (Hochformat Klein)
 Key: StructurePipeAnalysizer, Value: Gasrohr-Analysator
 Key: StructurePipeCorner, Value: Gasrohr (Ecke)
 Key: StructurePipeCowl, Value: Pfeifenkopf
@@ -3681,24 +3681,24 @@ Key: StructurePipeLiquidCrossJunction5, Value: Flüssigkeitsrohre (5-Wege-Verteil
 Key: StructurePipeLiquidCrossJunction6, Value: Flüssigkeitsrohre (6-Wege-Verteiler)
 Key: StructurePipeLiquidStraight, Value: Flüssigkeitsrohre (gerade)
 Key: StructurePipeLiquidTJunction, Value: Flüssigkeitsrohre (T-Verteiler)
-Key: StructurePipeMeter, Value: Rohrzähler
+Key: StructurePipeMeter, Value: Druckmesser (Gas)
 Key: StructurePipeOneWayValve, Value: Rückschlagventil (Gas)
 Key: StructurePipeOrgan, Value: Pfeifenorgel
-Key: StructurePipeRadiator, Value: Gasrohr-Konvektionsheizkörper
-Key: StructurePipeRadiatorFlat, Value: Rohrheizkörper
-Key: StructurePipeRadiatorFlatLiquid, Value: Gasrohr Heizkörper Flüssigkeit
+Key: StructurePipeRadiator, Value: Gasrohr-Konvektionsradiator
+Key: StructurePipeRadiatorFlat, Value: Rohrradiator
+Key: StructurePipeRadiatorFlatLiquid, Value: Rohrradiator (Flüssigkeit)
 Key: StructurePipeStraight, Value: Gasrohr (gerade)
 Key: StructurePipeTJunction, Value: Gasrohr (T-Verzweigung)
-Key: StructurePlanter, Value: Pflanzgefäß
+Key: StructurePlanter, Value: Pflanztopf
 Key: StructurePlatformLadderOpen, Value: Leiter-Plattform
-Key: StructurePlatformLadderOpenRotated, Value: Leiterplattform gedreht
+Key: StructurePlatformLadderOpenRotated, Value: Leiter-Plattform (gedreht)
 Key: StructurePlinth, Value: Sockel
 Key: StructurePowerConnector, Value: Stromanschluss
-Key: StructurePowerTransmitter, Value: Mikrowellen-Leistungssender
-Key: StructurePowerTransmitterOmni, Value: Struktur Leistungssender Omni
-Key: StructurePowerTransmitterReceiver, Value: Mikrowellen-Leistungsempfänger
-Key: StructurePoweredVent, Value: Angetriebener Vent
-Key: StructurePoweredVentLarge, Value: Powered Vent Groß
+Key: StructurePowerTransmitter, Value: Mikrowellen Strom (direkt Sender)
+Key: StructurePowerTransmitterOmni, Value: Mikrowellen Strom (omni Sender)
+Key: StructurePowerTransmitterReceiver, Value: Mikrowellen Strom (Empfänger)
+Key: StructurePoweredVent, Value: Automatisierter Lüfter
+Key: StructurePoweredVentLarge, Value: Automatisierter Lüfter (Groß)
 Key: StructurePressurantValve, Value: Druckventil
 Key: StructurePressurePlateLarge, Value: Auslöseplatte (groß)
 Key: StructurePressurePlateMedium, Value: Auslöseplatte (Normal)
@@ -3706,8 +3706,8 @@ Key: StructurePressurePlateSmall, Value: Auslöseplatte (klein)
 Key: StructurePressureRegulator, Value: Druckregler
 Key: StructureProximitySensor, Value: Annäherungssensor
 Key: StructurePurgeValve, Value: Entlüftungsventil
-Key: StructureRTG, Value: Kreatives RTG
-Key: StructureRTGSurvival, Value: RTG
+Key: StructureRTG, Value: Kreativer Radio Isotopen Generator
+Key: StructureRTGSurvival, Value: Radio Isotopen Generator
 Key: StructureRailing, Value: Geländer Industrie (Typ 1)
 Key: StructureRecycler, Value: Recycler
 Key: StructureRefrigeratedVendingMachine, Value: Gekühlter Verkaufsautomat
@@ -3716,56 +3716,56 @@ Key: StructureReinforcedCompositeWindowSteel, Value: Verstärktes Fenster (Stahlv
 Key: StructureReinforcedWallPaddedWindow, Value: Verstärktes Fenster (gepolstert)
 Key: StructureReinforcedWallPaddedWindowThin, Value: Verstärktes Fenster (dünn)
 Key: StructureResearchMachine, Value: Forschungsmaschine
-Key: StructureReverseElectrolyzer, Value: Umkehrelektrolyseur
+Key: StructureReverseElectrolyzer, Value: Galvanisierer
 Key: StructureRocketAvionics, Value: Raketen Avionik
-Key: StructureRocketEngine, Value: Raketentriebwerk
-Key: StructureRocketEngineDestroyed, Value: Raketentriebwerk (Zerstört)
-Key: StructureRocketEngineSmall, Value: Raketentriebwerk (klein)
-Key: StructureRocketEngineTiny, Value: Raketentriebwerk (Winzig)
-Key: StructureRocketModuleBattery, Value: Automatisiertes Raketen-Energiespeichermodul
-Key: StructureRocketModuleCollectorLiquid, Value: Automatisiertes Raketen-Flüssigkeitssammelmodul
-Key: StructureRocketModuleEnergyGenerator, Value: Automatisiertes Modul zur Sammlung von Raketenenergie
-Key: StructureRocketModuleGasCollector, Value: Automatisiertes Raketengas-Sammelmodul
-Key: StructureRocketModuleMiningOre, Value: Automatisiertes Modul für den Abbau von Raketenerzen
-Key: StructureRocketModuleSilo, Value: Automatisiertes Raketensilo-Modul
+Key: StructureRocketEngine, Value: Raketen-Triebwert
+Key: StructureRocketEngineDestroyed, Value: Raketen-Triebwert (Zerstört)
+Key: StructureRocketEngineSmall, Value: Raketen-Triebwert (klein)
+Key: StructureRocketEngineTiny, Value: Raketen-Triebwert (Winzig)
+Key: StructureRocketModuleBattery, Value: Raketen-Batterie (Modular)
+Key: StructureRocketModuleCollectorLiquid, Value: Raketen-Flüssigkeits-Sammler (Modular)
+Key: StructureRocketModuleEnergyGenerator, Value: Raketen-Strom-Generator (Modular)
+Key: StructureRocketModuleGasCollector, Value: Raketen-Gas-Sammler (Modular)
+Key: StructureRocketModuleMiningOre, Value: Raketen-Erz-Sammler (Modular)
+Key: StructureRocketModuleSilo, Value: Raketen-Silo (Modular)
 Key: StructureRover, Value: Rover-Rahmen
 Key: StructureSDBHopper, Value: SDB-Trichter
-Key: StructureSDBHopperAdvanced, Value: SDB Trichter Erweitert
+Key: StructureSDBHopperAdvanced, Value: SDB-Trichter (Erweitert)
 Key: StructureSDBSilo, Value: SDB-Silo
 Key: StructureSatelliteDish, Value: Normaler Satellitenschüssel
 Key: StructureSecurityPrinter, Value: Sicherheitsdrucker
 Key: StructureShelf, Value: Regal
 Key: StructureShelfMedium, Value: Regal Normal
-Key: StructureShortCornerLocker, Value: Kurze Ecke Schließfach
-Key: StructureShortLocker, Value: Kurzes Schließfach
+Key: StructureShortCornerLocker, Value: Schrank (kurze Ecke)
+Key: StructureShortLocker, Value: Schrank (kurz)
 Key: StructureShuttleLandingPad, Value: Landeplatz
 Key: StructureSign1x1, Value: Schild 1x1
 Key: StructureSign2x1, Value: Schild 2x1
 Key: StructureSingleBed, Value: Einzelbett
 Key: StructureSleeper, Value: Schlafkabine
-Key: StructureSleeperLeft, Value: Schwelle links
-Key: StructureSleeperRight, Value: Schläfer Rechts
-Key: StructureSleeperVertical, Value: Schwelle vertikal
-Key: StructureSleeperVerticalDroid, Value: Droidenschläfer vertikal
-Key: StructureSmallDirectHeatExchangeGastoGas, Value: Kleiner direkter Wärmetauscher - Gas + Gas
-Key: StructureSmallDirectHeatExchangeLiquidtoGas, Value: Kleiner direkter Wärmetauscher - Flüssigkeit + Gas
-Key: StructureSmallDirectHeatExchangeLiquidtoLiquid, Value: Kleiner direkter Wärmetauscher - Flüssigkeit + Flüssigkeit
+Key: StructureSleeperLeft, Value: Schlafkabine (links)
+Key: StructureSleeperRight, Value: Schlafkabine (Rechts)
+Key: StructureSleeperVertical, Value: Schlafkabine (vertikal)
+Key: StructureSleeperVerticalDroid, Value: Schlafkabine (vertikal Droid)
+Key: StructureSmallDirectHeatExchangeGastoGas, Value: Kleiner direkter Wärmetauscher (Gas zu Gas)
+Key: StructureSmallDirectHeatExchangeLiquidtoGas, Value: Kleiner direkter Wärmetauscher (Flüssigkeit zu Gas)
+Key: StructureSmallDirectHeatExchangeLiquidtoLiquid, Value: Kleiner direkter Wärmetauscher (Flüssigkeit zu Flüssigkeit)
 Key: StructureSmallSatelliteDish, Value: Kleine Satellitenschüssel
 Key: StructureSmallTableBacklessDouble, Value: Kleiner Tisch (Rückenfrei Doppelt)
 Key: StructureSmallTableBacklessSingle, Value: Kleiner Tisch (Rückenfrei Einzel)
-Key: StructureSmallTableDinnerSingle, Value: Kleiner Tisch (essen Einzel)
+Key: StructureSmallTableDinnerSingle, Value: Kleiner Tisch (Dinner Einzel)
 Key: StructureSmallTableRectangleDouble, Value: Kleiner Tisch (Rechteckig Doppelt)
 Key: StructureSmallTableRectangleSingle, Value: Kleiner Tisch (rechteckig einzeln)
 Key: StructureSmallTableThickDouble, Value: Kleiner Tisch (dick doppelt)
-Key: StructureSmallTableThickSingle, Value: Kleiner Tisch (Dickes Einzelstück)
-Key: StructureSolarPanel, Value: Sonnenkollektor
+Key: StructureSmallTableThickSingle, Value: Kleiner Tisch (dick einzeln)
+Key: StructureSolarPanel, Value: Solarmodul
 Key: StructureSolarPanel45, Value: Solarmodul (gewinkelt)
 Key: StructureSolarPanel45Reinforced, Value: Solarmodul (stark gewinkelt)
 Key: StructureSolarPanelDual, Value: Solarmodul (Dual)
 Key: StructureSolarPanelDualReinforced, Value: Solarmodul (Schwer Doppelt)
 Key: StructureSolarPanelFlat, Value: Solarmodul (flach)
 Key: StructureSolarPanelFlatReinforced, Value: Solarmodul (schwer und flach)
-Key: StructureSolarPanelFused, Value: Sonnenkollektor
+Key: StructureSolarPanelFused, Value: Solarmodul
 Key: StructureSolarPanelReinforced, Value: Solarmodul (schwer)
 Key: StructureSolidFuelGenerator, Value: Generator (Festbrennstoff)
 Key: StructureSorter, Value: Sortierer
@@ -3785,8 +3785,8 @@ Key: StructureStorageLocker, Value: Schließfach
 Key: StructureSuitStorage, Value: Anzug Aufbewahrung
 Key: StructureTankBig, Value: Großer Tank
 Key: StructureTankBigInsulated, Value: Tank groß (isoliert)
-Key: StructureTankConnector, Value: Tankanschluss
-Key: StructureTankConnectorLiquid, Value: Anschluss für Flüssigkeitstank
+Key: StructureTankConnector, Value: Gastankanschluss
+Key: StructureTankConnectorLiquid, Value: Flüssigkeitstankanschluss
 Key: StructureTankSmall, Value: Kleiner Tank
 Key: StructureTankSmallAir, Value: Kleiner Tank (Luft)
 Key: StructureTankSmallFuel, Value: Kleiner Tank (Treibstoff)
@@ -3803,8 +3803,8 @@ Key: StructureTransformerSmall, Value: Transformator (klein)
 Key: StructureTransformerSmallReversed, Value: Transformator Umgekehrt (klein)
 Key: StructureTurbineGenerator, Value: Turbine Generator
 Key: StructureTurboVolumePump, Value: Turbo-Volumenpumpe (Gas)
-Key: StructureUnloader, Value: Entlader
-Key: StructureUnpoweredHatch, Value: Struktur Unversorgte Luke
+Key: StructureUnloader, Value: Entpacker
+Key: StructureUnpoweredHatch, Value: Struktur stromlose Klappe
 Key: StructureUprightWindTurbine, Value: Aufrechte Windturbine
 Key: StructureValve, Value: Ventil
 Key: StructureVendingMachine, Value: Verkaufsautomat
@@ -3859,15 +3859,15 @@ Key: StructureWallSmallPanelsArrow, Value: Wand (Kleine Paneele Pfeil)
 Key: StructureWallSmallPanelsMonoChrome, Value: Wand (Kleine Paneele Mono Chrom)
 Key: StructureWallSmallPanelsOpen, Value: Wand (kleine Paneele offen)
 Key: StructureWallSmallPanelsTwoTone, Value: Wand (Kleine Paneele zweifarbig)
-Key: StructureWallVent, Value: Wandentlüftung
+Key: StructureWallVent, Value: Wanddurchlass
 Key: StructureWaterBottleFiller, Value: Wasserflaschenfüller
 Key: StructureWaterBottleFillerBottom, Value: Wasserflascheneinfüller unten
 Key: StructureWaterBottleFillerPowered, Value: Wasserflaschenfüller
 Key: StructureWaterBottleFillerPoweredBottom, Value: Wasserflaschenfüller
 Key: StructureWaterDigitalValve, Value: Digitales Flüssigkeitsventil
 Key: StructureWaterPipeHeater, Value: Rohrheizkörper (Flüssigkeit)
-Key: StructureWaterPipeMeter, Value: Flüssigkeitszähler für Rohre
-Key: StructureWaterWallCooler, Value: Flüssigkeits-Wandkühler
+Key: StructureWaterPipeMeter, Value: Flüssigkeitsdruckmesser
+Key: StructureWaterWallCooler, Value: Wandkühler (Flüssigkeit)
 Key: StructureWeatherStation, Value: Wetterstation
 Key: StructureWindTurbine, Value: Wind-Turbine
 Key: StructureWindowShutter, Value: Fensterladen
