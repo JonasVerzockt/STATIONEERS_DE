@@ -9714,11 +9714,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     </Record>
     <Record>
       <Key>TutorialCompleteHeading</Key>
-      <Value>Tutorial abgeschlossen
-Key; TutorialCompleteMessage; Value;
-Es gibt noch viel zu lernen.
-Also raus mit dir, Stationeer!
-</Value>
+      <Value>Tutorial abgeschlossen</Value>
     </Record>
     <Record>
       <Key>TutorialCompleteMessage</Key>
@@ -10000,11 +9996,7 @@ Also raus mit dir, Stationeer!
     </Record>
     <Record>
       <Key>AlertNoBackups</Key>
-      <Value>Der Ordner "Backups" fehlt oder ist leer.
-Key; AlertNoResponse; Value;
-Es gibt keine Antwort vom Spielserver.
-Bitte versuchen Sie es erneut.
-</Value>
+      <Value>Der Ordner "Backups" fehlt oder ist leer.</Value>
     </Record>
     <Record>
       <Key>AlertPlayerCountExceeded</Key>
@@ -10095,13 +10087,7 @@ Bitte versuchen Sie es erneut.
     </Record>
     <Record>
       <Key>NewWorldModeSurvival</Key>
-      <Value>Überleben
-Key; NewWorldMoonDesc; Value;
-Du steckst also auf dem Mond fest, aber es ist nicht alles schlecht: Sicher, es ist kalt, hart und ziemlich eintönig, aber wenigstens scheint die Sonne. Das Solarpanel wird nützlich sein, und der Leistungsregler... und wahrscheinlich auch der Lichtbogenofen.
-In den anderen Kisten gibt es sogar ein wenig Nahrung und Sauerstoff, obwohl das bestimmt nicht ewig reichen wird. Genauso wenig wie deine Batterie.
-Ihr solltet euch lieber Gedanken machen, wie ihr überleben wollt. Wie schwer kann es sein, eine Luftschleuse zu bauen? Einen Generator? Vielleicht sogar ein paar Erze schmelzen und eine Basis bauen?
-Sieht aus, als würdest du eine Weile hier bleiben.
-</Value>
+      <Value>Überleben</Value>
     </Record>
     <Record>
       <Key>JoinMenuServerListMap</Key>
@@ -10698,13 +10684,7 @@ Sieht aus, als würdest du eine Weile hier bleiben.
     </Record>
     <Record>
       <Key>NewWorldSolarEnergy</Key>
-      <Value>Sonnenenergie
-Key; NewWorldSpaceDesc; Value;
-Dies ist der Kreativmodus von Stationeers, in dem du jedes beliebige Objekt einbauen, Ideen testen und schnell verrückte Sachen bauen kannst.
-&lt;color=red&gt;Dieser Modus ist experimentell. Betrachte ihn als eine freie Weltraumparty, bei der aufregende und unerwartete Dinge* passieren können und werden, im Gegensatz zu der zuverlässigeren Nahtoderfahrung des Überlebensmodus.
-Sei nur nicht traurig, wenn du dich in winzig kleine Stücke sprengst oder von Hühnern zerfleischt wirst oder langsam explodierst, während du allein in die unendliche Leere driftest.
-*bugs
-</Value>
+      <Value>Sonnenenergie</Value>
     </Record>
     <Record>
       <Key>NewWorldSolarAngle</Key>
@@ -11221,25 +11201,7 @@ Sei nur nicht traurig, wenn du dich in winzig kleine Stücke sprengst oder von H
     </Record>
     <Record>
       <Key>LogicTypeClearMemory</Key>
-      <Value>Wenn auf 1 gesetzt, wird der Speicher (z.B. AusgabeZähler) gelöscht. Setzt sich selbst auf 0 zurück, wenn die Aktion ausgeführt wird.
-Key; LogicTypeColor; Value;
-Ob aus Gründen der Klarheit, der Sicherheit oder der einfachen Ästhetik, {LINK:Stationeers;Stationeers} haben Zugang zu einem kleinen Regenbogen von Farben für ihre Konstruktionen. Dies sind die Farbeinstellungen für Geräte, dargestellt als Ganzzahl.
-
-0: Blau
-1: Grau
-2: Grün
-3: Orange
-4: Rot
-5: Gelb
-6: Weiß
-7: Schwarz
-8: Braun
-9: Khaki
-10: Rosa
-11: Lila
-
-Es ist ein unumstößliches universelles Gesetz, dass alles, was höher als 11 ist, lila ist. Die {LINK:ODA;ODA} ist machtlos, dies zu ändern. Gleichermaßen wird alles, was niedriger als 0 ist, blau sein.
-</Value>
+      <Value>Wenn auf 1 gesetzt, wird der Speicher (z.B. AusgabeZähler) gelöscht. Setzt sich selbst auf 0 zurück, wenn die Aktion ausgeführt wird.</Value>
     </Record>
     <Record>
       <Key>LogicTypeExportCount</Key>
@@ -11431,8 +11393,7 @@ Es ist ein unumstößliches universelles Gesetz, dass alles, was höher als 11 i
     </Record>
     <Record>
       <Key>LogicSlotTypeCharge</Key>
-      <Value>gibt den Ladezustand für das Element in diesem Steckplatz zurück
-Key; LogicSlotTypeChargeRatio; Value; gibt den Ladezustand für das Element in diesem Steckplatz in Prozent zurück. 1 = der maximalen Ladung; 0 = leer</Value>
+      <Value>gibt den Ladezustand für das Element in diesem Steckplatz zurück</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypeChargeRatio</Key>
@@ -13585,12 +13546,7 @@ Norsec's im Orbit ansässige Abteilung für Raumfahrtsysteme ist für die Entwic
     </Record>
     <Record>
       <Key>ODA</Key>
-      <Value>ODA
-Key; ODADesc; Value;
-Nach der Erdkrise hat die Menschheit ihr Augenmerk weniger auf den Weltraum gerichtet. Doch viele waren der Meinung, dass unsere Spezies ohne Ambitionen jenseits unseres Heimatplaneten ins Wanken geraten könnte.
-Die im Jahr 2070 u.Z. von den neu gegründeten Vereinten Nationen ins Leben gerufene Offworld Development Agency hatte ein ganz bestimmtes Ziel: Sie sollte die Erforschung des Weltraums durch den Menschen anleiten und fördern, während der Kosmos aus dem Bewusstsein der Öffentlichkeit verschwand.
-Im Jahr 2095 wurde das {LINK:Stationeers;Stationeer}-Programm ins Leben gerufen. Die ODA war sich bewusst, dass es schwierig sein würde, Finanzmittel zu erhalten, und konzipierte das Programm als eine langsame, wenig aufwändige Raumfahrtinitiative. Während einige die Stationeers als "billige kosmische Schiffbrüchige" verspotteten, zeugt der Erfolg des Programms von der Weisheit und dem Pragmatismus der Vision der ODA.
-</Value>
+      <Value>ODA</Value>
     </Record>
     <Record>
       <Key>ODADesc</Key>
@@ -13953,10 +13909,7 @@ Das Stationeers-Programm ist grundsätzlich offen für alle Menschen, denn es re
     </Record>
     <Record>
       <Key>StationpediaConstructedFrom</Key>
-      <Value>Konstruiert aus
-Key; StationpediaConstructionOptions; Value;
-Bauoptionen
-</Value>
+      <Value>Konstruiert aus</Value>
     </Record>
     <Record>
       <Key>StationpediaSlotsHeader</Key>
@@ -15043,11 +14996,7 @@ Es ist auch ein außergewöhnliches Kühlmittel mit einer sehr hohen spezifische
     </Record>
     <Record>
       <Key>Mouse6</Key>
-      <Value>Maus6
-Key; MulticonstructorItem; Value;
-&lt;color=yellow&gt;Baue Option {0} aus {1}
-Scrolle &lt;color=red&gt;Mausrad für weitere Optionen.
-</Value>
+      <Value>Maus6</Value>
     </Record>
     <Record>
       <Key>JoystickButton0</Key>
@@ -16520,8 +16469,7 @@ Status: {LOCAL:StatusValue}</Value>
     </Record>
     <Record>
       <Key>GlobalChangeSettingToForAll</Key>
-      <Value>Alle bis &lt;color=yellow&gt;{1}&lt;/color&gt; auf &lt;color=yellow&gt;{0}&lt;/color&gt; umschalten
-Key; GlobalChangeSettingToForIn; Value; Für {3} von &lt;color=yellow&gt;({2})&lt;/color&gt; in {1} auf &amp;lt;color=yellow&amp;gt;{0}&amp;lt;/color&amp;gt; umschalten</Value>
+      <Value>Alle bis &lt;color=yellow&gt;{1}&lt;/color&gt; auf &lt;color=yellow&gt;{0}&lt;/color&gt; umschalten</Value>
     </Record>
     <Record>
       <Key>GlobalChangeSettingToForIn</Key>
