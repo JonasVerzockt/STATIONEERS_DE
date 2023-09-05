@@ -2420,7 +2420,7 @@ Key: N, Value: N
 Key: NPCDummyCharacter, Value: NPC-Charakter
 Key: NetworkAnalyserActual, Value: AKTUELL
 Key: NetworkAnalyserDevices, Value: GERÄTE
-Key: NetworkAnalyserNetwork, Value: KABEL-NETZWERK
+Key: NetworkAnalyserNetwork, Value: NETZWERK
 Key: NetworkAnalyserPotential, Value: POTENTIAL
 Key: NetworkAnalyserRequired, Value: ERFORDERLICH
 Key: NetworkAnalyserTitle, Value: NETZWERKANALYSATOR
@@ -2457,7 +2457,7 @@ Key: NewWorldMoonDesc, Value:
 Key: NewWorldMoonShortDesc, Value: Das Vorhandensein von Kohle ist zwar nicht typisch für den Erdmond, aber das relativ flache Terrain mit seinen zahlreichen großen Kratern und der fehlenden Atmosphäre ist in dieser grauen Landschaft vielleicht vertrauter. Ein großartiger Ort für den angehenden Stationeer, um seine Reise zu beginnen, mit weniger Gefahren und Komplexitäten als auf exotischeren Welten.
 Key: NewWorldPressure, Value: Druck
 Key: NewWorldSolarAngle, Value: Sonnenstandswinkel
-Key: NewWorldSolarEnergy, Value: Solarenergie
+Key: NewWorldSolarEnergy, Value: Sonnenenergie
 Key: NewWorldSpaceDesc, Value: 
         Dies ist der Kreativmodus von Stationeers, in dem du jedes beliebige Objekt einbauen, Ideen testen und schnell verrückte Sachen bauen kannst.
                                               <color=red>Dieser Modus ist experimentell. Betrachte ihn als eine freie Weltraumparty, bei der aufregende und unerwartete Dinge* passieren können und werden, im Gegensatz zu der zuverlässigeren Nahtoderfahrung des Überlebensmodus.
@@ -2488,7 +2488,7 @@ Key: NoNote, Value: Keine Notiz
 Key: NoPlantToLabel, Value: Keine Pflanze zu kennzeichnen
 Key: NoSoundCartridge, Value: Kein Tonchip
 Key: NoSprayPaint, Value: Nicht genug Farbe zum Spritzen übrig
-Key: NoWaterAvailable, Value: <color=red>Fehler!</color> es gibt keinen <color=yellow>Wasserdruck</color>
+Key: NoWaterAvailable, Value: <color=red>Fehler!</color> kein <color=yellow>Wasserdruck</color>
 Key: None, Value: Keine
 Key: NoonTemperatureField, Value: Mittag Temperatur
 Key: Norsec, Value: Norsec
@@ -2496,16 +2496,16 @@ Key: NorsecDesc, Value: Mit seinen Wurzeln in der Verteidigungsindustrie des frü
 Norsec wurde offiziell von jeglichem Fehlverhalten freigesprochen, aber als die {LINK:ODA;ODA} die Umsiedlung auf Asteroiden verbot, verlagerte das Unternehmen seinen Schwerpunkt auf Infrastruktur und Produktion.
 Norsec's im Orbit ansässige Abteilung für Raumfahrtsysteme ist für die Entwicklung und Produktion von {LINK:ODA;ODA}'s Haupttransportsystemen verantwortlich, und Gerüchten zufolge hält Norsec auch eine große Beteiligung an {LINK:ExMin;ExMin}. Das Unternehmen ist auch für seine Bereitschaft bekannt, sich in der experimentellen Robotertechnologie zu engagieren.
       
-Key: NotApplicableString, Value: K.A.
-Key: NotApplicableString, Value: K.A.
-Key: NotEnoughSprayPaint, Value: Nicht genug Farbe in {LOCAL:SprayCanister}
+Key: NotApplicableString, Value: n.d.
+Key: NotApplicableString, Value: n.d.
+Key: NotEnoughSprayPaint, Value: Nicht genug Farbe im {LOCAL:SprayCanister}
 Key: NotPlantable, Value: A {0} ist nicht pflanzbar
-Key: NothingToSample, Value: Nichts zu probieren
+Key: NothingToSample, Value: Nichts zu untersuchen
 Key: NothingToWater, Value: Nichts zu bewässern
 Key: NotificationTitle, Value: Erfolgreich gespeichert
-Key: NpcChick, Value: Küken
-Key: NpcChicken, Value: Huhn
-Key: NpcGrounder, Value: Bodenleger
+Key: NpcChick, Value: NPC Küken
+Key: NpcChicken, Value: NPC Huhn
+Key: NpcGrounder, Value: NPC Kriecher
 Key: Numlock, Value: Ziffernblock
 Key: NutritionSPDAKey, Value: Ernährung
 Key: O, Value: O
