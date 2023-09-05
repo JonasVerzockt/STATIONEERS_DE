@@ -4304,7 +4304,7 @@ ANWENDUNG: 'J' zum Aktivieren; 'Leertaste' zum Aufwärtsfliegen; 'Linke Strg' zu
     </RecordThing>
     <RecordThing>
       <Key>ItemEmergencySpaceHelmet</Key>
-      <Value>Notraum-Helm</Value>
+      <Value>Notfall-Helm</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemEmergencyToolBelt</Key>
