@@ -44,7 +44,7 @@ def translate_text(text):
     return translation
 
 # Pfad zur XML-Datei
-xml_file_path = "english.xml"
+xml_file_path = "english_help.xml"
 
 # XML-Datei einlesen
 tree = ET.parse(xml_file_path)
@@ -54,7 +54,10 @@ total_elements = 0
 for element in root:
     total_elements += len(list(element.iter("Value")))
     total_elements += len(list(element.iter("Description")))
-
+    total_elements += len(list(element.iter("Title")))
+    total_elements += len(list(element.iter("Text")))
+    total_elements += len(list(element.iter("String")))
+    
 translated_elements = 0
 
 # Schleife über alle Wurzelelemente
@@ -75,8 +78,32 @@ for root_element in root:
         progress = (translated_elements / total_elements) * 100
         print(f"Übersetze Element Description {translated_elements}/{total_elements} ({progress:.2f}% abgeschlossen)")
 
+    for idx, element in enumerate(root_element.iter("Title")):
+        original_text = element.text
+        translated_text = translate_text(original_text)
+        element.text = translated_text
+        translated_elements += 1
+        progress = (translated_elements / total_elements) * 100
+        print(f"Übersetze Element Title {translated_elements}/{total_elements} ({progress:.2f}% abgeschlossen)")
+
+    for idx, element in enumerate(root_element.iter("Text")):
+        original_text = element.text
+        translated_text = translate_text(original_text)
+        element.text = translated_text
+        translated_elements += 1
+        progress = (translated_elements / total_elements) * 100
+        print(f"Übersetze Element Text {translated_elements}/{total_elements} ({progress:.2f}% abgeschlossen)")
+
+    for idx, element in enumerate(root_element.iter("String")):
+        original_text = element.text
+        translated_text = translate_text(original_text)
+        element.text = translated_text
+        translated_elements += 1
+        progress = (translated_elements / total_elements) * 100
+        print(f"Übersetze Element Text {translated_elements}/{total_elements} ({progress:.2f}% abgeschlossen)")
+
 # Übersetzte XML-Datei speichern
-translated_xml_file_path = "german.xml"
+translated_xml_file_path = ""
 tree.write(translated_xml_file_path, encoding="utf-8")
 
 print("Übersetzung abgeschlossen. Übersetzte XML-Datei wurde gespeichert.")
