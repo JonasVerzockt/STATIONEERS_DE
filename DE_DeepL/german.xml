@@ -1372,7 +1372,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFurnace</Key>
-      <Value>Bausatz (Ofen)</Value>
+      <Value>Bausatz (Schmelzofen)</Value>
       <Description>Dieser Bausatz erzeugt eine einzige {THING:StructureFurnace}.</Description>
     </RecordThing>
     <RecordThing>
@@ -1492,7 +1492,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeAnalyizer</Key>
-      <Value>Gasrohranalysegerät</Value>
+      <Value>Rohranalysierer (Gas)</Value>
       <Description>Dieser Bausatz erzeugt eine {THING:StructurePipeAnalysizer}.</Description>
     </RecordThing>
     <RecordThing>
@@ -1557,7 +1557,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeValve</Key>
-      <Value>Ventil (Gas)</Value>
+      <Value>Bausatz (Ventil Gas)</Value>
       <Description>Dieser Bausatz erzeugt eine {THING:StructureValve}.</Description>
     </RecordThing>
     <RecordThing>
@@ -1567,7 +1567,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidPipeValve</Key>
-      <Value>Flüssigkeitsrohrventil</Value>
+      <Value>Bausatz (Ventil Flüssigkeit)</Value>
       <Description>Dieser Bausatz erzeugt eine {THING:StructureLiquidValve}.</Description>
     </RecordThing>
     <RecordThing>
@@ -1747,7 +1747,7 @@ Der Werkzeuggürtel wurde entwickelt, um die strengsten ODA-Sicherheitsstandards
     </RecordThing>
     <RecordThing>
       <Key>ItemWallLight</Key>
-      <Value>Lichter</Value>
+      <Value>Bausatz (Lampe)</Value>
       <Description>Dieser Bausatz erzeugt eine beliebige von zehn {THING:ItemWallLight} Varianten.</Description>
     </RecordThing>
     <RecordThing>
@@ -1868,7 +1868,7 @@ Schließlich lädt ein APC Batterien auf, die im Falle eines Ausfalls das Subnet
     </RecordThing>
     <RecordThing>
       <Key>StructurePressurantValve</Key>
-      <Value>Druckventil</Value>
+      <Value>Ausgleichsdruckpumpe</Value>
       <Description>Pumpt Gas in eine Flüssigkeitsleitung, um den Druck zu erhöhen</Description>
     </RecordThing>
     <RecordThing>
@@ -2157,7 +2157,7 @@ Die von der Gotik inspirierte Silhouette des Eckrahmens ermöglicht mit ein weni
     </RecordThing>
     <RecordThing>
       <Key>StructureFurnace</Key>
-      <Value>Ofen</Value>
+      <Value>Schmelzofen</Value>
       <Description>Im Zhurong-Ofen wird ein Hochtemperatur-Gasgemisch aus {GAS:Oxygen} und {GAS:Volatiles} zum Schmelzen von {LINK:IngotPage;ingots} und einer Reihe von {LINK:IngotPage;alloys} als Rohmaterial für {LINK:FabricatorPage;fabricators} verwendet.
 Ein einfaches Gasgemisch kann durch Zugabe von {THING:ItemOxite} und {THING:ItemVolatiles} im Verhältnis 1:2 direkt in den Ofen erreicht werden, aber komplexere Legierungen erfordern ein sorgfältiges Management eines speziellen Gasmischnetzes. Die genauen Verhältnisse der Bestandteile müssen eingehalten werden. Ebenso entsteht beim Schmelzen von Erzen bei unzureichenden Temperaturen {LINK:ReagentPage;reagents}, das zurückgeführt werden muss.
 Wenn Flüssigkeiten im Ofen vorhanden sind, sammeln sie sich dort, bis der Ofen an ein Flüssigkeitsrohrnetz angeschlossen wird.</Description>
@@ -2275,8 +2275,9 @@ in jedem Gasrohr"</Description>
     <RecordThing>
       <Key>StructurePipeRadiator</Key>
       <Value>Gasrohr-Konvektionsradiator</Value>
-      <Description>Rohrheizkörper sind ein einfacher Wärmetauscher, der an Rohren angebracht werden kann, um je nach der Temperatur der umgebenden Atmosphäre Wärme abzugeben oder zu gewinnen. Wenn die Atmosphäre wärmer ist, wird dem Gas im Rohrnetz Wärme zugeführt, und umgekehrt, wenn sie kälter ist. In einem Vakuum wird die Wärme abgestrahlt.
-Die Geschwindigkeit des Wärmegewinns oder -verlusts hängt von dem jeweiligen Gas ab. Durch den Einbau mehrerer Heizkörper wird die Wärmeübertragung beschleunigt.</Description>
+      <Description>
+        Gasrohr-Konvektionsradiatoren sind ein einfacher Wärmetauscher, der an Rohren angebracht werden kann, um je nach der Temperatur der umgebenden Atmosphäre Wärme abzugeben oder zu gewinnen. Wenn die Atmosphäre wärmer ist, wird dem Gas im Rohrnetz Wärme zugeführt, und umgekehrt, wenn sie kälter ist. In einem Vakuum wird die Wärme abgestrahlt.
+        Die Geschwindigkeit des Wärmegewinns oder -verlusts hängt von dem jeweiligen Gas ab. Durch den Einbau mehrerer Konvektionsradiatoren wird die Wärmeübertragung beschleunigt.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeStraight</Key>
@@ -2344,7 +2345,7 @@ Der ProKompile kann eine Vielzahl von Gegenständen stapeln, wie z. B. {LINK:Ing
     </RecordThing>
     <RecordThing>
       <Key>StructureStackerReverse</Key>
-      <Value>Stapler Umgekehrt</Value>
+      <Value>Stapler</Value>
       <Description>Ein Stapler ist ein wichtiger Bestandteil jedes automatisierten Rutschennetzes. Der {LINK:Xigo;Xigo} ProKompile kann manuell oder über eine Logik eingestellt werden, um sicherzustellen, dass die den Stapler durchlaufenden Artikel für Ihren Lagerbedarf maximiert werden. Der umgekehrte Stapler hat Strom und Daten auf der gegenüberliegenden Seite.
 Der ProKompile kann eine Vielzahl von Gegenständen stapeln, z. B. {LINK:IngotPage;ingots}, und die Stapel je nach Bedarf in geeignete Größen aufteilen.</Description>
     </RecordThing>
@@ -2404,25 +2405,26 @@ Alle Rohre des Racks müssen angeschlossen sein, sonst zeigt das Gerät eine Feh
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidValve</Key>
-      <Value>Flüssigkeitsventil</Value>
+      <Value>Ventil</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallCooler</Key>
       <Value>Wandkühler</Value>
-      <Description>Der {LINK:Xigo;Xigo} Freezy Boi Wandkühler ergänzt die Wandheizung, die die Temperatur nur erhöhen kann. Der Wandkühler funktioniert, indem er der umgebenden Atmosphäre Wärme entzieht und diese Wärme in sein Rohrnetz einspeist.
-Um den Wandkühler richtig zu betreiben, müssen Sie Rohre an den Wandkühler anschließen und das angeschlossene Rohrnetz mit einer beliebigen Art von Gas füllen. Die Wärmekapazität und das Volumen des Gases bestimmen, wie schnell es auf Temperaturänderungen reagiert.
+      <Description>
+        Der {LINK:Xigo;Xigo} Freezy Boi Wandkühler ergänzt die Wandheizung, die die Temperatur nur erhöhen kann. Der Wandkühler funktioniert, indem er der umgebenden Atmosphäre Wärme entzieht und diese Wärme in sein Rohrnetz einspeist.
+        Um den Wandkühler richtig zu betreiben, müssen Sie Rohre an den Wandkühler anschließen und das angeschlossene Rohrnetz mit einer beliebigen Art von Gas füllen. Die Wärmekapazität und das Volumen des Gases bestimmen, wie schnell es auf Temperaturänderungen reagiert.
 
-{HEADER:EFFICIENCY}
-Je größer der Temperaturunterschied zwischen dem in den Rohren gespeicherten Gas und dem Raum ist, desto weniger effizient ist der Wandkühler. Um den Wandkühler mit einem akzeptablen Wirkungsgrad zu betreiben, müssen Sie also die Wärme, die sich in den angeschlossenen Rohren ansammelt, abführen. Eine gängige Praxis ist es, die Rohre nach außen zu verlegen und Heizkörper an der Außenseite der Rohre zu verwenden, um die Wärme abzuführen.
-Je weniger effizient der Wandkühler ist, desto weniger Strom verbraucht er. Bei maximalem Wirkungsgrad verbraucht er 1010 W. Der Wandkühler kann durch Logikchips so gesteuert werden, dass er sich einschaltet, wenn die Temperatur einen bestimmten Wert erreicht.
-{HEADER:ERRORS}
-Wenn der Wandkühler einen Fehler anzeigt, fehlt ihm eines der folgenden Elemente:
+        {HEADER:EFFICIENCY}
+        Je größer der Temperaturunterschied zwischen dem in den Rohren gespeicherten Gas und dem Raum ist, desto weniger effizient ist der Wandkühler. Um den Wandkühler mit einem akzeptablen Wirkungsgrad zu betreiben, müssen Sie also die Wärme, die sich in den angeschlossenen Rohren ansammelt, abführen. Eine gängige Praxis ist es, die Rohre nach außen zu verlegen und Konvektionsradiatoren an der Außenseite der Rohre zu verwenden, um die Wärme abzuführen.
+        Je weniger effizient der Wandkühler ist, desto weniger Strom verbraucht er. Bei maximalem Wirkungsgrad verbraucht er 1010 W. Der Wandkühler kann durch Logikchips so gesteuert werden, dass er sich einschaltet, wenn die Temperatur einen bestimmten Wert erreicht.
+        {HEADER:ERRORS}
+        Wenn der Wandkühler einen Fehler anzeigt, fehlt ihm eines der folgenden Elemente:
 
-- Rohrverbindung zum Wandkühler.
-- Gas in den angeschlossenen Leitungen, oder der Druck ist zu niedrig.
-- Die Atmosphäre in der Umgebung oder der Druck ist zu niedrig.
+        - Rohrverbindung zum Wandkühler.
+        - Gas in den angeschlossenen Leitungen, oder der Druck ist zu niedrig.
+        - Die Atmosphäre in der Umgebung oder der Druck ist zu niedrig.
 
-Weitere Informationen zur Temperaturregelung finden Sie auf der Seite {LINK:TemperatureControlPage;temperature control} Seite Anleitungen.</Description>
+        Weitere Informationen zur Temperaturregelung finden Sie auf der Seite {LINK:TemperatureControlPage;temperature control} Seite Anleitungen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallHeater</Key>
@@ -3608,7 +3610,7 @@ Setzen Sie eine Kassette oder einen Farbscanner in das Tablet ein und drücken S
     </RecordThing>
     <RecordThing>
       <Key>CartridgeConfiguration</Key>
-      <Value>Konfiguration</Value>
+      <Value>Chip (Konfigurations Analysator)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitCrate</Key>
@@ -3812,7 +3814,7 @@ Ausgang = 1, wobei die darin befindlichen Gegenstände und eventuell der Hauptge
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterCarbonDioxideM</Key>
-      <Value>Normaler Filter (Kohlendioxid)</Value>
+      <Value>Mittlerer Filter (Kohlendioxid)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterNitrogenL</Key>
@@ -3820,7 +3822,7 @@ Ausgang = 1, wobei die darin befindlichen Gegenstände und eventuell der Hauptge
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterNitrogenM</Key>
-      <Value>Normaler Filter (Stickstoff)</Value>
+      <Value>Mittlerer Filter (Stickstoff)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterOxygenL</Key>
@@ -3828,7 +3830,7 @@ Ausgang = 1, wobei die darin befindlichen Gegenstände und eventuell der Hauptge
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterOxygenM</Key>
-      <Value>Normaler Filter (Sauerstoff)</Value>
+      <Value>Mittlerer Filter (Sauerstoff)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterPollutantsL</Key>
@@ -3836,7 +3838,7 @@ Ausgang = 1, wobei die darin befindlichen Gegenstände und eventuell der Hauptge
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterPollutantsM</Key>
-      <Value>Normaler Filter (Schadstoffe)</Value>
+      <Value>Mittlerer Filter (Schadstoffe)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterVolatilesL</Key>
@@ -3844,7 +3846,7 @@ Ausgang = 1, wobei die darin befindlichen Gegenstände und eventuell der Hauptge
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterVolatilesM</Key>
-      <Value>Normaler Filter (Wasserstoff)</Value>
+      <Value>Mittlerer Filter (Wasserstoff)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterWaterL</Key>
@@ -3852,7 +3854,7 @@ Ausgang = 1, wobei die darin befindlichen Gegenstände und eventuell der Hauptge
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterWaterM</Key>
-      <Value>Normaler Filter (Wasser)</Value>
+      <Value>Mittlerer Filter (Wasser)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemMushroom</Key>
@@ -3965,7 +3967,7 @@ Flüchtige Stoffe und Uran = weiß</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterNitrousOxideM</Key>
-      <Value>Normaler Filter (Lachgas)</Value>
+      <Value>Mittlerer Filter (Lachgas)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterNitrousOxide</Key>
@@ -4046,7 +4048,7 @@ Wenn sie an eine {THING:StructureComputer} mit einer {THING:MotherboardComms} Ha
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningDrillHeavy</Key>
-      <Value>Mk II Bergbaubohrer</Value>
+      <Value>Starker Bergbaubohrer</Value>
       <Description>Manchmal erfordern Bergbautouren etwas Größeres, um die Ware nach Hause zu bringen. Diese vergrößerte Version des {LINK:Recurso;Recurso} "Topo"-Designs {THING:ItemMiningDrill} kann buchstäblich Berge versetzen. Der schwere Minenbohrer kann mehr Boden abtragen und {LINK:OrePage;ore} schneller abbauen als der normale Minenbohrer. Der schwere Minenbohrer ist außerdem temperatur- und druckbeständig. Ganz gleich, welcher Planet oder welche extremen Wetterbedingungen herrschen, der schwere Bergbaubohrer von Recurso erledigt die Arbeit.</Description>
     </RecordThing>
     <RecordThing>
@@ -4150,12 +4152,12 @@ RobotMode.None = 6 = Automatisch zugewiesener Status, zeigt an, wenn die Lagerpl
     </RecordThing>
     <RecordThing>
       <Key>StructureAdvancedFurnace</Key>
-      <Value>Fortschrittlicher Ofen</Value>
+      <Value>Fortschrittlicher Schmelzofen</Value>
       <Description>Der fortschrittliche Ofen verfügt über integrierte Einlass- und Auslasspumpen zur Steuerung des Innendrucks des Geräts.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAdvancedFurnace</Key>
-      <Value>Bausatz (Fortschrittlicher Ofen)</Value>
+      <Value>Bausatz (Fortschrittlicher Schmelzofen)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemStelliteIngot</Key>
@@ -4456,7 +4458,7 @@ ANWENDUNG: 'J' zum Aktivieren; 'Leertaste' zum Aufwärtsfliegen; 'Linke Strg' zu
     </RecordThing>
     <RecordThing>
       <Key>ItemTerrainManipulator</Key>
-      <Value>Terrain-Manipulator</Value>
+      <Value>Gelände-Manipulator</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLaunchPad</Key>
@@ -5879,7 +5881,7 @@ Wenn der KoolAuger voll ist, nimmt er kein weiteres Eis an, bis der Gas- oder Fl
     </RecordThing>
     <RecordThing>
       <Key>ItemKitIceCrusher</Key>
-      <Value>Bausatz (Eisschmelzer)</Value>
+      <Value>Bausatz (Eiszerkleinerer)</Value>
       <Description>Dieser Bausatz erzeugt eine {THING:StructureIceCrusher}.</Description>
     </RecordThing>
     <RecordThing>
@@ -5895,8 +5897,9 @@ Wenn der KoolAuger voll ist, nimmt er kein weiteres Eis an, bis der Gas- oder Fl
     <RecordThing>
       <Key>StructureLiquidPipeRadiator</Key>
       <Value>Flüssigkeitsrohr-Konvektionsradiator</Value>
-      <Description>Rohrheizkörper sind ein einfacher Wärmetauscher, der an Rohren angebracht werden kann, um je nach der Temperatur der umgebenden Atmosphäre Wärme abzugeben oder zu gewinnen. Wenn die Atmosphäre wärmer ist, wird der Flüssigkeit im Rohrnetz Wärme zugeführt, und umgekehrt, wenn sie kälter ist. In einem Vakuum wird die Wärme abgestrahlt.
-Die Geschwindigkeit des Wärmegewinns oder -verlusts hängt von der jeweiligen Flüssigkeit ab. Durch den Einbau mehrerer Heizkörper wird die Wärmeübertragung beschleunigt.</Description>
+      <Description>
+        Konvektionsradiatoren sind ein einfacher Wärmetauscher, der an Rohren angebracht werden kann, um je nach der Temperatur der umgebenden Atmosphäre Wärme abzugeben oder zu gewinnen. Wenn die Atmosphäre wärmer ist, wird der Flüssigkeit im Rohrnetz Wärme zugeführt, und umgekehrt, wenn sie kälter ist. In einem Vakuum wird die Wärme abgestrahlt.
+        Die Geschwindigkeit des Wärmegewinns oder -verlusts hängt von der jeweiligen Flüssigkeit ab. Durch den Einbau mehrerer Konvektionsradiatoren wird die Wärmeübertragung beschleunigt.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeLiquidRadiator</Key>
@@ -5920,12 +5923,12 @@ Die Geschwindigkeit des Wärmegewinns oder -verlusts hängt von der jeweiligen F
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidVolumePump</Key>
-      <Value>Flüssigkeitsvolumenpumpe</Value>
+      <Value>Volumenpumpe (Flüssigkeit)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidPipeVolumePump</Key>
-      <Value>Flüssigkeitsvolumenpumpe</Value>
+      <Value>Volumenpumpe (Flüssigkeit)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -5970,7 +5973,7 @@ Die Geschwindigkeit des Wärmegewinns oder -verlusts hängt von der jeweiligen F
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIIDrill</Key>
-      <Value>Mk II-Bohrer</Value>
+      <Value>Mk II Handbohrmaschiene</Value>
       <Description>Die abgewinkelte Handbohrmaschine {LINK:ExMin;ExMin} ist seit Jahrzehnten ein Begleiter von {LINK:Stationeers;Stationeers}. Unverzichtbar für den Zusammenbau und die Demontage verschiedener Gegenstände und Strukturen, unabhängig von Schwerkraft, Druck oder Temperatur.</Description>
     </RecordThing>
     <RecordThing>
@@ -6141,7 +6144,7 @@ Das Modul muss durch ein richtig platziertes {THING:StructureModularRocketCoupli
     </RecordThing>
     <RecordThing>
       <Key>ItemWaterPipeMeter</Key>
-      <Value>Rohr Durckmessgerät (Flüssigkeit)</Value>
+      <Value>Druckmesser (Flüssigkeit)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -6176,7 +6179,7 @@ Das Modul muss durch ein richtig platziertes {THING:StructureModularRocketCoupli
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidDrain</Key>
-      <Value>Flüssigkeitsablass</Value>
+      <Value>Flüssigkeitsauslass</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -6191,12 +6194,12 @@ Das Modul muss durch ein richtig platziertes {THING:StructureModularRocketCoupli
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidPipeAnalyzer</Key>
-      <Value>Flüssigkeitsrohr-Analysator</Value>
+      <Value>Rohranalysierer (Flüssigkeit)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidPipeAnalyzer</Key>
-      <Value>Flüssigkeitsrohr-Analysator</Value>
+      <Value>Rohranalysierer (Flüssigkeit)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -6515,7 +6518,7 @@ Der Dünger wird in einem Verhältnis von 1:3 zwischen Dünger und Inhaltsstoffe
     </RecordThing>
     <RecordThing>
       <Key>AppliancePackagingMachine</Key>
-      <Value>Basis-Verpackungsmaschine</Value>
+      <Value>Basis-DosenabfüllerDosenabfüller</Value>
       <Description>Der {LINK:Xigo;Xigo} Cannifier benötigt {THING:ItemEmptyCan} und gekochte {LINK:OrganicPage;food}, um {LINK:DecayPage;long-lasting}, leicht zu lagernde Nahrung zu erzeugen. Beachte, dass der Cannifier an einen {THING:StructureBench} angeschlossen werden muss, um Strom zu erhalten, und dass er nur gekochte Lebensmittel und Blechdosen verarbeiten kann.
 
 {HEADER:OPERATION}
@@ -6590,12 +6593,12 @@ Hinweis: Der Cannifier zeigt eine Fehlermeldung auf seinem Aktivierungsschalter 
     </RecordThing>
     <RecordThing>
       <Key>StructureAdvancedPackagingMachine</Key>
-      <Value>Fortschrittliche Verpackungsmaschine</Value>
-      <Description>Der {LINK:Xigo;Xigo} Advanced Cannifier Multi-Plus Pro ist eine automatisierbare Verpackungsmaschine, die {THING:ItemEmptyCan}s und gekochte {LINK:OrganicPage;food} verwendet, um Konserven herzustellen, die nicht verderben. Beachten Sie, dass der ACMPP nur gekochte Lebensmittel und Blechdosen verarbeitet.</Description>
+      <Value>Fortschrittlicher Dosenabfüller</Value>
+      <Description>Der {LINK:Xigo;Xigo} Advanced Cannifier Multi-Plus Pro ist ein automatisierbarer Dosenabfüller, die {THING:ItemEmptyCan}s und gekochte {LINK:OrganicPage;food} verwendet, um Konserven herzustellen, die nicht verderben. Beachten Sie, dass der ACMPP nur gekochte Lebensmittel und Blechdosen verarbeitet.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAdvancedPackagingMachine</Key>
-      <Value>Bausatz (Fortschrittliche Verpackungsmaschine)</Value>
+      <Value>Bausatz (Fortschrittlicher Dosenabfüller)</Value>
       <Description>Erzeugt und {THING:StructureAdvancedPackagingMachine.}</Description>
     </RecordThing>
     <RecordThing>
@@ -6750,43 +6753,43 @@ Hinweis: Der Cannifier zeigt eine Fehlermeldung auf seinem Aktivierungsschalter 
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeHeater</Key>
-      <Value>Rohrheizkörper (Gas)</Value>
+      <Value>Rohrheizer (Gas)</Value>
       <Description>Fügt dem Inhalt Ihres Rohrnetzes pro Tick 1000 Joule Wärme zu.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeOneWayValve</Key>
-      <Value>Rückschlagventil (Gas)</Value>
+      <Value>Rückschlagventil</Value>
       <Description>Das Einwegventil bewegt das Gas nur in eine Richtung: von der Eingangsseite zur Ausgangsseite. Es lässt den Durchfluss nur zu, wenn der Eingangsdruck höher ist als der Ausgangsdruck.
 </Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureOneWayValve</Key>
-      <Value>Rückschlagventil (Gas)</Value>
+      <Value>Rückschlagventil</Value>
       <Description>Das Einwegventil bewegt das Gas nur in eine Richtung: von der Eingangsseite zur Ausgangsseite. Es lässt den Durchfluss nur zu, wenn der Eingangsdruck höher ist als der Ausgangsdruck.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterPipeHeater</Key>
-      <Value>Rohrheizkörper (Flüssigkeit)</Value>
+      <Value>Rohrheizer (Flüssigkeit)</Value>
       <Description>Fügt dem Inhalt Ihres Rohrnetzes pro Tick 1000 Joule Wärme zu.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeHeater</Key>
-      <Value>Gasrohrheizkörper</Value>
+      <Value>Rohrheizer (Gas)</Value>
       <Description>Erzeugt eine {THING:StructurePipeHeater}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWaterPipeHeater</Key>
-      <Value>Rohr Heizung (Flüssigkeit)</Value>
+      <Value>Rohrheizer (Flüssigkeit)</Value>
       <Description>Erzeugt eine {THING:StructureLiquidPipeHeater}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidPipeHeater</Key>
-      <Value>Flüssigkeitrohrheizkörper</Value>
+      <Value>Rohrheizer (Flüssigkeit)</Value>
       <Description>Erzeugt eine {THING:StructureLiquidPipeHeater}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidPipeHeater</Key>
-      <Value>Rohrheizkörper (Flüssigkeit)</Value>
+      <Value>Rohrheizer (Flüssigkeit)</Value>
       <Description>Fügt dem Inhalt Ihres Rohrnetzes pro Tick 1000 Joule Wärme zu.</Description>
     </RecordThing>
     <RecordThing>
@@ -7141,17 +7144,17 @@ Es ist sehr temperaturempfindlich und beginnt zu schmelzen, sobald es abgebaut w
     <RecordThing>
       <Key>StructurePipeRadiatorFlat</Key>
       <Value>Rohrradiator</Value>
-      <Description>Ein rohrmontierter Heizkörper, der für die Wärmeabstrahlung im Vakuum optimiert ist.</Description>
+      <Description>Ein rohrmontierter Radiator, der für die Wärmeabstrahlung im Vakuum optimiert ist.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeRadiatorFlatLiquid</Key>
       <Value>Rohrradiator (Flüssigkeit)</Value>
-      <Description>Ein Flüssigkeitsrohrstrahler, der für die Wärmeabstrahlung im Vakuum optimiert ist.</Description>
+      <Description>Ein Radiator, der für die Wärmeabstrahlung im Vakuum optimiert ist.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureMediumConvectionRadiator</Key>
       <Value>Normaler Konvektionsradiator</Value>
-      <Description>Ein eigenständiger Heizkörper, der für den Wärmeaustausch mit der umgebenden Atmosphäre optimiert ist.</Description>
+      <Description>Ein eigenständiger Radiator, der für den Wärmeaustausch mit der umgebenden Atmosphäre optimiert ist.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureMediumRadiator</Key>
@@ -8705,7 +8708,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     </Record>
     <Record>
       <Key>Increase</Key>
-      <Value>Erhöhung</Value>
+      <Value>Erhöhen</Value>
     </Record>
     <Record>
       <Key>Decrease</Key>
@@ -8725,11 +8728,11 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     </Record>
     <Record>
       <Key>TemperatureUp</Key>
-      <Value>Temperatur absenken</Value>
+      <Value>Temp. absenken</Value>
     </Record>
     <Record>
       <Key>TemperatureDown</Key>
-      <Value>Temperatur anheben</Value>
+      <Value>Temp. anheben</Value>
     </Record>
     <Record>
       <Key>ThrustUp</Key>
@@ -9079,7 +9082,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     </Record>
     <Record>
       <Key>MainMenuJoinWorld</Key>
-      <Value>Welt verbinden</Value>
+      <Value>Welt beitreten</Value>
     </Record>
     <Record>
       <Key>MainMenuWorkshop</Key>
@@ -10555,15 +10558,15 @@ Temperatur {1}
     </Record>
     <Record>
       <Key>ConnectionInput</Key>
-      <Value>Eingabe</Value>
+      <Value>Eingang</Value>
     </Record>
     <Record>
       <Key>ConnectionInput2</Key>
-      <Value>Eingabe 2</Value>
+      <Value>Eingang 2</Value>
     </Record>
     <Record>
       <Key>ConnectionOutput</Key>
-      <Value>Ausgabe</Value>
+      <Value>Ausgang</Value>
     </Record>
     <Record>
       <Key>ConnectionOutput2</Key>
@@ -13193,7 +13196,7 @@ Key; LogicSlotTypeChargeRatio; Value; gibt den Ladezustand für das Element in d
     </Record>
     <Record>
       <Key>PlantDead</Key>
-      <Value>Die {LOCAL:Plant} ist &lt;color=red&gt;tot&lt;/color&gt;</Value>
+      <Value>{LOCAL:Plant} ist &lt;color=red&gt;tot&lt;/color&gt;</Value>
     </Record>
     <Record>
       <Key>PlantHydrate</Key>
@@ -14063,7 +14066,7 @@ Bauoptionen
     </Record>
     <Record>
       <Key>CrowbarToFlip</Key>
-      <Value>Umdrehen mit Brechstange</Value>
+      <Value>Schließen/Öffnen mit Brechstange</Value>
     </Record>
     <Record>
       <Key>TimerPanel</Key>
@@ -16133,7 +16136,7 @@ Status: {LOCAL:StatusValue}</Value>
     </Record>
     <Record>
       <Key>PlantSamplerAction</Key>
-      <Value>Probe {LOCAL:Plant}</Value>
+      <Value>Probe entnehmen {LOCAL:Plant}</Value>
     </Record>
     <Record>
       <Key>ActionClearPlant</Key>
@@ -16141,11 +16144,11 @@ Status: {LOCAL:StatusValue}</Value>
     </Record>
     <Record>
       <Key>ActionHarvestPlant</Key>
-      <Value>Ernten {LOCAL:Plant} Pflanze</Value>
+      <Value>Ernten {LOCAL:Plant}</Value>
     </Record>
     <Record>
       <Key>ActionHarvestSeed</Key>
-      <Value>Ernte {LOCAL:Plant} Saatgut</Value>
+      <Value>Ernte Saatgut {LOCAL:Plant}</Value>
     </Record>
     <Record>
       <Key>AlreadyFertalised</Key>
@@ -16554,7 +16557,7 @@ Key; GlobalChangeSettingToForIn; Value; Für {3} von &lt;color=yellow&gt;({2})&l
     </Record>
     <Record>
       <Key>GlobalIncrease</Key>
-      <Value>Erhöhung</Value>
+      <Value>Erhöhen</Value>
     </Record>
     <Record>
       <Key>GlobalDecrease</Key>
@@ -17070,55 +17073,55 @@ Key; GlobalChangeSettingToForIn; Value; Für {3} von &lt;color=yellow&gt;({2})&l
     </Record>
     <Record>
       <Key>PlantNotGrowingMature</Key>
-      <Value>Die {LOCAL:Plant} &lt;color=red&gt;wächst nicht&lt;/color&gt; und wird nie Früchte tragen</Value>
+      <Value>{LOCAL:Plant} &lt;color=red&gt;wächst nicht&lt;/color&gt; und wird nie Früchte tragen</Value>
     </Record>
     <Record>
       <Key>PlantBarelyGrowingMature</Key>
-      <Value>Die {LOCAL:Plant} wächst kaum Richtung Fruchtbildung</Value>
+      <Value>{LOCAL:Plant} wächst kaum Richtung Fruchtbildung</Value>
     </Record>
     <Record>
       <Key>PlantGrowingPoorlyMature</Key>
-      <Value>Die {LOCAL:Plant} wächst schlecht in Richtung Fruchtbildung</Value>
+      <Value>{LOCAL:Plant} wächst schlecht in Richtung Fruchtbildung</Value>
     </Record>
     <Record>
       <Key>PlantGrowingModeratelyMature</Key>
-      <Value>Der {LOCAL:Plant} wächst mäßig gut in Richtung Fruchtbildung</Value>
+      <Value>{LOCAL:Plant} wächst mäßig gut in Richtung Fruchtbildung</Value>
     </Record>
     <Record>
       <Key>PlantThrivingMature</Key>
-      <Value>Die {LOCAL:Plant} gedeiht in Richtung Fruchtbildung</Value>
+      <Value>{LOCAL:Plant} gedeiht in Richtung Fruchtbildung</Value>
     </Record>
     <Record>
       <Key>PlantNotGrowingSeed</Key>
-      <Value>Die {LOCAL:Plant} &lt;color=red&gt;wächst nicht&lt;/color&gt; und wird nie Samen tragen</Value>
+      <Value>{LOCAL:Plant} &lt;color=red&gt;wächst nicht&lt;/color&gt; und wird nie Samen tragen</Value>
     </Record>
     <Record>
       <Key>PlantBarelyGrowingSeed</Key>
-      <Value>Die {LOCAL:Plant} wächst kaum Richtung Samenbildung</Value>
+      <Value>{LOCAL:Plant} wächst kaum Richtung Samenbildung</Value>
     </Record>
     <Record>
       <Key>PlantGrowingPoorlySeed</Key>
-      <Value>Die {LOCAL:Plant} wächst schlecht in Richtung Samenbildung</Value>
+      <Value>{LOCAL:Plant} wächst schlecht in Richtung Samenbildung</Value>
     </Record>
     <Record>
       <Key>PlantGrowingModeratelySeed</Key>
-      <Value>Die {LOCAL:Plant} wächst mäßig gut in Richtung Samenbildung</Value>
+      <Value>{LOCAL:Plant} wächst mäßig gut in Richtung Samenbildung</Value>
     </Record>
     <Record>
       <Key>PlantThrivingSeed</Key>
-      <Value>Die {LOCAL:Plant} gedeiht in Richtung Samenbildung</Value>
+      <Value>{LOCAL:Plant} gedeiht in Richtung Samenbildung</Value>
     </Record>
     <Record>
       <Key>PlantNotEnoughLight</Key>
-      <Value>Die {LOCAL:Plant} &lt;color=red&gt;erhält nicht die richtige Menge an Licht pro Tag&lt;/color&gt;</Value>
+      <Value>{LOCAL:Plant} &lt;color=red&gt;erhält nicht die richtige Menge an Licht pro Tag&lt;/color&gt;</Value>
     </Record>
     <Record>
       <Key>PlantAtmosphereTooHot</Key>
-      <Value>Die {LOCAL:Plant} &lt;color=red&gt;Atmosphäre ist zu heiß&lt;/color&gt;</Value>
+      <Value>{LOCAL:Plant} &lt;color=red&gt;Atmosphäre ist zu heiß&lt;/color&gt;</Value>
     </Record>
     <Record>
       <Key>PlantAtmosphereTooCold</Key>
-      <Value>Die {LOCAL:Plant} &lt;color=red&gt;Atmosphäre ist zu kalt&lt;/color&gt;</Value>
+      <Value>{LOCAL:Plant} &lt;color=red&gt;Atmosphäre ist zu kalt&lt;/color&gt;</Value>
     </Record>
     <Record>
       <Key>PlantWaterTooHot</Key>
@@ -17130,31 +17133,31 @@ Key; GlobalChangeSettingToForIn; Value; Für {3} von &lt;color=yellow&gt;({2})&l
     </Record>
     <Record>
       <Key>PlantWaterNeeds</Key>
-      <Value>Die {LOCAL:Plant} &lt;color=red&gt;benötigt Wasser&lt;/color&gt;</Value>
+      <Value>{LOCAL:Plant} &lt;color=red&gt;benötigt Wasser&lt;/color&gt;</Value>
     </Record>
     <Record>
       <Key>PlantNotCorrectAtmosphere</Key>
-      <Value>Die {LOCAL:Plant} &lt;color=red&gt;hat falsche Atmosphärenzusammensetzung&lt;/color&gt;</Value>
+      <Value>{LOCAL:Plant} &lt;color=red&gt;hat falsche Atmosphärenzusammensetzung&lt;/color&gt;</Value>
     </Record>
     <Record>
       <Key>PlantIsPollutedByAir</Key>
-      <Value>Die {LOCAL:Plant} &lt;color=red&gt;wird Vergiftet&lt;/color&gt;</Value>
+      <Value>{LOCAL:Plant} &lt;color=red&gt;wird Vergiftet&lt;/color&gt;</Value>
     </Record>
     <Record>
       <Key>PlantIsReceivingLight</Key>
-      <Value>Die {LOCAL:Plant} ist beleuchtet</Value>
+      <Value>{LOCAL:Plant} ist beleuchtet</Value>
     </Record>
     <Record>
       <Key>PlantIsInDarkness</Key>
-      <Value>Die {LOCAL:Plant} &lt;color=red&gt;ist in der Dunkelheit&lt;/color&gt;</Value>
+      <Value>{LOCAL:Plant} &lt;color=red&gt;ist in der Dunkelheit&lt;/color&gt;</Value>
     </Record>
     <Record>
       <Key>PlantIsInLowPressureEnvironment</Key>
-      <Value>Die {LOCAL:Plant} &lt;color=red&gt;hat Unterdruck&lt;/color&gt;</Value>
+      <Value>{LOCAL:Plant} &lt;color=red&gt;hat Unterdruck&lt;/color&gt;</Value>
     </Record>
     <Record>
       <Key>PlantIsInHighPressureEnvironment</Key>
-      <Value>Die {LOCAL:Plant} &lt;color=red&gt;hat Überduruck&lt;/color&gt;</Value>
+      <Value>{LOCAL:Plant} &lt;color=red&gt;hat Überduruck&lt;/color&gt;</Value>
     </Record>
     <Record>
       <Key>PlantCreate</Key>
@@ -17614,7 +17617,7 @@ Key; GlobalChangeSettingToForIn; Value; Für {3} von &lt;color=yellow&gt;({2})&l
     </Record>
     <Record>
       <Key>PressureSafteySetTo</Key>
-      <Value>Der Sicherheitswert für &lt;color=green&gt;{LOCAL:Location}&lt;/color&gt; wird auf &lt;color=yellow&gt;{LOCAL:Value}&lt;/color&gt; gesetzt</Value>
+      <Value>Sicherheitsdruck &lt;color=green&gt;{LOCAL:Location}&lt;/color&gt;: &lt;color=yellow&gt;{LOCAL:Value}&lt;/color&gt; gesetzt</Value>
     </Record>
     <Record>
       <Key>AtmosphereExternal</Key>
@@ -17870,7 +17873,7 @@ Key; GlobalChangeSettingToForIn; Value; Für {3} von &lt;color=yellow&gt;({2})&l
     </Record>
     <Record>
       <Key>PlantDead</Key>
-      <Value>Die {LOCAL:Plant} ist &lt;color=red&gt;tot&lt;/color&gt;</Value>
+      <Value>{LOCAL:Plant} ist &lt;color=red&gt;tot&lt;/color&gt;</Value>
     </Record>
     <Record>
       <Key>TraderCrashedEvent</Key>
