@@ -1027,7 +1027,7 @@ Mit einer Ladung von 2,3 Megawatt (2304000W) stößt der "Nuke" an seine Grenzen
     </RecordThing>
     <RecordThing>
       <Key>ItemCableCoil</Key>
-      <Value>Kabel (Niederspannung)</Value>
+      <Value>Kabel</Value>
       <Description>Körperliche Metaphern sind müde und anthropozentrisch, aber es war Frida Stuppen, die erste {LINK:ODA;ODA} Administratorin, die sagte: "Lasst die Verkabelung wie den Nerv und das Gefäß sein, das Strom und Daten gleichermaßen durch Systeme überträgt, die wir zwischen den Sternen schmieden. Spätere Kommentatoren meinten, dass sie damit lediglich eine zweifelhafte Wirtschaftlichkeit romantisch beschönigen wollte. Wie dem auch sei, die Standardverkabelung ist der Ausgangspunkt für jedes {LINK:Stationeers;Stationeer's} Netzwerk.
 Normale Spulen haben eine maximale Wattleistung von 5 kW. Für Anwendungen mit höheren Strömen sollten Sie {THING:ItemCableCoilHeavy} verwenden.</Description>
     </RecordThing>
@@ -2494,19 +2494,19 @@ Alle Rohre des Racks müssen angeschlossen sein, sonst zeigt das Gerät eine Feh
     </RecordThing>
     <RecordThing>
       <Key>StructureCableStraightH</Key>
-      <Value>Starkstromkabel (gerade)</Value>
+      <Value>Kabel (Dick) (gerade)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunctionH6</Key>
-      <Value>Starkstromkabel (6-polige Verzweigung)</Value>
+      <Value>Kabel (Dick) (6-polige Verzweigung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunctionH4</Key>
-      <Value>Starkstromkabel (4-Wege-Verteiler)</Value>
+      <Value>Kabel (Dick) (4-Wege-Verteiler)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunctionH</Key>
-      <Value>Starkstromkabel (3-Wege-Verteiler)</Value>
+      <Value>Kabel (Dick) (3-Wege-Verteiler)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction6HBurnt</Key>
@@ -2530,7 +2530,7 @@ Alle Rohre des Racks müssen angeschlossen sein, sonst zeigt das Gerät eine Feh
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCornerH</Key>
-      <Value>Starkstromkabel (Ecke)</Value>
+      <Value>Kabel (Dick) (Ecke)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableFuse1k</Key>
@@ -2601,8 +2601,8 @@ Im Gegensatz zu den weiter entwickelten {THING:StructureFurnace} kann der Lichtb
     </RecordThing>
     <RecordThing>
       <Key>ItemCableCoilHeavy</Key>
-      <Value>Kabel (Hochspannung)</Value>
-      <Description>Verwenden Sie schwere Kabelspulen für Stromversorgungssysteme mit großen Leistungen. Im Gegensatz zu {THING:StructureCableCoil}, das nur 5 kW sicher leiten kann, können schwere Kabel bis zu 100 kW übertragen.</Description>
+      <Value>Kabel (Dick)</Value>
+      <Description>Verwenden Sie dicke Kabelspulen für Stromversorgungssysteme mit großen Leistungen. Im Gegensatz zu {THING:StructureCableCoil}, das nur 5 kW sicher leiten kann, können dicke Kabel bis zu 100 kW übertragen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureFrameIron</Key>
@@ -3042,15 +3042,15 @@ Setzen Sie eine Kassette oder einen Farbscanner in das Tablet ein und drücken S
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCornerH3</Key>
-      <Value>Starkstromkabel (3-Wege-Ecke)</Value>
+      <Value>Kabel (Dick) (3-Wege-Ecke)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCornerH4</Key>
-      <Value>Starkstromkabel (4-Wege-Ecke)</Value>
+      <Value>Kabel (Dick) (4-Wege-Ecke)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCorner4HBurnt</Key>
-      <Value>Verbranntes Starkstromkabel (4-Wege-Ecke)</Value>
+      <Value>Verbranntes Kabel (Dick) (4-Wege-Ecke)</Value>
     </RecordThing>
     <RecordThing>
       <Key>PortableSolarPanel</Key>
@@ -3074,11 +3074,11 @@ Setzen Sie eine Kassette oder einen Farbscanner in das Tablet ein und drücken S
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunctionH5</Key>
-      <Value>Starkstromkabel (5-Wege Verzweigung)</Value>
+      <Value>Kabel (Dick) (5-Wege Verzweigung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunctionH5Burnt</Key>
-      <Value>Verbranntes Starkstromkabel (5-Wege-Verzweigung)</Value>
+      <Value>Verbranntes Kabel (Dick) (5-Wege-Verzweigung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>WallFrameCornerCut</Key>
