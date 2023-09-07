@@ -1907,37 +1907,37 @@ Wenn nicht gerade eine taschengroße Singularität in den lokalen Raum-Zeit-Rahm
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCorner</Key>
-      <Value>Kabel (Ecke)</Value>
+      <Value>Kabel (Dünn) (Ecke)</Value>
       <Description>Die Kabelspule, die sowohl Strom als auch Daten transportiert, ist zu einem Symbol für Innovation, Unabhängigkeit und Flexibilität des {LINK:Stationeers;Stationeer} Lebens geworden - so wichtig, dass die {LINK:ODA;ODA} sie während der 3. Decannual Stationeer Solar Conference zum offiziellen {LINK:ToolPage;'Werkzeug'} ernannte.
 Die normale Spule hat eine maximale Wattzahl von 5kW. Für Anwendungen mit höheren Strömen verwenden Sie {THING:ItemCableCoilHeavy}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCorner3</Key>
-      <Value>Kabel (3-Wege-Kreuzung)</Value>
+      <Value>Kabel (Dünn) (3-Wege-Kreuzung)</Value>
       <Description>Die Kabelspule, die sowohl Strom als auch Daten transportiert, ist zu einem Symbol für Innovation, Unabhängigkeit und Flexibilität des {LINK:Stationeers;Stationeer} Lebens geworden - so wichtig, dass die {LINK:ODA;ODA} sie während der 3. Decannual Stationeer Solar Conference zum offiziellen {LINK:ToolPage;'Werkzeug'} ernannte.
 Die normale Spule hat eine maximale Wattzahl von 5kW. Für Anwendungen mit höheren Strömen verwenden Sie {THING:ItemCableCoilHeavy}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction</Key>
-      <Value>Kabel (T-Kreuzung)</Value>
+      <Value>Kabel (Dünn) (T-Kreuzung)</Value>
       <Description>Die Kabelspule, die sowohl Strom als auch Daten transportiert, ist zum Symbol für Innovation, Unabhängigkeit und Flexibilität des {LINK:Stationeers;Stationeer} Lebens geworden - so sehr, dass die {LINK:ODA;ODA} sie während der 3. Decannual Stationeer Solar Conference zu einer offiziellen {LINK:ToolPage;'Werkzeug'} ernannte.
 Die normale Spule hat eine maximale Wattzahl von 5 kW. Für Anwendungen mit höheren Strömen verwenden Sie {THING:ItemCableCoilHeavy}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction4</Key>
-      <Value>Kabel (4-Wege-Kreuzung)</Value>
+      <Value>Kabel (Dünn) (4-Wege-Kreuzung)</Value>
       <Description>Die Kabelspule, die sowohl Strom als auch Daten transportiert, ist zum Symbol für Innovation, Unabhängigkeit und Flexibilität des {LINK:Stationeers;Stationeer} Lebens geworden - so sehr, dass die {LINK:ODA;ODA} sie während der 3. Decannual Stationeer Solar Conference zu einer offiziellen {LINK:ToolPage;'Werkzeug'} ernannte.
 Die normale Spule hat eine maximale Wattzahl von 5 kW. Für Anwendungen mit höheren Strömen verwenden Sie {THING:ItemCableCoilHeavy}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction6</Key>
-      <Value>Kabel (6-Wege-Kreuzung)</Value>
+      <Value>Kabel (Dünn) (6-Wege-Kreuzung)</Value>
       <Description>Die Kabelspule, die sowohl Strom als auch Daten transportiert, ist zum Symbol für Innovation, Unabhängigkeit und Flexibilität des {LINK:Stationeers;Stationeer}-Dienstes geworden - so sehr, dass die {LINK:ODA;ODA} sie während der 3. Decannual Stationeer Solar Conference zum offiziellen {LINK:ToolPage;'Werkzeug'} ernannte.
 Die normale Spule hat eine maximale Wattzahl von 5kW. Für Anwendungen mit höheren Strömen verwenden Sie {THING:ItemCableCoilHeavy}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableStraight</Key>
-      <Value>Kabel (gerade)</Value>
+      <Value>Kabel (Dünn) (gerade)</Value>
       <Description>Die Kabelspule, die sowohl Strom als auch Daten überträgt, ist zum Symbol für Innovation, Unabhängigkeit und Flexibilität des {LINK:Stationeers;Stationeer} Lebens geworden - so sehr, dass die {LINK:ODA;ODA} sie offiziell als {LINK:ToolPage;'Werkzeug'} bezeichnet hat.
 Die normale Spule hat eine maximale Wattleistung von 5 kW. Für Anwendungen mit höheren Strömen verwenden Sie {THING:ItemCableCoilHeavy}.</Description>
     </RecordThing>
@@ -2457,27 +2457,27 @@ Alle Rohre des Racks müssen angeschlossen sein, sonst zeigt das Gerät eine Feh
     </RecordThing>
     <RecordThing>
       <Key>StructureCableStraightBurnt</Key>
-      <Value>Verbranntes Kabel (gerade)</Value>
+      <Value>Verbranntes Kabel (Dünn) (gerade)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCorner3Burnt</Key>
-      <Value>Verbranntes Kabel (3-Wege-Kreuzung)</Value>
+      <Value>Verbranntes Kabel (Dünn) (3-Wege-Kreuzung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCornerBurnt</Key>
-      <Value>Verbranntes Kabel (Ecke)</Value>
+      <Value>Verbranntes Kabel (Dünn) (Ecke)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction4Burnt</Key>
-      <Value>Verbranntes Kabel (4-Wege-Kreuzung)</Value>
+      <Value>Verbranntes Kabel (Dünn) (4-Wege-Kreuzung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction6Burnt</Key>
-      <Value>Verbranntes Kabel (6-Wege-Kreuzung)</Value>
+      <Value>Verbranntes Kabel (Dünn) (6-Wege-Kreuzung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunctionBurnt</Key>
-      <Value>Verbranntes Kabel (T-Kreuzung)</Value>
+      <Value>Verbranntes Kabel (Dünn) (T-Kreuzung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSolidFuelGenerator</Key>
@@ -2510,23 +2510,23 @@ Alle Rohre des Racks müssen angeschlossen sein, sonst zeigt das Gerät eine Feh
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction6HBurnt</Key>
-      <Value>Verbranntes Kabel (6-Wege-Kreuzung)</Value>
+      <Value>Verbranntes Kabel (Dünn) (6-Wege-Kreuzung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction4HBurnt</Key>
-      <Value>Verbranntes Kabel (4-Wege-Kreuzung)</Value>
+      <Value>Verbranntes Kabel (Dünn) (4-Wege-Kreuzung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableStraightHBurnt</Key>
-      <Value>Verbranntes Kabel (gerade)</Value>
+      <Value>Verbranntes Kabel (Dünn) (gerade)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunctionHBurnt</Key>
-      <Value>Verbranntes Kabel (T-Kreuzung)</Value>
+      <Value>Verbranntes Kabel (Dünn) (T-Kreuzung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCornerHBurnt</Key>
-      <Value>Verbranntes Kabel (Ecke)</Value>
+      <Value>Verbranntes Kabel (Dünn) (Ecke)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCornerH</Key>
