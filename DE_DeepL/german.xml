@@ -86,7 +86,7 @@
     </RecordReagent>
     <RecordReagent>
       <Key>Solder</Key>
-      <Value>Lötmittel</Value>
+      <Value>Lötzinn</Value>
       <Unit>g</Unit>
     </RecordReagent>
     <RecordReagent>
@@ -2661,7 +2661,7 @@ Im Gegensatz zu den weiter entwickelten {THING:StructureFurnace} kann der Lichtb
     </RecordThing>
     <RecordThing>
       <Key>ItemSolderIngot</Key>
-      <Value>Legierung (Solder)</Value>
+      <Value>Legierung (Lötzinn)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ApplianceChemistryStation</Key>
