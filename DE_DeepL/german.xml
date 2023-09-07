@@ -808,7 +808,7 @@ Um in den Einrichtungsmodus zu gelangen, setzen Sie die Platine zusammen mit ein
     </RecordThing>
     <RecordThing>
       <Key>ImGuiCircuitboardAirlockControl</Key>
-      <Value>Luftschleuse (Experimentell)</Value>
+      <Value>Platine (Luftschleuse Experimentell)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardCameraDisplay</Key>
@@ -1512,7 +1512,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeCrossJunction5</Key>
-      <Value>Gasrohr 5-Wege-Verzweigung</Value>
+      <Value>Gasrohr 5-Wege-Kreuzung</Value>
       <Description>Dieser Bausatz erzeugt eine {THING:StructurePipeCrossJunction5}.</Description>
     </RecordThing>
     <RecordThing>
@@ -1913,25 +1913,25 @@ Die normale Spule hat eine maximale Wattzahl von 5kW. Für Anwendungen mit höhe
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCorner3</Key>
-      <Value>Kabel (3-Wege-Ecke)</Value>
+      <Value>Kabel (3-Wege-Kreuzung)</Value>
       <Description>Die Kabelspule, die sowohl Strom als auch Daten transportiert, ist zu einem Symbol für Innovation, Unabhängigkeit und Flexibilität des {LINK:Stationeers;Stationeer} Lebens geworden - so wichtig, dass die {LINK:ODA;ODA} sie während der 3. Decannual Stationeer Solar Conference zum offiziellen {LINK:ToolPage;'tool'} ernannte.
 Die normale Spule hat eine maximale Wattzahl von 5kW. Für Anwendungen mit höheren Strömen verwenden Sie {THING:ItemCableCoilHeavy}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction</Key>
-      <Value>Kabel (Abzweigung)</Value>
+      <Value>Kabel (T-Kreuzung)</Value>
       <Description>Die Kabelspule, die sowohl Strom als auch Daten transportiert, ist zum Symbol für Innovation, Unabhängigkeit und Flexibilität des {LINK:Stationeers;Stationeer} Lebens geworden - so sehr, dass die {LINK:ODA;ODA} sie während der 3. Decannual Stationeer Solar Conference zu einer offiziellen {LINK:ToolPage;'tool'} ernannte.
 Die normale Spule hat eine maximale Wattzahl von 5 kW. Für Anwendungen mit höheren Strömen verwenden Sie {THING:ItemCableCoilHeavy}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction4</Key>
-      <Value>Kabel (4-Wege-Verteiler)</Value>
+      <Value>Kabel (4-Wege-Kreuzung)</Value>
       <Description>Die Kabelspule, die sowohl Strom als auch Daten transportiert, ist zum Symbol für Innovation, Unabhängigkeit und Flexibilität des {LINK:Stationeers;Stationeer} Lebens geworden - so sehr, dass die {LINK:ODA;ODA} sie während der 3. Decannual Stationeer Solar Conference zu einer offiziellen {LINK:ToolPage;'tool'} ernannte.
 Die normale Spule hat eine maximale Wattzahl von 5 kW. Für Anwendungen mit höheren Strömen verwenden Sie {THING:ItemCableCoilHeavy}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction6</Key>
-      <Value>Kabel (6-polige Verzweigung)</Value>
+      <Value>Kabel (6-Wege-Kreuzung)</Value>
       <Description>Die Kabelspule, die sowohl Strom als auch Daten transportiert, ist zum Symbol für Innovation, Unabhängigkeit und Flexibilität des {LINK:Stationeers;Stationeer}-Dienstes geworden - so sehr, dass die {LINK:ODA;ODA} sie während der 3. Decannual Stationeer Solar Conference zum offiziellen {LINK:ToolPage;'tool'} ernannte.
 Die normale Spule hat eine maximale Wattzahl von 5kW. Für Anwendungen mit höheren Strömen verwenden Sie {THING:ItemCableCoilHeavy}.</Description>
     </RecordThing>
@@ -2255,7 +2255,7 @@ Rohre verteilen ihren Inhalt gleichmäßig über das gesamte Netzwerk und könne
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeCrossJunction6</Key>
-      <Value>Gasrohr (6-fache Verzweigung)</Value>
+      <Value>Gasrohr (6-fache Kreuzung)</Value>
       <Description>Das erste, was ein Stationeer lernt, ist, dass er allein ist. Das zweite ist, dass Rohre Gas speichern.
 Rohre verteilen ihren Inhalt gleichmäßig über das gesamte Netzwerk und können mit einer Vielzahl von Geräten und Strukturen verbunden werden. Einfache Rohre können einem Druck von bis zu 60 MPa standhalten. Darüber hinaus werden die Dinge "interessant".</Description>
     </RecordThing>
@@ -2287,7 +2287,7 @@ Rohre verteilen ihren Inhalt gleichmäßig über das gesamte Netzwerk und könne
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeTJunction</Key>
-      <Value>Gasrohr (T-Verzweigung)</Value>
+      <Value>Gasrohr (T-Kreuzung)</Value>
       <Description>Das erste, was ein Stationeer lernt, ist, dass er allein ist. Das zweite ist, dass Rohre Gas speichern.
 Rohre verteilen ihren Inhalt gleichmäßig über das gesamte Netzwerk und können mit einer Vielzahl von Geräten und Strukturen verbunden werden. Einfache Rohre können einem Druck von bis zu 60 MPa standhalten. Darüber hinaus werden die Dinge "interessant".</Description>
     </RecordThing>
@@ -2461,7 +2461,7 @@ Alle Rohre des Racks müssen angeschlossen sein, sonst zeigt das Gerät eine Feh
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCorner3Burnt</Key>
-      <Value>Verbranntes Kabel (3-Wege-Ecke)</Value>
+      <Value>Verbranntes Kabel (3-Wege-Kreuzung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCornerBurnt</Key>
@@ -2469,15 +2469,15 @@ Alle Rohre des Racks müssen angeschlossen sein, sonst zeigt das Gerät eine Feh
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction4Burnt</Key>
-      <Value>Verbranntes Kabel (4-Wege-Verzweigung)</Value>
+      <Value>Verbranntes Kabel (4-Wege-Kreuzung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction6Burnt</Key>
-      <Value>Verbranntes Kabel (6-polige Verzweigung)</Value>
+      <Value>Verbranntes Kabel (6-Wege-Kreuzung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunctionBurnt</Key>
-      <Value>Verbranntes Kabel (Verzweigung)</Value>
+      <Value>Verbranntes Kabel (T-Kreuzung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSolidFuelGenerator</Key>
@@ -2498,23 +2498,23 @@ Alle Rohre des Racks müssen angeschlossen sein, sonst zeigt das Gerät eine Feh
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunctionH6</Key>
-      <Value>Kabel (Dick) (6-polige Verzweigung)</Value>
+      <Value>Kabel (Dick) (6-Wege-Kreuzung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunctionH4</Key>
-      <Value>Kabel (Dick) (4-Wege-Verteiler)</Value>
+      <Value>Kabel (Dick) (4-Wege-Kreuzung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunctionH</Key>
-      <Value>Kabel (Dick) (3-Wege-Verteiler)</Value>
+      <Value>Kabel (Dick) (3-Wege-Kreuzung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction6HBurnt</Key>
-      <Value>Verbranntes Kabel (6-polige Verzweigung)</Value>
+      <Value>Verbranntes Kabel (6-Wege-Kreuzung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction4HBurnt</Key>
-      <Value>Verbranntes Kabel (4-Wege-Verzweigung)</Value>
+      <Value>Verbranntes Kabel (4-Wege-Kreuzung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableStraightHBurnt</Key>
@@ -2522,7 +2522,7 @@ Alle Rohre des Racks müssen angeschlossen sein, sonst zeigt das Gerät eine Feh
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunctionHBurnt</Key>
-      <Value>Verbranntes Kabel (Verzweigung)</Value>
+      <Value>Verbranntes Kabel (T-Kreuzung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCornerHBurnt</Key>
@@ -3042,15 +3042,15 @@ Setzen Sie eine Kassette oder einen Farbscanner in das Tablet ein und drücken S
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCornerH3</Key>
-      <Value>Kabel (Dick) (3-Wege-Ecke)</Value>
+      <Value>Kabel (Dick) (3-Wege-Kreuzung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCornerH4</Key>
-      <Value>Kabel (Dick) (4-Wege-Ecke)</Value>
+      <Value>Kabel (Dick) (4-Wege-Kreuzung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCorner4HBurnt</Key>
-      <Value>Verbranntes Kabel (Dick) (4-Wege-Ecke)</Value>
+      <Value>Verbranntes Kabel (Dick) (4-Wege-Kreuzung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>PortableSolarPanel</Key>
@@ -3058,27 +3058,27 @@ Setzen Sie eine Kassette oder einen Farbscanner in das Tablet ein und drücken S
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction5</Key>
-      <Value>Kabel (5-Wege-Verteiler)</Value>
+      <Value>Kabel (5-Wege-Kreuzung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCorner4</Key>
-      <Value>Kabel (4-Wege-Ecke)</Value>
+      <Value>Kabel (4-Wege-Kreuzung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCorner4Burnt</Key>
-      <Value>Verbranntes Kabel (4-Wege-Ecke)</Value>
+      <Value>Verbranntes Kabel (4-Wege-Kreuzung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction5Burnt</Key>
-      <Value>Verbranntes Kabel (5-Wege Verzweigung)</Value>
+      <Value>Verbranntes Kabel (5-Wege-Kreuzung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunctionH5</Key>
-      <Value>Kabel (Dick) (5-Wege Verzweigung)</Value>
+      <Value>Kabel (Dick) (5-Wege-Kreuzung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunctionH5Burnt</Key>
-      <Value>Verbranntes Kabel (Dick) (5-Wege-Verzweigung)</Value>
+      <Value>Verbranntes Kabel (Dick) (5-Wege-Kreuzung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>WallFrameCornerCut</Key>
@@ -3922,7 +3922,7 @@ Flüchtige Stoffe und Uran = weiß</Description>
     </RecordThing>
     <RecordThing>
       <Key>MotherboardProgrammableChip</Key>
-      <Value>IC-Editor Hauptplatine</Value>
+      <Value>IC-Editor-Hauptplatine</Value>
       <Description>Wenn der IC-Editor in einem {THING:StructureComputer} untergebracht ist, können die Spieler IC-Code schreiben und bearbeiten, der dann auf einen {THING:ItemIntegratedCircuit10} hochgeladen werden kann, wenn er in einem {THING:StructureCircuitHousing} untergebracht ist.</Description>
     </RecordThing>
     <RecordThing>
@@ -5769,27 +5769,27 @@ Obwohl die Windturbine so optimiert ist, dass sie auch auf Welten mit niedriger 
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeLiquidCrossJunction3</Key>
-      <Value>Flüssigkeitsrohre (3-Wege-Verteiler)</Value>
+      <Value>Flüssigkeitsrohre (3-Wege-Kreuzung)</Value>
       <Description>Der Name ist Programm: Liquid Pipes schaffen Rohrleitungsnetze für die Lagerung und den Transport des zweiten Aggregatzustands der Materie: Flüssigkeit.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeLiquidCrossJunction4</Key>
-      <Value>Flüssigkeitsrohre (4-Wege-Verteiler)</Value>
+      <Value>Flüssigkeitsrohre (4-Wege-Kreuzung)</Value>
       <Description>Der Name ist Programm: Liquid Pipes schaffen Rohrleitungsnetze für die Lagerung und den Transport des zweiten Aggregatzustands der Materie: Flüssigkeit.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeLiquidCrossJunction5</Key>
-      <Value>Flüssigkeitsrohre (5-Wege-Verteiler)</Value>
+      <Value>Flüssigkeitsrohre (5-Wege-Kreuzung)</Value>
       <Description>Der Name ist Programm: Liquid Pipes schaffen Rohrleitungsnetze für die Lagerung und den Transport des zweiten Aggregatzustands der Materie: Flüssigkeit.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeLiquidCrossJunction6</Key>
-      <Value>Flüssigkeitsrohre (6-Wege-Verteiler)</Value>
+      <Value>Flüssigkeitsrohre (6-Wege-Kreuzung)</Value>
       <Description>Der Name ist Programm: Liquid Pipes schaffen Rohrleitungsnetze für die Lagerung und den Transport des zweiten Aggregatzustands der Materie: Flüssigkeit.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeLiquidTJunction</Key>
-      <Value>Flüssigkeitsrohre (T-Verteiler)</Value>
+      <Value>Flüssigkeitsrohre (T-Kreuzung)</Value>
       <Description>Der Name ist Programm: Liquid Pipes schaffen Rohrleitungsnetze für die Lagerung und den Transport des zweiten Aggregatzustands der Materie: Flüssigkeit.</Description>
     </RecordThing>
     <RecordThing>
@@ -7601,22 +7601,22 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     </RecordThing>
     <RecordThing>
       <Key>StructureLowVolumeLiquidPipeCrossJunction3</Key>
-      <Value>Flüssigkeitsrohre mit geringem Volumen (3-Wege-Verzweigung)</Value>
+      <Value>Flüssigkeitsrohre mit geringem Volumen (3-Wege-Kreuzung)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureLowVolumeLiquidPipeCrossJunction4</Key>
-      <Value>Flüssigkeitsrohre mit geringem Volumen (4-Wege-Verzweigung)</Value>
+      <Value>Flüssigkeitsrohre mit geringem Volumen (4-Wege-Kreuzung)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureLowVolumeLiquidPipeCrossJunction5</Key>
-      <Value>Flüssigkeitsrohre mit geringem Volumen (5-Wege-Verzweigung)</Value>
+      <Value>Flüssigkeitsrohre mit geringem Volumen (5-Wege-Kreuzung)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureLowVolumeLiquidPipeCrossJunction6</Key>
-      <Value>Flüssigkeitsrohre mit geringem Volumen (6-Wege-Verzweigung)</Value>
+      <Value>Flüssigkeitsrohre mit geringem Volumen (6-Wege-Kreuzung)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -7626,7 +7626,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     </RecordThing>
     <RecordThing>
       <Key>StructureLowVolumeLiquidPipeTJunction</Key>
-      <Value>Flüssigkeitsrohre mit geringem Volumen (T-Verteiler)</Value>
+      <Value>Flüssigkeitsrohre mit geringem Volumen (T-Kreuzung)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
