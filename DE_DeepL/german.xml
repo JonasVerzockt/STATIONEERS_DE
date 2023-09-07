@@ -1121,8 +1121,8 @@ Wenn ein Ei befruchtet wurde und zwischen 20C-30C gehalten wird, entsteht ein {T
     </RecordThing>
     <RecordThing>
       <Key>ItemEvaSuit</Key>
-      <Value>Eva-Anzug</Value>
-      <Description>Der EVA-Anzug ist der Grundanzug {LINK:Stationeers;Stationeers}, den man zum Überleben in der unwirtlichen Umgebung des Weltraums braucht. Weitere Informationen zu EVA-Anzügen finden Sie im {LINK:EVAPage;EVA suit} Leitfaden.</Description>
+      <Value>Raumanzug</Value>
+      <Description>Der Raumanzug ist der Grundanzug {LINK:Stationeers;Stationeers}, den man zum Überleben in der unwirtlichen Umgebung des Weltraums braucht. Weitere Informationen zu Raumanzügen finden Sie im {LINK:EVAPage;EVA suit} Leitfaden.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemFertilizedEgg</Key>
@@ -1617,13 +1617,13 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     </RecordThing>
     <RecordThing>
       <Key>ItemSpaceHelmet</Key>
-      <Value>Weltraum-Helm</Value>
+      <Value>Raumhelm</Value>
       <Description>Der Basis-Raumhelm isoliert {LINK:Stationeers;Stationeers} gegen alles, von hartem Vakuum bis hin zu unangenehmen Kochgerüchen. Er bietet eine druckkontrollierte, atmungsaktive Atmosphäre und verfügt über ein eingebautes Licht, das von Ihrem {THING:ItemEvaSuit} {THING:ItemBatteryCell}.
 Außerdem verfügt er über eine Ver-/Entriegelungsfunktion, um ein versehentliches Öffnen zu verhindern, sowie über eine Spülfunktion, um die interne Atmosphäre zu entleeren und zu ersetzen. Wenn sie beschädigt ist, können Sie sie mit {THING:ItemDuctTape} reparieren oder mit {THING:AppliancePaintMixer} in einer Farbe Ihrer Wahl streichen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemSpacepack</Key>
-      <Value>Weltraum-Rucksack</Value>
+      <Value>Jetpack (Weltraum)</Value>
       <Description>Das grundlegende {LINK:CHAC;CHAC} Spacepack ist 'technisch' kein Jetpack, sondern ein Gasantrieb. Es kann mit jedem Gas betrieben werden, solange der Innendruck des {LINK:AtmosphericsPage;canister} höher ist als der Außendruck. Wenn der Außendruck höher ist, funktioniert das Spacepack nicht.
 Es ist unentbehrlich für den Bau, den Bergbau und die allgemeine Fortbewegung, hat zehn Speicherplätze und lässt {LINK:Stationeers;Stationeers} mit 3m/s fliegen, verglichen mit den stärkeren {THING:ItemJetpackBasic} oder {THING:ItemHardJetpack}. Durch Einstellen des Schubwerts wird die Beschleunigung verändert, während die Aktivierung des Stabilisators das Spacepack bei Erreichen einer bestimmten Höhe zum Schweben bringt.
 ANWENDUNG: 'J' zum Aktivieren; 'Leertaste' zum Hochfliegen; 'Linke STRG' zum Absteigen; und 'WASD' zum Bewegen.</Description>
@@ -3663,11 +3663,11 @@ Setzen Sie eine Kassette oder einen Farbscanner in das Tablet ein und drücken S
     </RecordThing>
     <RecordThing>
       <Key>ItemHardSuit</Key>
-      <Value>Schutzanzug</Value>
+      <Value>Raumanzug (gehärtet)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemHardsuitHelmet</Key>
-      <Value>Schutzanzug-Helm</Value>
+      <Value>Raumhelm (gehärtet)</Value>
       <Description>Der Schutzanzug-Helm ähnelt dem {THING:ItemSpaceHelmet}, kann aber höheren Temperaturen und Drücken standhalten. Er ist perfekt für raue Umgebungen wie Venus und Vulkan geeignet.</Description>
     </RecordThing>
     <RecordThing>
@@ -3877,14 +3877,14 @@ Ausgang = 1, wobei die darin befindlichen Gegenstände und eventuell der Hauptge
     </RecordThing>
     <RecordThing>
       <Key>ItemHardBackpack</Key>
-      <Value>Schutzanzug-Rucksack</Value>
+      <Value>Rucksack (gehärtet)</Value>
       <Description>Dieser Rucksack kann nützlich sein, wenn man drinnen arbeitet und nicht herumfliegen muss.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemHardJetpack</Key>
-      <Value>Schutzanzug-Jetpack</Value>
+      <Value>Jetpack (gehärtet)</Value>
       <Description>Das {LINK:Norsec;Norsec} Jetpack ist "technisch" gar kein Jetpack, sondern ein Gasantrieb. Es kann mit jedem Gas betrieben werden, solange der Innendruck des {LINK:AtmosphericsPage;canister} höher ist als der Außendruck. Wenn der Außendruck höher ist, funktioniert das Spacepack nicht. Durch Einstellen des Schubwertes wird die Beschleunigung verändert, während die Aktivierung des Stabilisators das Spacepack bei Erreichen einer bestimmten Höhe zum Schweben bringt.
-Das Hardsuit-Jetpack kann wesentlich höhere Geschwindigkeiten erreichen als das {THING:ItemJetpackBasic} - bis zu 15m/s. Es ist unverzichtbar für Bauarbeiten, Bergbau und allgemeine Fortbewegung und hat vierzehn Speicherplätze.
+Das Jetpack (gehärtet) kann wesentlich höhere Geschwindigkeiten erreichen als das {THING:ItemJetpackBasic} - bis zu 15m/s. Es ist unverzichtbar für Bauarbeiten, Bergbau und allgemeine Fortbewegung und hat vierzehn Speicherplätze.
 ANWENDUNG: 'J' zum Aktivieren; 'Leertaste' zum Hochfliegen; 'Linke STRG' zum Absteigen; und 'WASD' zum Bewegen.</Description>
     </RecordThing>
     <RecordThing>
@@ -4253,7 +4253,7 @@ Beachten Sie, dass Transformatoren auch als Datenisolatoren fungieren, die verhi
     </RecordThing>
     <RecordThing>
       <Key>ItemJetpackBasic</Key>
-      <Value>Jetpack Standard</Value>
+      <Value>Jetpack</Value>
       <Description>Das grundlegende {LINK:CHAC;CHAC} Jetpack ist "technisch" kein Jetpack, sondern ein Gasantrieb. Es kann mit jedem Gas betrieben werden, solange der Innendruck des {LINK:AtmosphericsPage;canister} höher ist als der Außendruck. Wenn der Außendruck höher ist, funktioniert das Spacepack nicht.
 Es ist unentbehrlich für den Bau, den Bergbau und die allgemeine Fortbewegung, hat zehn Speicherplätze und lässt {LINK:Stationeers;Stationeers} mit 3m/s fliegen, verglichen mit dem stärkeren {THING:ItemHardJetpack}. Durch Einstellen des Schubwerts wird die Beschleunigung verändert, während die Aktivierung des Stabilisators das Spacepack bei Erreichen einer bestimmten Höhe zum Schweben bringt.
 ANWENDUNG: 'J' zum Aktivieren; 'Leertaste' zum Aufwärtsfliegen; 'Linke Strg' zum Abwärtsfliegen; und 'WASD' zum Bewegen.</Description>
@@ -4264,7 +4264,7 @@ ANWENDUNG: 'J' zum Aktivieren; 'Leertaste' zum Aufwärtsfliegen; 'Linke Strg' zu
     </RecordThing>
     <RecordThing>
       <Key>ItemEmergencyHelmet</Key>
-      <Value>Notfall-Helm</Value>
+      <Value>Notfall-Raumhelm</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemEmergencyArcWelder</Key>
@@ -4300,11 +4300,11 @@ ANWENDUNG: 'J' zum Aktivieren; 'Leertaste' zum Aufwärtsfliegen; 'Linke Strg' zu
     </RecordThing>
     <RecordThing>
       <Key>ItemEmergencyEvaSuit</Key>
-      <Value>Notfall-Eva-Anzug</Value>
+      <Value>Notfall-Raumanzug</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemEmergencySpaceHelmet</Key>
-      <Value>Notfall-Helm</Value>
+      <Value>Notfall-Raumhelm</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemEmergencyToolBelt</Key>
@@ -7128,12 +7128,12 @@ Es ist sehr temperaturempfindlich und beginnt zu schmelzen, sobald es abgebaut w
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningBackPack</Key>
-      <Value>Bergbau-Rucksack</Value>
+      <Value>Bergbaurucksack</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemHardMiningBackPack</Key>
-      <Value>Schutzanzug-Bergbaurucksack</Value>
+      <Value>Bergbaurucksack (gehärtet)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -8038,7 +8038,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     </RecordThing>
     <RecordThing>
       <Key>ApplianceBobbleHeadHardSuit</Key>
-      <Value>Wackelkopf (Schutzanzug)</Value>
+      <Value>Wackelkopf (Raumanzug (gehärtet))</Value>
       <Description />
     </RecordThing>
     <RecordThing>
