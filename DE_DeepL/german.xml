@@ -850,7 +850,7 @@ Die Platine verfügt über zwei Modi: "Link" schaltet alle Geräte ein oder aus;
     <RecordThing>
       <Key>DynamicAirConditioner</Key>
       <Value>Tragbares Klimagerät</Value>
-      <Description>Das von {LINK:Sinotai;Sinotai} entworfene tragbare Klimagerät von Huxi kühlt, indem es der Atmosphäre Wärme entzieht und speichert oder der Atmosphäre Wärme aus seinem internen Tank zuführt. Mit einem maximalen Innendruck von 8106 kPa ist die Kapazität relativ begrenzt, da die Physik in diesem Punkt eindeutig ist. Um seine Fähigkeit zur Temperaturspeicherung zu erweitern, schrauben Sie den Huxi an einen {THING:StructureTankConnector} und schließen Sie ihn an ein Rohrnetz an, das Wärme oder Kälte liefert {LINK:GasPage;gases}.</Description>
+      <Description>Das von {LINK:Sinotai;Sinotai} entworfene tragbare Klimagerät von Huxi kühlt, indem es der Atmosphäre Wärme entzieht und speichert oder der Atmosphäre Wärme aus seinem internen Tank zuführt. Mit einem maximalen Innendruck von 8106 kPa ist die Kapazität relativ begrenzt, da die Physik in diesem Punkt eindeutig ist. Um seine Fähigkeit zur Temperaturspeicherung zu erweitern, schrauben Sie den Huxi an einen {THING:StructureTankConnector} und schließen Sie ihn an ein Rohrnetz an, das Wärme oder Kälte liefert {LINK:GasPage;Gase}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicCrate</Key>
@@ -1448,7 +1448,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemLabeller</Key>
       <Value>Etikettierer</Value>
-      <Description>Mit einem Etikettierer können Sie Namen und Werte für eine Vielzahl von Geräten und Strukturen, einschließlich {THING:StructureConsole} und {LINK:LogicPage;Logic}, festlegen.</Description>
+      <Description>Mit einem Etikettierer können Sie Namen und Werte für eine Vielzahl von Geräten und Strukturen, einschließlich {THING:StructureConsole} und {LINK:LogicPage;Logik}, festlegen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemLightSword</Key>
@@ -1950,7 +1950,7 @@ Sei da, auch wenn du nicht da bist.</Description>
     <RecordThing>
       <Key>StructureCentrifuge</Key>
       <Value>Zentrifuge</Value>
-      <Description>Wenn ein {THING:StructureRecycler} oder ein unausgewogenes {THING:StructureFurnace} ein {LINK:ReagentPage;reagent}-Gemisch statt des gewünschten {LINK:IngotPage;ingots} ergibt, können Sie mit einer Zentrifuge das rohe {LINK:OrePage;Erz} zurückgewinnen. Sie verfeinert auch {THING:ItemDirtyOre}, das aus {THING:StructureDeepMiner} hergestellt wurde. Ihr größerer Bruder {THING:StructureCombustionCentrifuge} kann verwendet werden, um Gegenstände wesentlich schneller zu verarbeiten.
+      <Description>Wenn ein {THING:StructureRecycler} oder ein unausgewogenes {THING:StructureFurnace} ein {LINK:ReagentPage;reagent}-Gemisch statt des gewünschten {LINK:IngotPage;Barren} ergibt, können Sie mit einer Zentrifuge das rohe {LINK:OrePage;Erz} zurückgewinnen. Sie verfeinert auch {THING:ItemDirtyOre}, das aus {THING:StructureDeepMiner} hergestellt wurde. Ihr größerer Bruder {THING:StructureCombustionCentrifuge} kann verwendet werden, um Gegenstände wesentlich schneller zu verarbeiten.
 
 Von der Zentrifuge verarbeitete Gegenstände werden entgast</Description>
     </RecordThing>
@@ -2115,7 +2115,7 @@ Eine immer wiederkehrende {LINK:Stationeers;Stationeer} Beschwerde konzentriert 
     <RecordThing>
       <Key>StructureDaylightSensor</Key>
       <Value>Tageslicht-Sensor</Value>
-      <Description>Tageslichtsensoren liefern Daten darüber, ob der aktuelle Bereich Ihrer Basis im Sonnenlicht liegt, und melden den genauen Sonnenwinkel. Beachten Sie, dass die Ausrichtung des Sensors den gemeldeten Sonnenwinkel verändert, während {LINK:LogicPage;Logic}-Systeme verwendet werden können, um ihn auszugleichen.</Description>
+      <Description>Tageslichtsensoren liefern Daten darüber, ob der aktuelle Bereich Ihrer Basis im Sonnenlicht liegt, und melden den genauen Sonnenwinkel. Beachten Sie, dass die Ausrichtung des Sensors den gemeldeten Sonnenwinkel verändert, während {LINK:LogicPage;Logik}-Systeme verwendet werden können, um ihn auszugleichen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureDigitalValve</Key>
@@ -2131,7 +2131,7 @@ Eine immer wiederkehrende {LINK:Stationeers;Stationeer} Beschwerde konzentriert 
       <Key>StructureFiltration</Key>
       <Value>Filtration</Value>
       <Description>Die Filtrationseinheit basiert auf einem seit langem bestehenden {LINK:ExMin;ExMin}-System, das seinerseits auf älteren Konstruktionen ungewisser Herkunft beruht. Sie ist in der {THING:ItemKitAtmospherics} erhältlich.
-Das Gerät hat sich jedoch als unentbehrlich für {LINK:Stationeers;Stationeer} atmosphärische Systeme erwiesen, da es mit Hilfe einer Doppelfilteranordnung zwei {LINK:GasPage;gases} gleichzeitig aus einem einzigen Rohrnetz filtern kann. Das Gerät hat einen Eingang und einen Filterausgang sowie einen ungefilterten Ausgang für eventuelle Restgase.
+Das Gerät hat sich jedoch als unentbehrlich für {LINK:Stationeers;Stationeer} atmosphärische Systeme erwiesen, da es mit Hilfe einer Doppelfilteranordnung zwei {LINK:GasPage;Gase} gleichzeitig aus einem einzigen Rohrnetz filtern kann. Das Gerät hat einen Eingang und einen Filterausgang sowie einen ungefilterten Ausgang für eventuelle Restgase.
 </Description>
     </RecordThing>
     <RecordThing>
@@ -2158,8 +2158,8 @@ Die von der Gotik inspirierte Silhouette des Eckrahmens ermöglicht mit ein weni
     <RecordThing>
       <Key>StructureFurnace</Key>
       <Value>Schmelzofen</Value>
-      <Description>Im Zhurong-Ofen wird ein Hochtemperatur-Gasgemisch aus {GAS:Oxygen} und {GAS:Volatiles} zum Schmelzen von {LINK:IngotPage;ingots} und einer Reihe von {LINK:IngotPage;alloys} als Rohmaterial für {LINK:FabricatorPage;fabricators} verwendet.
-Ein einfaches Gasgemisch kann durch Zugabe von {THING:ItemOxite} und {THING:ItemVolatiles} im Verhältnis 1:2 direkt in den Ofen erreicht werden, aber komplexere Legierungen erfordern ein sorgfältiges Management eines speziellen Gasmischnetzes. Die genauen Verhältnisse der Bestandteile müssen eingehalten werden. Ebenso entsteht beim Schmelzen von Erzen bei unzureichenden Temperaturen {LINK:ReagentPage;reagents}, das zurückgeführt werden muss.
+      <Description>Im Zhurong-Ofen wird ein Hochtemperatur-Gasgemisch aus {GAS:Oxygen} und {GAS:Volatiles} zum Schmelzen von {LINK:IngotPage;Barren} und einer Reihe von {LINK:IngotPage;alloys} als Rohmaterial für {LINK:FabricatorPage;Fabriken} verwendet.
+Ein einfaches Gasgemisch kann durch Zugabe von {THING:ItemOxite} und {THING:ItemVolatiles} im Verhältnis 1:2 direkt in den Ofen erreicht werden, aber komplexere Legierungen erfordern ein sorgfältiges Management eines speziellen Gasmischnetzes. Die genauen Verhältnisse der Bestandteile müssen eingehalten werden. Ebenso entsteht beim Schmelzen von Erzen bei unzureichenden Temperaturen {LINK:ReagentPage;Reagenzien}, das zurückgeführt werden muss.
 Wenn Flüssigkeiten im Ofen vorhanden sind, sammeln sie sich dort, bis der Ofen an ein Flüssigkeitsrohrnetz angeschlossen wird.</Description>
     </RecordThing>
     <RecordThing>
@@ -2199,7 +2199,7 @@ Wenn Flüssigkeiten im Ofen vorhanden sind, sammeln sie sich dort, bis der Ofen 
     <RecordThing>
       <Key>StructureHydroponicsTray</Key>
       <Value>Hydroponisches Beet (Einzelplatz)</Value>
-      <Description>Das {LINK:Agrizero;Agrizero} Hydroponik-Tablett ist das ideale Gefäß für den Anbau einer Reihe von {LINK:OrganicPage;plantlife}. Es muss über ein Leitungsnetz mit Wasser und ausreichend Licht für die Photosynthese versorgt werden.
+      <Description>Das {LINK:Agrizero;Agrizero} Hydroponik-Tablett ist das ideale Gefäß für den Anbau einer Reihe von {LINK:OrganicPage;Pflanzen}. Es muss über ein Leitungsnetz mit Wasser und ausreichend Licht für die Photosynthese versorgt werden.
 Sie kann mit dem {THING:StructureHarvie} automatisiert werden.</Description>
     </RecordThing>
     <RecordThing>
@@ -2215,7 +2215,7 @@ Sie kann mit dem {THING:StructureHarvie} automatisiert werden.</Description>
     <RecordThing>
       <Key>StructureMotionSensor</Key>
       <Value>Bewegungsmelder</Value>
-      <Description>Ursprünglich entwickelt, um Tanzmarathons zu überwachen, kann der Bewegungssensor auch an {LINK:LogicPage;Logic} Systeme für Sicherheitszwecke, automatische Beleuchtung, Türen und verschiedene andere Anwendungen angeschlossen werden.
+      <Description>Ursprünglich entwickelt, um Tanzmarathons zu überwachen, kann der Bewegungssensor auch an {LINK:LogicPage;Logik} Systeme für Sicherheitszwecke, automatische Beleuchtung, Türen und verschiedene andere Anwendungen angeschlossen werden.
 Der Sensor wird aktiviert, sobald ein Spieler das Gitter betritt, auf dem er platziert ist.</Description>
     </RecordThing>
     <RecordThing>
@@ -2226,8 +2226,8 @@ Der Sensor wird aktiviert, sobald ein Spieler das Gitter betritt, auf dem er pla
     <RecordThing>
       <Key>StructurePipeAnalysizer</Key>
       <Value>Gasrohr-Analysator</Value>
-      <Description>Der angeblich aus einem Wochenendprojekt eines übereifrigen {{LINK:ExMin;ExMin}-Ingenieurs zwischen Vater und Tochter hervorgegangene Rohranalysator ist im Wesentlichen eine weiterentwickelte Version des {THING:StructurePipeMeter}.
-Er zeigt den Innendruck von Rohrnetzen an, misst auch die Temperatur und den Gasgehalt und kann über ein {{LINK:LogicPage;Logic}-System an ein {THING:StructureConsole}- oder {THING:StructureComputer}-System angeschlossen werden.</Description>
+      <Description>Der angeblich aus einem Wochenendprojekt eines übereifrigen {LINK:ExMin;ExMin}-Ingenieurs zwischen Vater und Tochter hervorgegangene Rohranalysator ist im Wesentlichen eine weiterentwickelte Version des {THING:StructurePipeMeter}.
+Er zeigt den Innendruck von Rohrnetzen an, misst auch die Temperatur und den Gasgehalt und kann über ein {LINK:LogicPage;Logik}-System an ein {THING:StructureConsole}- oder {THING:StructureComputer}-System angeschlossen werden.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeCorner</Key>
@@ -2330,7 +2330,7 @@ Rohre verteilen ihren Inhalt gleichmäßig über das gesamte Netzwerk und könne
     <RecordThing>
       <Key>StructureSolarPanel</Key>
       <Value>Solarmodul</Value>
-      <Description>{LINK:Sinotai;Sinotai's} Standard-Solarmodule werden zur Stromerzeugung aus Sonnenlicht verwendet. Sie können an {LINK:LogicPage;Logic} Systeme angeschlossen werden, um das Sonnenlicht nachzuverfolgen, aber ihre Leistung wird bei Stürmen und bei Beschädigung reduziert. Du kannst sie mit einigen zuverlässigen {THING:ItemDuctTape} reparieren.</Description>
+      <Description>{LINK:Sinotai;Sinotai's} Standard-Solarmodule werden zur Stromerzeugung aus Sonnenlicht verwendet. Sie können an {LINK:LogicPage;Logik} Systeme angeschlossen werden, um das Sonnenlicht nachzuverfolgen, aber ihre Leistung wird bei Stürmen und bei Beschädigung reduziert. Du kannst sie mit einigen zuverlässigen {THING:ItemDuctTape} reparieren.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureSorter</Key>
@@ -2341,13 +2341,13 @@ Rohre verteilen ihren Inhalt gleichmäßig über das gesamte Netzwerk und könne
       <Key>StructureStacker</Key>
       <Value>Stapler</Value>
       <Description>Ein Stapler ist ein wichtiger Bestandteil jedes automatisierten Rutschennetzes. Der {LINK:Xigo;Xigo} ProKompile kann manuell oder über eine Logik eingestellt werden, um sicherzustellen, dass die den Stapler durchlaufenden Artikel für Ihren Lagerbedarf maximiert werden.
-Der ProKompile kann eine Vielzahl von Gegenständen stapeln, wie z. B. {LINK:IngotPage;ingots}, und die Stapel bei Bedarf in geeignete Größen aufteilen.</Description>
+Der ProKompile kann eine Vielzahl von Gegenständen stapeln, wie z. B. {LINK:IngotPage;Barren}, und die Stapel bei Bedarf in geeignete Größen aufteilen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureStackerReverse</Key>
       <Value>Stapler</Value>
       <Description>Ein Stapler ist ein wichtiger Bestandteil jedes automatisierten Rutschennetzes. Der {LINK:Xigo;Xigo} ProKompile kann manuell oder über eine Logik eingestellt werden, um sicherzustellen, dass die den Stapler durchlaufenden Artikel für Ihren Lagerbedarf maximiert werden. Der umgekehrte Stapler hat Strom und Daten auf der gegenüberliegenden Seite.
-Der ProKompile kann eine Vielzahl von Gegenständen stapeln, z. B. {LINK:IngotPage;ingots}, und die Stapel je nach Bedarf in geeignete Größen aufteilen.</Description>
+Der ProKompile kann eine Vielzahl von Gegenständen stapeln, z. B. {LINK:IngotPage;Barren}, und die Stapel je nach Bedarf in geeignete Größen aufteilen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureStairs4x2</Key>
@@ -2424,7 +2424,7 @@ Alle Rohre des Racks müssen angeschlossen sein, sonst zeigt das Gerät eine Feh
         - Gas in den angeschlossenen Leitungen, oder der Druck ist zu niedrig.
         - Die Atmosphäre in der Umgebung oder der Druck ist zu niedrig.
 
-        Weitere Informationen zur Temperaturregelung finden Sie auf der Seite {LINK:TemperatureControlPage;temperature control} Seite Anleitungen.</Description>
+        Weitere Informationen zur Temperaturregelung finden Sie auf der Seite {LINK:TemperatureControlPage;Temperaturkontrolle}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallHeater</Key>
@@ -2561,7 +2561,7 @@ Beachten Sie, dass Transformatoren als Datenisolatoren fungieren und verhindern,
     <RecordThing>
       <Key>StructureTransformerSmall</Key>
       <Value>Transformator (klein)</Value>
-      <Description>Transformatoren regeln die maximale Leistung, die in ein Kabelteilnetz fließt, um eine Überlastung von {LINK:ElectronicPage;electrical} Systemen zu verhindern. Die Leistung von kleinen Transformatoren kann zwischen 0 und 5000 W eingestellt werden.
+      <Description>Transformatoren regeln die maximale Leistung, die in ein Kabelteilnetz fließt, um eine Überlastung von {LINK:ElectronicPage;elektrischen} Systemen zu verhindern. Die Leistung von kleinen Transformatoren kann zwischen 0 und 5000 W eingestellt werden.
 Beachten Sie, dass Transformatoren als Datenisolatoren fungieren und verhindern, dass Daten in ein anderes Netzwerk fließen.</Description>
     </RecordThing>
     <RecordThing>
@@ -2571,15 +2571,15 @@ Beachten Sie, dass Transformatoren als Datenisolatoren fungieren und verhindern,
     <RecordThing>
       <Key>StructureChuteWindow</Key>
       <Value>Schacht (Fenster)</Value>
-      <Description>Bei Schächten mit Fenstern können Sie sehen, was Ihr {LINK:ImportExportPage;import/export} Netz durchläuft. Aber seien Sie gewarnt, sie sind nicht isoliert wie andere Schächte. Eis wird schmelzen.</Description>
+      <Description>Bei Schächten mit Fenstern können Sie sehen, was Ihr {LINK:ImportExportPage;Import/Export} Netz durchläuft. Aber seien Sie gewarnt, sie sind nicht isoliert wie andere Schächte. Eis wird schmelzen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureArcFurnace</Key>
       <Value>Lichtbogenofen</Value>
       <Description>Das einfachste Schmelzsystem, das dem durchschnittlichen {LINK:Stationeers;Stationeer} zur Verfügung steht, der {LINK:Recurso;Recurso's}-Lichtbogenofen, wurde in den Tiefen des Sonnensystems selbst geschmiedet, um Geologen bei der Erkundung der Reinheit potenzieller asteroider Abbauziele zu helfen.
 Er wurde von den {LINK:ODA;ODA} übernommen und bietet den Stationsbewohnern nun eine Möglichkeit, reine Barren verschiedener Ressourcen herzustellen.
-Der Schmelzprozess setzt auch eine Reihe von Nebenprodukten {LINK:GasPage;gases} frei, vor allem {GAS:Nitrogen}, {GAS:CarbonDioxide}, {GAS:Volatiles} und {GAS:Oxygen} in unterschiedlichen Verhältnissen. Diese können durch Filterung aus der Atmosphäre zurückgewonnen werden, machen den Lichtbogenofen aber auch zu einem Risiko in geschlossenen Umgebungen.
-Im Gegensatz zu den weiter entwickelten {THING:StructureFurnace} kann der Lichtbogenofen keine {LINK:IngotPage;alloys} erzeugen.</Description>
+Der Schmelzprozess setzt auch eine Reihe von Nebenprodukten {LINK:GasPage;Gase} frei, vor allem {GAS:Nitrogen}, {GAS:CarbonDioxide}, {GAS:Volatiles} und {GAS:Oxygen} in unterschiedlichen Verhältnissen. Diese können durch Filterung aus der Atmosphäre zurückgewonnen werden, machen den Lichtbogenofen aber auch zu einem Risiko in geschlossenen Umgebungen.
+Im Gegensatz zu den weiter entwickelten {THING:StructureFurnace} kann der Lichtbogenofen keine {LINK:IngotPage;Legierungen} erzeugen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureAutolathe</Key>
@@ -2619,17 +2619,17 @@ Im Gegensatz zu den weiter entwickelten {THING:StructureFurnace} kann der Lichtb
     <RecordThing>
       <Key>ItemSilverOre</Key>
       <Value>Erz (Silber)</Value>
-      <Description>Silber ist ein chemisches Element mit dem Symbol "Ag". Von vielen {LINK:Stationeers;Stationeers} wegen seines attraktiven Glanzes geschätzt, wird es auch in einer Vielzahl von {LINK:ElectronicPage;electronics} Komponenten und {LINK:IngotPage;alloys} verwendet.</Description>
+      <Description>Silber ist ein chemisches Element mit dem Symbol "Ag". Von vielen {LINK:Stationeers;Stationeers} wegen seines attraktiven Glanzes geschätzt, wird es auch in einer Vielzahl von {LINK:ElectronicPage;electronics} Komponenten und {LINK:IngotPage;Legierungen} verwendet.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemNickelOre</Key>
       <Value>Erz (Nickel)</Value>
-      <Description>Nickel ist ein chemisches Element mit dem Symbol "Ni" und ist ein seltenes Metall, das häufig als Beschichtung verwendet wird, um Korrosion zu verhindern. Von vielen {LINK:Stationeers;Stationeers} begehrt, wird Nickel auch häufig zur Herstellung verschiedener {LINK:IngotPage;alloys} verwendet.</Description>
+      <Description>Nickel ist ein chemisches Element mit dem Symbol "Ni" und ist ein seltenes Metall, das häufig als Beschichtung verwendet wird, um Korrosion zu verhindern. Von vielen {LINK:Stationeers;Stationeers} begehrt, wird Nickel auch häufig zur Herstellung verschiedener {LINK:IngotPage;Legierungen} verwendet.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemLeadOre</Key>
       <Value>Erz (Blei)</Value>
-      <Description>Blei ist ein chemisches Element mit dem Symbol "Pb". Es ist ein dichtes, schweres Metall mit einem niedrigen Schmelzpunkt. Blei wird zur Herstellung einer Vielzahl von Dingen wie {LINK:IngotPage;alloys} wie {THING:ItemSolderIngot} und Munition verwendet.</Description>
+      <Description>Blei ist ein chemisches Element mit dem Symbol "Pb". Es ist ein dichtes, schweres Metall mit einem niedrigen Schmelzpunkt. Blei wird zur Herstellung einer Vielzahl von Dingen wie {LINK:IngotPage;Legierungen} wie {THING:ItemSolderIngot} und Munition verwendet.</Description>
     </RecordThing>
     <RecordThing>
       <Key>WeaponRifleEnergy</Key>
@@ -2684,11 +2684,11 @@ Im Gegensatz zu den weiter entwickelten {THING:StructureFurnace} kann der Lichtb
     <RecordThing>
       <Key>ItemSiliconOre</Key>
       <Value>Erz (Silizium)</Value>
-      <Description>Silizium ist ein chemisches Element mit dem Symbol "Si" und ist eines der nützlichsten Elemente für {LINK:Stationeers;Stationeers}. Silizium ist überall im Universum verfügbar und wird in einer Reihe von {LINK:IngotPage;alloys}, Glas, Kunststoffen und verschiedenen elektronischen Komponenten verwendet, die ein Stationeer zur Erfüllung seiner Mission benötigt.</Description>
+      <Description>Silizium ist ein chemisches Element mit dem Symbol "Si" und ist eines der nützlichsten Elemente für {LINK:Stationeers;Stationeers}. Silizium ist überall im Universum verfügbar und wird in einer Reihe von {LINK:IngotPage;Legierungen}, Glas, Kunststoffen und verschiedenen elektronischen Komponenten verwendet, die ein Stationeer zur Erfüllung seiner Mission benötigt.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemSiliconIngot</Key>
-      <Value>Barren (Silikon)</Value>
+      <Value>Barren (Silizium)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemFern</Key>
@@ -2703,7 +2703,7 @@ Im Gegensatz zu den weiter entwickelten {THING:StructureFurnace} kann der Lichtb
     <RecordThing>
       <Key>StructureElectronicsPrinter</Key>
       <Value>Elektronik Drucker</Value>
-      <Description>Der Elektronikdrucker stellt jedes {LINK:ElectronicPage;electronic} Teil her, das Sie benötigen. Von Leiterplatten und elektronischen Geräten bis hin zu Solarpanels. Sie haben die Wahl. Erweitern Sie das Gerät mit einem {THING:ElectronicPrinterMod} für zusätzliche Rezepte und höhere Verarbeitungsgeschwindigkeiten.</Description>
+      <Description>Der Elektronikdrucker stellt jedes {LINK:ElectronicPage;elektronisches} Teil her, das Sie benötigen. Von Leiterplatten und elektronischen Geräten bis hin zu Solarpanels. Sie haben die Wahl. Erweitern Sie das Gerät mit einem {THING:ElectronicPrinterMod} für zusätzliche Rezepte und höhere Verarbeitungsgeschwindigkeiten.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemVolatiles</Key>
@@ -2835,7 +2835,7 @@ Rüste das Gerät mit einem {THING:ToolPrinterMod} auf, um zusätzliche Rezepte 
     <RecordThing>
       <Key>StructureTransformerSmallReversed</Key>
       <Value>Transformator Umgekehrt (klein)</Value>
-      <Description>Transformatoren regeln die maximale Leistung, die in ein Kabelteilnetz fließt, um eine Überlastung von {LINK:ElectronicPage;electrical} Systemen zu verhindern. Die Leistung von kleinen Transformatoren kann zwischen 0 und 5000 W eingestellt werden.
+      <Description>Transformatoren regeln die maximale Leistung, die in ein Kabelteilnetz fließt, um eine Überlastung von {LINK:ElectronicPage;elektrischen} Systemen zu verhindern. Die Leistung von kleinen Transformatoren kann zwischen 0 und 5000 W eingestellt werden.
 Beachten Sie, dass Transformatoren als Datenisolatoren fungieren und verhindern, dass Daten in ein anderes Netzwerk fließen.</Description>
     </RecordThing>
     <RecordThing>
@@ -2921,7 +2921,7 @@ Beachten Sie, dass Transformatoren als Datenisolatoren fungieren und verhindern,
     <RecordThing>
       <Key>StructureSolarPanelDual</Key>
       <Value>Solarmodul (Dual)</Value>
-      <Description>{LINK:Sinotai;Sinotai} Duale Solarpaneele werden zur Stromerzeugung aus Sonnenlicht verwendet und verfügen über eigene Daten- und Stromanschlüsse. Sie können an {{LINK:LogicPage;Logik} Systeme angeschlossen werden, um das Sonnenlicht zu verfolgen, aber ihre Effizienz wird bei Stürmen und Beschädigungen reduziert. Du kannst sie mit einigen zuverlässigen {THING:ItemDuctTape} reparieren.</Description>
+      <Description>{LINK:Sinotai;Sinotai} Duale Solarpaneele werden zur Stromerzeugung aus Sonnenlicht verwendet und verfügen über eigene Daten- und Stromanschlüsse. Sie können an {LINK:LogicPage;Logik} Systeme angeschlossen werden, um das Sonnenlicht zu verfolgen, aber ihre Effizienz wird bei Stürmen und Beschädigungen reduziert. Du kannst sie mit einigen zuverlässigen {THING:ItemDuctTape} reparieren.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicBatchWriter</Key>
