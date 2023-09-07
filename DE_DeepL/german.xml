@@ -1027,7 +1027,7 @@ Mit einer Ladung von 2,3 Megawatt (2304000W) stößt der "Nuke" an seine Grenzen
     </RecordThing>
     <RecordThing>
       <Key>ItemCableCoil</Key>
-      <Value>Kabel</Value>
+      <Value>Kabel (Dünn)</Value>
       <Description>Körperliche Metaphern sind müde und anthropozentrisch, aber es war Frida Stuppen, die erste {LINK:ODA;ODA} Administratorin, die sagte: "Lasst die Verkabelung wie den Nerv und das Gefäß sein, das Strom und Daten gleichermaßen durch Systeme überträgt, die wir zwischen den Sternen schmieden. Spätere Kommentatoren meinten, dass sie damit lediglich eine zweifelhafte Wirtschaftlichkeit romantisch beschönigen wollte. Wie dem auch sei, die Standardverkabelung ist der Ausgangspunkt für jedes {LINK:Stationeers;Stationeer's} Netzwerk.
 Normale Spulen haben eine maximale Wattleistung von 5 kW. Für Anwendungen mit höheren Strömen sollten Sie {THING:ItemCableCoilHeavy} verwenden.</Description>
     </RecordThing>
