@@ -84,11 +84,56 @@
       <Title>Schmelzen</Title>
       <Text>Sobald du {LINK:OrePage;ore} hast, musst du es in {LINK:IngotPage; ingots} verwandeln, damit du ihre {LINK:ReagentPage;reagents} benutzen kannst. Beim Schmelzen entstehen oft {LINK:GasPage;gases}. Dies geschieht entweder im {THING:StructureArcFurnace} (für einfache Rezepte) oder im {THING:StructureFurnace} für kompliziertere {LINK:AlloyPage;Alloys}, und schließlich im {THING:StructureAdvancedFurnace} für sehr komplizierte {LINK:SuperAlloyPage;Superalloys}. Für die komplexen Legierungen musst du Mischungen mit perfekten Verhältnissen, {LINK: TemperaturePage;Temperature}, und {LINK:PressurePage;Pressure} erreichen.</Text>
     </StationpediaPage>
-    <StationpediaPage>
+	<StationpediaPage>
       <Key>MiningPage</Key>
       <Title>Bergbau</Title>
-      <Text>Du kannst {LINK:OrePage;ore} mit einem {THING:ItemMiningDrill} abbauen. Wenn du einen {THING:ItemMiningBelt} trägst, wird das {LINK:OrePage;ore} automatisch in ihm platziert.</Text>
-    </StationpediaPage>
+      <Text>Du kannst für den Start {LINK:OrePage;Dreckiges Erz} mit einem {THING:ItemMiningDrill} abbauen. Wenn du einen {THING:ItemMiningBelt} oder später {THING:ItemMiningBackPack} trägst, wird das {LINK:OrePage;Dreckiges Erz} automatisch in ihm platziert.
+Du kannst auch noch anderes Zeug nutzen. Wir haben dir noch ein paar Sachen als Baupläne mitgeschickt. Mehr dazu in der Bergbau Strategie, die wir uns ausgedacht hatten. Aber erst einmal, was für ein Zeug überhaupt für den Bergbau gedacht war.Keine Angst, nur die Begriffe, damit du mal davon gehört hast. Was die Teile können, musste später halt rausfinden oder in den letzten Unterlagen raussuchen. Wir tragen da selbst noch alle Informationen zusammen.
+Mit zunehmenden Fortschritt wirst du neue Möglichkeiten bekommen. Zuerst bietet sich ein besserer, schneller {THING:ItemMiningDrill} an. Zusätzlich kannst du auf die {THING:ItemSensorLenses} vertrauen, um jederzeit das Material deiner Wahl in deiner Nähe finden zu können. Du wirst schon rausfinden, wie das alles funktioniert. Danach gibt es diverse Optionen, die Erzförderung zu automatisieren. 
+{THING:StructureAutoMinerSmall} 
+{THING:StructureHorizontalAutoMiner} 
+{THING:Robot} 
+{THING:StructureToolManufactory}
+Diese Strukturen haben alle unterschiedliche Vorteile wie auch Nachteile. 
+Kurze Beschreibungen ohne größere Spoiler dazu {LINK: AdvancedMiningPage;Erweiterter Bergbau}. 
+Weitere Möglichkeiten findest du unter {LINK:AutomatedRocketPage;Raketenthema}. Diese haben jedoch die höchsten Anforderungen, liefern aber auf einigen Himmelskörpern Rohstoffe, die vielleicht nicht anders förderbar sind.</Text>
+	</StationpediaPage>
+	<StationpediaPage>
+      <Key>AdvancedMiningPage</Key>
+      <Title>Erweiterter Bergbau</Title>
+      <Text>{THING:StructureAutoMinerSmall} Einfache Bergbaustruktur. Ein Bohrkopf wird horizontal vorangetrieben und baut dabei alles ab, was in seiner Reichweite ist. Begrenzte Abbaumenge.
+   
+{THING:StructureHorizontalAutoMiner} Einfache Berbaustruktur. Ein Bohrkopf wird vertikal vorangetrieben bis zum Grundgestein. Dabei wird alles auf seinem Weg abgebaut. Begrenzte Abbaumenge.
+   
+{THING:Robot} Kleiner Roboter, der mit der richtigen Programmierung selbstständig über die Oberfläche fahren und Erz abbauen kann. Achtung - Stürme schaden seiner Gesundheit und können ihn bei fehlender Wartung zerstören.
+   
+{THING:StructureToolManufactory} Erweiterte Abbaustruktur. Bohrt sich durch das Erdreich, bis sie das Grundgestein erreicht. Erst wenn dieses erreicht wurde, wird mit der Förderung von Rohstoffen begonnen. Dieses {THING:ItemDirtyOre} muss noch weiter verarbeitet werden, bevor es genutzt werden kann.</Text>
+	</StationpediaPage>
+	<StationpediaPage>
+	<Key>Mining Strategy</Key>
+    <Title>Bergbau Strategie</Title>
+	<Text> Nachdem wir dir in den vorherigen Artikeln zum Bergbau nüchtern erklärt haben, welche Möglichkeiten es gibt, kommen wir nun zu dem, was du unbedingt machen solltest. Wir konnten dir das leider nicht auf der Erde erzählen - Anwälte, Urheberrecht und so... du weißt schon die Geißel der Menschheit. Leider musste aus Budget Gründen der Mining Drill als dein primäres Werkzeug herhalten. Sei froh, wir haben hier privat gesammelt, um ihn zu erwerben. Die Raumfahrtagentur meinte, die Spitzhacke würde es auch tun. Wie du mittlerweile sicher festgestellt haben dürfte, hat hier der günstigste Anbieter gewonnen. Leider konnten wir nicht wirklich testen, was er wirklich taugt. Wir haben zwar von besseren Anbietern die Pläne für bessere Hardware klauen äh prüfen dürfen, leider können wir diese jedoch aus Urheberrechtsgründen nicht auf der Erde nachbauen. Erwähnte ich schon die Anwälte?
+Auf den anderen Himmelskörpern gelten diese Rechte natürlich nicht, daher......... sind die Pläne alle zur Produktion mitgeflogen. Vielleicht ist dir das auch schon aufgefallen, beim Schauen in den Plänen.
+Was bedeutet das nun? Wenn der geneigte Astronaut die grundlegenden Sachen zu seinem Überleben, also dem anderen Budgetthema, gebaut hat und nicht mehr alle 5 Minuten panisch nach Ressourcen suchen muss, kann er sich die Situation deutlich vereinfachen.
+Ab hier solltest du nebenbei NUR weiterlesen, wenn du nicht von alleine drauf kommen willst.  Wenn du meinst "Hey, ihr 2749 Wissenschaftler seid zwar in der Lage, mich hier her zu schießen, aber ab hier übernehme ich" - nur zu. Vielleicht hast du ja "Der Marsianer" als Buch für die Langeweile dabei gehabt und so. 
+Jedenfalls: 
+
+{HEADER:SPOILER}
+Der erste Schritt dürfte sein, sich in der {THING:StructureToolManufactory} einen verbesserten Mining Drill zu produzieren. Damit kannst du dich schon einmal deutlich schneller durch den Boden fräsen.
+Damit lassen sich gängige Ressourcen schnell und ergiebig ausgraben. 
+Direkt im Anschluss kann man schon fast loslegen mit automatischen Fördermethoden.
+Lasst uns ehrlich sein - wir haben zwar einige Möglichkeiten von den Anbietern kopiert, aber lohnenswert sind nur wenige Optionen.
+Autominer? OGRE? AIMEe? Ja, AIMEe ist ein netter Partner für einsame Momente. Jeder sollte einen AIMEe in seiner Basis haben, der ihn anlächelt wenn man seine Batterie tauscht. Um damit Erze zu fördern ist der kleine viel zu schade - und nicht wirklich lange haltbar. Der Autominer und OGRE? Vergesst sie.
+Der {THING:StructureDeepMiner} ist das ultimative frühe Ziel. Er greift direkt auf die Planetenressourcen zu und fördert Unmengen davon im Vergleich zu den anderen Gebäuden.
+Du lieber Astronaut, solltest für alle Ressourcen abseits des Eises dieses Gebäude benutzen.
+Buddel dich dafür am besten bis aufs Grundgestein und erstelle eine kleine Höhle. In dieser platzierst du den {THING:StructureDeepMiner} auf dem Boden. So ist der Weg für seine Bohrköpfe relativ kurz.
+Er fördert allerdings noch keine reinen Rohstoffe, sondern Dreck. Dieser muss in einer der Zentrifugen weiterverarbeitet werden.
+"Oh" wirst du dir gerade denken - ja genau. Der Nachteil dieser Gebäude ist der erhöhte Stromverbrauch bzw. auch Gasverbrauch für den Miner und die Zentrifugen. Aber du findest meistens auch Kohle in dem Dreckigen Erz. Ansonsten sollten genügend Rohstoffe "abfallen" um Windräder und Solarpanels in Masse bauen zu können. 
+Warum liest du hier noch weiter? Los! Geh Rohstoffe fördern.
+Ach... dir fehlen noch einige besondere? Ja. Schnapp dir deine {THING:ItemSensorLenses} und stürz dich durchs Gestein. Das Teil scannt quer durch die Erde und zeigt dir alle Rohstoffpositionen an. Das Suchen hat noch nie so viel Spaß gemacht wie jetzt. Vergiss aber nicht, den Chip dafür einzubauen. Ohne Chip musst du Konny87 eher die Pilze klauen... also den Geheimvorrat... von dem wir niemals etwas gehört hätten.... . Damit siehst du dann vielleicht auch entsprechende Muster - ob dahinter aber auch Erz ist?
+
+So... noch Eis nötig? {LINK:AutomatedRocketPage;Raketenthema} hilft für die Eisförderung. Aber Achtung, Vulcan und Venus brauchen da wieder mehr Arbeit, damit dir das Zeug nicht beim Landen verdampft bzw. die Rakete direkt platzt.... Tja. Du wirst dir Lösungen überlegen müssen. Uns sind noch keine eingefallen,...... schreib uns, wenn du eine Lösung hast... und lange genug überlebst!</Text>
+	</StationpediaPage>
     <StationpediaPage>
       <Key>TradingPage</Key>
       <Title>Handel</Title>
