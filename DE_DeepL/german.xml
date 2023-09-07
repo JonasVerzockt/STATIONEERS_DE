@@ -1617,7 +1617,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     </RecordThing>
     <RecordThing>
       <Key>ItemSpaceHelmet</Key>
-      <Value>Raumhelm</Value>
+      <Value>Raumanzughelm</Value>
       <Description>Der Basis-Raumhelm isoliert {LINK:Stationeers;Stationeers} gegen alles, von hartem Vakuum bis hin zu unangenehmen Kochgerüchen. Er bietet eine druckkontrollierte, atmungsaktive Atmosphäre und verfügt über ein eingebautes Licht, das von Ihrem {THING:ItemEvaSuit} {THING:ItemBatteryCell}.
 Außerdem verfügt er über eine Ver-/Entriegelungsfunktion, um ein versehentliches Öffnen zu verhindern, sowie über eine Spülfunktion, um die interne Atmosphäre zu entleeren und zu ersetzen. Wenn sie beschädigt ist, können Sie sie mit {THING:ItemDuctTape} reparieren oder mit {THING:AppliancePaintMixer} in einer Farbe Ihrer Wahl streichen.</Description>
     </RecordThing>
@@ -3667,7 +3667,7 @@ Setzen Sie eine Kassette oder einen Farbscanner in das Tablet ein und drücken S
     </RecordThing>
     <RecordThing>
       <Key>ItemHardsuitHelmet</Key>
-      <Value>Raumhelm (gehärtet)</Value>
+      <Value>Raumanzughelm (gehärtet)</Value>
       <Description>Der Schutzanzug-Helm ähnelt dem {THING:ItemSpaceHelmet}, kann aber höheren Temperaturen und Drücken standhalten. Er ist perfekt für raue Umgebungen wie Venus und Vulkan geeignet.</Description>
     </RecordThing>
     <RecordThing>
@@ -4264,7 +4264,7 @@ ANWENDUNG: 'J' zum Aktivieren; 'Leertaste' zum Aufwärtsfliegen; 'Linke Strg' zu
     </RecordThing>
     <RecordThing>
       <Key>ItemEmergencyHelmet</Key>
-      <Value>Notfall-Raumhelm</Value>
+      <Value>Notfall-Raumanzughelm</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemEmergencyArcWelder</Key>
@@ -4304,7 +4304,7 @@ ANWENDUNG: 'J' zum Aktivieren; 'Leertaste' zum Aufwärtsfliegen; 'Linke Strg' zu
     </RecordThing>
     <RecordThing>
       <Key>ItemEmergencySpaceHelmet</Key>
-      <Value>Notfall-Raumhelm</Value>
+      <Value>Notfall-Raumanzughelm</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemEmergencyToolBelt</Key>
