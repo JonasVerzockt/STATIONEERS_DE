@@ -1227,7 +1227,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     </RecordThing>
     <RecordThing>
       <Key>ItemGasTankStorage</Key>
-      <Value>Bausatz (Gasspeicher)</Value>
+      <Value>Bausatz (Gasflaschen Anschluss)</Value>
       <Description>Dieser Satz ergibt eine {THING:ItemGasTankStorage} zum Nachfüllen einer {THING:ItemGasCanisterEmpty}.</Description>
     </RecordThing>
     <RecordThing>
@@ -2174,8 +2174,8 @@ Wenn Flüssigkeiten im Ofen vorhanden sind, sammeln sie sich dort, bis der Ofen 
     </RecordThing>
     <RecordThing>
       <Key>StructureGasTankStorage</Key>
-      <Value>Gasspeicher</Value>
-      <Description>Bei Anschluss an ein Rohrnetz ermöglicht der Tankspeicher das Nachfüllen eines {THING:ItemGasCanisterEmpty} sowie das Ablesen verschiedener atmosphärischer Daten aus dem {SLOT:GasCanister}.</Description>
+      <Value>Gasflaschen Anschluss</Value>
+      <Description>Bei Anschluss an ein Rohrnetz ermöglicht er das Nachfüllen eines {THING:ItemGasCanisterEmpty} sowie das Ablesen verschiedener atmosphärischer Daten aus dem {SLOT:GasCanister}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankStorage</Key>
