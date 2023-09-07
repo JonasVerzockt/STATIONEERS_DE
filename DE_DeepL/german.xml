@@ -496,7 +496,7 @@
     <RecordThing>
       <Key>ApplianceMicrowave</Key>
       <Value>Mikrowelle</Value>
-      <Description>Während in den letzten hundert Jahren unzählige "bessere" Kochmethoden erfunden wurden {LINK:FoodPage;Food}, sind nur wenige so langlebig oder einfach herzustellen wie die OK-Zoomer-Mikrowelle. Die von {LINK:Xigo;Xigo} lizenzierten Pläne basieren auf einem klassischen Modell aus der Mitte des 21. Jahrhunderts, was ihr einen charmanten Retro-Charme verleiht. Aber keine Sorge, sie schwingt {GAS:Water} Moleküle mehr als adäquat.
+      <Description>Während in den letzten hundert Jahren unzählige "bessere" Kochmethoden erfunden wurden {LINK:FoodPage;Nahrung}, sind nur wenige so langlebig oder einfach herzustellen wie die OK-Zoomer-Mikrowelle. Die von {LINK:Xigo;Xigo} lizenzierten Pläne basieren auf einem klassischen Modell aus der Mitte des 21. Jahrhunderts, was ihr einen charmanten Retro-Charme verleiht. Aber keine Sorge, sie schwingt {GAS:Water} Moleküle mehr als adäquat.
 Einfach mit einem {THING:StructureBench} und einem {THING:ItemWrench} an den Strom schrauben, das Rezept befolgen und schon kann es losgehen.</Description>
     </RecordThing>
     <RecordThing>
@@ -777,7 +777,7 @@ Einfach mit einem {THING:StructureBench} und einem {THING:ItemWrench} an den Str
     <RecordThing>
       <Key>CartridgeAtmosAnalyser</Key>
       <Value>Chip (Atmosphärenanalysator)</Value>
-      <Description>Der Lorenz Atmos Analysator ist ein multifunktionales Massenspektrometer, das von {LINK:ExMin;ExMin} für die Verwendung mit dem OreCore {THING:ItemTablet} entwickelt wurde. Er zeigt den Druck, die Konzentration und die molare Menge von {LINK:GasPage;gas} in Räumen, Tanks oder Rohrnetzen an.</Description>
+      <Description>Der Lorenz Atmos Analysator ist ein multifunktionales Massenspektrometer, das von {LINK:ExMin;ExMin} für die Verwendung mit dem OreCore {THING:ItemTablet} entwickelt wurde. Er zeigt den Druck, die Konzentration und die molare Menge von {LINK:GasPage;Gas} in Räumen, Tanks oder Rohrnetzen an.</Description>
     </RecordThing>
     <RecordThing>
       <Key>CartridgeMedicalAnalyser</Key>
@@ -850,7 +850,7 @@ Die Platine verfügt über zwei Modi: "Link" schaltet alle Geräte ein oder aus;
     <RecordThing>
       <Key>DynamicAirConditioner</Key>
       <Value>Tragbares Klimagerät</Value>
-      <Description>Das von {LINK:Sinotai;Sinotai} entworfene tragbare Klimagerät von Huxi kühlt, indem es der Atmosphäre Wärme entzieht und speichert oder der Atmosphäre Wärme aus seinem internen Tank zuführt. Mit einem maximalen Innendruck von 8106 kPa ist die Kapazität relativ begrenzt, da die Physik in diesem Punkt eindeutig ist. Um seine Fähigkeit zur Temperaturspeicherung zu erweitern, schrauben Sie den Huxi an einen {THING:StructureTankConnector} und schließen Sie ihn an ein Rohrnetz an, das Wärme oder Kälte liefert {LINK:GasPage;gases}.</Description>
+      <Description>Das von {LINK:Sinotai;Sinotai} entworfene tragbare Klimagerät von Huxi kühlt, indem es der Atmosphäre Wärme entzieht und speichert oder der Atmosphäre Wärme aus seinem internen Tank zuführt. Mit einem maximalen Innendruck von 8106 kPa ist die Kapazität relativ begrenzt, da die Physik in diesem Punkt eindeutig ist. Um seine Fähigkeit zur Temperaturspeicherung zu erweitern, schrauben Sie den Huxi an einen {THING:StructureTankConnector} und schließen Sie ihn an ein Rohrnetz an, das Wärme oder Kälte liefert {LINK:GasPage;Gase}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicCrate</Key>
@@ -1013,7 +1013,7 @@ Die große Energiezelle kann eine Leistung von 288 kW abgeben.
       <Description>Auf der Erde seit dem Chengdu-Ereignis verboten, haben die Norsec-Atomzellen einen neuen, weniger sicherheitsbewussten Markt außerhalb der Erde gefunden.
 
 {HEADER:POWER OUTPUT}
-Mit einer Ladung von 2,3 Megawatt (2304000W) stößt der "Nuke" an seine Grenzen, was seine Abhängigkeit von exotischen {LINK:IngotPage;superalloys}.</Description>
+Mit einer Ladung von 2,3 Megawatt (2304000W) stößt der "Nuke" an seine Grenzen, was seine Abhängigkeit von hochwertigen {LINK:IngotPage;Legierungen}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemBatteryCharger</Key>
@@ -1059,7 +1059,7 @@ Normale Spulen haben eine maximale Wattleistung von 5 kW. Für Anwendungen mit h
     <RecordThing>
       <Key>ItemCoalOre</Key>
       <Value>Erz (Kohle)</Value>
-      <Description>Ohne bescheidene, brennbare Kohle wäre die Menschheit nicht in den Weltraum vorgedrungen. Verbrennen Sie sie in einem {THING:StructureSolidFuelGenerator}, schmelzen Sie sie in der {THING:StructureFurnace}, um {LINK:AlloysPage;alloys} zu erzeugen, oder verwenden Sie sie in der {THING:ApplianceReagentProcessor}, um {THING:ItemSprayCanBlack} herzustellen.</Description>
+      <Description>Ohne bescheidene, brennbare Kohle wäre die Menschheit nicht in den Weltraum vorgedrungen. Verbrennen Sie sie in einem {THING:StructureSolidFuelGenerator}, schmelzen Sie sie in der {THING:StructureFurnace}, um {LINK:AlloysPage;Legierungen} zu erzeugen, oder verwenden Sie sie in der {THING:ApplianceReagentProcessor}, um {THING:ItemSprayCanBlack} herzustellen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCompositeFloorGrating</Key>
@@ -1102,7 +1102,7 @@ Anwendung: Klebeband in die aktive Hand nehmen und die rechte Maustaste gedrück
       <Value>Ei</Value>
       <Description>Endlich ist die Frage geklärt, was zuerst da war: das Ei.
 Ein durchschnittliches Huhn legt alle 60-90 Sekunden ein Ei ab.
-Wenn ein Ei befruchtet wurde und zwischen 20C-30C gehalten wird, entsteht ein {THING:EntityChick}. Für den Rest gibt es die {THING:ApplianceMicrowave} und alle Arten von {LINK:FoodPage;gustatory} Trost.</Description>
+Wenn ein Ei befruchtet wurde und zwischen 20C-30C gehalten wird, entsteht ein {THING:EntityChick}. Für den Rest gibt es die {THING:ApplianceMicrowave} und alle Arten von {LINK:FoodPage;leckereien}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemEggBottom</Key>
@@ -1159,14 +1159,14 @@ Achten Sie darauf, den Druck nicht über 10MPa zu erhöhen, sonst kann es "knall
     <RecordThing>
       <Key>ItemGasCanisterEmpty</Key>
       <Value>Gasflasche</Value>
-      <Description>Das tragbare Gerät {SLOT:GasCanister} ist die {LINK:Stationeers;Stationeer's} Grundeinheit der {LINK:GasPage;gas} Lieferung. Rated to a standard pressure of 8000kPa (80 atmospheres), empty gas canisters can be mounted to a ?
+      <Description>Das tragbare Gerät {SLOT:GasCanister} ist die {LINK:Stationeers;Stationeer's} Grundeinheit der {LINK:GasPage;Gas} Lieferung. Rated to a standard pressure of 8000kPa (80 atmospheres), empty gas canisters can be mounted to a ?
 {THING:DynamicGasCanisterAir} oder {THING:StructureGasTankStorage} zum Auffüllen verwendet werden.
 Achten Sie darauf, den Druck nicht über 10 MPa zu erhöhen, da es sonst zu einem "Knall" kommen kann. Enthält 64 Liter Gas.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterFuel</Key>
       <Value>Gasflasche (Treibstoff)</Value>
-      <Description>Der orangefarbene tragbare {LINK:GasPage;fuel} {SLOT:GasCanister} liefert ein 64L-Gemisch aus 66% {GAS:Volatiles}/34% {GAS:Oxygen} für den Antrieb von Gegenständen wie dem {THING:ItemWeldingTorch} und dem {THING:DynamicGenerator}. Alle Gasbehälter sind voll, wenn sie bei einem Druck von 8000kPa (80 Atmosphären) hergestellt werden, und können zum Auffüllen an eine {THING:DynamicGasCanisterAir} oder {THING:StructureGasTankStorage} angeschlossen werden.
+      <Description>Der orangefarbene tragbare {LINK:GasPage;Treibstoff} {SLOT:GasCanister} liefert ein 64L-Gemisch aus 66% {GAS:Volatiles}/34% {GAS:Oxygen} für den Antrieb von Gegenständen wie dem {THING:ItemWeldingTorch} und dem {THING:DynamicGenerator}. Alle Gasbehälter sind voll, wenn sie bei einem Druck von 8000kPa (80 Atmosphären) hergestellt werden, und können zum Auffüllen an eine {THING:DynamicGasCanisterAir} oder {THING:StructureGasTankStorage} angeschlossen werden.
 Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst zu einem "Knall" kommen kann.</Description>
     </RecordThing>
     <RecordThing>
@@ -1218,7 +1218,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemGasFilterVolatiles</Key>
       <Value>Filter (Wasserstoff)</Value>
-      <Description>Filter werden verwendet, um verschiedene Gase aufzufangen, die dann entsorgt oder anderweitig verwendet werden können. {GAS:Volatiles} werden erzeugt, indem {THING:ItemVolatiles} der Hitze ausgesetzt wird. Das Produkt kann dann gesammelt und mit {GAS:Oxygen} kombiniert werden, um Brennstoff zu erzeugen, oder in einem {THING:StructureFurnace} verwendet werden, um Erze zu schmelzen und {LINK:IngotPage;alloys} zu erzeugen.</Description>
+      <Description>Filter werden verwendet, um verschiedene Gase aufzufangen, die dann entsorgt oder anderweitig verwendet werden können. {GAS:Volatiles} werden erzeugt, indem {THING:ItemVolatiles} der Hitze ausgesetzt wird. Das Produkt kann dann gesammelt und mit {GAS:Oxygen} kombiniert werden, um Brennstoff zu erzeugen, oder in einem {THING:StructureFurnace} verwendet werden, um Erze zu schmelzen und {LINK:IngotPage;Legierung} zu erzeugen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterWater</Key>
@@ -1378,7 +1378,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemKitFurniture</Key>
       <Value>Bausatz (Möbel)</Value>
-      <Description>Dieser Satz ergibt einen Bereich von {LINK:FurniturePage;furniture}.</Description>
+      <Description>Dieser Satz ergibt einen Bereich von {LINK:FurniturePage;Möbel}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitGyroscope</Key>
@@ -1448,7 +1448,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemLabeller</Key>
       <Value>Etikettierer</Value>
-      <Description>Mit einem Etikettierer können Sie Namen und Werte für eine Vielzahl von Geräten und Strukturen, einschließlich {THING:StructureConsole} und {LINK:LogicPage;Logic}, festlegen.</Description>
+      <Description>Mit einem Etikettierer können Sie Namen und Werte für eine Vielzahl von Geräten und Strukturen, einschließlich {THING:StructureConsole} und {LINK:LogicPage;Logik}, festlegen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemLightSword</Key>
@@ -1458,12 +1458,12 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemMilk</Key>
       <Value>Milch</Value>
-      <Description>Um es ganz offen zu sagen: Es handelt sich nicht wirklich um "Milch", sondern um eine {LINK:Agrizero;Agrizero-invented}-Synthese aus 5ml {THING:ItemSoyOil} und 5g {THING:ItemFern}, die in der {THING:ApplianceChemistryStation} fein gemischt wird. Erstaunlich sättigend, kann es als Zutat zum Kochen anderer {LINK:FoodPage;food} in der {THING:ApplianceMicrowave} oder {THING:StructureAutomatedOven} verwendet werden. Denken Sie, {THING:ItemMuffin}.</Description>
+      <Description>Um es ganz offen zu sagen: Es handelt sich nicht wirklich um "Milch", sondern um eine {LINK:Agrizero;Agrizero-konzipierte}-Synthese aus 5ml {THING:ItemSoyOil} und 5g {THING:ItemFern}, die in der {THING:ApplianceChemistryStation} fein gemischt wird. Erstaunlich sättigend, kann es als Zutat zum Kochen anderer {LINK:FoodPage;Nahrung} in der {THING:ApplianceMicrowave} oder {THING:StructureAutomatedOven} verwendet werden. Denken Sie, {THING:ItemMuffin}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningBelt</Key>
       <Value>Bergbau-Gürtel</Value>
-      <Description>Ursprünglich von {LINK:Recurso;Recurso Espaciais} für den Asteroidenabbau entwickelt, bietet der {LINK:Stationeers;Stationeer's} Minengürtel Platz für zwei {LINK:ToolPage;tools} und acht {LINK:OrePage;ore} Stapel. Während man den Gürtel trägt, wird {LINK:OrePage;ore} automatisch dort gelagert, wenn er abgebaut wird. Flüchtige und temperaturabhängige Stoffe bleiben in der umweltkontrollierten Einheit stabil.</Description>
+      <Description>Ursprünglich von {LINK:Recurso;Recurso Espaciais} für den Asteroidenabbau entwickelt, bietet der {LINK:Stationeers;Stationeer's} Minengürtel Platz für zwei {LINK:ToolPage;Werkzeuge} und acht {LINK:OrePage;Erz} Stapel. Während man den Gürtel trägt, wird {LINK:OrePage;Erz} automatisch dort gelagert, wenn er abgebaut wird. Flüchtige und temperaturabhängige Stoffe bleiben in der umweltkontrollierten Einheit stabil.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningDrill</Key>
@@ -1552,7 +1552,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeTJunction</Key>
-      <Value>Gasrohr T-Abzweigung</Value>
+      <Value>Gasrohr T-Kreuzung</Value>
       <Description>Dieser Bausatz erzeugt eine {THING:StructurePipeTJunction}.</Description>
     </RecordThing>
     <RecordThing>
@@ -1578,7 +1578,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemReagentMix</Key>
       <Value>Reagenzmischung</Value>
-      <Description>Das Reagenziengemisch ist reines Potenzial. Es handelt sich um eine Aufschlämmung von undifferenzierten {LINK:OrePage;ores}, die von der {THING:StructureRecycler} ausgegeben wird und in die {THING:StructureCentrifuge} eingespeist werden kann, um die einzelnen Materialien zu trennen und zu gewinnen. Das Reagenzgemisch wird auch von der {THING:StructureFurnace} ausgegeben, wenn der aktuelle Inhalt ausgeworfen wird, ohne einen bestimmten Barren zu schmelzen.</Description>
+      <Description>Das Reagenziengemisch ist reines Potenzial. Es handelt sich um eine Aufschlämmung von undifferenzierten {LINK:OrePage;Erze}, die von der {THING:StructureRecycler} ausgegeben wird und in die {THING:StructureCentrifuge} eingespeist werden kann, um die einzelnen Materialien zu trennen und zu gewinnen. Das Reagenzgemisch wird auch von der {THING:StructureFurnace} ausgegeben, wenn der aktuelle Inhalt ausgeworfen wird, ohne einen bestimmten Barren zu schmelzen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemRoadFlare</Key>
@@ -1603,7 +1603,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemScrewdriver</Key>
       <Value>Schraubendreher</Value>
-      <Description>Dieser Schraubendreher ist ein hochwertiges, bi-rotierendes Modell mit einem säulenförmigen Griff. Er ist definitiv nicht nur ein Schraubendreher. Verwenden Sie ihn für den Auf- und Abbau bestimmter Bausätze und zum Einstellen von Werten für {LINK:LogicUnitPage;logic} Einheiten.</Description>
+      <Description>Dieser Schraubendreher ist ein hochwertiges, bi-rotierendes Modell mit einem säulenförmigen Griff. Er ist definitiv nicht nur ein Schraubendreher. Verwenden Sie ihn für den Auf- und Abbau bestimmter Bausätze und zum Einstellen von Werten für {LINK:LogicUnitPage;Logik} Einheiten.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemSecurityCamera</Key>
@@ -1617,14 +1617,14 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     </RecordThing>
     <RecordThing>
       <Key>ItemSpaceHelmet</Key>
-      <Value>Raumhelm</Value>
+      <Value>Raumanzughelm</Value>
       <Description>Der Basis-Raumhelm isoliert {LINK:Stationeers;Stationeers} gegen alles, von hartem Vakuum bis hin zu unangenehmen Kochgerüchen. Er bietet eine druckkontrollierte, atmungsaktive Atmosphäre und verfügt über ein eingebautes Licht, das von Ihrem {THING:ItemEvaSuit} {THING:ItemBatteryCell}.
 Außerdem verfügt er über eine Ver-/Entriegelungsfunktion, um ein versehentliches Öffnen zu verhindern, sowie über eine Spülfunktion, um die interne Atmosphäre zu entleeren und zu ersetzen. Wenn sie beschädigt ist, können Sie sie mit {THING:ItemDuctTape} reparieren oder mit {THING:AppliancePaintMixer} in einer Farbe Ihrer Wahl streichen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemSpacepack</Key>
       <Value>Jetpack (Weltraum)</Value>
-      <Description>Das grundlegende {LINK:CHAC;CHAC} Spacepack ist 'technisch' kein Jetpack, sondern ein Gasantrieb. Es kann mit jedem Gas betrieben werden, solange der Innendruck des {LINK:AtmosphericsPage;canister} höher ist als der Außendruck. Wenn der Außendruck höher ist, funktioniert das Spacepack nicht.
+      <Description>Das grundlegende {LINK:CHAC;CHAC} Spacepack ist 'technisch' kein Jetpack, sondern ein Gasantrieb. Es kann mit jedem Gas betrieben werden, solange der Innendruck des {LINK:AtmosphericsPage;Gasflasche} höher ist als der Außendruck. Wenn der Außendruck höher ist, funktioniert das Spacepack nicht.
 Es ist unentbehrlich für den Bau, den Bergbau und die allgemeine Fortbewegung, hat zehn Speicherplätze und lässt {LINK:Stationeers;Stationeers} mit 3m/s fliegen, verglichen mit den stärkeren {THING:ItemJetpackBasic} oder {THING:ItemHardJetpack}. Durch Einstellen des Schubwerts wird die Beschleunigung verändert, während die Aktivierung des Stabilisators das Spacepack bei Erreichen einer bestimmten Höhe zum Schweben bringt.
 ANWENDUNG: 'J' zum Aktivieren; 'Leertaste' zum Hochfliegen; 'Linke STRG' zum Absteigen; und 'WASD' zum Bewegen.</Description>
     </RecordThing>
@@ -1702,7 +1702,7 @@ Es mag nicht elegant sein, aber {THING:ItemOxite} und {THING:ItemVolatiles} kön
     <RecordThing>
       <Key>ItemSteelSheets</Key>
       <Value>Stahlbleche</Value>
-      <Description>Als fortschrittliches Baumaterial werden {THING:ItemSteelIngot}-Platten für den Bau eines {THING:StructureFrame} und verschiedener anderer {LINK:StructuresPage;wall}-Typen verwendet.</Description>
+      <Description>Als fortschrittliches Baumaterial werden {THING:ItemSteelIngot}-Platten für den Bau eines {THING:StructureFrame} und verschiedener anderer {LINK:StructuresPage;Wand}-Typen verwendet.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemSuitStorage</Key>
@@ -1712,7 +1712,7 @@ Es mag nicht elegant sein, aber {THING:ItemOxite} und {THING:ItemVolatiles} kön
     <RecordThing>
       <Key>ItemTablet</Key>
       <Value>Tablet</Value>
-      <Description>Das {LINK:Xigo;Xigo} Handheld-Tablet "Padi" ist eine universell einsetzbare Datenplattform, die standardmäßig an alle {LINK:Stationeers;Stationeers} geliefert wird. Das Padi ist ein dynamisches Multitool, das eine Reihe von {LINK:CartridgePage;cartridges}, {THING:CartridgeAtmosAnalyser} oder {THING:CartridgeTracker}, {THING:CartridgeMedicalAnalyser}, {THING:CartridgeOreScanner}, {THING:CartridgeElectronicReader} und verschiedenen anderen Funktionen akzeptiert.</Description>
+      <Description>Das {LINK:Xigo;Xigo} Handheld-Tablet "Padi" ist eine universell einsetzbare Datenplattform, die standardmäßig an alle {LINK:Stationeers;Stationeers} geliefert wird. Das Padi ist ein dynamisches Multitool, das eine Reihe von {LINK:CartridgePage;Chip}, {THING:CartridgeAtmosAnalyser} oder {THING:CartridgeTracker}, {THING:CartridgeMedicalAnalyser}, {THING:CartridgeOreScanner}, {THING:CartridgeElectronicReader} und verschiedenen anderen Funktionen akzeptiert.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemTankConnector</Key>
@@ -1759,23 +1759,23 @@ Der Arlite ist eine verbesserte Version des klassischen "Zairo"-Modells, das zue
     <RecordThing>
       <Key>ItemWheat</Key>
       <Value>Weizen</Value>
-      <Description>Weizen ist ein klassisches Symbol für Wachstum und neues Leben und braucht eine gewisse Zeit, um zu wachsen. Seine Hauptverwendung ist die Erzeugung von {LINK:ReagentPage;flour} mit Hilfe von {THING:ApplianceReagentProcessor}.</Description>
+      <Description>Weizen ist ein klassisches Symbol für Wachstum und neues Leben und braucht eine gewisse Zeit, um zu wachsen. Seine Hauptverwendung ist die Erzeugung von {LINK:ReagentPage;Mehl} mit Hilfe von {THING:ApplianceReagentProcessor}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWireCutters</Key>
       <Value>Drahtschneider</Value>
-      <Description>Mit Drahtschneidern können Sie verschiedene {LINK:StructurePage;structures} zerlegen, Kabel quer verlegen, wenn Sie sie in der nicht aktiven Hand halten, und bei Bedarf Sprengstoffe entschärfen. Drahtschneider werden in der {THING:ItemToolBelt} aufbewahrt, zusammen mit anderen wichtigen {LINK:ToolPage;tools}.</Description>
+      <Description>Mit Drahtschneidern können Sie verschiedene {LINK:StructurePage;Strukturen} zerlegen, Kabel quer verlegen, wenn Sie sie in der nicht aktiven Hand halten, und bei Bedarf Sprengstoffe entschärfen. Drahtschneider werden in der {THING:ItemToolBelt} aufbewahrt, zusammen mit anderen wichtigen {LINK:ToolPage;Werkzeuge}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWrench</Key>
       <Value>Schraubenschlüssel</Value>
-      <Description>Der Schraubenschlüssel ist einer der bleibenden Beiträge der Menschheit zum Kosmos und repräsentiert die Essenz unserer Spezies. Ein einfaches, effektives und spirituell unfruchtbares Werkzeug, das zum Aufbau und Abbau einer Vielzahl von {LINK:StructurePage;structures}</Description>
+      <Description>Der Schraubenschlüssel ist einer der bleibenden Beiträge der Menschheit zum Kosmos und repräsentiert die Essenz unserer Spezies. Ein einfaches, effektives und spirituell unfruchtbares Werkzeug, das zum Aufbau und Abbau einer Vielzahl von {LINK:StructurePage;Strukturen}</Description>
     </RecordThing>
     <RecordThing>
       <Key>MotherboardLogic</Key>
       <Value>Logik-Hauptplatine</Value>
       <Description>Hauptplatinen sind mit {THING:StructureComputer}s verbunden, um verschiedene technische Funktionen auszuführen.
-Die {LINK:Norsec;Norsec-designed} K-cops Logik-Hauptplatine ermöglicht {LINK:Stationeers;Stationeers} das Setzen von Variablen und Aktionen auf bestimmte {LINK:LogicUnitPage;logic}-gesteuerte Elemente.</Description>
+Die {LINK:Norsec;Norsec-konzipierter} K-cops Logik-Hauptplatine ermöglicht {LINK:Stationeers;Stationeers} das Setzen von Variablen und Aktionen auf bestimmte {LINK:LogicUnitPage;Logik}-gesteuerte Elemente.</Description>
     </RecordThing>
     <RecordThing>
       <Key>MotherboardManufacturing</Key>
@@ -1786,7 +1786,7 @@ Die {LINK:Norsec;Norsec-designed} K-cops Logik-Hauptplatine ermöglicht {LINK:St
       <Key>MotherboardSorter</Key>
       <Value>Sortierer-Hauptplatine</Value>
       <Description>Hauptplatinen sind mit {THING:StructureComputer}s verbunden, um verschiedene technische Funktionen auszuführen.
-Die {LINK:Norsec;Norsec-designed} K-cops 10-10 Sorter-Hauptplatine ermöglicht {LINK:Stationeers;Stationeers} die Kontrolle darüber, welche Gegenstände ein {THING:StructureSorter} passieren darf und welche nicht.</Description>
+Die {LINK:Norsec;Norsec-konzipierter} K-cops 10-10 Sorter-Hauptplatine ermöglicht {LINK:Stationeers;Stationeers} die Kontrolle darüber, welche Gegenstände ein {THING:StructureSorter} passieren darf und welche nicht.</Description>
     </RecordThing>
     <RecordThing>
       <Key>MothershipCore</Key>
@@ -1820,12 +1820,12 @@ Die {LINK:Norsec;Norsec-designed} K-cops 10-10 Sorter-Hauptplatine ermöglicht {
     <RecordThing>
       <Key>StructureActiveVent</Key>
       <Value>Aktive Entlüftung</Value>
-      <Description>Der aktive Entlüfter ist ein angetriebenes Gerät zur Aufrechterhaltung des {LINK:GasPage;gas} Drucks durch Pumpen von Gas in ein (oder aus einem) Rohrnetz. Die Entlüftung hat zwei Modi: "Nach außen" pumpt sie Gas in einen Raum, bis der Druck erreicht ist; "Nach innen" pumpt sie Gas nach außen, bis der Druck erreicht ist. Der Druckparameter kann über einen angeschlossenen {THING:StructureConsole} eingestellt werden. Der Standarddruck ist 101kPa für "Outward"; 0kPa für "Inward" ...</Description>
+      <Description>Der aktive Entlüfter ist ein angetriebenes Gerät zur Aufrechterhaltung des {LINK:GasPage;Gas} Drucks durch Pumpen von Gas in ein (oder aus einem) Rohrnetz. Die Entlüftung hat zwei Modi: "Nach außen" pumpt sie Gas in einen Raum, bis der Druck erreicht ist; "Nach innen" pumpt sie Gas nach außen, bis der Druck erreicht ist. Der Druckparameter kann über einen angeschlossenen {THING:StructureConsole} eingestellt werden. Der Standarddruck ist 101kPa für "Outward"; 0kPa für "Inward" ...</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureAirConditioner</Key>
       <Value>Klimagerät</Value>
-      <Description>Mit der Klimaanlage {THING:ItemKitAtmospherics} wird die Temperatur des Eingangsgases mit der Klimaanlage {LINK:ExMin;ExMin-designed} erhöht oder gesenkt.
+      <Description>Mit der Klimaanlage {THING:ItemKitAtmospherics} wird die Temperatur des Eingangsgases mit der Klimaanlage {LINK:ExMin;ExMin-konzipierte} erhöht oder gesenkt.
 	  
 Das Gerät hat drei Rohranschlüsse: Eingang, Ausgang und Abfall. Das in den Eingang eingespeiste Gas wird erwärmt oder abgekühlt, um die Zieltemperatur zu erreichen, während mit dem Gas im Abgasnetz das Gegenteil geschieht.
 
@@ -1833,7 +1833,7 @@ Mehrere Effizienzmultiplikatoren können sich auf den Energieverbrauch des Klima
 
 {THING:StructurePipeRadiator}s kann nützlich sein, um extreme Rohrtemperaturen wieder auf normale Welttemperaturen zu bringen.
   
-Weitere Informationen zur Verwendung des Klimageräts finden Sie auf der Seite {LINK:TemperatureControlPage;temperature control} Leitfaden-Seite.</Description>
+Weitere Informationen zur Verwendung des Klimageräts finden Sie auf der Seite {LINK:TemperatureControlPage;Temperaturkontrolle} Leitfaden-Seite.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureAirlock</Key>
@@ -1907,38 +1907,38 @@ Wenn nicht gerade eine taschengroße Singularität in den lokalen Raum-Zeit-Rahm
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCorner</Key>
-      <Value>Kabel (Ecke)</Value>
-      <Description>Die Kabelspule, die sowohl Strom als auch Daten transportiert, ist zu einem Symbol für Innovation, Unabhängigkeit und Flexibilität des {LINK:Stationeers;Stationeer} Lebens geworden - so wichtig, dass die {LINK:ODA;ODA} sie während der 3. Decannual Stationeer Solar Conference zum offiziellen {LINK:ToolPage;'tool'} ernannte.
+      <Value>Kabel (Dünn) (Ecke)</Value>
+      <Description>Die Kabelspule, die sowohl Strom als auch Daten transportiert, ist zu einem Symbol für Innovation, Unabhängigkeit und Flexibilität des {LINK:Stationeers;Stationeer} Lebens geworden - so wichtig, dass die {LINK:ODA;ODA} sie während der 3. Decannual Stationeer Solar Conference zum offiziellen {LINK:ToolPage;'Werkzeug'} ernannte.
 Die normale Spule hat eine maximale Wattzahl von 5kW. Für Anwendungen mit höheren Strömen verwenden Sie {THING:ItemCableCoilHeavy}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCorner3</Key>
-      <Value>Kabel (3-Wege-Kreuzung)</Value>
-      <Description>Die Kabelspule, die sowohl Strom als auch Daten transportiert, ist zu einem Symbol für Innovation, Unabhängigkeit und Flexibilität des {LINK:Stationeers;Stationeer} Lebens geworden - so wichtig, dass die {LINK:ODA;ODA} sie während der 3. Decannual Stationeer Solar Conference zum offiziellen {LINK:ToolPage;'tool'} ernannte.
+      <Value>Kabel (Dünn) (3-Wege-Kreuzung)</Value>
+      <Description>Die Kabelspule, die sowohl Strom als auch Daten transportiert, ist zu einem Symbol für Innovation, Unabhängigkeit und Flexibilität des {LINK:Stationeers;Stationeer} Lebens geworden - so wichtig, dass die {LINK:ODA;ODA} sie während der 3. Decannual Stationeer Solar Conference zum offiziellen {LINK:ToolPage;'Werkzeug'} ernannte.
 Die normale Spule hat eine maximale Wattzahl von 5kW. Für Anwendungen mit höheren Strömen verwenden Sie {THING:ItemCableCoilHeavy}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction</Key>
-      <Value>Kabel (T-Kreuzung)</Value>
-      <Description>Die Kabelspule, die sowohl Strom als auch Daten transportiert, ist zum Symbol für Innovation, Unabhängigkeit und Flexibilität des {LINK:Stationeers;Stationeer} Lebens geworden - so sehr, dass die {LINK:ODA;ODA} sie während der 3. Decannual Stationeer Solar Conference zu einer offiziellen {LINK:ToolPage;'tool'} ernannte.
+      <Value>Kabel (Dünn) (T-Kreuzung)</Value>
+      <Description>Die Kabelspule, die sowohl Strom als auch Daten transportiert, ist zum Symbol für Innovation, Unabhängigkeit und Flexibilität des {LINK:Stationeers;Stationeer} Lebens geworden - so sehr, dass die {LINK:ODA;ODA} sie während der 3. Decannual Stationeer Solar Conference zu einer offiziellen {LINK:ToolPage;'Werkzeug'} ernannte.
 Die normale Spule hat eine maximale Wattzahl von 5 kW. Für Anwendungen mit höheren Strömen verwenden Sie {THING:ItemCableCoilHeavy}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction4</Key>
-      <Value>Kabel (4-Wege-Kreuzung)</Value>
-      <Description>Die Kabelspule, die sowohl Strom als auch Daten transportiert, ist zum Symbol für Innovation, Unabhängigkeit und Flexibilität des {LINK:Stationeers;Stationeer} Lebens geworden - so sehr, dass die {LINK:ODA;ODA} sie während der 3. Decannual Stationeer Solar Conference zu einer offiziellen {LINK:ToolPage;'tool'} ernannte.
+      <Value>Kabel (Dünn) (4-Wege-Kreuzung)</Value>
+      <Description>Die Kabelspule, die sowohl Strom als auch Daten transportiert, ist zum Symbol für Innovation, Unabhängigkeit und Flexibilität des {LINK:Stationeers;Stationeer} Lebens geworden - so sehr, dass die {LINK:ODA;ODA} sie während der 3. Decannual Stationeer Solar Conference zu einer offiziellen {LINK:ToolPage;'Werkzeug'} ernannte.
 Die normale Spule hat eine maximale Wattzahl von 5 kW. Für Anwendungen mit höheren Strömen verwenden Sie {THING:ItemCableCoilHeavy}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction6</Key>
-      <Value>Kabel (6-Wege-Kreuzung)</Value>
-      <Description>Die Kabelspule, die sowohl Strom als auch Daten transportiert, ist zum Symbol für Innovation, Unabhängigkeit und Flexibilität des {LINK:Stationeers;Stationeer}-Dienstes geworden - so sehr, dass die {LINK:ODA;ODA} sie während der 3. Decannual Stationeer Solar Conference zum offiziellen {LINK:ToolPage;'tool'} ernannte.
+      <Value>Kabel (Dünn) (6-Wege-Kreuzung)</Value>
+      <Description>Die Kabelspule, die sowohl Strom als auch Daten transportiert, ist zum Symbol für Innovation, Unabhängigkeit und Flexibilität des {LINK:Stationeers;Stationeer}-Dienstes geworden - so sehr, dass die {LINK:ODA;ODA} sie während der 3. Decannual Stationeer Solar Conference zum offiziellen {LINK:ToolPage;'Werkzeug'} ernannte.
 Die normale Spule hat eine maximale Wattzahl von 5kW. Für Anwendungen mit höheren Strömen verwenden Sie {THING:ItemCableCoilHeavy}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableStraight</Key>
-      <Value>Kabel (gerade)</Value>
-      <Description>Die Kabelspule, die sowohl Strom als auch Daten überträgt, ist zum Symbol für Innovation, Unabhängigkeit und Flexibilität des {LINK:Stationeers;Stationeer} Lebens geworden - so sehr, dass die {LINK:ODA;ODA} sie offiziell als {LINK:ToolPage;'tool'} bezeichnet hat.
+      <Value>Kabel (Dünn) (gerade)</Value>
+      <Description>Die Kabelspule, die sowohl Strom als auch Daten überträgt, ist zum Symbol für Innovation, Unabhängigkeit und Flexibilität des {LINK:Stationeers;Stationeer} Lebens geworden - so sehr, dass die {LINK:ODA;ODA} sie offiziell als {LINK:ToolPage;'Werkzeug'} bezeichnet hat.
 Die normale Spule hat eine maximale Wattleistung von 5 kW. Für Anwendungen mit höheren Strömen verwenden Sie {THING:ItemCableCoilHeavy}.</Description>
     </RecordThing>
     <RecordThing>
@@ -1950,7 +1950,7 @@ Sei da, auch wenn du nicht da bist.</Description>
     <RecordThing>
       <Key>StructureCentrifuge</Key>
       <Value>Zentrifuge</Value>
-      <Description>Wenn ein {THING:StructureRecycler} oder ein unausgewogenes {THING:StructureFurnace} ein {LINK:ReagentPage;reagent}-Gemisch statt des gewünschten {LINK:IngotPage;ingots} ergibt, können Sie mit einer Zentrifuge das rohe {LINK:OrePage;ore} zurückgewinnen. Sie verfeinert auch {THING:ItemDirtyOre}, das aus {THING:StructureDeepMiner} hergestellt wurde. Ihr größerer Bruder {THING:StructureCombustionCentrifuge} kann verwendet werden, um Gegenstände wesentlich schneller zu verarbeiten.
+      <Description>Wenn ein {THING:StructureRecycler} oder ein unausgewogenes {THING:StructureFurnace} ein {LINK:ReagentPage;Reagenzien}-Gemisch statt des gewünschten {LINK:IngotPage;Barren} ergibt, können Sie mit einer Zentrifuge das rohe {LINK:OrePage;Erz} zurückgewinnen. Sie verfeinert auch {THING:ItemDirtyOre}, das aus {THING:StructureDeepMiner} hergestellt wurde. Ihr größerer Bruder {THING:StructureCombustionCentrifuge} kann verwendet werden, um Gegenstände wesentlich schneller zu verarbeiten.
 
 Von der Zentrifuge verarbeitete Gegenstände werden entgast</Description>
     </RecordThing>
@@ -1963,39 +1963,39 @@ Von der Zentrifuge verarbeitete Gegenstände werden entgast</Description>
       <Key>StructureChuteBin</Key>
       <Value>Schacht Abfall</Value>
       <Description>Das Ziel von {LINK:Stationeers;Stationeer's} ist es, das Überleben außerhalb der Welt für sich selbst und für diejenigen, die in ihre Fußstapfen treten werden, weniger schwierig zu machen.
-Wie die meisten von {LINK:Recurso;Recurso} entworfenen Systeme sind auch die Abfallbehälter einfache und robuste, elektrisch betriebene Geräte, die es ermöglichen, Gegenstände durch Ziehen eines Hebels manuell in die Abfallschächte zu befördern. Sie können auch mit {LINK:LogicUnitPage;logic} programmiert werden, um automatisch zu funktionieren, obwohl eine vollständige Automatisierung den Einsatz von Geräten wie einem {THING:StructureSDBHopper} erfordert.</Description>
+Wie die meisten von {LINK:Recurso;Recurso} entworfenen Systeme sind auch die Abfallbehälter einfache und robuste, elektrisch betriebene Geräte, die es ermöglichen, Gegenstände durch Ziehen eines Hebels manuell in die Abfallschächte zu befördern. Sie können auch mit {LINK:LogicUnitPage;Logik} programmiert werden, um automatisch zu funktionieren, obwohl eine vollständige Automatisierung den Einsatz von Geräten wie einem {THING:StructureSDBHopper} erfordert.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteCorner</Key>
       <Value>Schacht (Ecke)</Value>
-      <Description>Schächte dienen als Rohre für Gegenstände. Verwenden Sie sie, um verschiedene {LINK:ImportExportPage;import/export} Geräte wie den {THING:StructureVendingMachine} und Drucker wie den {THING:StructureAutolathe} miteinander zu verbinden.
+      <Description>Schächte dienen als Rohre für Gegenstände. Verwenden Sie sie, um verschiedene {LINK:ImportExportPage;Import/Export} Geräte wie den {THING:StructureVendingMachine} und Drucker wie den {THING:StructureAutolathe} miteinander zu verbinden.
 Das Ziel eines jeden {LINK:Stationeers;Stationeer} ist es, das Überleben außerhalb der Welt für sich selbst und diejenigen, die in seine Fußstapfen treten werden, weniger schwierig zu machen.
-Schächte-Ecken sind grundlegende Komponenten von Schächte-Netzwerken, die den Transport von Gegenständen zwischen Maschinen mit {LINK:ImportExportPage;import/export}-Steckplätzen, wie dem {THING:StructureFurnace} und anderen automatisierbaren Strukturen, ermöglichen.</Description>
+Schächte-Ecken sind grundlegende Komponenten von Schächte-Netzwerken, die den Transport von Gegenständen zwischen Maschinen mit {LINK:ImportExportPage;Import/Export}-Steckplätzen, wie dem {THING:StructureFurnace} und anderen automatisierbaren Strukturen, ermöglichen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteInlet</Key>
       <Value>Schacht (Einwurf)</Value>
       <Description>Das Ziel eines jeden {LINK:Stationeers;Stationeer} ist es, das Überleben außerhalb der Welt für sich selbst und für diejenigen, die in seine Fußstapfen treten werden, weniger schwierig zu machen.
-Der Rutscheneinlass ist eine Öffnung, durch die Gegenstände in {LINK:ImportExportPage;import/export}-Netzwerke eingeführt werden können. Aufgrund seiner Herkunft aus dem Schwerelosigkeitsbergbau sind Rutscheneinlässe nicht mit Strom versorgt und permanent geöffnet, sondern können nicht interaktiv genutzt werden, so dass Gegenstände hineingeworfen werden können. Sie können mit {LINK:LogicUnitPage;logic} Systemen verbunden werden, um den Durchsatz zu überwachen.</Description>
+Der Rutscheneinlass ist eine Öffnung, durch die Gegenstände in {LINK:ImportExportPage;Import/Export}-Netzwerke eingeführt werden können. Aufgrund seiner Herkunft aus dem Schwerelosigkeitsbergbau sind Rutscheneinlässe nicht mit Strom versorgt und permanent geöffnet, sondern können nicht interaktiv genutzt werden, so dass Gegenstände hineingeworfen werden können. Sie können mit {LINK:LogicUnitPage;Logik} Systemen verbunden werden, um den Durchsatz zu überwachen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteJunction</Key>
       <Value>Schacht (Zusammenführung)</Value>
       <Description>Das Ziel eines jeden {LINK:Stationeers;Stationeer} ist es, das Überleben außerhalb der Welt für sich selbst und für diejenigen, die in seine Fußstapfen treten werden, weniger schwierig zu gestalten.
-Rutschenabzweigungen sind grundlegende Bestandteile von Rutschennetzen, die eine Zusammenführung oder Aufteilung dieser Netze ermöglichen. In Kombination mit einem programmierten {THING:StructureSorter} können Gegenstände auf verschiedenen Wegen zu verschiedenen Maschinen mit {LINK:ImportExportPage;import/export}-Slots geschickt werden.</Description>
+Rutschenabzweigungen sind grundlegende Bestandteile von Rutschennetzen, die eine Zusammenführung oder Aufteilung dieser Netze ermöglichen. In Kombination mit einem programmierten {THING:StructureSorter} können Gegenstände auf verschiedenen Wegen zu verschiedenen Maschinen mit {LINK:ImportExportPage;Import/Export}-Slots geschickt werden.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteOutlet</Key>
       <Value>Schacht (Auswurf)</Value>
       <Description>Das Ziel eines jeden {LINK:Stationeers;Stationeer} ist es, das Überleben außerhalb der Welt für sich selbst und diejenigen, die in seine Fußstapfen treten werden, weniger schwierig zu machen.
-Der Schachtausgang ist eine Öffnung für den Austritt von Gegenständen aus {LINK:ImportExportPage;import/export}-Netzwerken. Da der Auslass aus dem Schwerelosigkeitsbergbau stammt, ist er permanent geöffnet und nicht interaktiv, kann aber mit {LINK:LogicUnitPage;logic}-Systemen verbunden werden, um den Durchsatz zu überwachen.</Description>
+Der Schachtausgang ist eine Öffnung für den Austritt von Gegenständen aus {LINK:ImportExportPage;Import/Export}-Netzwerken. Da der Auslass aus dem Schwerelosigkeitsbergbau stammt, ist er permanent geöffnet und nicht interaktiv, kann aber mit {LINK:LogicUnitPage;Logik}-Systemen verbunden werden, um den Durchsatz zu überwachen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteStraight</Key>
       <Value>Schacht (gerade)</Value>
-      <Description>Schächte dienen als Rohre für Gegenstände. Verwenden Sie sie, um verschiedene {LINK:ImportExportPage;import/export} Geräte wie den {THING:StructureVendingMachine} und Drucker wie den {THING:StructureAutolathe} miteinander zu verbinden.
+      <Description>Schächte dienen als Rohre für Gegenstände. Verwenden Sie sie, um verschiedene {LINK:ImportExportPage;Import/Export} Geräte wie den {THING:StructureVendingMachine} und Drucker wie den {THING:StructureAutolathe} miteinander zu verbinden.
 Das Ziel eines jeden {LINK:Stationeers;Stationeer} ist es, das Überleben außerhalb der Welt für sich selbst und diejenigen, die in seine Fußstapfen treten werden, weniger schwierig zu machen.
-Schächte sind grundlegende Komponenten von Rutschennetzwerken, die den Transport von Gegenständen zwischen allen Maschinen oder Geräten mit einem {LINK:ImportExportPage;import/export}-Steckplatz ermöglichen.</Description>
+Schächte sind grundlegende Komponenten von Rutschennetzwerken, die den Transport von Gegenständen zwischen allen Maschinen oder Geräten mit einem {LINK:ImportExportPage;Import/Export}-Steckplatz ermöglichen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeDoor</Key>
@@ -2057,19 +2057,19 @@ Kompatible Motherboards:
     <RecordThing>
       <Key>StructureConsole</Key>
       <Value>Konsole</Value>
-      <Description>Diese Steuereinheit {LINK:Norsec;Norsec-designed} verwaltet Geräte wie {THING:StructureActiveVent}, {THING:StructurePassiveVent}, {THING:StructureGasSensor} und {THING:StructureCompositeDoor}, je nachdem, welche {LINK:LogicPage;circuitboard} in das Gerät eingesetzt ist. Sie verfügt über einen gemeinsamen Daten-/Stromanschluss.
+      <Description>Diese Steuereinheit {LINK:Norsec;Norsec-konzipierter} verwaltet Geräte wie {THING:StructureActiveVent}, {THING:StructurePassiveVent}, {THING:StructureGasSensor} und {THING:StructureCompositeDoor}, je nachdem, welche {LINK:LogicPage;Platine} in das Gerät eingesetzt ist. Sie verfügt über einen gemeinsamen Daten-/Stromanschluss.
 In einer ausgefüllten Konsole werden alle Geräte angezeigt, die an das aktuelle Stromnetz angeschlossen sind. Alle Geräte, die nicht mit der installierten Leiterplatte verbunden sind, werden ausgegraut und sind nicht funktionsfähig. Konsolen werden gesperrt, sobald eine {THING:ItemDataDisk} entfernt wird.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureConsoleDual</Key>
       <Value>Konsole (getrennt)</Value>
-      <Description>Dieses Steuergerät {LINK:Norsec;Norsec-designed} verwaltet Geräte wie {THING:StructureActiveVent}, {THING:StructureGasSensor}, {THING:StructureCompositeDoor} und andere, je nachdem, welches {LINK:LogicPage;circuitboard} in das Gerät eingesetzt ist. Sie verfügt über separate Daten- und Stromanschlüsse.
+      <Description>Dieses Steuergerät {LINK:Norsec;Norsec-konzipierter} verwaltet Geräte wie {THING:StructureActiveVent}, {THING:StructureGasSensor}, {THING:StructureCompositeDoor} und andere, je nachdem, welches {LINK:LogicPage;Platine} in das Gerät eingesetzt ist. Sie verfügt über separate Daten- und Stromanschlüsse.
 Eine vollständige Konsole zeigt alle Geräte an, die an das aktuelle Stromnetz angeschlossen sind. Alle Geräte, die nicht mit der installierten Leiterplatte verbunden sind, werden ausgegraut und sind nicht funktionsfähig. Konsolen werden gesperrt, sobald eine {THING:ItemDataDisk} entfernt wird.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureConsoleMonitor</Key>
       <Value>Konsole (gewinkelt)</Value>
-      <Description>Dieses Steuergerät {LINK:Norsec;Norsec-designed} verwaltet Geräte wie {THING:StructureActiveVent}, {THING:StructurePassiveVent}, {THING:StructureGasSensor}, {THING:ItemSecurityCamera} und {THING:StructureCompositeDoor}, je nachdem, welches {LINK:LogicPage;circuitboard} in das Gerät eingesetzt ist. Sie verfügt über einen gemeinsamen Daten-/Stromanschluss und eine charmante schräge Schnittstelle.
+      <Description>Dieses Steuergerät {LINK:Norsec;Norsec-konzipierter} verwaltet Geräte wie {THING:StructureActiveVent}, {THING:StructurePassiveVent}, {THING:StructureGasSensor}, {THING:ItemSecurityCamera} und {THING:StructureCompositeDoor}, je nachdem, welches {LINK:LogicPage;Platine} in das Gerät eingesetzt ist. Sie verfügt über einen gemeinsamen Daten-/Stromanschluss und eine charmante schräge Schnittstelle.
 Eine vollständige Konsole zeigt alle Geräte an, die mit dem aktuellen Stromnetz verbunden sind. Alle Geräte, die nicht mit der installierten Leiterplatte verbunden sind, werden ausgegraut und sind nicht funktionsfähig. Konsolen werden gesperrt, sobald eine {THING:ItemDataDisk} entfernt wird.</Description>
     </RecordThing>
     <RecordThing>
@@ -2115,12 +2115,12 @@ Eine immer wiederkehrende {LINK:Stationeers;Stationeer} Beschwerde konzentriert 
     <RecordThing>
       <Key>StructureDaylightSensor</Key>
       <Value>Tageslicht-Sensor</Value>
-      <Description>Tageslichtsensoren liefern Daten darüber, ob der aktuelle Bereich Ihrer Basis im Sonnenlicht liegt, und melden den genauen Sonnenwinkel. Beachten Sie, dass die Ausrichtung des Sensors den gemeldeten Sonnenwinkel verändert, während {LINK:LogicPage;Logic}-Systeme verwendet werden können, um ihn auszugleichen.</Description>
+      <Description>Tageslichtsensoren liefern Daten darüber, ob der aktuelle Bereich Ihrer Basis im Sonnenlicht liegt, und melden den genauen Sonnenwinkel. Beachten Sie, dass die Ausrichtung des Sensors den gemeldeten Sonnenwinkel verändert, während {LINK:LogicPage;Logik}-Systeme verwendet werden können, um ihn auszugleichen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureDigitalValve</Key>
       <Value>Digitales Ventil</Value>
-      <Description>Das digitale Ventil ermöglicht {LINK:Stationeers;Stationeers} die Erstellung von {LINK:LogicPage;logic-controlled} Ventilen und Leitungsnetzen.</Description>
+      <Description>Das digitale Ventil ermöglicht {LINK:Stationeers;Stationeers} die Erstellung von {LINK:LogicPage;Logik-Kontrollierten} Ventilen und Leitungsnetzen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureFabricator</Key>
@@ -2131,7 +2131,7 @@ Eine immer wiederkehrende {LINK:Stationeers;Stationeer} Beschwerde konzentriert 
       <Key>StructureFiltration</Key>
       <Value>Filtration</Value>
       <Description>Die Filtrationseinheit basiert auf einem seit langem bestehenden {LINK:ExMin;ExMin}-System, das seinerseits auf älteren Konstruktionen ungewisser Herkunft beruht. Sie ist in der {THING:ItemKitAtmospherics} erhältlich.
-Das Gerät hat sich jedoch als unentbehrlich für {LINK:Stationeers;Stationeer} atmosphärische Systeme erwiesen, da es mit Hilfe einer Doppelfilteranordnung zwei {LINK:GasPage;gases} gleichzeitig aus einem einzigen Rohrnetz filtern kann. Das Gerät hat einen Eingang und einen Filterausgang sowie einen ungefilterten Ausgang für eventuelle Restgase.
+Das Gerät hat sich jedoch als unentbehrlich für {LINK:Stationeers;Stationeer} atmosphärische Systeme erwiesen, da es mit Hilfe einer Doppelfilteranordnung zwei {LINK:GasPage;Gase} gleichzeitig aus einem einzigen Rohrnetz filtern kann. Das Gerät hat einen Eingang und einen Filterausgang sowie einen ungefilterten Ausgang für eventuelle Restgase.
 </Description>
     </RecordThing>
     <RecordThing>
@@ -2158,8 +2158,8 @@ Die von der Gotik inspirierte Silhouette des Eckrahmens ermöglicht mit ein weni
     <RecordThing>
       <Key>StructureFurnace</Key>
       <Value>Schmelzofen</Value>
-      <Description>Im Zhurong-Ofen wird ein Hochtemperatur-Gasgemisch aus {GAS:Oxygen} und {GAS:Volatiles} zum Schmelzen von {LINK:IngotPage;ingots} und einer Reihe von {LINK:IngotPage;alloys} als Rohmaterial für {LINK:FabricatorPage;fabricators} verwendet.
-Ein einfaches Gasgemisch kann durch Zugabe von {THING:ItemOxite} und {THING:ItemVolatiles} im Verhältnis 1:2 direkt in den Ofen erreicht werden, aber komplexere Legierungen erfordern ein sorgfältiges Management eines speziellen Gasmischnetzes. Die genauen Verhältnisse der Bestandteile müssen eingehalten werden. Ebenso entsteht beim Schmelzen von Erzen bei unzureichenden Temperaturen {LINK:ReagentPage;reagents}, das zurückgeführt werden muss.
+      <Description>Im Zhurong-Ofen wird ein Hochtemperatur-Gasgemisch aus {GAS:Oxygen} und {GAS:Volatiles} zum Schmelzen von {LINK:IngotPage;Barren} und einer Reihe von {LINK:IngotPage;alloys} als Rohmaterial für {LINK:FabricatorPage;Fabriken} verwendet.
+Ein einfaches Gasgemisch kann durch Zugabe von {THING:ItemOxite} und {THING:ItemVolatiles} im Verhältnis 1:2 direkt in den Ofen erreicht werden, aber komplexere Legierungen erfordern ein sorgfältiges Management eines speziellen Gasmischnetzes. Die genauen Verhältnisse der Bestandteile müssen eingehalten werden. Ebenso entsteht beim Schmelzen von Erzen bei unzureichenden Temperaturen {LINK:ReagentPage;Reagenzien}, das zurückgeführt werden muss.
 Wenn Flüssigkeiten im Ofen vorhanden sind, sammeln sie sich dort, bis der Ofen an ein Flüssigkeitsrohrnetz angeschlossen wird.</Description>
     </RecordThing>
     <RecordThing>
@@ -2199,7 +2199,7 @@ Wenn Flüssigkeiten im Ofen vorhanden sind, sammeln sie sich dort, bis der Ofen 
     <RecordThing>
       <Key>StructureHydroponicsTray</Key>
       <Value>Hydroponisches Beet (Einzelplatz)</Value>
-      <Description>Das {LINK:Agrizero;Agrizero} Hydroponik-Tablett ist das ideale Gefäß für den Anbau einer Reihe von {LINK:OrganicPage;plantlife}. Es muss über ein Leitungsnetz mit Wasser und ausreichend Licht für die Photosynthese versorgt werden.
+      <Description>Das {LINK:Agrizero;Agrizero} Hydroponik-Tablett ist das ideale Gefäß für den Anbau einer Reihe von {LINK:OrganicPage;Pflanzen}. Es muss über ein Leitungsnetz mit Wasser und ausreichend Licht für die Photosynthese versorgt werden.
 Sie kann mit dem {THING:StructureHarvie} automatisiert werden.</Description>
     </RecordThing>
     <RecordThing>
@@ -2215,7 +2215,7 @@ Sie kann mit dem {THING:StructureHarvie} automatisiert werden.</Description>
     <RecordThing>
       <Key>StructureMotionSensor</Key>
       <Value>Bewegungsmelder</Value>
-      <Description>Ursprünglich entwickelt, um Tanzmarathons zu überwachen, kann der Bewegungssensor auch an {LINK:LogicPage;Logic} Systeme für Sicherheitszwecke, automatische Beleuchtung, Türen und verschiedene andere Anwendungen angeschlossen werden.
+      <Description>Ursprünglich entwickelt, um Tanzmarathons zu überwachen, kann der Bewegungssensor auch an {LINK:LogicPage;Logik} Systeme für Sicherheitszwecke, automatische Beleuchtung, Türen und verschiedene andere Anwendungen angeschlossen werden.
 Der Sensor wird aktiviert, sobald ein Spieler das Gitter betritt, auf dem er platziert ist.</Description>
     </RecordThing>
     <RecordThing>
@@ -2226,8 +2226,8 @@ Der Sensor wird aktiviert, sobald ein Spieler das Gitter betritt, auf dem er pla
     <RecordThing>
       <Key>StructurePipeAnalysizer</Key>
       <Value>Gasrohr-Analysator</Value>
-      <Description>Der angeblich aus einem Wochenendprojekt eines übereifrigen {{LINK:ExMin;ExMin}-Ingenieurs zwischen Vater und Tochter hervorgegangene Rohranalysator ist im Wesentlichen eine weiterentwickelte Version des {THING:StructurePipeMeter}.
-Er zeigt den Innendruck von Rohrnetzen an, misst auch die Temperatur und den Gasgehalt und kann über ein {{LINK:LogicPage;Logic}-System an ein {THING:StructureConsole}- oder {THING:StructureComputer}-System angeschlossen werden.</Description>
+      <Description>Der angeblich aus einem Wochenendprojekt eines übereifrigen {LINK:ExMin;ExMin}-Ingenieurs zwischen Vater und Tochter hervorgegangene Rohranalysator ist im Wesentlichen eine weiterentwickelte Version des {THING:StructurePipeMeter}.
+Er zeigt den Innendruck von Rohrnetzen an, misst auch die Temperatur und den Gasgehalt und kann über ein {LINK:LogicPage;Logik}-System an ein {THING:StructureConsole}- oder {THING:StructureComputer}-System angeschlossen werden.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeCorner</Key>
@@ -2243,7 +2243,7 @@ Rohre verteilen ihren Inhalt gleichmäßig über das gesamte Netzwerk und könne
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeCrossJunction3</Key>
-      <Value>Gasrohr (3-Wege-Abzweigung)</Value>
+      <Value>Gasrohr (3-Wege-Kreuzung)</Value>
       <Description>Das erste, was ein Stationeer lernt, ist, dass er allein ist. Das zweite ist, dass Rohre Gas speichern.
 Rohre verteilen ihren Inhalt gleichmäßig über das gesamte Netzwerk und können mit einer Vielzahl von Geräten und Strukturen verbunden werden. Einfache Rohre können einem Druck von bis zu 60 MPa standhalten. Darüber hinaus werden die Dinge "interessant".</Description>
     </RecordThing>
@@ -2330,7 +2330,7 @@ Rohre verteilen ihren Inhalt gleichmäßig über das gesamte Netzwerk und könne
     <RecordThing>
       <Key>StructureSolarPanel</Key>
       <Value>Solarmodul</Value>
-      <Description>{LINK:Sinotai;Sinotai's} Standard-Solarmodule werden zur Stromerzeugung aus Sonnenlicht verwendet. Sie können an {LINK:LogicPage;Logic} Systeme angeschlossen werden, um das Sonnenlicht nachzuverfolgen, aber ihre Leistung wird bei Stürmen und bei Beschädigung reduziert. Du kannst sie mit einigen zuverlässigen {THING:ItemDuctTape} reparieren.</Description>
+      <Description>{LINK:Sinotai;Sinotai's} Standard-Solarmodule werden zur Stromerzeugung aus Sonnenlicht verwendet. Sie können an {LINK:LogicPage;Logik} Systeme angeschlossen werden, um das Sonnenlicht nachzuverfolgen, aber ihre Leistung wird bei Stürmen und bei Beschädigung reduziert. Du kannst sie mit einigen zuverlässigen {THING:ItemDuctTape} reparieren.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureSorter</Key>
@@ -2341,13 +2341,13 @@ Rohre verteilen ihren Inhalt gleichmäßig über das gesamte Netzwerk und könne
       <Key>StructureStacker</Key>
       <Value>Stapler</Value>
       <Description>Ein Stapler ist ein wichtiger Bestandteil jedes automatisierten Rutschennetzes. Der {LINK:Xigo;Xigo} ProKompile kann manuell oder über eine Logik eingestellt werden, um sicherzustellen, dass die den Stapler durchlaufenden Artikel für Ihren Lagerbedarf maximiert werden.
-Der ProKompile kann eine Vielzahl von Gegenständen stapeln, wie z. B. {LINK:IngotPage;ingots}, und die Stapel bei Bedarf in geeignete Größen aufteilen.</Description>
+Der ProKompile kann eine Vielzahl von Gegenständen stapeln, wie z. B. {LINK:IngotPage;Barren}, und die Stapel bei Bedarf in geeignete Größen aufteilen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureStackerReverse</Key>
       <Value>Stapler</Value>
       <Description>Ein Stapler ist ein wichtiger Bestandteil jedes automatisierten Rutschennetzes. Der {LINK:Xigo;Xigo} ProKompile kann manuell oder über eine Logik eingestellt werden, um sicherzustellen, dass die den Stapler durchlaufenden Artikel für Ihren Lagerbedarf maximiert werden. Der umgekehrte Stapler hat Strom und Daten auf der gegenüberliegenden Seite.
-Der ProKompile kann eine Vielzahl von Gegenständen stapeln, z. B. {LINK:IngotPage;ingots}, und die Stapel je nach Bedarf in geeignete Größen aufteilen.</Description>
+Der ProKompile kann eine Vielzahl von Gegenständen stapeln, z. B. {LINK:IngotPage;Barren}, und die Stapel je nach Bedarf in geeignete Größen aufteilen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureStairs4x2</Key>
@@ -2424,7 +2424,7 @@ Alle Rohre des Racks müssen angeschlossen sein, sonst zeigt das Gerät eine Feh
         - Gas in den angeschlossenen Leitungen, oder der Druck ist zu niedrig.
         - Die Atmosphäre in der Umgebung oder der Druck ist zu niedrig.
 
-        Weitere Informationen zur Temperaturregelung finden Sie auf der Seite {LINK:TemperatureControlPage;temperature control} Seite Anleitungen.</Description>
+        Weitere Informationen zur Temperaturregelung finden Sie auf der Seite {LINK:TemperatureControlPage;Temperaturkontrolle}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallHeater</Key>
@@ -2457,27 +2457,27 @@ Alle Rohre des Racks müssen angeschlossen sein, sonst zeigt das Gerät eine Feh
     </RecordThing>
     <RecordThing>
       <Key>StructureCableStraightBurnt</Key>
-      <Value>Verbranntes Kabel (gerade)</Value>
+      <Value>Verbranntes Kabel (Dünn) (gerade)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCorner3Burnt</Key>
-      <Value>Verbranntes Kabel (3-Wege-Kreuzung)</Value>
+      <Value>Verbranntes Kabel (Dünn) (3-Wege-Kreuzung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCornerBurnt</Key>
-      <Value>Verbranntes Kabel (Ecke)</Value>
+      <Value>Verbranntes Kabel (Dünn) (Ecke)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction4Burnt</Key>
-      <Value>Verbranntes Kabel (4-Wege-Kreuzung)</Value>
+      <Value>Verbranntes Kabel (Dünn) (4-Wege-Kreuzung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction6Burnt</Key>
-      <Value>Verbranntes Kabel (6-Wege-Kreuzung)</Value>
+      <Value>Verbranntes Kabel (Dünn) (6-Wege-Kreuzung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunctionBurnt</Key>
-      <Value>Verbranntes Kabel (T-Kreuzung)</Value>
+      <Value>Verbranntes Kabel (Dünn) (T-Kreuzung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSolidFuelGenerator</Key>
@@ -2510,23 +2510,23 @@ Alle Rohre des Racks müssen angeschlossen sein, sonst zeigt das Gerät eine Feh
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction6HBurnt</Key>
-      <Value>Verbranntes Kabel (6-Wege-Kreuzung)</Value>
+      <Value>Verbranntes Kabel (Dünn) (6-Wege-Kreuzung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction4HBurnt</Key>
-      <Value>Verbranntes Kabel (4-Wege-Kreuzung)</Value>
+      <Value>Verbranntes Kabel (Dünn) (4-Wege-Kreuzung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableStraightHBurnt</Key>
-      <Value>Verbranntes Kabel (gerade)</Value>
+      <Value>Verbranntes Kabel (Dünn) (gerade)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunctionHBurnt</Key>
-      <Value>Verbranntes Kabel (T-Kreuzung)</Value>
+      <Value>Verbranntes Kabel (Dünn) (T-Kreuzung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCornerHBurnt</Key>
-      <Value>Verbranntes Kabel (Ecke)</Value>
+      <Value>Verbranntes Kabel (Dünn) (Ecke)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCornerH</Key>
@@ -2561,7 +2561,7 @@ Beachten Sie, dass Transformatoren als Datenisolatoren fungieren und verhindern,
     <RecordThing>
       <Key>StructureTransformerSmall</Key>
       <Value>Transformator (klein)</Value>
-      <Description>Transformatoren regeln die maximale Leistung, die in ein Kabelteilnetz fließt, um eine Überlastung von {LINK:ElectronicPage;electrical} Systemen zu verhindern. Die Leistung von kleinen Transformatoren kann zwischen 0 und 5000 W eingestellt werden.
+      <Description>Transformatoren regeln die maximale Leistung, die in ein Kabelteilnetz fließt, um eine Überlastung von {LINK:ElectronicPage;elektrischen} Systemen zu verhindern. Die Leistung von kleinen Transformatoren kann zwischen 0 und 5000 W eingestellt werden.
 Beachten Sie, dass Transformatoren als Datenisolatoren fungieren und verhindern, dass Daten in ein anderes Netzwerk fließen.</Description>
     </RecordThing>
     <RecordThing>
@@ -2571,15 +2571,15 @@ Beachten Sie, dass Transformatoren als Datenisolatoren fungieren und verhindern,
     <RecordThing>
       <Key>StructureChuteWindow</Key>
       <Value>Schacht (Fenster)</Value>
-      <Description>Bei Schächten mit Fenstern können Sie sehen, was Ihr {LINK:ImportExportPage;import/export} Netz durchläuft. Aber seien Sie gewarnt, sie sind nicht isoliert wie andere Schächte. Eis wird schmelzen.</Description>
+      <Description>Bei Schächten mit Fenstern können Sie sehen, was Ihr {LINK:ImportExportPage;Import/Export} Netz durchläuft. Aber seien Sie gewarnt, sie sind nicht isoliert wie andere Schächte. Eis wird schmelzen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureArcFurnace</Key>
       <Value>Lichtbogenofen</Value>
       <Description>Das einfachste Schmelzsystem, das dem durchschnittlichen {LINK:Stationeers;Stationeer} zur Verfügung steht, der {LINK:Recurso;Recurso's}-Lichtbogenofen, wurde in den Tiefen des Sonnensystems selbst geschmiedet, um Geologen bei der Erkundung der Reinheit potenzieller asteroider Abbauziele zu helfen.
 Er wurde von den {LINK:ODA;ODA} übernommen und bietet den Stationsbewohnern nun eine Möglichkeit, reine Barren verschiedener Ressourcen herzustellen.
-Der Schmelzprozess setzt auch eine Reihe von Nebenprodukten {LINK:GasPage;gases} frei, vor allem {GAS:Nitrogen}, {GAS:CarbonDioxide}, {GAS:Volatiles} und {GAS:Oxygen} in unterschiedlichen Verhältnissen. Diese können durch Filterung aus der Atmosphäre zurückgewonnen werden, machen den Lichtbogenofen aber auch zu einem Risiko in geschlossenen Umgebungen.
-Im Gegensatz zu den weiter entwickelten {THING:StructureFurnace} kann der Lichtbogenofen keine {LINK:IngotPage;alloys} erzeugen.</Description>
+Der Schmelzprozess setzt auch eine Reihe von Nebenprodukten {LINK:GasPage;Gase} frei, vor allem {GAS:Nitrogen}, {GAS:CarbonDioxide}, {GAS:Volatiles} und {GAS:Oxygen} in unterschiedlichen Verhältnissen. Diese können durch Filterung aus der Atmosphäre zurückgewonnen werden, machen den Lichtbogenofen aber auch zu einem Risiko in geschlossenen Umgebungen.
+Im Gegensatz zu den weiter entwickelten {THING:StructureFurnace} kann der Lichtbogenofen keine {LINK:IngotPage;Legierungen} erzeugen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureAutolathe</Key>
@@ -2619,17 +2619,17 @@ Im Gegensatz zu den weiter entwickelten {THING:StructureFurnace} kann der Lichtb
     <RecordThing>
       <Key>ItemSilverOre</Key>
       <Value>Erz (Silber)</Value>
-      <Description>Silber ist ein chemisches Element mit dem Symbol "Ag". Von vielen {LINK:Stationeers;Stationeers} wegen seines attraktiven Glanzes geschätzt, wird es auch in einer Vielzahl von {LINK:ElectronicPage;electronics} Komponenten und {LINK:IngotPage;alloys} verwendet.</Description>
+      <Description>Silber ist ein chemisches Element mit dem Symbol "Ag". Von vielen {LINK:Stationeers;Stationeers} wegen seines attraktiven Glanzes geschätzt, wird es auch in einer Vielzahl von {LINK:ElectronicPage;electronics} Komponenten und {LINK:IngotPage;Legierungen} verwendet.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemNickelOre</Key>
       <Value>Erz (Nickel)</Value>
-      <Description>Nickel ist ein chemisches Element mit dem Symbol "Ni" und ist ein seltenes Metall, das häufig als Beschichtung verwendet wird, um Korrosion zu verhindern. Von vielen {LINK:Stationeers;Stationeers} begehrt, wird Nickel auch häufig zur Herstellung verschiedener {LINK:IngotPage;alloys} verwendet.</Description>
+      <Description>Nickel ist ein chemisches Element mit dem Symbol "Ni" und ist ein seltenes Metall, das häufig als Beschichtung verwendet wird, um Korrosion zu verhindern. Von vielen {LINK:Stationeers;Stationeers} begehrt, wird Nickel auch häufig zur Herstellung verschiedener {LINK:IngotPage;Legierungen} verwendet.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemLeadOre</Key>
       <Value>Erz (Blei)</Value>
-      <Description>Blei ist ein chemisches Element mit dem Symbol "Pb". Es ist ein dichtes, schweres Metall mit einem niedrigen Schmelzpunkt. Blei wird zur Herstellung einer Vielzahl von Dingen wie {LINK:IngotPage;alloys} wie {THING:ItemSolderIngot} und Munition verwendet.</Description>
+      <Description>Blei ist ein chemisches Element mit dem Symbol "Pb". Es ist ein dichtes, schweres Metall mit einem niedrigen Schmelzpunkt. Blei wird zur Herstellung einer Vielzahl von Dingen wie {LINK:IngotPage;Legierungen} wie {THING:ItemSolderIngot} und Munition verwendet.</Description>
     </RecordThing>
     <RecordThing>
       <Key>WeaponRifleEnergy</Key>
@@ -2684,11 +2684,11 @@ Im Gegensatz zu den weiter entwickelten {THING:StructureFurnace} kann der Lichtb
     <RecordThing>
       <Key>ItemSiliconOre</Key>
       <Value>Erz (Silizium)</Value>
-      <Description>Silizium ist ein chemisches Element mit dem Symbol "Si" und ist eines der nützlichsten Elemente für {LINK:Stationeers;Stationeers}. Silizium ist überall im Universum verfügbar und wird in einer Reihe von {LINK:IngotPage;alloys}, Glas, Kunststoffen und verschiedenen elektronischen Komponenten verwendet, die ein Stationeer zur Erfüllung seiner Mission benötigt.</Description>
+      <Description>Silizium ist ein chemisches Element mit dem Symbol "Si" und ist eines der nützlichsten Elemente für {LINK:Stationeers;Stationeers}. Silizium ist überall im Universum verfügbar und wird in einer Reihe von {LINK:IngotPage;Legierungen}, Glas, Kunststoffen und verschiedenen elektronischen Komponenten verwendet, die ein Stationeer zur Erfüllung seiner Mission benötigt.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemSiliconIngot</Key>
-      <Value>Barren (Silikon)</Value>
+      <Value>Barren (Silizium)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemFern</Key>
@@ -2703,7 +2703,7 @@ Im Gegensatz zu den weiter entwickelten {THING:StructureFurnace} kann der Lichtb
     <RecordThing>
       <Key>StructureElectronicsPrinter</Key>
       <Value>Elektronik Drucker</Value>
-      <Description>Der Elektronikdrucker stellt jedes {LINK:ElectronicPage;electronic} Teil her, das Sie benötigen. Von Leiterplatten und elektronischen Geräten bis hin zu Solarpanels. Sie haben die Wahl. Erweitern Sie das Gerät mit einem {THING:ElectronicPrinterMod} für zusätzliche Rezepte und höhere Verarbeitungsgeschwindigkeiten.</Description>
+      <Description>Der Elektronikdrucker stellt jedes {LINK:ElectronicPage;elektronisches} Teil her, das Sie benötigen. Von Leiterplatten und elektronischen Geräten bis hin zu Solarpanels. Sie haben die Wahl. Erweitern Sie das Gerät mit einem {THING:ElectronicPrinterMod} für zusätzliche Rezepte und höhere Verarbeitungsgeschwindigkeiten.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemVolatiles</Key>
@@ -2835,7 +2835,7 @@ Rüste das Gerät mit einem {THING:ToolPrinterMod} auf, um zusätzliche Rezepte 
     <RecordThing>
       <Key>StructureTransformerSmallReversed</Key>
       <Value>Transformator Umgekehrt (klein)</Value>
-      <Description>Transformatoren regeln die maximale Leistung, die in ein Kabelteilnetz fließt, um eine Überlastung von {LINK:ElectronicPage;electrical} Systemen zu verhindern. Die Leistung von kleinen Transformatoren kann zwischen 0 und 5000 W eingestellt werden.
+      <Description>Transformatoren regeln die maximale Leistung, die in ein Kabelteilnetz fließt, um eine Überlastung von {LINK:ElectronicPage;elektrischen} Systemen zu verhindern. Die Leistung von kleinen Transformatoren kann zwischen 0 und 5000 W eingestellt werden.
 Beachten Sie, dass Transformatoren als Datenisolatoren fungieren und verhindern, dass Daten in ein anderes Netzwerk fließen.</Description>
     </RecordThing>
     <RecordThing>
@@ -2921,7 +2921,7 @@ Beachten Sie, dass Transformatoren als Datenisolatoren fungieren und verhindern,
     <RecordThing>
       <Key>StructureSolarPanelDual</Key>
       <Value>Solarmodul (Dual)</Value>
-      <Description>{LINK:Sinotai;Sinotai} Duale Solarpaneele werden zur Stromerzeugung aus Sonnenlicht verwendet und verfügen über eigene Daten- und Stromanschlüsse. Sie können an {{LINK:LogicPage;Logic} Systeme angeschlossen werden, um das Sonnenlicht zu verfolgen, aber ihre Effizienz wird bei Stürmen und Beschädigungen reduziert. Du kannst sie mit einigen zuverlässigen {THING:ItemDuctTape} reparieren.</Description>
+      <Description>{LINK:Sinotai;Sinotai} Duale Solarpaneele werden zur Stromerzeugung aus Sonnenlicht verwendet und verfügen über eigene Daten- und Stromanschlüsse. Sie können an {LINK:LogicPage;Logik} Systeme angeschlossen werden, um das Sonnenlicht zu verfolgen, aber ihre Effizienz wird bei Stürmen und Beschädigungen reduziert. Du kannst sie mit einigen zuverlässigen {THING:ItemDuctTape} reparieren.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicBatchWriter</Key>
@@ -3443,7 +3443,7 @@ Setzen Sie eine Kassette oder einen Farbscanner in das Tablet ein und drücken S
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeCrossJunction4</Key>
-      <Value>Gasrohr (4-Wege-Abzweigung)</Value>
+      <Value>Gasrohr (4-Wege-Kreuzung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemAuthoringTool</Key>
@@ -3528,7 +3528,7 @@ Setzen Sie eine Kassette oder einen Farbscanner in das Tablet ein und drücken S
     <RecordThing>
       <Key>StructureSecurityPrinter</Key>
       <Value>Sicherheitsdrucker</Value>
-      <Description>Jeder {LINK:Stationeer;Stationeer}, der auf Sicherheit bedacht ist, braucht den {LINK:Harkwell;Harkwell-designed} Vigilant-E Sicherheitsdrucker. Verwenden Sie den Vigilant-E, um einen {THING:CartridgeAccessController} zu erstellen, um den Zugang zu verschiedenen Teilen Ihrer Basis über Schlüsselkarten wie den {THING:AccessCardBlue} zu beschränken. Der Drucker stellt auch eine Vielzahl von Waffen und Munition her, mit denen Sie Ihre Basis gegen alle feindlichen, aggressiven oder einfach nur unhöflichen Wesen verteidigen können, denen Sie bei der Erkundung des Sonnensystems begegnen.
+      <Description>Jeder {LINK:Stationeer;Stationeer}, der auf Sicherheit bedacht ist, braucht den {LINK:Harkwell;Harkwell-konzipierter} Vigilant-E Sicherheitsdrucker. Verwenden Sie den Vigilant-E, um einen {THING:CartridgeAccessController} zu erstellen, um den Zugang zu verschiedenen Teilen Ihrer Basis über Schlüsselkarten wie den {THING:AccessCardBlue} zu beschränken. Der Drucker stellt auch eine Vielzahl von Waffen und Munition her, mit denen Sie Ihre Basis gegen alle feindlichen, aggressiven oder einfach nur unhöflichen Wesen verteidigen können, denen Sie bei der Erkundung des Sonnensystems begegnen.
 </Description>
     </RecordThing>
     <RecordThing>
@@ -3558,7 +3558,7 @@ Setzen Sie eine Kassette oder einen Farbscanner in das Tablet ein und drücken S
     <RecordThing>
       <Key>StructureElectrolyzer</Key>
       <Value>Elektrolyseur</Value>
-      <Description>Der {LINK:Norsec;Norsec-designed} Electrolyzer spaltet {GAS:Water} in Wasserstoff und {GAS:Oxygen}. Unter Verwendung einer unbekannten proprietären Technologie nutzt das Gerät die latente Wärme des Wassers als Energie für den Elektrolyseprozess. Wenn es einen Nachteil bei dieser fast wundersamen Spaltung gibt, dann ist es der, dass das Gerät durch die verfügbare Energiemenge begrenzt ist, die zur Aufrechterhaltung der Ausgangstemperatur verwendet wird. Mit anderen Worten, die Maschine funktioniert am besten mit heißem Gas.</Description>
+      <Description>Der {LINK:Norsec;Norsec-konzipierter} Electrolyzer spaltet {GAS:Water} in Wasserstoff und {GAS:Oxygen}. Unter Verwendung einer unbekannten proprietären Technologie nutzt das Gerät die latente Wärme des Wassers als Energie für den Elektrolyseprozess. Wenn es einen Nachteil bei dieser fast wundersamen Spaltung gibt, dann ist es der, dass das Gerät durch die verfügbare Energiemenge begrenzt ist, die zur Aufrechterhaltung der Ausgangstemperatur verwendet wird. Mit anderen Worten, die Maschine funktioniert am besten mit heißem Gas.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureElevatorShaft</Key>
@@ -3643,7 +3643,7 @@ Setzen Sie eine Kassette oder einen Farbscanner in das Tablet ein und drücken S
     <RecordThing>
       <Key>StructureVendingMachine</Key>
       <Value>Verkaufsautomat</Value>
-      <Description>Der {LINK:Xigo;Xigo-designed} "Slot Mate"-Automat ermöglicht die Lagerung von fast allen Gegenständen und dient gleichzeitig als Vertriebsstelle für die Arbeit mit {LINK:TradingPage;Traders}. Ohne einen Verkaufsautomaten oder sein fortschrittlicheres Äquivalent, den {THING:StructureRefrigeratedVendingMachine}, kannst du nicht handeln. Jeder Verkaufsautomat kann bis zu 100 Stapel aufnehmen.</Description>
+      <Description>Der {LINK:Xigo;Xigo-konzipierter} "Slot Mate"-Automat ermöglicht die Lagerung von fast allen Gegenständen und dient gleichzeitig als Vertriebsstelle für die Arbeit mit {LINK:TradingPage;Traders}. Ohne einen Verkaufsautomaten oder sein fortschrittlicheres Äquivalent, den {THING:StructureRefrigeratedVendingMachine}, kannst du nicht handeln. Jeder Verkaufsautomat kann bis zu 100 Stapel aufnehmen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitVendingMachine</Key>
@@ -3667,7 +3667,7 @@ Setzen Sie eine Kassette oder einen Farbscanner in das Tablet ein und drücken S
     </RecordThing>
     <RecordThing>
       <Key>ItemHardsuitHelmet</Key>
-      <Value>Raumhelm (gehärtet)</Value>
+      <Value>Raumanzughelm (gehärtet)</Value>
       <Description>Der Schutzanzug-Helm ähnelt dem {THING:ItemSpaceHelmet}, kann aber höheren Temperaturen und Drücken standhalten. Er ist perfekt für raue Umgebungen wie Venus und Vulkan geeignet.</Description>
     </RecordThing>
     <RecordThing>
@@ -3898,7 +3898,7 @@ ANWENDUNG: 'J' zum Aktivieren; 'Leertaste' zum Hochfliegen; 'Linke STRG' zum Abs
     <RecordThing>
       <Key>StructureKlaxon</Key>
       <Value>Klaxon-Lautsprecher</Value>
-      <Description>Mit Klaxons können Sie je nach Ihrer {LINK:LogicPage;Logic} Einrichtung über 50 Ansagen und Töne abspielen. Stellen Sie den Modus ein, um den Ausgang zu wählen.</Description>
+      <Description>Mit Klaxons können Sie je nach Ihrer {LINK:LogicPage;Logik} Einrichtung über 50 Ansagen und Töne abspielen. Stellen Sie den Modus ein, um den Ausgang zu wählen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSpeaker</Key>
@@ -4049,7 +4049,7 @@ Wenn sie an eine {THING:StructureComputer} mit einer {THING:MotherboardComms} Ha
     <RecordThing>
       <Key>ItemMiningDrillHeavy</Key>
       <Value>Starker Bergbaubohrer</Value>
-      <Description>Manchmal erfordern Bergbautouren etwas Größeres, um die Ware nach Hause zu bringen. Diese vergrößerte Version des {LINK:Recurso;Recurso} "Topo"-Designs {THING:ItemMiningDrill} kann buchstäblich Berge versetzen. Der schwere Minenbohrer kann mehr Boden abtragen und {LINK:OrePage;ore} schneller abbauen als der normale Minenbohrer. Der schwere Minenbohrer ist außerdem temperatur- und druckbeständig. Ganz gleich, welcher Planet oder welche extremen Wetterbedingungen herrschen, der schwere Bergbaubohrer von Recurso erledigt die Arbeit.</Description>
+      <Description>Manchmal erfordern Bergbautouren etwas Größeres, um die Ware nach Hause zu bringen. Diese vergrößerte Version des {LINK:Recurso;Recurso} "Topo"-Designs {THING:ItemMiningDrill} kann buchstäblich Berge versetzen. Der schwere Minenbohrer kann mehr Boden abtragen und {LINK:OrePage;Erz} schneller abbauen als der normale Minenbohrer. Der schwere Minenbohrer ist außerdem temperatur- und druckbeständig. Ganz gleich, welcher Planet oder welche extremen Wetterbedingungen herrschen, der schwere Bergbaubohrer von Recurso erledigt die Arbeit.</Description>
     </RecordThing>
     <RecordThing>
       <Key>RoverCargo</Key>
@@ -4183,7 +4183,7 @@ RobotMode.None = 6 = Automatisch zugewiesener Status, zeigt an, wenn die Lagerpl
     <RecordThing>
       <Key>ItemCobaltOre</Key>
       <Value>Erz (Kobalt)</Value>
-      <Description>Kobalt ist ein chemisches Element mit dem Symbol "Co" und kommt normalerweise nur in kleinen Vorkommen vor. Kobalt ist eine seltene Substanz, aber verwendet schaffen die {THING:ItemHealPill} und mehrere {LINK:IngotPage;alloys}.</Description>
+      <Description>Kobalt ist ein chemisches Element mit dem Symbol "Co" und kommt normalerweise nur in kleinen Vorkommen vor. Kobalt ist eine seltene Substanz, aber verwendet schaffen die {THING:ItemHealPill} und mehrere {LINK:IngotPage;Legierungen}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCobaltIngot</Key>
@@ -4236,14 +4236,14 @@ RobotMode.None = 6 = Automatisch zugewiesener Status, zeigt an, wenn die Lagerpl
     <RecordThing>
       <Key>StructureTransformerMedium</Key>
       <Value>Transformer (Normal)</Value>
-      <Description>Transformatoren regeln die maximale Leistung, die durch ein Teilnetz von Kabeln fließt, um eine Überlastung von {LINK:ElectronicPage;electrical} Systemen zu verhindern.
+      <Description>Transformatoren regeln die maximale Leistung, die durch ein Teilnetz von Kabeln fließt, um eine Überlastung von {LINK:ElectronicPage;elektrischen} Systemen zu verhindern.
 Mittlere Transformatoren werden in größeren Anlagen verwendet, in denen mehr als 5000 W benötigt werden, mit einer Leistung, die auf maximal 25000 W eingestellt werden kann.
 Beachten Sie, dass Transformatoren auch als Datenisolatoren fungieren, die verhindern, dass Daten in ein anderes Netz fließen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureTransformerMediumReversed</Key>
       <Value>Transformator Umgekehrt (Normal)</Value>
-      <Description>Transformatoren regeln die maximale Leistung, die durch ein Teilnetz von Kabeln fließt, um eine Überlastung von {LINK:ElectronicPage;electrical} Systemen zu verhindern.
+      <Description>Transformatoren regeln die maximale Leistung, die durch ein Teilnetz von Kabeln fließt, um eine Überlastung von {LINK:ElectronicPage;elektrischen} Systemen zu verhindern.
 Mittlere Transformatoren werden in größeren Anlagen verwendet, in denen mehr als 5000 W benötigt werden, mit einer Leistung, die auf maximal 25000 W eingestellt werden kann.
 Beachten Sie, dass Transformatoren auch als Datenisolatoren fungieren, die verhindern, dass Daten in ein anderes Netz fließen.</Description>
     </RecordThing>
@@ -4254,7 +4254,7 @@ Beachten Sie, dass Transformatoren auch als Datenisolatoren fungieren, die verhi
     <RecordThing>
       <Key>ItemJetpackBasic</Key>
       <Value>Jetpack</Value>
-      <Description>Das grundlegende {LINK:CHAC;CHAC} Jetpack ist "technisch" kein Jetpack, sondern ein Gasantrieb. Es kann mit jedem Gas betrieben werden, solange der Innendruck des {LINK:AtmosphericsPage;canister} höher ist als der Außendruck. Wenn der Außendruck höher ist, funktioniert das Spacepack nicht.
+      <Description>Das grundlegende {LINK:CHAC;CHAC} Jetpack ist "technisch" kein Jetpack, sondern ein Gasantrieb. Es kann mit jedem Gas betrieben werden, solange der Innendruck der {LINK:AtmosphericsPage;Gasflasche} höher ist als der Außendruck. Wenn der Außendruck höher ist, funktioniert das Spacepack nicht.
 Es ist unentbehrlich für den Bau, den Bergbau und die allgemeine Fortbewegung, hat zehn Speicherplätze und lässt {LINK:Stationeers;Stationeers} mit 3m/s fliegen, verglichen mit dem stärkeren {THING:ItemHardJetpack}. Durch Einstellen des Schubwerts wird die Beschleunigung verändert, während die Aktivierung des Stabilisators das Spacepack bei Erreichen einer bestimmten Höhe zum Schweben bringt.
 ANWENDUNG: 'J' zum Aktivieren; 'Leertaste' zum Aufwärtsfliegen; 'Linke Strg' zum Abwärtsfliegen; und 'WASD' zum Bewegen.</Description>
     </RecordThing>
@@ -4264,7 +4264,7 @@ ANWENDUNG: 'J' zum Aktivieren; 'Leertaste' zum Aufwärtsfliegen; 'Linke Strg' zu
     </RecordThing>
     <RecordThing>
       <Key>ItemEmergencyHelmet</Key>
-      <Value>Notfall-Raumhelm</Value>
+      <Value>Notfall-Raumanzughelm</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemEmergencyArcWelder</Key>
@@ -4304,7 +4304,7 @@ ANWENDUNG: 'J' zum Aktivieren; 'Leertaste' zum Aufwärtsfliegen; 'Linke Strg' zu
     </RecordThing>
     <RecordThing>
       <Key>ItemEmergencySpaceHelmet</Key>
-      <Value>Notfall-Raumhelm</Value>
+      <Value>Notfall-Raumanzughelm</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemEmergencyToolBelt</Key>
@@ -4441,7 +4441,7 @@ ANWENDUNG: 'J' zum Aktivieren; 'Leertaste' zum Aufwärtsfliegen; 'Linke Strg' zu
     <RecordThing>
       <Key>StructureAutoMinerSmall</Key>
       <Value>Automatischer Bergbau (klein)</Value>
-      <Description>Der {LINK:Recurso;Recurso} SquareDig-Automat ist eine Struktur, die, wenn sie gebaut wird, einen vertikalen 2x2-Schacht abbaut, bis sie auf das Grundgestein trifft. Der Autominer kann an ein Schachtsystem angeschlossen werden und ist über ein logisches Netzwerk steuerbar. Beachten Sie, dass der Autominer mehr {LINK:OrePage;ore} als ein herkömmlicher {THING:ItemMiningDrill} auf der gleichen Fläche abbaut.</Description>
+      <Description>Der {LINK:Recurso;Recurso} SquareDig-Automat ist eine Struktur, die, wenn sie gebaut wird, einen vertikalen 2x2-Schacht abbaut, bis sie auf das Grundgestein trifft. Der Autominer kann an ein Schachtsystem angeschlossen werden und ist über ein logisches Netzwerk steuerbar. Beachten Sie, dass der Autominer mehr {LINK:OrePage;Erz} als ein herkömmlicher {THING:ItemMiningDrill} auf der gleichen Fläche abbaut.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAutoMinerSmall</Key>
@@ -4510,38 +4510,38 @@ Bei der Landung setzt die Rakete einen Lander und die im {THING:StructureModular
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeCrossJunction</Key>
-      <Value>Isolierte Gasrohre (Kreuzungspunkt)</Value>
+      <Value>Isolierte Gasrohre (Kreuzung)</Value>
       <Description>Isolierte Rohre verringern den Wärmeverlust durch die in ihnen gespeicherten Gase erheblich.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeCrossJunction3</Key>
-      <Value>Isolierte Gasrohre (3-Wege-Abzweigung)</Value>
+      <Value>Isolierte Gasrohre (3-Wege-Kreuzung)</Value>
       <Description>Isolierte Rohre verringern den Wärmeverlust durch die in ihnen gespeicherten Gase erheblich.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeCrossJunction4</Key>
-      <Value>Isolierte Gasrohre (4-Wege-Abzweigung)</Value>
+      <Value>Isolierte Gasrohre (4-Wege-Kreuzung)</Value>
       <Description>Isolierte Rohre verringern den Wärmeverlust durch die in ihnen gespeicherten Gase erheblich.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeCrossJunction5</Key>
-      <Value>Isolierte Gasrohre (5-Wege-Abzweigung)</Value>
+      <Value>Isolierte Gasrohre (5-Wege-Kreuzung)</Value>
       <Description>Isolierte Rohre verringern den Wärmeverlust durch die in ihnen gespeicherten Gase erheblich.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeCrossJunction6</Key>
-      <Value>Isolierte Gasrohre (6-Wege-Abzweigung)</Value>
+      <Value>Isolierte Gasrohre (6-Wege-Kreuzung)</Value>
       <Description>Isolierte Rohre verringern den Wärmeverlust durch die in ihnen gespeicherten Gase erheblich.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeTJunction</Key>
-      <Value>Isolierte Gasrohre (T-Verbindung)</Value>
+      <Value>Isolierte Gasrohre (T-Kreuzung)</Value>
       <Description>Isolierte Rohre verringern den Wärmeverlust durch die in ihnen gespeicherten Gase erheblich.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemAdvancedTablet</Key>
       <Value>Fortschritliches Tablet</Value>
-      <Description>Das fortschrittliche {LINK:Xigo;Xigo} Padi 2-Tablett ist eine verbesserte Version des {THING:ItemTablet}-Basistabletts und verfügt über zwei {LINK:CartridgePage;cartridge}-Steckplätze. Das Padi 2 kann mit {THING:CartridgeAtmosAnalyser}, {THING:CartridgeTracker}, {THING:CartridgeMedicalAnalyser}, {THING:CartridgeOreScanner}, {THING:CartridgeElectronicReader} und verschiedenen anderen Chips bestückt werden.
+      <Description>Das fortschrittliche {LINK:Xigo;Xigo} Padi 2-Tablett ist eine verbesserte Version des {THING:ItemTablet}-Basistabletts und verfügt über zwei {LINK:CartridgePage;Chip}-Steckplätze. Das Padi 2 kann mit {THING:CartridgeAtmosAnalyser}, {THING:CartridgeTracker}, {THING:CartridgeMedicalAnalyser}, {THING:CartridgeOreScanner}, {THING:CartridgeElectronicReader} und verschiedenen anderen Chips bestückt werden.
 	  
 	  Mit einem {THING:ItemIntegratedCircuit10} im {SLOT:ProgrammableChip} kann man über die Gerätenummern (d0, d1, etc...) auf variable Steckplätze am Träger zugreifen, sofern der Gegenstand über die Logik zugänglich ist, wie z.B. der {THING:ItemHardSuit}.</Description>
     </RecordThing>
@@ -4558,7 +4558,7 @@ Bei der Landung setzt die Rakete einen Lander und die im {THING:StructureModular
     <RecordThing>
       <Key>StructureModularRocketFueltank01</Key>
       <Value>Raketen-Treibstofftank (Modular)</Value>
-      <Description>Der Raketentreibstofftank benötigt eine 2:1-Mischung aus {GAS:Volatiles} und {GAS:Oxygen}. Wenn die Mischung dieses Verhältnis überschreitet oder Sie andere {LINK:GasPage;gases} in den Tank geben, zeigt die {THING:StructureModularRocketCommand01} Konsole einen 'Ungültig'-Fehler an.
+      <Description>Der Raketentreibstofftank benötigt eine 2:1-Mischung aus {GAS:Volatiles} und {GAS:Oxygen}. Wenn die Mischung dieses Verhältnis überschreitet oder Sie andere {LINK:GasPage;Gase} in den Tank geben, zeigt die {THING:StructureModularRocketCommand01} Konsole einen 'Ungültig'-Fehler an.
       
       Beachten Sie, dass der Raketentreibstofftank auch dazu verwendet werden kann, das von der {THING:StructureModularRocketGasMining} geförderte Gas aufzufangen, wenn er über eine {THING:StructureModularRocketCouplingUp} oder {THING:StructureModularRocketCouplingDown} mit dieser Einheit verbunden ist.</Description>
     </RecordThing>
@@ -4702,7 +4702,7 @@ Bei der Landung setzt die Rakete einen Lander und die im {THING:StructureModular
     <RecordThing>
       <Key>StructurePipeOrgan</Key>
       <Value>Pfeifenorgel</Value>
-      <Description>Die Pfeifenorgel kann an einem Ende eines {THING:ItemPipeValve} angebracht werden. Die Länge der Pfeife nach der Pfeifenorgel ändert die Tonhöhe der Note, die gespielt wird, wenn das Ventil geöffnet wird. Verwenden Sie {LINK:LogicPage;Logic} zum Öffnen und Schließen der Ventile, um eigene Melodien für Ihre Basis oder eine akustische Warnung zu erzeugen.</Description>
+      <Description>Die Pfeifenorgel kann an einem Ende eines {THING:ItemPipeValve} angebracht werden. Die Länge der Pfeife nach der Pfeifenorgel ändert die Tonhöhe der Note, die gespielt wird, wenn das Ventil geöffnet wird. Verwenden Sie {LINK:LogicPage;Logik} zum Öffnen und Schließen der Ventile, um eigene Melodien für Ihre Basis oder eine akustische Warnung zu erzeugen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPipeOrgan</Key>
@@ -4769,7 +4769,7 @@ Bei der Landung setzt die Rakete einen Lander und die im {THING:StructureModular
     <RecordThing>
       <Key>StructureSDBSilo</Key>
       <Value>SDB-Silo</Value>
-      <Description>Das majestätische Silo fasst große Mengen von fast allem. Solange es das tut, kann es nicht abgebaut werden. Beachte auch, dass jede Nahrung, die du in ein Silo legst, wahrscheinlich extrem schnell {LINK:DecayPage;decay} wird. Das Silo kann bis zu 600 Stapel fassen.</Description>
+      <Description>Das majestätische Silo fasst große Mengen von fast allem. Solange es das tut, kann es nicht abgebaut werden. Beachte auch, dass jede Nahrung, die du in ein Silo legst, wahrscheinlich extrem schnell {LINK:DecayPage;verfällt}. Das Silo kann bis zu 600 Stapel fassen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>KitSDBSilo</Key>
@@ -5663,17 +5663,17 @@ Obwohl die Windturbine so optimiert ist, dass sie auch in Welten mit niedriger A
     <RecordThing>
       <Key>ItemEmptyCan</Key>
       <Value>Leere Dose</Value>
-      <Description>Wird zur Herstellung von Suppen verwendet, wenn sie mit Lebensmitteln in der {THING:AppliancePackagingMachine} oder {THING:StructureAdvancedPackagingMachine} kombiniert werden. Ziemlich nährstoffreich, Konserven sind nicht {LINK:DecayPage;decay}.</Description>
+      <Description>Wird zur Herstellung von Suppen verwendet, wenn sie mit Lebensmitteln in der {THING:AppliancePackagingMachine} oder {THING:StructureAdvancedPackagingMachine} kombiniert werden. Ziemlich nährstoffreich, {LINK:DecayPage;verfällt} nicht.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPumpkinSoup</Key>
       <Value>Kürbissuppe</Value>
-      <Description>Hergestellt mit {THING:ItemCookedPumpkin} und einem {THING:ItemEmptyCan} in einem {THING:AppliancePackagingMachine} oder {THING:StructureAdvancedPackagingMachine}. Der Nährstoffgehalt von Konserven ist ziemlich hoch, aber nicht {LINK:DecayPage;decay}</Description>
+      <Description>Hergestellt mit {THING:ItemCookedPumpkin} und einem {THING:ItemEmptyCan} in einem {THING:AppliancePackagingMachine} oder {THING:StructureAdvancedPackagingMachine}. Der Nährstoffgehalt von Konserven ist ziemlich hoch, {LINK:DecayPage;verfällt} nicht.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCornSoup</Key>
       <Value>Mais-Suppe</Value>
-      <Description>Hergestellt mit {THING:ItemCookedCorn} und einem {THING:ItemEmptyCan} in einem {THING:AppliancePackagingMachine} oder {THING:StructureAdvancedPackagingMachine}. Reich an Nährstoffen, Konserven sind nicht {LINK:DecayPage;decay}.</Description>
+      <Description>Hergestellt mit {THING:ItemCookedCorn} und einem {THING:ItemEmptyCan} in einem {THING:AppliancePackagingMachine} oder {THING:StructureAdvancedPackagingMachine}. Reich an Nährstoffen, {LINK:DecayPage;verfällt} nicht.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemBreadLoaf</Key>
@@ -5694,7 +5694,7 @@ Es kann mit dem {THING:StructureHarvie} automatisiert werden. Beachten Sie, dass
     <RecordThing>
       <Key>ItemCharcoal</Key>
       <Value>Holzkohle</Value>
-      <Description>Holzkohle ist ein leichter, schwarzer Kohlenstoffrückstand, der durch Erhitzen von {THING:ItemBiomass} in einem {THING:StructureArcFurnace} entsteht. Sie hat ein geringeres Energiepotenzial als {THING:ItemCoalOre}, kann aber als Grundbrennstoff verwendet werden. Holzkohle kann auch als Ersatz für Kohle in {LINK:IngotPage;alloy}-Rezepten verwendet werden.</Description>
+      <Description>Holzkohle ist ein leichter, schwarzer Kohlenstoffrückstand, der durch Erhitzen von {THING:ItemBiomass} in einem {THING:StructureArcFurnace} entsteht. Sie hat ein geringeres Energiepotenzial als {THING:ItemCoalOre}, kann aber als Grundbrennstoff verwendet werden. Holzkohle kann auch als Ersatz für Kohle in {LINK:IngotPage;Legierung}-Rezepten verwendet werden.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSolarPanelReinforced</Key>
@@ -5754,7 +5754,7 @@ Obwohl die Windturbine so optimiert ist, dass sie auch auf Welten mit niedriger 
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeLiquidCrossJunction</Key>
-      <Value>Flüssigkeitsrohre (Kreuzungspunkt)</Value>
+      <Value>Flüssigkeitsrohre (Kreuzung)</Value>
       <Description>Der Name ist Programm: Flüssigkeitsrohre schaffen Rohrleitungsnetze für die Lagerung und den Transport des zweiten Aggregatzustands der Materie: Flüssigkeit.</Description>
     </RecordThing>
     <RecordThing>
@@ -5875,7 +5875,7 @@ Obwohl die Windturbine so optimiert ist, dass sie auch auf Welten mit niedriger 
     <RecordThing>
       <Key>StructureIceCrusher</Key>
       <Value>Eiszerkleinerer</Value>
-      <Description>Der {LINK:Recurso;Recurso} KoolAuger wandelt verschiedene Eissorten in ihre jeweiligen {LINK:GasPage;gases} und Flüssigkeiten um.
+      <Description>Der {LINK:Recurso;Recurso} KoolAuger wandelt verschiedene Eissorten in ihre jeweiligen {LINK:GasPage;Gase} und Flüssigkeiten um.
 Der KoolAuger ist ein bemerkenswert intelligentes und kompaktes Sublimationsschmelzgerät, das je nach dem zu verarbeitenden Eis Gas oder Flüssigkeit erzeugt. Der obere Ausgang ist für Gas, der untere für Flüssigkeit, und obwohl man an beide Ausgänge jedes beliebige Rohre anschließen kann, funktioniert das Gerät nur, wenn das richtige Netz angeschlossen ist. Der KoolAuger kann auch nur dann Gas oder Flüssigkeit in ein Netzwerk leiten, wenn er eingeschaltet ist und mit Strom versorgt wird.
 Wenn der KoolAuger voll ist, nimmt er kein weiteres Eis an, bis der Gas- oder Flüssigkeitsinhalt abgelassen wurde. In diesem Zustand blinkt am Aktivierungsschalter ein gelber Fehlerstatus.</Description>
     </RecordThing>
@@ -5954,7 +5954,7 @@ Wenn der KoolAuger voll ist, nimmt er kein weiteres Eis an, bis der Gas- oder Fl
     <RecordThing>
       <Key>ItemMKIIScrewdriver</Key>
       <Value>Mk II Schraubendreher</Value>
-      <Description>Dieser Standard-Klemmschraubendreher ist ein hochwertiges, bi-rotierendes Modell mit einem säulenförmigen Griff. Er ist definitiv nicht nur ein Schraubendreher. Verwenden Sie ihn für den Auf- und Abbau bestimmter Bausätze und zum Einstellen von Werten an {LINK:LogicUnitPage;logic} Einheiten. Der MK II ist widerstandsfähiger gegen Temperatur und Druck.</Description>
+      <Description>Dieser Standard-Klemmschraubendreher ist ein hochwertiges, bi-rotierendes Modell mit einem säulenförmigen Griff. Er ist definitiv nicht nur ein Schraubendreher. Verwenden Sie ihn für den Auf- und Abbau bestimmter Bausätze und zum Einstellen von Werten an {LINK:LogicUnitPage;Logik} Einheiten. Der MK II ist widerstandsfähiger gegen Temperatur und Druck.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIIAngleGrinder</Key>
@@ -5984,12 +5984,12 @@ Wenn der KoolAuger voll ist, nimmt er kein weiteres Eis an, bis der Gas- oder Fl
     <RecordThing>
       <Key>ItemMKIIWireCutters</Key>
       <Value>Mk II Drahtschneider</Value>
-      <Description>Mit Drahtschneidern können Sie verschiedene {LINK:StructurePage;structures} zerlegen, Kabel quer verlegen, wenn Sie sie in der nicht aktiven Hand halten, und bei Bedarf Sprengstoffe entschärfen. Drahtschneider werden in der {THING:ItemToolBelt} aufbewahrt, zusammen mit anderen wichtigen {LINK:ToolPage;tools}.</Description>
+      <Description>Mit Drahtschneidern können Sie verschiedene {LINK:StructurePage;Strukturen} zerlegen, Kabel quer verlegen, wenn Sie sie in der nicht aktiven Hand halten, und bei Bedarf Sprengstoffe entschärfen. Drahtschneider werden in der {THING:ItemToolBelt} aufbewahrt, zusammen mit anderen wichtigen {LINK:ToolPage;tools}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIIWrench</Key>
       <Value>Mk II-Schraubenschlüssel</Value>
-      <Description>Der Schraubenschlüssel ist einer der bleibenden Beiträge der Menschheit zum Kosmos und verkörpert die Essenz unserer Spezies. Ein einfaches, effektives und spirituell unfruchtbares Werkzeug, mit dem man eine Vielzahl von {LINK:StructurePage;structures} Der MK II ist widerstandsfähiger gegen Temperatur und Druck.</Description>
+      <Description>Der Schraubenschlüssel ist einer der bleibenden Beiträge der Menschheit zum Kosmos und verkörpert die Essenz unserer Spezies. Ein einfaches, effektives und spirituell unfruchtbares Werkzeug, mit dem man eine Vielzahl von {LINK:StructurePage;Strukturen} Der MK II ist widerstandsfähiger gegen Temperatur und Druck.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIIDuctTape</Key>
@@ -6040,10 +6040,10 @@ Anwendung: Klebeband in die aktive Hand nehmen und die rechte Maustaste gedrück
     <RecordThing>
       <Key>StructureRocketModuleSilo</Key>
       <Value>Raketen-Silo (Modular)</Value>
-      <Description>Das autonome Silomodul {LINK:ExMin;ExMin} dient der Lagerung von {LINK:OrePage;ores}, das von {THING:StructureRocketModuleMiningOre} eingesammelt wurde, von {LINK:OrePage;ices}, das von {THING:StructureModularRocketIceMining} eingesammelt wurde, und von "Weltraumschrott", der von {THING:StructureModularRocketScrapMining} geborgen wurde. Mit anderen Worten, es fasst bis zu 600 "mittelgroße Trockengüter".
+      <Description>Das autonome Silomodul {LINK:ExMin;ExMin} dient der Lagerung von {LINK:OrePage;Erze}, das von {THING:StructureRocketModuleMiningOre} eingesammelt wurde, von {LINK:OrePage;Eis}, das von {THING:StructureModularRocketIceMining} eingesammelt wurde, und von "Weltraumschrott", der von {THING:StructureModularRocketScrapMining} geborgen wurde. Mit anderen Worten, es fasst bis zu 600 "mittelgroße Trockengüter".
 Das Silomodul muss durch ein korrekt platziertes {THING:StructureModularRocketCouplingDown} oder {THING:StructureModularRocketCouplingUp} mit einem Bergbau- oder Bergungsmodul verbunden sein, damit Material in das Silo gelangen kann.
 Das Silomodul muss auch mit Strom versorgt werden, wenn es sich auf der Startrampe befindet. Es ist standardmäßig eingeschaltet, kann aber bei Bedarf mit Logik ausgeschaltet werden.
-Das Modul kann auch an ein {THING:StructureChuteInlet} angeschlossen werden, um es mit {LINK:ImportExportPage;import/export} Netzwerken zu verbinden.
+Das Modul kann auch an ein {THING:StructureChuteInlet} angeschlossen werden, um es mit {LINK:ImportExportPage;Import/Export} Netzwerken zu verbinden.
 Um Ressourcen aus dem Silomodul zu extrahieren, müssen Sie seinen Status mit Hilfe der Logik auf 'OPEN' setzen.</Description>
     </RecordThing>
     <RecordThing>
@@ -6064,13 +6064,13 @@ Demnächst</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
-      <Description>Das Modul muss durch ein richtig platziertes {THING:StructureModularRocketCouplingDown} oder {THING:StructureModularRocketCouplingUp} mit einem {THING:StructureRocketModuleSilo} verbunden sein, damit {LINK:OrePage;ore} von der Sammeleinheit in das Silo gelangen kann.</Description>
+      <Description>Das Modul muss durch ein richtig platziertes {THING:StructureModularRocketCouplingDown} oder {THING:StructureModularRocketCouplingUp} mit einem {THING:StructureRocketModuleSilo} verbunden sein, damit {LINK:OrePage;Erz} von der Sammeleinheit in das Silo gelangen kann.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureRocketModuleMiningOre</Key>
       <Value>Raketen-Erz-Sammler (Modular)</Value>
-      <Description>Der {LINK:ExMin;ExMin} autonome {LINK:OrePage;ore} Bergmann erntet metallische Erze von Asteroiden und Planeten in der lokalen Region des Weltraums. Seine Reichweite - und damit die Menge an {LINK:OrePage;ore}, die er sammelt - wird streng von der Treibstoffmenge der Rakete bestimmt.
-Das Modul muss über ein richtig platziertes {THING:StructureModularRocketCouplingDown} oder {THING:StructureModularRocketCouplingUp} mit einem {THING:StructureRocketModuleSilo} verbunden sein, damit {LINK:OrePage;ore} von der Sammeleinheit in das Silo gelangen kann.
+      <Description>Der {LINK:ExMin;ExMin} autonome {LINK:OrePage;Erz} Bergmann erntet metallische Erze von Asteroiden und Planeten in der lokalen Region des Weltraums. Seine Reichweite - und damit die Menge an {LINK:OrePage;Erz}, die er sammelt - wird streng von der Treibstoffmenge der Rakete bestimmt.
+Das Modul muss über ein richtig platziertes {THING:StructureModularRocketCouplingDown} oder {THING:StructureModularRocketCouplingUp} mit einem {THING:StructureRocketModuleSilo} verbunden sein, damit {LINK:OrePage;Erz} von der Sammeleinheit in das Silo gelangen kann.
 Es hat zwei Modi - aktiv (1) und inaktiv (0), die nur ausgelöst werden sollten, wenn die Rakete auf dem Planeten angekommen ist und sich im Leerlauf befindet (Modus 4).</Description>
     </RecordThing>
     <RecordThing>
@@ -6122,8 +6122,8 @@ Wird der UP-Koppler ÜBER einem Abbaumodul (z. B. {THING:StructureRocketModuleMi
     <RecordThing>
       <Key>StructureModularRocketIceMining</Key>
       <Value>Raketen-Eisspeicher (Modular)</Value>
-      <Description>Der {LINK:ExMin;ExMin} autonome Ice Miner ist ein speziell gebauter Eisroboter, der in der Lage ist, Eiserze von Asteroiden und Planeten in der lokalen Region des Weltraums abzubauen. Seine Reichweite - und damit die Menge des gesammelten Eises {LINK:OrePage;ore} - ist streng von der Treibstoffmenge der Rakete abhängig.
-Das Modul muss durch ein richtig platziertes {THING:StructureModularRocketCouplingDown} oder {THING:StructureModularRocketCouplingUp} mit einem {THING:StructureRocketModuleSilo} verbunden sein, damit {LINK:OrePage;ore} von der Sammeleinheit in das Silo gelangen kann.
+      <Description>Der {LINK:ExMin;ExMin} autonome Ice Miner ist ein speziell gebauter Eisroboter, der in der Lage ist, Eiserze von Asteroiden und Planeten in der lokalen Region des Weltraums abzubauen. Seine Reichweite - und damit die Menge des gesammelten Eises {LINK:OrePage;Erz} - ist streng von der Treibstoffmenge der Rakete abhängig.
+Das Modul muss durch ein richtig platziertes {THING:StructureModularRocketCouplingDown} oder {THING:StructureModularRocketCouplingUp} mit einem {THING:StructureRocketModuleSilo} verbunden sein, damit {LINK:OrePage;Erz} von der Sammeleinheit in das Silo gelangen kann.
 Es hat zwei Modi - aktiv (1) und inaktiv (0), die nur ausgelöst werden sollten, wenn die Rakete auf dem Planeten angekommen ist und sich im Leerlauf befindet (Modus 4).</Description>
     </RecordThing>
     <RecordThing>
@@ -6135,7 +6135,7 @@ Es hat zwei Modi - aktiv (1) und inaktiv (0), die nur ausgelöst werden sollten,
       <Key>StructureModularRocketScrapMining</Key>
       <Value>Raketen-Trümmerbergung (Modular)</Value>
       <Description>Das so genannte {LINK:Sinotai;Sinotai} "Weltraumschrott"-Sammlermodul ist in Wirklichkeit eine automatisierte Bergungseinheit der Spitzenklasse, die speziell für den Anschluss an die {LINK:ExMin;ExMin} autonome Rakete entwickelt wurde. Es durchforstet die lokale Region des Weltraums nach Wracks, verlassenen Raumtransporten und anderen Abfällen. Als solches liefert es eine ziemlich zufällige Auswahl an Gegenständen.
-Das Modul muss durch ein richtig platziertes {THING:StructureModularRocketCouplingDown} oder {THING:StructureModularRocketCouplingUp} mit einem {THING:StructureRocketModuleSilo} verbunden sein, damit {LINK:OrePage;ore} von der Sammeleinheit in das Silo gelangen kann.</Description>
+Das Modul muss durch ein richtig platziertes {THING:StructureModularRocketCouplingDown} oder {THING:StructureModularRocketCouplingUp} mit einem {THING:StructureRocketModuleSilo} verbunden sein, damit {LINK:OrePage;Erz} von der Sammeleinheit in das Silo gelangen kann.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitModularRocketScrapMining</Key>
@@ -6330,11 +6330,11 @@ Ein zentraler Bestandteil dieses Zeitvertreibs ist der Step-Sequenzer, mit dem S
     <RecordThing>
       <Key>DecayedFood</Key>
       <Value>Verfaulte Lebensmittel</Value>
-      <Description>Wenn Ihr {LINK:OrganicPage;food} zerfällt, verwandelt es sich in das hier. {LINK:ODA;ODA} Wissenschaftler haben versucht, die genauen Bestandteile dieser Substanz zu bestimmen, aber sie bleibt ausweichend und geheimnisvoll. Es genügt zu sagen, dass es eine schlechte Idee ist, sie zu essen. Die Forschung hat jedoch festgestellt, dass die genaue Geschwindigkeit des Zerfalls individuell variiert:
+      <Description>Wenn Ihr {LINK:OrganicPage;Nahrung} zerfällt, verwandelt es sich in das hier. {LINK:ODA;ODA} Wissenschaftler haben versucht, die genauen Bestandteile dieser Substanz zu bestimmen, aber sie bleibt ausweichend und geheimnisvoll. Es genügt zu sagen, dass es eine schlechte Idee ist, sie zu essen. Die Forschung hat jedoch festgestellt, dass die genaue Geschwindigkeit des Zerfalls individuell variiert:
 
 - TEMPERATUR - Kühlung verlangsamt den Verfall, aber viele Lebensmittel werden durch extremen Unterdruck und extreme Hitze beschädigt. Die optimale Temperatur ist 0 Kelvin (-272 C).
 
-- NAHRUNGSMITTELTYP - Jeder {LINK:OrganicPage;food}-Typ hat seine eigenen Zerfallseigenschaften. Ein {THING:ItemTomatoSoup} hält sich zum Beispiel viel länger als ein {THING:ItemTomato}.
+- NAHRUNGSMITTELTYP - Jeder {LINK:OrganicPage;Nahrung}-Typ hat seine eigenen Zerfallseigenschaften. Ein {THING:ItemTomatoSoup} hält sich zum Beispiel viel länger als ein {THING:ItemTomato}.
 
 - DRUCK - Nahrung zerfällt schneller, wenn der Druck unter 1 Atmosphäre (101 kPa) fällt. Der Zerfall erfolgt exponentiell schneller, wenn sich die Atmosphäre einem perfekten Vakuum nähert. Höhere Drücke haben keine Auswirkungen.
 
@@ -6375,18 +6375,18 @@ So richten Sie einen LFO ein:
 4. Verwenden Sie einen anderen Logic Writer, um die BPM in den LFO zu schreiben.
 5. Sie sind bereit. Dies ist die Zukunft. Du bist im Weltraum. Lass es cool klingen.
 
-Weitere Informationen finden Sie auf der {LINK:MusicPage;music page}.</Description>
+Weitere Informationen finden Sie auf der {LINK:MusicPage;Musik Seite}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureFridgeBig</Key>
       <Value>Kühlschrank (groß)</Value>
       <Description>Der {LINK:Xigo;Xigo} Koolaid-Kühlschrank ist ein selbstkühlendes Aufbewahrungsgerät mit 15 Fächern, das Lebensmittel konserviert, wenn es mit Strom versorgt wird und eingeschaltet ist. Obwohl sich viele Nutzer über die Platzierung des Netzschalters beschwert haben, ist sein Platz im Pantheon der außerweltlichen Weißware unbestritten.
       
-Mit seiner eigenen permanenten inneren Atmosphäre verlangsamt der Koolaid-Kühlschrank den Verfall von {LINK:OrganicPage;food}, indem er eine optimale Innentemperatur aufrechterhält. Sein Stromverbrauch hängt von der Außentemperatur ab, die er mit seiner Innentemperatur ausgleichen muss. Der Koolaid-Kühlschrank funktioniert also NICHT im Vakuum, sondern muss Wärme abgeben.
+Mit seiner eigenen permanenten inneren Atmosphäre verlangsamt der Koolaid-Kühlschrank den Verfall von {LINK:OrganicPage;Nahrung}, indem er eine optimale Innentemperatur aufrechterhält. Sein Stromverbrauch hängt von der Außentemperatur ab, die er mit seiner Innentemperatur ausgleichen muss. Der Koolaid-Kühlschrank funktioniert also NICHT im Vakuum, sondern muss Wärme abgeben.
       
 Lassen Sie außerdem die Tür nicht offen, da sie sich sonst an die aktuelle Außentemperatur angleichen wird. Und vielleicht fängt er an zu piepen.
 
-Weitere Informationen zur Lebensmittelkonservierung findest du im Abschnitt {LINK:DecayPage;food decay} der Stationpedia.</Description>
+Weitere Informationen zur Lebensmittelkonservierung findest du im Abschnitt {LINK:DecayPage;Verfall der Nahrung} der Stationpedia.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFridgeBig</Key>
@@ -6396,9 +6396,9 @@ Weitere Informationen zur Lebensmittelkonservierung findest du im Abschnitt {LIN
     <RecordThing>
       <Key>StructureFridgeSmall</Key>
       <Value>Kühlschrank (klein)</Value>
-      <Description>Der {LINK:Recurso;Recurso} Minibar-Kühlschrank ist im Wesentlichen eine stark isolierte Box, in die der Benutzer jede gewünschte Atmosphäre einbringen kann, und war eine einfache Lösung für das Problem von {LINK:NutritionPage;food decay}. Er speichert eine kleine Anzahl von Gegenständen bei jeder Temperatur, die Sie aufbringen können.
+      <Description>Der {LINK:Recurso;Recurso} Minibar-Kühlschrank ist im Wesentlichen eine stark isolierte Box, in die der Benutzer jede gewünschte Atmosphäre einbringen kann, und war eine einfache Lösung für das Problem von {LINK:NutritionPage;Verfall der Nahrung}. Er speichert eine kleine Anzahl von Gegenständen bei jeder Temperatur, die Sie aufbringen können.
       
-      Weitere Informationen zur Lebensmittelkonservierung finden Sie in der {LINK:DecayPage;food decay} Sektion der Stationpedia.</Description>
+Weitere Informationen zur Lebensmittelkonservierung finden Sie in der {LINK:DecayPage;Verfall der Nahrung} Sektion der Stationpedia.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureRefrigeratedVendingMachine</Key>
@@ -6460,10 +6460,10 @@ HINWEIS: Die Änderung der Stapelgröße aktualisiert NICHT die bestehenden Stap
     <RecordThing>
       <Key>Fertilizer</Key>
       <Value>Dünger</Value>
-      <Description>Dünger verändert die Wachstumsprozesse der Pflanzen und wird durch den Basiskomposter und die {THING:StructureAdvancedComposter} mit {LINK:OrganicPage;organic} Stoffen erzeugt.
+      <Description>Dünger verändert die Wachstumsprozesse der Pflanzen und wird durch den Basiskomposter und die {THING:StructureAdvancedComposter} mit {LINK:OrganicPage;organischen} Stoffen erzeugt.
 Die Wirkung von Dünger hängt von seinen Inhaltsstoffen ab:
 
-- {LINK:OrganicPage;Food} erhöht den ERTRAG der Pflanzen bis zum Zweifachen
+- {LINK:OrganicPage;Nahrung} erhöht den ERTRAG der Pflanzen bis zum Zweifachen
 - {THING:DecayedFood} erhöht die WACHSTUMSGESCHWINDIGKEIT der Pflanzen bis zum Zweifachen
 - {THING:ItemBiomass} erhöht die ANZAHL DER WACHSTUMSZYKLEN, für die der Dünger reicht
 
@@ -6472,13 +6472,13 @@ Die Wirkung dieser Bestandteile hängt von ihren jeweiligen Anteilen im Komposte
     <RecordThing>
       <Key>StructureAdvancedComposter</Key>
       <Value>Fortschrittlicher Komposter</Value>
-      <Description>Der fortschrittliche Komposter erzeugt {THING:Fertilizer} aus organischem Material. Er nimmt {LINK:OrganicPage;food}, {THING:DecayedFood} oder {THING:ItemBiomass} auf. Er benötigt {GAS:Water} und Strom für den Betrieb und beschleunigt den natürlichen Kompostierungsprozess.
+      <Description>Der fortschrittliche Komposter erzeugt {THING:Fertilizer} aus organischem Material. Er nimmt {LINK:OrganicPage;Nahrung}, {THING:DecayedFood} oder {THING:ItemBiomass} auf. Er benötigt {GAS:Water} und Strom für den Betrieb und beschleunigt den natürlichen Kompostierungsprozess.
 Bei der Verarbeitung setzt er Stickstoff und flüchtige Stoffe sowie eine geringe Menge Wärme frei.
 
 {HEADER:Compost composition}
 Der Dünger wird in einem Verhältnis von 1:3 zwischen Dünger und Inhaltsstoffen hergestellt. Die Wirkung des Düngers auf die Pflanzen hängt von den jeweiligen Anteilen seiner Bestandteile ab.
 
-- {LINK:OrganicPage;Food} erhöht die Pflanzenausbeute bis zum Zweifachen
+- {LINK:OrganicPage;Nahrung} erhöht die Pflanzenausbeute bis zum Zweifachen
 - {THING:DecayedFood} erhöht die WACHSTUMSGESCHWINDIGKEIT der Pflanzen bis zum Zweifachen
 - {THING:ItemBiomass} erhöht die ANZAHL DER WACHSTUMSZYKLEN, für die der Dünger reicht, um das Fünffache
 </Description>
@@ -6506,20 +6506,20 @@ Der Dünger wird in einem Verhältnis von 1:3 zwischen Dünger und Inhaltsstoffe
     <RecordThing>
       <Key>PortableComposter</Key>
       <Value>Tragbarer Komposter</Value>
-      <Description>Ein einfaches Kompostiergerät, der Basiskomposter erzeugt {THING:Fertilizer} aus organischem Material. Er nimmt {LINK:OrganicPage;food}, {THING:DecayedFood} oder {THING:ItemBiomass} auf. Für den Betrieb sind ein voller {THING:ItemLiquidCanisterEmpty} und eine Batterie erforderlich, die den natürlichen Kompostierungsprozess beschleunigen.
+      <Description>Ein einfaches Kompostiergerät, der Basiskomposter erzeugt {THING:Fertilizer} aus organischem Material. Er nimmt {LINK:OrganicPage;Nahrung}, {THING:DecayedFood} oder {THING:ItemBiomass} auf. Für den Betrieb sind ein voller {THING:ItemLiquidCanisterEmpty} und eine Batterie erforderlich, die den natürlichen Kompostierungsprozess beschleunigen.
 Bei der Verarbeitung setzt er Stickstoff und flüchtige Stoffe sowie eine geringe Menge Wärme frei.
 
 {HEADER:Compost composition}
 Der Dünger wird in einem Verhältnis von 1:3 zwischen Dünger und Inhaltsstoffen hergestellt. Die Wirkung des Düngers auf die Pflanzen hängt von den jeweiligen Anteilen seiner Bestandteile ab.
 
-- {LINK:OrganicPage;food} erhöht die Pflanzenausbeute bis zum Zweifachen
+- {LINK:OrganicPage;Nahrung} erhöht die Pflanzenausbeute bis zum Zweifachen
 - {THING:DecayedFood} erhöht die WACHSTUMSGESCHWINDIGKEIT der Pflanzen bis zum Zweifachen
 - {THING:ItemBiomass} erhöht die ANZAHL DER WACHSTUMSZYKLEN, in denen der Dünger wirkt</Description>
     </RecordThing>
     <RecordThing>
       <Key>AppliancePackagingMachine</Key>
-      <Value>Basis-DosenabfüllerDosenabfüller</Value>
-      <Description>Der {LINK:Xigo;Xigo} Cannifier benötigt {THING:ItemEmptyCan} und gekochte {LINK:OrganicPage;food}, um {LINK:DecayPage;long-lasting}, leicht zu lagernde Nahrung zu erzeugen. Beachte, dass der Cannifier an einen {THING:StructureBench} angeschlossen werden muss, um Strom zu erhalten, und dass er nur gekochte Lebensmittel und Blechdosen verarbeiten kann.
+      <Value>Basis-Dosenabfüller</Value>
+      <Description>Der {LINK:Xigo;Xigo} Cannifier benötigt {THING:ItemEmptyCan} und gekochte {LINK:OrganicPage;Nahrung}, um {LINK:DecayPage;langlebige}, leicht zu lagernde Nahrung zu erzeugen. Beachte, dass der Cannifier an einen {THING:StructureBench} angeschlossen werden muss, um Strom zu erhalten, und dass er nur gekochte Lebensmittel und Blechdosen verarbeiten kann.
 
 {HEADER:OPERATION}
 
@@ -6554,7 +6554,7 @@ Hinweis: Der Cannifier zeigt eine Fehlermeldung auf seinem Aktivierungsschalter 
     <RecordThing>
       <Key>ItemCannedMushroom</Key>
       <Value>Pilzkonserven</Value>
-      <Description>Zubereitet in einem {THING:StructureAdvancedPackagingMachine} oder {THING:AppliancePackagingMachine}, mit {THING:ItemCookedMushroom} und einem {THING:ItemEmptyCan}, ist die köstliche Pilzsuppe ziemlich nahrhaft und nicht {LINK:DecayPage;decay}.</Description>
+      <Description>Zubereitet in einem {THING:StructureAdvancedPackagingMachine} oder {THING:AppliancePackagingMachine}, mit {THING:ItemCookedMushroom} und einem {THING:ItemEmptyCan}, ist die köstliche Pilzsuppe ziemlich nahrhaft und nicht {LINK:DecayPage;verfällt}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPowderedeggs</Key>
@@ -6574,27 +6574,27 @@ Hinweis: Der Cannifier zeigt eine Fehlermeldung auf seinem Aktivierungsschalter 
     <RecordThing>
       <Key>ItemCannedRicePudding</Key>
       <Value>Reispudding aus der Dose</Value>
-      <Description>Hergestellt in einem {THING:StructureAdvancedPackagingMachine} oder {THING:AppliancePackagingMachine}, unter Verwendung von {THING:ItemCookedRice} und einem {THING:ItemEmptyCan}, ist Milchreis aus der Dose eine süße Leckerei, ziemlich nahrhaft, und nicht {LINK:DecayPage;decay}.</Description>
+      <Description>Hergestellt in einem {THING:StructureAdvancedPackagingMachine} oder {THING:AppliancePackagingMachine}, unter Verwendung von {THING:ItemCookedRice} und einem {THING:ItemEmptyCan}, ist Milchreis aus der Dose eine süße Leckerei, ziemlich nahrhaft, und nicht {LINK:DecayPage;verfällt}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCannedCondensedMilk</Key>
       <Value>Kondensmilch in Dosen</Value>
-      <Description>Hergestellt in einem {THING:StructureAdvancedPackagingMachine} oder {THING:AppliancePackagingMachine}, unter Verwendung von {THING:ItemCookedCondensedMilk} und einem {THING:ItemEmptyCan}, ist Kondensmilch in Dosen ziemlich nährstoffreich und nicht {LINK:DecayPage;decay}.</Description>
+      <Description>Hergestellt in einem {THING:StructureAdvancedPackagingMachine} oder {THING:AppliancePackagingMachine}, unter Verwendung von {THING:ItemCookedCondensedMilk} und einem {THING:ItemEmptyCan}, ist Kondensmilch in Dosen ziemlich nährstoffreich und nicht {LINK:DecayPage;verfällt}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCannedEdamame</Key>
       <Value>Edamame in Dosen</Value>
-      <Description>Hergestellt in einem {THING:StructureAdvancedPackagingMachine} oder {THING:AppliancePackagingMachine}, unter Verwendung von {THING:ItemCookedSoybean} und einem {THING:ItemEmptyCan}, sind Edamame-Bohnen in Dosen ziemlich nährstoffreich, und nicht {LINK:DecayPage;decay}.</Description>
+      <Description>Hergestellt in einem {THING:StructureAdvancedPackagingMachine} oder {THING:AppliancePackagingMachine}, unter Verwendung von {THING:ItemCookedSoybean} und einem {THING:ItemEmptyCan}, sind Edamame-Bohnen in Dosen ziemlich nährstoffreich, und nicht {LINK:DecayPage;verfällt}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCannedPowderedEggs</Key>
       <Value>Dosen-Eier in Pulverform</Value>
-      <Description>Hergestellt in einem {THING:StructureAdvancedPackagingMachine} oder {THING:AppliancePackagingMachine}, unter Verwendung von {THING:ItemCookedPowderedEggs} und einem {THING:ItemEmptyCan}, sind Eipulver in Dosen ein aufregendes, dynamisches Lebensmittel, das einen ziemlich hohen Nährwert hat und nicht {LINK:DecayPage;decay}.</Description>
+      <Description>Hergestellt in einem {THING:StructureAdvancedPackagingMachine} oder {THING:AppliancePackagingMachine}, unter Verwendung von {THING:ItemCookedPowderedEggs} und einem {THING:ItemEmptyCan}, sind Eipulver in Dosen ein aufregendes, dynamisches Lebensmittel, das einen ziemlich hohen Nährwert hat und nicht {LINK:DecayPage;verfällt}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureAdvancedPackagingMachine</Key>
       <Value>Fortschrittlicher Dosenabfüller</Value>
-      <Description>Der {LINK:Xigo;Xigo} Advanced Cannifier Multi-Plus Pro ist ein automatisierbarer Dosenabfüller, die {THING:ItemEmptyCan}s und gekochte {LINK:OrganicPage;food} verwendet, um Konserven herzustellen, die nicht verderben. Beachten Sie, dass der ACMPP nur gekochte Lebensmittel und Blechdosen verarbeitet.</Description>
+      <Description>Der {LINK:Xigo;Xigo} Advanced Cannifier Multi-Plus Pro ist ein automatisierbarer Dosenabfüller, die {THING:ItemEmptyCan}s und gekochte {LINK:OrganicPage;Nahrung} verwendet, um Konserven herzustellen, die nicht verderben. Beachten Sie, dass der ACMPP nur gekochte Lebensmittel und Blechdosen verarbeitet.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAdvancedPackagingMachine</Key>
@@ -6673,32 +6673,32 @@ Hinweis: Der Cannifier zeigt eine Fehlermeldung auf seinem Aktivierungsschalter 
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCorner</Key>
-      <Value>Isolierte Flüssigkeitsrohre Ecke</Value>
+      <Value>Isolierte Flüssigkeitsrohre (Ecke)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCrossJunction</Key>
-      <Value>Isolierte Flüssigkeitsrohre Kreuzung</Value>
+      <Value>Isolierte Flüssigkeitsrohre (Kreuzung)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCrossJunction3</Key>
-      <Value>Isolierte Flüssigkeitsrohre 3-Wege-Kreuzung</Value>
+      <Value>Isolierte Flüssigkeitsrohre (3-Wege-Kreuzung)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCrossJunction4</Key>
-      <Value>Isolierte Flüssigkeitsrohre 4-Wege-Kreuzung</Value>
+      <Value>Isolierte Flüssigkeitsrohre (4-Wege-Kreuzung)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCrossJunction5</Key>
-      <Value>Isolierte Flüssigkeitsrohre 5-Wege-Kreuzung</Value>
+      <Value>Isolierte Flüssigkeitsrohre (5-Wege-Kreuzung)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCrossJunction6</Key>
-      <Value>Isolierte Flüssigkeitsrohre 6-Wege-Kreuzung</Value>
+      <Value>Isolierte Flüssigkeitsrohre (6-Wege-Kreuzung)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -6708,7 +6708,7 @@ Hinweis: Der Cannifier zeigt eine Fehlermeldung auf seinem Aktivierungsschalter 
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeStraight</Key>
-      <Value>Isolierte Flüssigkeitsrohre Gerade</Value>
+      <Value>Isolierte Flüssigkeitsrohre (Gerade)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -6738,7 +6738,7 @@ Hinweis: Der Cannifier zeigt eine Fehlermeldung auf seinem Aktivierungsschalter 
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeLiquidCrossJunction6</Key>
-      <Value>Isolierte Flüssigkeitsrohre (6-Wege-Abzweigung)</Value>
+      <Value>Isolierte Flüssigkeitsrohre (6-Wege-Kreuzung)</Value>
       <Description>Flüssigkeitsleitungen mit sehr geringem Temperaturverlust oder -gewinn.</Description>
     </RecordThing>
     <RecordThing>
@@ -6748,7 +6748,7 @@ Hinweis: Der Cannifier zeigt eine Fehlermeldung auf seinem Aktivierungsschalter 
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeLiquidTJunction</Key>
-      <Value>Isolierte Flüssigkeitsrohre (T-Verbindung)</Value>
+      <Value>Isolierte Flüssigkeitsrohre (T-Kreuzung)</Value>
       <Description>Flüssigkeitsleitungen mit sehr geringem Temperaturverlust oder -gewinn.</Description>
     </RecordThing>
     <RecordThing>
@@ -6854,7 +6854,7 @@ Wenn es geschlossen ist, hat es die Wärmeübertragungseigenschaften einer einfa
       <Value>OGRE</Value>
       <Description>Der {LINK:Recurso;Recurso} OGRE (Orthogonal Ground Rotating Excavator) ist eine Basisstruktur mit angeschlossenem Minenfahrzeug, das einen horizontalen Schacht von bis zu X Metern Länge abbaut. Wenn er voll ist, kehrt das Minenfahrzeug zur Basis zurück, um sich zu entleeren, bevor es wieder graben kann. Wenn es auf leeren Raum stößt, kehrt es ebenfalls zur Basis zurück und wartet auf Anweisungen. Bei Deaktivierung kehrt die Einheit zurück.
       
-Der OGRE kann an ein Fallschirmsystem angeschlossen werden und ist über ein logisches Netzwerk steuerbar. Beachten Sie, dass der OGRE aufgrund der effizienteren Verarbeitung mehr {LINK:OrePage;ore} als ein herkömmlicher {THING:ItemMiningDrill} auf der gleichen Fläche ausgibt.
+Der OGRE kann an ein Fallschirmsystem angeschlossen werden und ist über ein logisches Netzwerk steuerbar. Beachten Sie, dass der OGRE aufgrund der effizienteren Verarbeitung mehr {LINK:OrePage;Erz} als ein herkömmlicher {THING:ItemMiningDrill} auf der gleichen Fläche ausgibt.
 
 {HEADER:MODES}
 Leerlauf - 0
@@ -6911,12 +6911,12 @@ Sie müssen den Laptop abstellen, um mit der Bildschirmoberfläche zu interagier
     <RecordThing>
       <Key>ItemPlantEndothermic_Genepool1</Key>
       <Value>Frostblume (Alpha-Variante)</Value>
-      <Description>Der atmosphärische Bioprozessor {LINK:Agrizero;Agrizero's} Winterspawn ist eine neue Ergänzung ihres Katalogs an genesplizierten Umweltdekorationen. Der Winterspawn nutzt die Umgebungswärme, um {GAS:Water} in {GAS:Volatiles} und {GAS:Oxygen} aufzuspalten und kühlt seine Umgebung, wenn er mit ausreichend {GAS:Nitrogen} versorgt wird. Die Alpha-Variante hat eine Spitzenkühl- und Elektrolysekapazität von 90 Watt und arbeitet am effizientesten bei Lufttemperaturen von 0 bis 40 Grad Celsius.</Description>
+      <Description>Der atmosphärische Bioprozessor {LINK:Agrizero;Agrizero's} Frostblume ist eine neue Ergänzung ihres Katalogs an genesplizierten Umweltdekorationen. Der Frostblume nutzt die Umgebungswärme, um {GAS:Water} in {GAS:Volatiles} und {GAS:Oxygen} aufzuspalten und kühlt seine Umgebung, wenn er mit ausreichend {GAS:Nitrogen} versorgt wird. Die Alpha-Variante hat eine Spitzenkühl- und Elektrolysekapazität von 90 Watt und arbeitet am effizientesten bei Lufttemperaturen von 0 bis 40 Grad Celsius.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPlantEndothermic_Genepool2</Key>
       <Value>Frostblume (Beta-Variante)</Value>
-      <Description>Der atmosphärische Bioprozessor {LINK:Agrizero;Agrizero's} Winterspawn ist eine neue Ergänzung ihres Katalogs an genesplizierten Umweltdekorationen. Der Winterspawn nutzt die Umgebungswärme, um {GAS:Water} in {GAS:Volatiles} und {GAS:Oxygen} aufzuspalten, und kühlt seine Umgebung, wenn er mit ausreichend {GAS:Nitrogen} versorgt wird. Die Beta-Variante hat eine Spitzenkühl- und Elektrolysekapazität von 150 Watt und arbeitet am effizientesten bei Lufttemperaturen von 14 bis 24 Grad Celsius.</Description>
+      <Description>Der atmosphärische Bioprozessor {LINK:Agrizero;Agrizero's} Frostblume ist eine neue Ergänzung ihres Katalogs an genesplizierten Umweltdekorationen. Der Frostblume nutzt die Umgebungswärme, um {GAS:Water} in {GAS:Volatiles} und {GAS:Oxygen} aufzuspalten, und kühlt seine Umgebung, wenn er mit ausreichend {GAS:Nitrogen} versorgt wird. Die Beta-Variante hat eine Spitzenkühl- und Elektrolysekapazität von 150 Watt und arbeitet am effizientesten bei Lufttemperaturen von 14 bis 24 Grad Celsius.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPlantThermogenic_Genepool1</Key>
@@ -7119,7 +7119,7 @@ Es ist sehr temperaturempfindlich und beginnt zu schmelzen, sobald es abgebaut w
     <RecordThing>
       <Key>StructureLogicGate</Key>
       <Value>Logik-Gatter</Value>
-      <Description>Ein {LINK:LogicPage;logic}-Gerät, das eine logische Operation an einem oder mehreren binären Eingängen ausführt, die einen einzigen binären Ausgang erzeugt. Eine Eingabe, die größer als Null ist, wird für Operationen als wahr angesehen.</Description>
+      <Description>Ein {LINK:LogicPage;Logik}-Gerät, das eine logische Operation an einem oder mehreren binären Eingängen ausführt, die einen einzigen binären Ausgang erzeugt. Eine Eingabe, die größer als Null ist, wird für Operationen als wahr angesehen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureNitrolyzer</Key>
@@ -7287,7 +7287,7 @@ Das Ausstoßen von Erz aus der Verbrennungszentrifuge bei hohen Drehzahlen führ
     <RecordThing>
       <Key>ItemPlantSampler</Key>
       <Value>Pflanzenprobenentnehmer</Value>
-      <Description>Mit dem Pflanzenprobenehmer können Sie eine {LINK:GeneticsPage;gene} Probe von einer wachsenden Pflanze nehmen. Der Probenehmer kann dann in den {THING:AppliancePlantGeneticAnalyzer} gestellt werden, um die Ergebnisse zu erhalten und zu interpretieren.</Description>
+      <Description>Mit dem Pflanzenprobenehmer können Sie eine {LINK:GeneticsPage;Gene} Probe von einer wachsenden Pflanze nehmen. Der Probenehmer kann dann in den {THING:AppliancePlantGeneticAnalyzer} gestellt werden, um die Ergebnisse zu erhalten und zu interpretieren.</Description>
     </RecordThing>
     <RecordThing>
       <Key>AppliancePlantGeneticAnalyzer</Key>
@@ -7308,7 +7308,7 @@ Für Temperatur- und Druckbereiche werden vier Gene im selben Widget angezeigt. 
     <RecordThing>
       <Key>AppliancePlantGeneticStabilizer</Key>
       <Value>Genomstabilisator (Pflanze)</Value>
-      <Description>Der Genetische Stabilisator kann verwendet werden, um die Genstabilität auf einem bestimmten {LINK:OrganicPage;Plants} oder {LINK:OrganicPage;Seeds} zu manipulieren. Er hat zwei Modi: Stabilisieren und Destabilisieren.
+      <Description>Der Genetische Stabilisator kann verwendet werden, um die Genstabilität auf einem bestimmten {LINK:OrganicPage;Pflanzen} oder {LINK:OrganicPage;Seeds} zu manipulieren. Er hat zwei Modi: Stabilisieren und Destabilisieren.
 Stabilisieren: Erhöht die Stabilität aller Gene um 50%.
 Destabilisieren: Verringert die Stabilität aller Gene um 10%, mit Ausnahme eines ausgewählten Gens, dessen Stabilität um 50% verringert wird.
       </Description>
@@ -7316,7 +7316,7 @@ Destabilisieren: Verringert die Stabilität aller Gene um 10%, mit Ausnahme eine
     <RecordThing>
       <Key>AppliancePlantGeneticSplicer</Key>
       <Value>Genomtrenner (Pflanze)</Value>
-      <Description>Mit dem Genetic Splicer kann eine einzelne {LINK:GeneticsPage;gene} von einer 'Quell'-Pflanze auf eine andere 'Ziel'-Pflanze desselben Typs kopiert werden. Nach dem Kopieren wird die Quellpflanze zerstört.
+      <Description>Mit dem Genetic Splicer kann eine einzelne {LINK:GeneticsPage;Gene} von einer 'Quell'-Pflanze auf eine andere 'Ziel'-Pflanze desselben Typs kopiert werden. Nach dem Kopieren wird die Quellpflanze zerstört.
         
 Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel in den linken Schlitz (Quelle) und eine andere Pflanze oder einen Samenbeutel desselben Typs in den rechten Schlitz (Ziel). Mit den Pfeiltasten können Sie ein Gen auswählen. Schließen Sie die Schiebetür und drücken Sie die grüne Aktivierungstaste. Sobald das Spleißen begonnen hat, wird das Gerät gesperrt, bis der Vorgang abgeschlossen ist (was etwa zwanzig Minuten dauert). Wenn Sie den Spleißvorgang abbrechen möchten, können Sie das Gerät ausschalten oder als letzten Ausweg das Gerät abnehmen.</Description>
     </RecordThing>
@@ -7591,47 +7591,47 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     </RecordThing>
     <RecordThing>
       <Key>StructureLowVolumeLiquidPipeCorner</Key>
-      <Value>Flüssigkeitsrohre mit geringem Volumen (Ecke)</Value>
+      <Value>Niedrigvolumige Flüssigkeitrohre (Ecke)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureLowVolumeLiquidPipeCrossJunction</Key>
-      <Value>Flüssigkeitsrohre mit geringem Volumen (Kreuzungspunkt)</Value>
+      <Value>Niedrigvolumige Flüssigkeitrohre (Kreuzung)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureLowVolumeLiquidPipeCrossJunction3</Key>
-      <Value>Flüssigkeitsrohre mit geringem Volumen (3-Wege-Kreuzung)</Value>
+      <Value>Niedrigvolumige Flüssigkeitrohre (3-Wege-Kreuzung)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureLowVolumeLiquidPipeCrossJunction4</Key>
-      <Value>Flüssigkeitsrohre mit geringem Volumen (4-Wege-Kreuzung)</Value>
+      <Value>Niedrigvolumige Flüssigkeitrohre (4-Wege-Kreuzung)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureLowVolumeLiquidPipeCrossJunction5</Key>
-      <Value>Flüssigkeitsrohre mit geringem Volumen (5-Wege-Kreuzung)</Value>
+      <Value>Niedrigvolumige Flüssigkeitrohre (5-Wege-Kreuzung)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureLowVolumeLiquidPipeCrossJunction6</Key>
-      <Value>Flüssigkeitsrohre mit geringem Volumen (6-Wege-Kreuzung)</Value>
+      <Value>Niedrigvolumige Flüssigkeitrohre (6-Wege-Kreuzung)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureLowVolumeLiquidPipeStraight</Key>
-      <Value>Flüssigkeitsrohre mit geringem Volumen (gerade)</Value>
+      <Value>Niedrigvolumige Flüssigkeitrohre (gerade)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureLowVolumeLiquidPipeTJunction</Key>
-      <Value>Flüssigkeitsrohre mit geringem Volumen (T-Kreuzung)</Value>
+      <Value>Niedrigvolumige Flüssigkeitrohre (T-Kreuzung)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLowVolumeLiquidPipes</Key>
-      <Value>Bausatz (schmale Flüssigkeitsrohre)</Value>
+      <Value>Bausatz (Niedrigvolumige Flüssigkeitrohre)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -7676,7 +7676,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLowVolumePipes</Key>
-      <Value>Bausatz (schmale Gasleitung)</Value>
+      <Value>Bausatz (Niedrigvolumige Gasrohre)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -7770,7 +7770,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPipeUtility</Key>
-      <Value>Bausatz (Gasrohr speicher)</Value>
+      <Value>Bausatz (Gasrohr Speicher)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -13181,7 +13181,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     </Record>
     <Record>
       <Key>Pipe</Key>
-      <Value>Rohr</Value>
+      <Value>Rohrleitung Gas</Value>
     </Record>
     <Record>
       <Key>PipeLiquid</Key>
@@ -14115,7 +14115,7 @@ Das Stationeers-Programm ist grundsätzlich offen für alle Menschen, denn es re
     </Record>
     <Record>
       <Key>MoleOxygenDescription</Key>
-      <Value>Sauerstoff liefert Energie, wenn er bei der Verbrennung freigesetzt wird, und verbindet sich außerdem mit Wasserstoff zu {GAS:Water}. Er entsteht sowohl bei {LINK:OrganicPage;plants} als auch bei der Verarbeitung von {THING:ItemOxite}. Er ist bei niedrigen Temperaturen leicht entflammbar.</Value>
+      <Value>Sauerstoff liefert Energie, wenn er bei der Verbrennung freigesetzt wird, und verbindet sich außerdem mit Wasserstoff zu {GAS:Water}. Er entsteht sowohl bei {LINK:OrganicPage;Pflanzen} als auch bei der Verarbeitung von {THING:ItemOxite}. Er ist bei niedrigen Temperaturen leicht entflammbar.</Value>
     </Record>
     <Record>
       <Key>MoleNitrogenDescription</Key>
@@ -14123,7 +14123,7 @@ Das Stationeers-Programm ist grundsätzlich offen für alle Menschen, denn es re
     </Record>
     <Record>
       <Key>MoleCarbonDioxideDescription</Key>
-      <Value>Sie atmen es aus, {LINK:OrganicPage;plants} atmen es ein. Sie wachsen nicht ohne es. Du kannst Gegenstände in {SLOT:GasFilter} Slots verwenden, um es aus der Atmosphäre zu entfernen.
+      <Value>Sie atmen es aus, {LINK:OrganicPage;Pflanzen} atmen es ein. Sie wachsen nicht ohne es. Du kannst Gegenstände in {SLOT:GasFilter} Slots verwenden, um es aus der Atmosphäre zu entfernen.
 
 {GAS:CarbonDioxide} hat eine mäßig hohe spezifische Wärme, d.h. es ist ein gutes Kühlmittel für Geräte wie den
 {THING:StructureWallCooler}. {GAS:Water} ist besser, hat aber normalerweise wichtigere Verwendungszwecke.</Value>
@@ -14145,7 +14145,7 @@ Der Schadstoff hat eine hohe spezifische Wärme, was ihn zu einem hervorragenden
     </Record>
     <Record>
       <Key>MoleWaterDescription</Key>
-      <Value>Du kannst Wasser erhalten, indem du {THING:ItemIce} mit einem {THING:StructureFurnace} schmilzt oder einem {THING:StructureIceCrusher} zerkleinerst. {GAS:Water} ist entscheidend für {LINK:OrganicPage;plants}, um am Leben zu bleiben und {LINK:NutritionPage;food} anzubauen.
+      <Value>Du kannst Wasser erhalten, indem du {THING:ItemIce} mit einem {THING:StructureFurnace} schmilzt oder einem {THING:StructureIceCrusher} zerkleinerst. {GAS:Water} ist entscheidend für {LINK:OrganicPage;Pflanzen}, um am Leben zu bleiben und {LINK:NutritionPage;Nahrung} anzubauen.
 Es ist auch ein außergewöhnliches Kühlmittel mit einer sehr hohen spezifischen Wärmekapazität. {GAS:Water} verdampft zu {GAS:Steam}, wenn seine Temperatur über seinen Siedepunkt steigt.</Value>
     </Record>
     <Record>
