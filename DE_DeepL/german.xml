@@ -1463,7 +1463,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemMiningBelt</Key>
       <Value>Bergbau-Gürtel</Value>
-      <Description>Ursprünglich von {LINK:Recurso;Recurso Espaciais} für den Asteroidenabbau entwickelt, bietet der {LINK:Stationeers;Stationeer's} Minengürtel Platz für zwei {LINK:ToolPage;tools} und acht {LINK:OrePage;ore} Stapel. Während man den Gürtel trägt, wird {LINK:OrePage;ore} automatisch dort gelagert, wenn er abgebaut wird. Flüchtige und temperaturabhängige Stoffe bleiben in der umweltkontrollierten Einheit stabil.</Description>
+      <Description>Ursprünglich von {LINK:Recurso;Recurso Espaciais} für den Asteroidenabbau entwickelt, bietet der {LINK:Stationeers;Stationeer's} Minengürtel Platz für zwei {LINK:ToolPage;tools} und acht {LINK:OrePage;Erz} Stapel. Während man den Gürtel trägt, wird {LINK:OrePage;Erz} automatisch dort gelagert, wenn er abgebaut wird. Flüchtige und temperaturabhängige Stoffe bleiben in der umweltkontrollierten Einheit stabil.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningDrill</Key>
@@ -1764,12 +1764,12 @@ Der Arlite ist eine verbesserte Version des klassischen "Zairo"-Modells, das zue
     <RecordThing>
       <Key>ItemWireCutters</Key>
       <Value>Drahtschneider</Value>
-      <Description>Mit Drahtschneidern können Sie verschiedene {LINK:StructurePage;structures} zerlegen, Kabel quer verlegen, wenn Sie sie in der nicht aktiven Hand halten, und bei Bedarf Sprengstoffe entschärfen. Drahtschneider werden in der {THING:ItemToolBelt} aufbewahrt, zusammen mit anderen wichtigen {LINK:ToolPage;tools}.</Description>
+      <Description>Mit Drahtschneidern können Sie verschiedene {LINK:StructurePage;Strukturen} zerlegen, Kabel quer verlegen, wenn Sie sie in der nicht aktiven Hand halten, und bei Bedarf Sprengstoffe entschärfen. Drahtschneider werden in der {THING:ItemToolBelt} aufbewahrt, zusammen mit anderen wichtigen {LINK:ToolPage;tools}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWrench</Key>
       <Value>Schraubenschlüssel</Value>
-      <Description>Der Schraubenschlüssel ist einer der bleibenden Beiträge der Menschheit zum Kosmos und repräsentiert die Essenz unserer Spezies. Ein einfaches, effektives und spirituell unfruchtbares Werkzeug, das zum Aufbau und Abbau einer Vielzahl von {LINK:StructurePage;structures}</Description>
+      <Description>Der Schraubenschlüssel ist einer der bleibenden Beiträge der Menschheit zum Kosmos und repräsentiert die Essenz unserer Spezies. Ein einfaches, effektives und spirituell unfruchtbares Werkzeug, das zum Aufbau und Abbau einer Vielzahl von {LINK:StructurePage;Strukturen}</Description>
     </RecordThing>
     <RecordThing>
       <Key>MotherboardLogic</Key>
@@ -1950,7 +1950,7 @@ Sei da, auch wenn du nicht da bist.</Description>
     <RecordThing>
       <Key>StructureCentrifuge</Key>
       <Value>Zentrifuge</Value>
-      <Description>Wenn ein {THING:StructureRecycler} oder ein unausgewogenes {THING:StructureFurnace} ein {LINK:ReagentPage;reagent}-Gemisch statt des gewünschten {LINK:IngotPage;ingots} ergibt, können Sie mit einer Zentrifuge das rohe {LINK:OrePage;ore} zurückgewinnen. Sie verfeinert auch {THING:ItemDirtyOre}, das aus {THING:StructureDeepMiner} hergestellt wurde. Ihr größerer Bruder {THING:StructureCombustionCentrifuge} kann verwendet werden, um Gegenstände wesentlich schneller zu verarbeiten.
+      <Description>Wenn ein {THING:StructureRecycler} oder ein unausgewogenes {THING:StructureFurnace} ein {LINK:ReagentPage;reagent}-Gemisch statt des gewünschten {LINK:IngotPage;ingots} ergibt, können Sie mit einer Zentrifuge das rohe {LINK:OrePage;Erz} zurückgewinnen. Sie verfeinert auch {THING:ItemDirtyOre}, das aus {THING:StructureDeepMiner} hergestellt wurde. Ihr größerer Bruder {THING:StructureCombustionCentrifuge} kann verwendet werden, um Gegenstände wesentlich schneller zu verarbeiten.
 
 Von der Zentrifuge verarbeitete Gegenstände werden entgast</Description>
     </RecordThing>
@@ -2921,7 +2921,7 @@ Beachten Sie, dass Transformatoren als Datenisolatoren fungieren und verhindern,
     <RecordThing>
       <Key>StructureSolarPanelDual</Key>
       <Value>Solarmodul (Dual)</Value>
-      <Description>{LINK:Sinotai;Sinotai} Duale Solarpaneele werden zur Stromerzeugung aus Sonnenlicht verwendet und verfügen über eigene Daten- und Stromanschlüsse. Sie können an {{LINK:LogicPage;Logic} Systeme angeschlossen werden, um das Sonnenlicht zu verfolgen, aber ihre Effizienz wird bei Stürmen und Beschädigungen reduziert. Du kannst sie mit einigen zuverlässigen {THING:ItemDuctTape} reparieren.</Description>
+      <Description>{LINK:Sinotai;Sinotai} Duale Solarpaneele werden zur Stromerzeugung aus Sonnenlicht verwendet und verfügen über eigene Daten- und Stromanschlüsse. Sie können an {{LINK:LogicPage;Logik} Systeme angeschlossen werden, um das Sonnenlicht zu verfolgen, aber ihre Effizienz wird bei Stürmen und Beschädigungen reduziert. Du kannst sie mit einigen zuverlässigen {THING:ItemDuctTape} reparieren.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicBatchWriter</Key>
@@ -3528,7 +3528,7 @@ Setzen Sie eine Kassette oder einen Farbscanner in das Tablet ein und drücken S
     <RecordThing>
       <Key>StructureSecurityPrinter</Key>
       <Value>Sicherheitsdrucker</Value>
-      <Description>Jeder {LINK:Stationeer;Stationeer}, der auf Sicherheit bedacht ist, braucht den {LINK:Harkwell;Harkwell-designed} Vigilant-E Sicherheitsdrucker. Verwenden Sie den Vigilant-E, um einen {THING:CartridgeAccessController} zu erstellen, um den Zugang zu verschiedenen Teilen Ihrer Basis über Schlüsselkarten wie den {THING:AccessCardBlue} zu beschränken. Der Drucker stellt auch eine Vielzahl von Waffen und Munition her, mit denen Sie Ihre Basis gegen alle feindlichen, aggressiven oder einfach nur unhöflichen Wesen verteidigen können, denen Sie bei der Erkundung des Sonnensystems begegnen.
+      <Description>Jeder {LINK:Stationeer;Stationeer}, der auf Sicherheit bedacht ist, braucht den {LINK:Harkwell;Harkwell-konzipierter} Vigilant-E Sicherheitsdrucker. Verwenden Sie den Vigilant-E, um einen {THING:CartridgeAccessController} zu erstellen, um den Zugang zu verschiedenen Teilen Ihrer Basis über Schlüsselkarten wie den {THING:AccessCardBlue} zu beschränken. Der Drucker stellt auch eine Vielzahl von Waffen und Munition her, mit denen Sie Ihre Basis gegen alle feindlichen, aggressiven oder einfach nur unhöflichen Wesen verteidigen können, denen Sie bei der Erkundung des Sonnensystems begegnen.
 </Description>
     </RecordThing>
     <RecordThing>
@@ -3558,7 +3558,7 @@ Setzen Sie eine Kassette oder einen Farbscanner in das Tablet ein und drücken S
     <RecordThing>
       <Key>StructureElectrolyzer</Key>
       <Value>Elektrolyseur</Value>
-      <Description>Der {LINK:Norsec;Norsec-designed} Electrolyzer spaltet {GAS:Water} in Wasserstoff und {GAS:Oxygen}. Unter Verwendung einer unbekannten proprietären Technologie nutzt das Gerät die latente Wärme des Wassers als Energie für den Elektrolyseprozess. Wenn es einen Nachteil bei dieser fast wundersamen Spaltung gibt, dann ist es der, dass das Gerät durch die verfügbare Energiemenge begrenzt ist, die zur Aufrechterhaltung der Ausgangstemperatur verwendet wird. Mit anderen Worten, die Maschine funktioniert am besten mit heißem Gas.</Description>
+      <Description>Der {LINK:Norsec;Norsec-konzipierter} Electrolyzer spaltet {GAS:Water} in Wasserstoff und {GAS:Oxygen}. Unter Verwendung einer unbekannten proprietären Technologie nutzt das Gerät die latente Wärme des Wassers als Energie für den Elektrolyseprozess. Wenn es einen Nachteil bei dieser fast wundersamen Spaltung gibt, dann ist es der, dass das Gerät durch die verfügbare Energiemenge begrenzt ist, die zur Aufrechterhaltung der Ausgangstemperatur verwendet wird. Mit anderen Worten, die Maschine funktioniert am besten mit heißem Gas.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureElevatorShaft</Key>
@@ -3643,7 +3643,7 @@ Setzen Sie eine Kassette oder einen Farbscanner in das Tablet ein und drücken S
     <RecordThing>
       <Key>StructureVendingMachine</Key>
       <Value>Verkaufsautomat</Value>
-      <Description>Der {LINK:Xigo;Xigo-designed} "Slot Mate"-Automat ermöglicht die Lagerung von fast allen Gegenständen und dient gleichzeitig als Vertriebsstelle für die Arbeit mit {LINK:TradingPage;Traders}. Ohne einen Verkaufsautomaten oder sein fortschrittlicheres Äquivalent, den {THING:StructureRefrigeratedVendingMachine}, kannst du nicht handeln. Jeder Verkaufsautomat kann bis zu 100 Stapel aufnehmen.</Description>
+      <Description>Der {LINK:Xigo;Xigo-konzipierter} "Slot Mate"-Automat ermöglicht die Lagerung von fast allen Gegenständen und dient gleichzeitig als Vertriebsstelle für die Arbeit mit {LINK:TradingPage;Traders}. Ohne einen Verkaufsautomaten oder sein fortschrittlicheres Äquivalent, den {THING:StructureRefrigeratedVendingMachine}, kannst du nicht handeln. Jeder Verkaufsautomat kann bis zu 100 Stapel aufnehmen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitVendingMachine</Key>
@@ -3898,7 +3898,7 @@ ANWENDUNG: 'J' zum Aktivieren; 'Leertaste' zum Hochfliegen; 'Linke STRG' zum Abs
     <RecordThing>
       <Key>StructureKlaxon</Key>
       <Value>Klaxon-Lautsprecher</Value>
-      <Description>Mit Klaxons können Sie je nach Ihrer {LINK:LogicPage;Logic} Einrichtung über 50 Ansagen und Töne abspielen. Stellen Sie den Modus ein, um den Ausgang zu wählen.</Description>
+      <Description>Mit Klaxons können Sie je nach Ihrer {LINK:LogicPage;Logik} Einrichtung über 50 Ansagen und Töne abspielen. Stellen Sie den Modus ein, um den Ausgang zu wählen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSpeaker</Key>
@@ -4049,7 +4049,7 @@ Wenn sie an eine {THING:StructureComputer} mit einer {THING:MotherboardComms} Ha
     <RecordThing>
       <Key>ItemMiningDrillHeavy</Key>
       <Value>Starker Bergbaubohrer</Value>
-      <Description>Manchmal erfordern Bergbautouren etwas Größeres, um die Ware nach Hause zu bringen. Diese vergrößerte Version des {LINK:Recurso;Recurso} "Topo"-Designs {THING:ItemMiningDrill} kann buchstäblich Berge versetzen. Der schwere Minenbohrer kann mehr Boden abtragen und {LINK:OrePage;ore} schneller abbauen als der normale Minenbohrer. Der schwere Minenbohrer ist außerdem temperatur- und druckbeständig. Ganz gleich, welcher Planet oder welche extremen Wetterbedingungen herrschen, der schwere Bergbaubohrer von Recurso erledigt die Arbeit.</Description>
+      <Description>Manchmal erfordern Bergbautouren etwas Größeres, um die Ware nach Hause zu bringen. Diese vergrößerte Version des {LINK:Recurso;Recurso} "Topo"-Designs {THING:ItemMiningDrill} kann buchstäblich Berge versetzen. Der schwere Minenbohrer kann mehr Boden abtragen und {LINK:OrePage;Erz} schneller abbauen als der normale Minenbohrer. Der schwere Minenbohrer ist außerdem temperatur- und druckbeständig. Ganz gleich, welcher Planet oder welche extremen Wetterbedingungen herrschen, der schwere Bergbaubohrer von Recurso erledigt die Arbeit.</Description>
     </RecordThing>
     <RecordThing>
       <Key>RoverCargo</Key>
@@ -4183,7 +4183,7 @@ RobotMode.None = 6 = Automatisch zugewiesener Status, zeigt an, wenn die Lagerpl
     <RecordThing>
       <Key>ItemCobaltOre</Key>
       <Value>Erz (Kobalt)</Value>
-      <Description>Kobalt ist ein chemisches Element mit dem Symbol "Co" und kommt normalerweise nur in kleinen Vorkommen vor. Kobalt ist eine seltene Substanz, aber verwendet schaffen die {THING:ItemHealPill} und mehrere {LINK:IngotPage;alloys}.</Description>
+      <Description>Kobalt ist ein chemisches Element mit dem Symbol "Co" und kommt normalerweise nur in kleinen Vorkommen vor. Kobalt ist eine seltene Substanz, aber verwendet schaffen die {THING:ItemHealPill} und mehrere {LINK:IngotPage;Legierungen}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCobaltIngot</Key>
@@ -4236,14 +4236,14 @@ RobotMode.None = 6 = Automatisch zugewiesener Status, zeigt an, wenn die Lagerpl
     <RecordThing>
       <Key>StructureTransformerMedium</Key>
       <Value>Transformer (Normal)</Value>
-      <Description>Transformatoren regeln die maximale Leistung, die durch ein Teilnetz von Kabeln fließt, um eine Überlastung von {LINK:ElectronicPage;electrical} Systemen zu verhindern.
+      <Description>Transformatoren regeln die maximale Leistung, die durch ein Teilnetz von Kabeln fließt, um eine Überlastung von {LINK:ElectronicPage;elektrischen} Systemen zu verhindern.
 Mittlere Transformatoren werden in größeren Anlagen verwendet, in denen mehr als 5000 W benötigt werden, mit einer Leistung, die auf maximal 25000 W eingestellt werden kann.
 Beachten Sie, dass Transformatoren auch als Datenisolatoren fungieren, die verhindern, dass Daten in ein anderes Netz fließen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureTransformerMediumReversed</Key>
       <Value>Transformator Umgekehrt (Normal)</Value>
-      <Description>Transformatoren regeln die maximale Leistung, die durch ein Teilnetz von Kabeln fließt, um eine Überlastung von {LINK:ElectronicPage;electrical} Systemen zu verhindern.
+      <Description>Transformatoren regeln die maximale Leistung, die durch ein Teilnetz von Kabeln fließt, um eine Überlastung von {LINK:ElectronicPage;elektrischen} Systemen zu verhindern.
 Mittlere Transformatoren werden in größeren Anlagen verwendet, in denen mehr als 5000 W benötigt werden, mit einer Leistung, die auf maximal 25000 W eingestellt werden kann.
 Beachten Sie, dass Transformatoren auch als Datenisolatoren fungieren, die verhindern, dass Daten in ein anderes Netz fließen.</Description>
     </RecordThing>
@@ -4254,7 +4254,7 @@ Beachten Sie, dass Transformatoren auch als Datenisolatoren fungieren, die verhi
     <RecordThing>
       <Key>ItemJetpackBasic</Key>
       <Value>Jetpack</Value>
-      <Description>Das grundlegende {LINK:CHAC;CHAC} Jetpack ist "technisch" kein Jetpack, sondern ein Gasantrieb. Es kann mit jedem Gas betrieben werden, solange der Innendruck des {LINK:AtmosphericsPage;canister} höher ist als der Außendruck. Wenn der Außendruck höher ist, funktioniert das Spacepack nicht.
+      <Description>Das grundlegende {LINK:CHAC;CHAC} Jetpack ist "technisch" kein Jetpack, sondern ein Gasantrieb. Es kann mit jedem Gas betrieben werden, solange der Innendruck der {LINK:AtmosphericsPage;Gasflasche} höher ist als der Außendruck. Wenn der Außendruck höher ist, funktioniert das Spacepack nicht.
 Es ist unentbehrlich für den Bau, den Bergbau und die allgemeine Fortbewegung, hat zehn Speicherplätze und lässt {LINK:Stationeers;Stationeers} mit 3m/s fliegen, verglichen mit dem stärkeren {THING:ItemHardJetpack}. Durch Einstellen des Schubwerts wird die Beschleunigung verändert, während die Aktivierung des Stabilisators das Spacepack bei Erreichen einer bestimmten Höhe zum Schweben bringt.
 ANWENDUNG: 'J' zum Aktivieren; 'Leertaste' zum Aufwärtsfliegen; 'Linke Strg' zum Abwärtsfliegen; und 'WASD' zum Bewegen.</Description>
     </RecordThing>
@@ -4441,7 +4441,7 @@ ANWENDUNG: 'J' zum Aktivieren; 'Leertaste' zum Aufwärtsfliegen; 'Linke Strg' zu
     <RecordThing>
       <Key>StructureAutoMinerSmall</Key>
       <Value>Automatischer Bergbau (klein)</Value>
-      <Description>Der {LINK:Recurso;Recurso} SquareDig-Automat ist eine Struktur, die, wenn sie gebaut wird, einen vertikalen 2x2-Schacht abbaut, bis sie auf das Grundgestein trifft. Der Autominer kann an ein Schachtsystem angeschlossen werden und ist über ein logisches Netzwerk steuerbar. Beachten Sie, dass der Autominer mehr {LINK:OrePage;ore} als ein herkömmlicher {THING:ItemMiningDrill} auf der gleichen Fläche abbaut.</Description>
+      <Description>Der {LINK:Recurso;Recurso} SquareDig-Automat ist eine Struktur, die, wenn sie gebaut wird, einen vertikalen 2x2-Schacht abbaut, bis sie auf das Grundgestein trifft. Der Autominer kann an ein Schachtsystem angeschlossen werden und ist über ein logisches Netzwerk steuerbar. Beachten Sie, dass der Autominer mehr {LINK:OrePage;Erz} als ein herkömmlicher {THING:ItemMiningDrill} auf der gleichen Fläche abbaut.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAutoMinerSmall</Key>
@@ -4541,7 +4541,7 @@ Bei der Landung setzt die Rakete einen Lander und die im {THING:StructureModular
     <RecordThing>
       <Key>ItemAdvancedTablet</Key>
       <Value>Fortschritliches Tablet</Value>
-      <Description>Das fortschrittliche {LINK:Xigo;Xigo} Padi 2-Tablett ist eine verbesserte Version des {THING:ItemTablet}-Basistabletts und verfügt über zwei {LINK:CartridgePage;cartridge}-Steckplätze. Das Padi 2 kann mit {THING:CartridgeAtmosAnalyser}, {THING:CartridgeTracker}, {THING:CartridgeMedicalAnalyser}, {THING:CartridgeOreScanner}, {THING:CartridgeElectronicReader} und verschiedenen anderen Chips bestückt werden.
+      <Description>Das fortschrittliche {LINK:Xigo;Xigo} Padi 2-Tablett ist eine verbesserte Version des {THING:ItemTablet}-Basistabletts und verfügt über zwei {LINK:CartridgePage;Chip}-Steckplätze. Das Padi 2 kann mit {THING:CartridgeAtmosAnalyser}, {THING:CartridgeTracker}, {THING:CartridgeMedicalAnalyser}, {THING:CartridgeOreScanner}, {THING:CartridgeElectronicReader} und verschiedenen anderen Chips bestückt werden.
 	  
 	  Mit einem {THING:ItemIntegratedCircuit10} im {SLOT:ProgrammableChip} kann man über die Gerätenummern (d0, d1, etc...) auf variable Steckplätze am Träger zugreifen, sofern der Gegenstand über die Logik zugänglich ist, wie z.B. der {THING:ItemHardSuit}.</Description>
     </RecordThing>
@@ -4558,7 +4558,7 @@ Bei der Landung setzt die Rakete einen Lander und die im {THING:StructureModular
     <RecordThing>
       <Key>StructureModularRocketFueltank01</Key>
       <Value>Raketen-Treibstofftank (Modular)</Value>
-      <Description>Der Raketentreibstofftank benötigt eine 2:1-Mischung aus {GAS:Volatiles} und {GAS:Oxygen}. Wenn die Mischung dieses Verhältnis überschreitet oder Sie andere {LINK:GasPage;gases} in den Tank geben, zeigt die {THING:StructureModularRocketCommand01} Konsole einen 'Ungültig'-Fehler an.
+      <Description>Der Raketentreibstofftank benötigt eine 2:1-Mischung aus {GAS:Volatiles} und {GAS:Oxygen}. Wenn die Mischung dieses Verhältnis überschreitet oder Sie andere {LINK:GasPage;Gase} in den Tank geben, zeigt die {THING:StructureModularRocketCommand01} Konsole einen 'Ungültig'-Fehler an.
       
       Beachten Sie, dass der Raketentreibstofftank auch dazu verwendet werden kann, das von der {THING:StructureModularRocketGasMining} geförderte Gas aufzufangen, wenn er über eine {THING:StructureModularRocketCouplingUp} oder {THING:StructureModularRocketCouplingDown} mit dieser Einheit verbunden ist.</Description>
     </RecordThing>
@@ -4702,7 +4702,7 @@ Bei der Landung setzt die Rakete einen Lander und die im {THING:StructureModular
     <RecordThing>
       <Key>StructurePipeOrgan</Key>
       <Value>Pfeifenorgel</Value>
-      <Description>Die Pfeifenorgel kann an einem Ende eines {THING:ItemPipeValve} angebracht werden. Die Länge der Pfeife nach der Pfeifenorgel ändert die Tonhöhe der Note, die gespielt wird, wenn das Ventil geöffnet wird. Verwenden Sie {LINK:LogicPage;Logic} zum Öffnen und Schließen der Ventile, um eigene Melodien für Ihre Basis oder eine akustische Warnung zu erzeugen.</Description>
+      <Description>Die Pfeifenorgel kann an einem Ende eines {THING:ItemPipeValve} angebracht werden. Die Länge der Pfeife nach der Pfeifenorgel ändert die Tonhöhe der Note, die gespielt wird, wenn das Ventil geöffnet wird. Verwenden Sie {LINK:LogicPage;Logik} zum Öffnen und Schließen der Ventile, um eigene Melodien für Ihre Basis oder eine akustische Warnung zu erzeugen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPipeOrgan</Key>
@@ -4769,7 +4769,7 @@ Bei der Landung setzt die Rakete einen Lander und die im {THING:StructureModular
     <RecordThing>
       <Key>StructureSDBSilo</Key>
       <Value>SDB-Silo</Value>
-      <Description>Das majestätische Silo fasst große Mengen von fast allem. Solange es das tut, kann es nicht abgebaut werden. Beachte auch, dass jede Nahrung, die du in ein Silo legst, wahrscheinlich extrem schnell {LINK:DecayPage;decay} wird. Das Silo kann bis zu 600 Stapel fassen.</Description>
+      <Description>Das majestätische Silo fasst große Mengen von fast allem. Solange es das tut, kann es nicht abgebaut werden. Beachte auch, dass jede Nahrung, die du in ein Silo legst, wahrscheinlich extrem schnell {LINK:DecayPage;verfällt}. Das Silo kann bis zu 600 Stapel fassen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>KitSDBSilo</Key>
@@ -5663,17 +5663,17 @@ Obwohl die Windturbine so optimiert ist, dass sie auch in Welten mit niedriger A
     <RecordThing>
       <Key>ItemEmptyCan</Key>
       <Value>Leere Dose</Value>
-      <Description>Wird zur Herstellung von Suppen verwendet, wenn sie mit Lebensmitteln in der {THING:AppliancePackagingMachine} oder {THING:StructureAdvancedPackagingMachine} kombiniert werden. Ziemlich nährstoffreich, Konserven sind nicht {LINK:DecayPage;decay}.</Description>
+      <Description>Wird zur Herstellung von Suppen verwendet, wenn sie mit Lebensmitteln in der {THING:AppliancePackagingMachine} oder {THING:StructureAdvancedPackagingMachine} kombiniert werden. Ziemlich nährstoffreich, {LINK:DecayPage;verfällt} nicht.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPumpkinSoup</Key>
       <Value>Kürbissuppe</Value>
-      <Description>Hergestellt mit {THING:ItemCookedPumpkin} und einem {THING:ItemEmptyCan} in einem {THING:AppliancePackagingMachine} oder {THING:StructureAdvancedPackagingMachine}. Der Nährstoffgehalt von Konserven ist ziemlich hoch, aber nicht {LINK:DecayPage;decay}</Description>
+      <Description>Hergestellt mit {THING:ItemCookedPumpkin} und einem {THING:ItemEmptyCan} in einem {THING:AppliancePackagingMachine} oder {THING:StructureAdvancedPackagingMachine}. Der Nährstoffgehalt von Konserven ist ziemlich hoch, {LINK:DecayPage;verfällt} nicht.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCornSoup</Key>
       <Value>Mais-Suppe</Value>
-      <Description>Hergestellt mit {THING:ItemCookedCorn} und einem {THING:ItemEmptyCan} in einem {THING:AppliancePackagingMachine} oder {THING:StructureAdvancedPackagingMachine}. Reich an Nährstoffen, Konserven sind nicht {LINK:DecayPage;decay}.</Description>
+      <Description>Hergestellt mit {THING:ItemCookedCorn} und einem {THING:ItemEmptyCan} in einem {THING:AppliancePackagingMachine} oder {THING:StructureAdvancedPackagingMachine}. Reich an Nährstoffen, {LINK:DecayPage;verfällt} nicht.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemBreadLoaf</Key>
@@ -5694,7 +5694,7 @@ Es kann mit dem {THING:StructureHarvie} automatisiert werden. Beachten Sie, dass
     <RecordThing>
       <Key>ItemCharcoal</Key>
       <Value>Holzkohle</Value>
-      <Description>Holzkohle ist ein leichter, schwarzer Kohlenstoffrückstand, der durch Erhitzen von {THING:ItemBiomass} in einem {THING:StructureArcFurnace} entsteht. Sie hat ein geringeres Energiepotenzial als {THING:ItemCoalOre}, kann aber als Grundbrennstoff verwendet werden. Holzkohle kann auch als Ersatz für Kohle in {LINK:IngotPage;alloy}-Rezepten verwendet werden.</Description>
+      <Description>Holzkohle ist ein leichter, schwarzer Kohlenstoffrückstand, der durch Erhitzen von {THING:ItemBiomass} in einem {THING:StructureArcFurnace} entsteht. Sie hat ein geringeres Energiepotenzial als {THING:ItemCoalOre}, kann aber als Grundbrennstoff verwendet werden. Holzkohle kann auch als Ersatz für Kohle in {LINK:IngotPage;Legierung}-Rezepten verwendet werden.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSolarPanelReinforced</Key>
@@ -5875,7 +5875,7 @@ Obwohl die Windturbine so optimiert ist, dass sie auch auf Welten mit niedriger 
     <RecordThing>
       <Key>StructureIceCrusher</Key>
       <Value>Eiszerkleinerer</Value>
-      <Description>Der {LINK:Recurso;Recurso} KoolAuger wandelt verschiedene Eissorten in ihre jeweiligen {LINK:GasPage;gases} und Flüssigkeiten um.
+      <Description>Der {LINK:Recurso;Recurso} KoolAuger wandelt verschiedene Eissorten in ihre jeweiligen {LINK:GasPage;Gase} und Flüssigkeiten um.
 Der KoolAuger ist ein bemerkenswert intelligentes und kompaktes Sublimationsschmelzgerät, das je nach dem zu verarbeitenden Eis Gas oder Flüssigkeit erzeugt. Der obere Ausgang ist für Gas, der untere für Flüssigkeit, und obwohl man an beide Ausgänge jedes beliebige Rohre anschließen kann, funktioniert das Gerät nur, wenn das richtige Netz angeschlossen ist. Der KoolAuger kann auch nur dann Gas oder Flüssigkeit in ein Netzwerk leiten, wenn er eingeschaltet ist und mit Strom versorgt wird.
 Wenn der KoolAuger voll ist, nimmt er kein weiteres Eis an, bis der Gas- oder Flüssigkeitsinhalt abgelassen wurde. In diesem Zustand blinkt am Aktivierungsschalter ein gelber Fehlerstatus.</Description>
     </RecordThing>
@@ -5954,7 +5954,7 @@ Wenn der KoolAuger voll ist, nimmt er kein weiteres Eis an, bis der Gas- oder Fl
     <RecordThing>
       <Key>ItemMKIIScrewdriver</Key>
       <Value>Mk II Schraubendreher</Value>
-      <Description>Dieser Standard-Klemmschraubendreher ist ein hochwertiges, bi-rotierendes Modell mit einem säulenförmigen Griff. Er ist definitiv nicht nur ein Schraubendreher. Verwenden Sie ihn für den Auf- und Abbau bestimmter Bausätze und zum Einstellen von Werten an {LINK:LogicUnitPage;logic} Einheiten. Der MK II ist widerstandsfähiger gegen Temperatur und Druck.</Description>
+      <Description>Dieser Standard-Klemmschraubendreher ist ein hochwertiges, bi-rotierendes Modell mit einem säulenförmigen Griff. Er ist definitiv nicht nur ein Schraubendreher. Verwenden Sie ihn für den Auf- und Abbau bestimmter Bausätze und zum Einstellen von Werten an {LINK:LogicUnitPage;Logik} Einheiten. Der MK II ist widerstandsfähiger gegen Temperatur und Druck.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIIAngleGrinder</Key>
@@ -5984,12 +5984,12 @@ Wenn der KoolAuger voll ist, nimmt er kein weiteres Eis an, bis der Gas- oder Fl
     <RecordThing>
       <Key>ItemMKIIWireCutters</Key>
       <Value>Mk II Drahtschneider</Value>
-      <Description>Mit Drahtschneidern können Sie verschiedene {LINK:StructurePage;structures} zerlegen, Kabel quer verlegen, wenn Sie sie in der nicht aktiven Hand halten, und bei Bedarf Sprengstoffe entschärfen. Drahtschneider werden in der {THING:ItemToolBelt} aufbewahrt, zusammen mit anderen wichtigen {LINK:ToolPage;tools}.</Description>
+      <Description>Mit Drahtschneidern können Sie verschiedene {LINK:StructurePage;Strukturen} zerlegen, Kabel quer verlegen, wenn Sie sie in der nicht aktiven Hand halten, und bei Bedarf Sprengstoffe entschärfen. Drahtschneider werden in der {THING:ItemToolBelt} aufbewahrt, zusammen mit anderen wichtigen {LINK:ToolPage;tools}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIIWrench</Key>
       <Value>Mk II-Schraubenschlüssel</Value>
-      <Description>Der Schraubenschlüssel ist einer der bleibenden Beiträge der Menschheit zum Kosmos und verkörpert die Essenz unserer Spezies. Ein einfaches, effektives und spirituell unfruchtbares Werkzeug, mit dem man eine Vielzahl von {LINK:StructurePage;structures} Der MK II ist widerstandsfähiger gegen Temperatur und Druck.</Description>
+      <Description>Der Schraubenschlüssel ist einer der bleibenden Beiträge der Menschheit zum Kosmos und verkörpert die Essenz unserer Spezies. Ein einfaches, effektives und spirituell unfruchtbares Werkzeug, mit dem man eine Vielzahl von {LINK:StructurePage;Strukturen} Der MK II ist widerstandsfähiger gegen Temperatur und Druck.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIIDuctTape</Key>
@@ -6040,10 +6040,10 @@ Anwendung: Klebeband in die aktive Hand nehmen und die rechte Maustaste gedrück
     <RecordThing>
       <Key>StructureRocketModuleSilo</Key>
       <Value>Raketen-Silo (Modular)</Value>
-      <Description>Das autonome Silomodul {LINK:ExMin;ExMin} dient der Lagerung von {LINK:OrePage;ores}, das von {THING:StructureRocketModuleMiningOre} eingesammelt wurde, von {LINK:OrePage;ices}, das von {THING:StructureModularRocketIceMining} eingesammelt wurde, und von "Weltraumschrott", der von {THING:StructureModularRocketScrapMining} geborgen wurde. Mit anderen Worten, es fasst bis zu 600 "mittelgroße Trockengüter".
+      <Description>Das autonome Silomodul {LINK:ExMin;ExMin} dient der Lagerung von {LINK:OrePage;Erze}, das von {THING:StructureRocketModuleMiningOre} eingesammelt wurde, von {LINK:OrePage;Eis}, das von {THING:StructureModularRocketIceMining} eingesammelt wurde, und von "Weltraumschrott", der von {THING:StructureModularRocketScrapMining} geborgen wurde. Mit anderen Worten, es fasst bis zu 600 "mittelgroße Trockengüter".
 Das Silomodul muss durch ein korrekt platziertes {THING:StructureModularRocketCouplingDown} oder {THING:StructureModularRocketCouplingUp} mit einem Bergbau- oder Bergungsmodul verbunden sein, damit Material in das Silo gelangen kann.
 Das Silomodul muss auch mit Strom versorgt werden, wenn es sich auf der Startrampe befindet. Es ist standardmäßig eingeschaltet, kann aber bei Bedarf mit Logik ausgeschaltet werden.
-Das Modul kann auch an ein {THING:StructureChuteInlet} angeschlossen werden, um es mit {LINK:ImportExportPage;import/export} Netzwerken zu verbinden.
+Das Modul kann auch an ein {THING:StructureChuteInlet} angeschlossen werden, um es mit {LINK:ImportExportPage;Import/Export} Netzwerken zu verbinden.
 Um Ressourcen aus dem Silomodul zu extrahieren, müssen Sie seinen Status mit Hilfe der Logik auf 'OPEN' setzen.</Description>
     </RecordThing>
     <RecordThing>
@@ -6064,13 +6064,13 @@ Demnächst</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
-      <Description>Das Modul muss durch ein richtig platziertes {THING:StructureModularRocketCouplingDown} oder {THING:StructureModularRocketCouplingUp} mit einem {THING:StructureRocketModuleSilo} verbunden sein, damit {LINK:OrePage;ore} von der Sammeleinheit in das Silo gelangen kann.</Description>
+      <Description>Das Modul muss durch ein richtig platziertes {THING:StructureModularRocketCouplingDown} oder {THING:StructureModularRocketCouplingUp} mit einem {THING:StructureRocketModuleSilo} verbunden sein, damit {LINK:OrePage;Erz} von der Sammeleinheit in das Silo gelangen kann.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureRocketModuleMiningOre</Key>
       <Value>Raketen-Erz-Sammler (Modular)</Value>
-      <Description>Der {LINK:ExMin;ExMin} autonome {LINK:OrePage;ore} Bergmann erntet metallische Erze von Asteroiden und Planeten in der lokalen Region des Weltraums. Seine Reichweite - und damit die Menge an {LINK:OrePage;ore}, die er sammelt - wird streng von der Treibstoffmenge der Rakete bestimmt.
-Das Modul muss über ein richtig platziertes {THING:StructureModularRocketCouplingDown} oder {THING:StructureModularRocketCouplingUp} mit einem {THING:StructureRocketModuleSilo} verbunden sein, damit {LINK:OrePage;ore} von der Sammeleinheit in das Silo gelangen kann.
+      <Description>Der {LINK:ExMin;ExMin} autonome {LINK:OrePage;Erz} Bergmann erntet metallische Erze von Asteroiden und Planeten in der lokalen Region des Weltraums. Seine Reichweite - und damit die Menge an {LINK:OrePage;Erz}, die er sammelt - wird streng von der Treibstoffmenge der Rakete bestimmt.
+Das Modul muss über ein richtig platziertes {THING:StructureModularRocketCouplingDown} oder {THING:StructureModularRocketCouplingUp} mit einem {THING:StructureRocketModuleSilo} verbunden sein, damit {LINK:OrePage;Erz} von der Sammeleinheit in das Silo gelangen kann.
 Es hat zwei Modi - aktiv (1) und inaktiv (0), die nur ausgelöst werden sollten, wenn die Rakete auf dem Planeten angekommen ist und sich im Leerlauf befindet (Modus 4).</Description>
     </RecordThing>
     <RecordThing>
@@ -6122,8 +6122,8 @@ Wird der UP-Koppler ÜBER einem Abbaumodul (z. B. {THING:StructureRocketModuleMi
     <RecordThing>
       <Key>StructureModularRocketIceMining</Key>
       <Value>Raketen-Eisspeicher (Modular)</Value>
-      <Description>Der {LINK:ExMin;ExMin} autonome Ice Miner ist ein speziell gebauter Eisroboter, der in der Lage ist, Eiserze von Asteroiden und Planeten in der lokalen Region des Weltraums abzubauen. Seine Reichweite - und damit die Menge des gesammelten Eises {LINK:OrePage;ore} - ist streng von der Treibstoffmenge der Rakete abhängig.
-Das Modul muss durch ein richtig platziertes {THING:StructureModularRocketCouplingDown} oder {THING:StructureModularRocketCouplingUp} mit einem {THING:StructureRocketModuleSilo} verbunden sein, damit {LINK:OrePage;ore} von der Sammeleinheit in das Silo gelangen kann.
+      <Description>Der {LINK:ExMin;ExMin} autonome Ice Miner ist ein speziell gebauter Eisroboter, der in der Lage ist, Eiserze von Asteroiden und Planeten in der lokalen Region des Weltraums abzubauen. Seine Reichweite - und damit die Menge des gesammelten Eises {LINK:OrePage;Erz} - ist streng von der Treibstoffmenge der Rakete abhängig.
+Das Modul muss durch ein richtig platziertes {THING:StructureModularRocketCouplingDown} oder {THING:StructureModularRocketCouplingUp} mit einem {THING:StructureRocketModuleSilo} verbunden sein, damit {LINK:OrePage;Erz} von der Sammeleinheit in das Silo gelangen kann.
 Es hat zwei Modi - aktiv (1) und inaktiv (0), die nur ausgelöst werden sollten, wenn die Rakete auf dem Planeten angekommen ist und sich im Leerlauf befindet (Modus 4).</Description>
     </RecordThing>
     <RecordThing>
@@ -6135,7 +6135,7 @@ Es hat zwei Modi - aktiv (1) und inaktiv (0), die nur ausgelöst werden sollten,
       <Key>StructureModularRocketScrapMining</Key>
       <Value>Raketen-Trümmerbergung (Modular)</Value>
       <Description>Das so genannte {LINK:Sinotai;Sinotai} "Weltraumschrott"-Sammlermodul ist in Wirklichkeit eine automatisierte Bergungseinheit der Spitzenklasse, die speziell für den Anschluss an die {LINK:ExMin;ExMin} autonome Rakete entwickelt wurde. Es durchforstet die lokale Region des Weltraums nach Wracks, verlassenen Raumtransporten und anderen Abfällen. Als solches liefert es eine ziemlich zufällige Auswahl an Gegenständen.
-Das Modul muss durch ein richtig platziertes {THING:StructureModularRocketCouplingDown} oder {THING:StructureModularRocketCouplingUp} mit einem {THING:StructureRocketModuleSilo} verbunden sein, damit {LINK:OrePage;ore} von der Sammeleinheit in das Silo gelangen kann.</Description>
+Das Modul muss durch ein richtig platziertes {THING:StructureModularRocketCouplingDown} oder {THING:StructureModularRocketCouplingUp} mit einem {THING:StructureRocketModuleSilo} verbunden sein, damit {LINK:OrePage;Erz} von der Sammeleinheit in das Silo gelangen kann.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitModularRocketScrapMining</Key>
@@ -6330,11 +6330,11 @@ Ein zentraler Bestandteil dieses Zeitvertreibs ist der Step-Sequenzer, mit dem S
     <RecordThing>
       <Key>DecayedFood</Key>
       <Value>Verfaulte Lebensmittel</Value>
-      <Description>Wenn Ihr {LINK:OrganicPage;food} zerfällt, verwandelt es sich in das hier. {LINK:ODA;ODA} Wissenschaftler haben versucht, die genauen Bestandteile dieser Substanz zu bestimmen, aber sie bleibt ausweichend und geheimnisvoll. Es genügt zu sagen, dass es eine schlechte Idee ist, sie zu essen. Die Forschung hat jedoch festgestellt, dass die genaue Geschwindigkeit des Zerfalls individuell variiert:
+      <Description>Wenn Ihr {LINK:OrganicPage;Nahrung} zerfällt, verwandelt es sich in das hier. {LINK:ODA;ODA} Wissenschaftler haben versucht, die genauen Bestandteile dieser Substanz zu bestimmen, aber sie bleibt ausweichend und geheimnisvoll. Es genügt zu sagen, dass es eine schlechte Idee ist, sie zu essen. Die Forschung hat jedoch festgestellt, dass die genaue Geschwindigkeit des Zerfalls individuell variiert:
 
 - TEMPERATUR - Kühlung verlangsamt den Verfall, aber viele Lebensmittel werden durch extremen Unterdruck und extreme Hitze beschädigt. Die optimale Temperatur ist 0 Kelvin (-272 C).
 
-- NAHRUNGSMITTELTYP - Jeder {LINK:OrganicPage;food}-Typ hat seine eigenen Zerfallseigenschaften. Ein {THING:ItemTomatoSoup} hält sich zum Beispiel viel länger als ein {THING:ItemTomato}.
+- NAHRUNGSMITTELTYP - Jeder {LINK:OrganicPage;Nahrung}-Typ hat seine eigenen Zerfallseigenschaften. Ein {THING:ItemTomatoSoup} hält sich zum Beispiel viel länger als ein {THING:ItemTomato}.
 
 - DRUCK - Nahrung zerfällt schneller, wenn der Druck unter 1 Atmosphäre (101 kPa) fällt. Der Zerfall erfolgt exponentiell schneller, wenn sich die Atmosphäre einem perfekten Vakuum nähert. Höhere Drücke haben keine Auswirkungen.
 
@@ -6375,18 +6375,18 @@ So richten Sie einen LFO ein:
 4. Verwenden Sie einen anderen Logic Writer, um die BPM in den LFO zu schreiben.
 5. Sie sind bereit. Dies ist die Zukunft. Du bist im Weltraum. Lass es cool klingen.
 
-Weitere Informationen finden Sie auf der {LINK:MusicPage;music page}.</Description>
+Weitere Informationen finden Sie auf der {LINK:MusicPage;Musik Seite}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureFridgeBig</Key>
       <Value>Kühlschrank (groß)</Value>
       <Description>Der {LINK:Xigo;Xigo} Koolaid-Kühlschrank ist ein selbstkühlendes Aufbewahrungsgerät mit 15 Fächern, das Lebensmittel konserviert, wenn es mit Strom versorgt wird und eingeschaltet ist. Obwohl sich viele Nutzer über die Platzierung des Netzschalters beschwert haben, ist sein Platz im Pantheon der außerweltlichen Weißware unbestritten.
       
-Mit seiner eigenen permanenten inneren Atmosphäre verlangsamt der Koolaid-Kühlschrank den Verfall von {LINK:OrganicPage;food}, indem er eine optimale Innentemperatur aufrechterhält. Sein Stromverbrauch hängt von der Außentemperatur ab, die er mit seiner Innentemperatur ausgleichen muss. Der Koolaid-Kühlschrank funktioniert also NICHT im Vakuum, sondern muss Wärme abgeben.
+Mit seiner eigenen permanenten inneren Atmosphäre verlangsamt der Koolaid-Kühlschrank den Verfall von {LINK:OrganicPage;Nahrung}, indem er eine optimale Innentemperatur aufrechterhält. Sein Stromverbrauch hängt von der Außentemperatur ab, die er mit seiner Innentemperatur ausgleichen muss. Der Koolaid-Kühlschrank funktioniert also NICHT im Vakuum, sondern muss Wärme abgeben.
       
 Lassen Sie außerdem die Tür nicht offen, da sie sich sonst an die aktuelle Außentemperatur angleichen wird. Und vielleicht fängt er an zu piepen.
 
-Weitere Informationen zur Lebensmittelkonservierung findest du im Abschnitt {LINK:DecayPage;food decay} der Stationpedia.</Description>
+Weitere Informationen zur Lebensmittelkonservierung findest du im Abschnitt {LINK:DecayPage;Verfall der Nahrung} der Stationpedia.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFridgeBig</Key>
@@ -6396,9 +6396,9 @@ Weitere Informationen zur Lebensmittelkonservierung findest du im Abschnitt {LIN
     <RecordThing>
       <Key>StructureFridgeSmall</Key>
       <Value>Kühlschrank (klein)</Value>
-      <Description>Der {LINK:Recurso;Recurso} Minibar-Kühlschrank ist im Wesentlichen eine stark isolierte Box, in die der Benutzer jede gewünschte Atmosphäre einbringen kann, und war eine einfache Lösung für das Problem von {LINK:NutritionPage;food decay}. Er speichert eine kleine Anzahl von Gegenständen bei jeder Temperatur, die Sie aufbringen können.
+      <Description>Der {LINK:Recurso;Recurso} Minibar-Kühlschrank ist im Wesentlichen eine stark isolierte Box, in die der Benutzer jede gewünschte Atmosphäre einbringen kann, und war eine einfache Lösung für das Problem von {LINK:NutritionPage;Verfall der Nahrung}. Er speichert eine kleine Anzahl von Gegenständen bei jeder Temperatur, die Sie aufbringen können.
       
-      Weitere Informationen zur Lebensmittelkonservierung finden Sie in der {LINK:DecayPage;food decay} Sektion der Stationpedia.</Description>
+Weitere Informationen zur Lebensmittelkonservierung finden Sie in der {LINK:DecayPage;Verfall der Nahrung} Sektion der Stationpedia.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureRefrigeratedVendingMachine</Key>
@@ -6460,10 +6460,10 @@ HINWEIS: Die Änderung der Stapelgröße aktualisiert NICHT die bestehenden Stap
     <RecordThing>
       <Key>Fertilizer</Key>
       <Value>Dünger</Value>
-      <Description>Dünger verändert die Wachstumsprozesse der Pflanzen und wird durch den Basiskomposter und die {THING:StructureAdvancedComposter} mit {LINK:OrganicPage;organic} Stoffen erzeugt.
+      <Description>Dünger verändert die Wachstumsprozesse der Pflanzen und wird durch den Basiskomposter und die {THING:StructureAdvancedComposter} mit {LINK:OrganicPage;organischen} Stoffen erzeugt.
 Die Wirkung von Dünger hängt von seinen Inhaltsstoffen ab:
 
-- {LINK:OrganicPage;Food} erhöht den ERTRAG der Pflanzen bis zum Zweifachen
+- {LINK:OrganicPage;Nahrung} erhöht den ERTRAG der Pflanzen bis zum Zweifachen
 - {THING:DecayedFood} erhöht die WACHSTUMSGESCHWINDIGKEIT der Pflanzen bis zum Zweifachen
 - {THING:ItemBiomass} erhöht die ANZAHL DER WACHSTUMSZYKLEN, für die der Dünger reicht
 
@@ -6472,13 +6472,13 @@ Die Wirkung dieser Bestandteile hängt von ihren jeweiligen Anteilen im Komposte
     <RecordThing>
       <Key>StructureAdvancedComposter</Key>
       <Value>Fortschrittlicher Komposter</Value>
-      <Description>Der fortschrittliche Komposter erzeugt {THING:Fertilizer} aus organischem Material. Er nimmt {LINK:OrganicPage;food}, {THING:DecayedFood} oder {THING:ItemBiomass} auf. Er benötigt {GAS:Water} und Strom für den Betrieb und beschleunigt den natürlichen Kompostierungsprozess.
+      <Description>Der fortschrittliche Komposter erzeugt {THING:Fertilizer} aus organischem Material. Er nimmt {LINK:OrganicPage;Nahrung}, {THING:DecayedFood} oder {THING:ItemBiomass} auf. Er benötigt {GAS:Water} und Strom für den Betrieb und beschleunigt den natürlichen Kompostierungsprozess.
 Bei der Verarbeitung setzt er Stickstoff und flüchtige Stoffe sowie eine geringe Menge Wärme frei.
 
 {HEADER:Compost composition}
 Der Dünger wird in einem Verhältnis von 1:3 zwischen Dünger und Inhaltsstoffen hergestellt. Die Wirkung des Düngers auf die Pflanzen hängt von den jeweiligen Anteilen seiner Bestandteile ab.
 
-- {LINK:OrganicPage;Food} erhöht die Pflanzenausbeute bis zum Zweifachen
+- {LINK:OrganicPage;Nahrung} erhöht die Pflanzenausbeute bis zum Zweifachen
 - {THING:DecayedFood} erhöht die WACHSTUMSGESCHWINDIGKEIT der Pflanzen bis zum Zweifachen
 - {THING:ItemBiomass} erhöht die ANZAHL DER WACHSTUMSZYKLEN, für die der Dünger reicht, um das Fünffache
 </Description>
@@ -6506,20 +6506,20 @@ Der Dünger wird in einem Verhältnis von 1:3 zwischen Dünger und Inhaltsstoffe
     <RecordThing>
       <Key>PortableComposter</Key>
       <Value>Tragbarer Komposter</Value>
-      <Description>Ein einfaches Kompostiergerät, der Basiskomposter erzeugt {THING:Fertilizer} aus organischem Material. Er nimmt {LINK:OrganicPage;food}, {THING:DecayedFood} oder {THING:ItemBiomass} auf. Für den Betrieb sind ein voller {THING:ItemLiquidCanisterEmpty} und eine Batterie erforderlich, die den natürlichen Kompostierungsprozess beschleunigen.
+      <Description>Ein einfaches Kompostiergerät, der Basiskomposter erzeugt {THING:Fertilizer} aus organischem Material. Er nimmt {LINK:OrganicPage;Nahrung}, {THING:DecayedFood} oder {THING:ItemBiomass} auf. Für den Betrieb sind ein voller {THING:ItemLiquidCanisterEmpty} und eine Batterie erforderlich, die den natürlichen Kompostierungsprozess beschleunigen.
 Bei der Verarbeitung setzt er Stickstoff und flüchtige Stoffe sowie eine geringe Menge Wärme frei.
 
 {HEADER:Compost composition}
 Der Dünger wird in einem Verhältnis von 1:3 zwischen Dünger und Inhaltsstoffen hergestellt. Die Wirkung des Düngers auf die Pflanzen hängt von den jeweiligen Anteilen seiner Bestandteile ab.
 
-- {LINK:OrganicPage;food} erhöht die Pflanzenausbeute bis zum Zweifachen
+- {LINK:OrganicPage;Nahrung} erhöht die Pflanzenausbeute bis zum Zweifachen
 - {THING:DecayedFood} erhöht die WACHSTUMSGESCHWINDIGKEIT der Pflanzen bis zum Zweifachen
 - {THING:ItemBiomass} erhöht die ANZAHL DER WACHSTUMSZYKLEN, in denen der Dünger wirkt</Description>
     </RecordThing>
     <RecordThing>
       <Key>AppliancePackagingMachine</Key>
-      <Value>Basis-DosenabfüllerDosenabfüller</Value>
-      <Description>Der {LINK:Xigo;Xigo} Cannifier benötigt {THING:ItemEmptyCan} und gekochte {LINK:OrganicPage;food}, um {LINK:DecayPage;long-lasting}, leicht zu lagernde Nahrung zu erzeugen. Beachte, dass der Cannifier an einen {THING:StructureBench} angeschlossen werden muss, um Strom zu erhalten, und dass er nur gekochte Lebensmittel und Blechdosen verarbeiten kann.
+      <Value>Basis-Dosenabfüller</Value>
+      <Description>Der {LINK:Xigo;Xigo} Cannifier benötigt {THING:ItemEmptyCan} und gekochte {LINK:OrganicPage;Nahrung}, um {LINK:DecayPage;langlebige}, leicht zu lagernde Nahrung zu erzeugen. Beachte, dass der Cannifier an einen {THING:StructureBench} angeschlossen werden muss, um Strom zu erhalten, und dass er nur gekochte Lebensmittel und Blechdosen verarbeiten kann.
 
 {HEADER:OPERATION}
 
@@ -6554,7 +6554,7 @@ Hinweis: Der Cannifier zeigt eine Fehlermeldung auf seinem Aktivierungsschalter 
     <RecordThing>
       <Key>ItemCannedMushroom</Key>
       <Value>Pilzkonserven</Value>
-      <Description>Zubereitet in einem {THING:StructureAdvancedPackagingMachine} oder {THING:AppliancePackagingMachine}, mit {THING:ItemCookedMushroom} und einem {THING:ItemEmptyCan}, ist die köstliche Pilzsuppe ziemlich nahrhaft und nicht {LINK:DecayPage;decay}.</Description>
+      <Description>Zubereitet in einem {THING:StructureAdvancedPackagingMachine} oder {THING:AppliancePackagingMachine}, mit {THING:ItemCookedMushroom} und einem {THING:ItemEmptyCan}, ist die köstliche Pilzsuppe ziemlich nahrhaft und nicht {LINK:DecayPage;verfällt}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPowderedeggs</Key>
@@ -6574,27 +6574,27 @@ Hinweis: Der Cannifier zeigt eine Fehlermeldung auf seinem Aktivierungsschalter 
     <RecordThing>
       <Key>ItemCannedRicePudding</Key>
       <Value>Reispudding aus der Dose</Value>
-      <Description>Hergestellt in einem {THING:StructureAdvancedPackagingMachine} oder {THING:AppliancePackagingMachine}, unter Verwendung von {THING:ItemCookedRice} und einem {THING:ItemEmptyCan}, ist Milchreis aus der Dose eine süße Leckerei, ziemlich nahrhaft, und nicht {LINK:DecayPage;decay}.</Description>
+      <Description>Hergestellt in einem {THING:StructureAdvancedPackagingMachine} oder {THING:AppliancePackagingMachine}, unter Verwendung von {THING:ItemCookedRice} und einem {THING:ItemEmptyCan}, ist Milchreis aus der Dose eine süße Leckerei, ziemlich nahrhaft, und nicht {LINK:DecayPage;verfällt}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCannedCondensedMilk</Key>
       <Value>Kondensmilch in Dosen</Value>
-      <Description>Hergestellt in einem {THING:StructureAdvancedPackagingMachine} oder {THING:AppliancePackagingMachine}, unter Verwendung von {THING:ItemCookedCondensedMilk} und einem {THING:ItemEmptyCan}, ist Kondensmilch in Dosen ziemlich nährstoffreich und nicht {LINK:DecayPage;decay}.</Description>
+      <Description>Hergestellt in einem {THING:StructureAdvancedPackagingMachine} oder {THING:AppliancePackagingMachine}, unter Verwendung von {THING:ItemCookedCondensedMilk} und einem {THING:ItemEmptyCan}, ist Kondensmilch in Dosen ziemlich nährstoffreich und nicht {LINK:DecayPage;verfällt}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCannedEdamame</Key>
       <Value>Edamame in Dosen</Value>
-      <Description>Hergestellt in einem {THING:StructureAdvancedPackagingMachine} oder {THING:AppliancePackagingMachine}, unter Verwendung von {THING:ItemCookedSoybean} und einem {THING:ItemEmptyCan}, sind Edamame-Bohnen in Dosen ziemlich nährstoffreich, und nicht {LINK:DecayPage;decay}.</Description>
+      <Description>Hergestellt in einem {THING:StructureAdvancedPackagingMachine} oder {THING:AppliancePackagingMachine}, unter Verwendung von {THING:ItemCookedSoybean} und einem {THING:ItemEmptyCan}, sind Edamame-Bohnen in Dosen ziemlich nährstoffreich, und nicht {LINK:DecayPage;verfällt}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCannedPowderedEggs</Key>
       <Value>Dosen-Eier in Pulverform</Value>
-      <Description>Hergestellt in einem {THING:StructureAdvancedPackagingMachine} oder {THING:AppliancePackagingMachine}, unter Verwendung von {THING:ItemCookedPowderedEggs} und einem {THING:ItemEmptyCan}, sind Eipulver in Dosen ein aufregendes, dynamisches Lebensmittel, das einen ziemlich hohen Nährwert hat und nicht {LINK:DecayPage;decay}.</Description>
+      <Description>Hergestellt in einem {THING:StructureAdvancedPackagingMachine} oder {THING:AppliancePackagingMachine}, unter Verwendung von {THING:ItemCookedPowderedEggs} und einem {THING:ItemEmptyCan}, sind Eipulver in Dosen ein aufregendes, dynamisches Lebensmittel, das einen ziemlich hohen Nährwert hat und nicht {LINK:DecayPage;verfällt}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureAdvancedPackagingMachine</Key>
       <Value>Fortschrittlicher Dosenabfüller</Value>
-      <Description>Der {LINK:Xigo;Xigo} Advanced Cannifier Multi-Plus Pro ist ein automatisierbarer Dosenabfüller, die {THING:ItemEmptyCan}s und gekochte {LINK:OrganicPage;food} verwendet, um Konserven herzustellen, die nicht verderben. Beachten Sie, dass der ACMPP nur gekochte Lebensmittel und Blechdosen verarbeitet.</Description>
+      <Description>Der {LINK:Xigo;Xigo} Advanced Cannifier Multi-Plus Pro ist ein automatisierbarer Dosenabfüller, die {THING:ItemEmptyCan}s und gekochte {LINK:OrganicPage;Nahrung} verwendet, um Konserven herzustellen, die nicht verderben. Beachten Sie, dass der ACMPP nur gekochte Lebensmittel und Blechdosen verarbeitet.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAdvancedPackagingMachine</Key>
@@ -6854,7 +6854,7 @@ Wenn es geschlossen ist, hat es die Wärmeübertragungseigenschaften einer einfa
       <Value>OGRE</Value>
       <Description>Der {LINK:Recurso;Recurso} OGRE (Orthogonal Ground Rotating Excavator) ist eine Basisstruktur mit angeschlossenem Minenfahrzeug, das einen horizontalen Schacht von bis zu X Metern Länge abbaut. Wenn er voll ist, kehrt das Minenfahrzeug zur Basis zurück, um sich zu entleeren, bevor es wieder graben kann. Wenn es auf leeren Raum stößt, kehrt es ebenfalls zur Basis zurück und wartet auf Anweisungen. Bei Deaktivierung kehrt die Einheit zurück.
       
-Der OGRE kann an ein Fallschirmsystem angeschlossen werden und ist über ein logisches Netzwerk steuerbar. Beachten Sie, dass der OGRE aufgrund der effizienteren Verarbeitung mehr {LINK:OrePage;ore} als ein herkömmlicher {THING:ItemMiningDrill} auf der gleichen Fläche ausgibt.
+Der OGRE kann an ein Fallschirmsystem angeschlossen werden und ist über ein logisches Netzwerk steuerbar. Beachten Sie, dass der OGRE aufgrund der effizienteren Verarbeitung mehr {LINK:OrePage;Erz} als ein herkömmlicher {THING:ItemMiningDrill} auf der gleichen Fläche ausgibt.
 
 {HEADER:MODES}
 Leerlauf - 0
@@ -6911,12 +6911,12 @@ Sie müssen den Laptop abstellen, um mit der Bildschirmoberfläche zu interagier
     <RecordThing>
       <Key>ItemPlantEndothermic_Genepool1</Key>
       <Value>Frostblume (Alpha-Variante)</Value>
-      <Description>Der atmosphärische Bioprozessor {LINK:Agrizero;Agrizero's} Winterspawn ist eine neue Ergänzung ihres Katalogs an genesplizierten Umweltdekorationen. Der Winterspawn nutzt die Umgebungswärme, um {GAS:Water} in {GAS:Volatiles} und {GAS:Oxygen} aufzuspalten und kühlt seine Umgebung, wenn er mit ausreichend {GAS:Nitrogen} versorgt wird. Die Alpha-Variante hat eine Spitzenkühl- und Elektrolysekapazität von 90 Watt und arbeitet am effizientesten bei Lufttemperaturen von 0 bis 40 Grad Celsius.</Description>
+      <Description>Der atmosphärische Bioprozessor {LINK:Agrizero;Agrizero's} Frostblume ist eine neue Ergänzung ihres Katalogs an genesplizierten Umweltdekorationen. Der Frostblume nutzt die Umgebungswärme, um {GAS:Water} in {GAS:Volatiles} und {GAS:Oxygen} aufzuspalten und kühlt seine Umgebung, wenn er mit ausreichend {GAS:Nitrogen} versorgt wird. Die Alpha-Variante hat eine Spitzenkühl- und Elektrolysekapazität von 90 Watt und arbeitet am effizientesten bei Lufttemperaturen von 0 bis 40 Grad Celsius.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPlantEndothermic_Genepool2</Key>
       <Value>Frostblume (Beta-Variante)</Value>
-      <Description>Der atmosphärische Bioprozessor {LINK:Agrizero;Agrizero's} Winterspawn ist eine neue Ergänzung ihres Katalogs an genesplizierten Umweltdekorationen. Der Winterspawn nutzt die Umgebungswärme, um {GAS:Water} in {GAS:Volatiles} und {GAS:Oxygen} aufzuspalten, und kühlt seine Umgebung, wenn er mit ausreichend {GAS:Nitrogen} versorgt wird. Die Beta-Variante hat eine Spitzenkühl- und Elektrolysekapazität von 150 Watt und arbeitet am effizientesten bei Lufttemperaturen von 14 bis 24 Grad Celsius.</Description>
+      <Description>Der atmosphärische Bioprozessor {LINK:Agrizero;Agrizero's} Frostblume ist eine neue Ergänzung ihres Katalogs an genesplizierten Umweltdekorationen. Der Frostblume nutzt die Umgebungswärme, um {GAS:Water} in {GAS:Volatiles} und {GAS:Oxygen} aufzuspalten, und kühlt seine Umgebung, wenn er mit ausreichend {GAS:Nitrogen} versorgt wird. Die Beta-Variante hat eine Spitzenkühl- und Elektrolysekapazität von 150 Watt und arbeitet am effizientesten bei Lufttemperaturen von 14 bis 24 Grad Celsius.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPlantThermogenic_Genepool1</Key>
@@ -7119,7 +7119,7 @@ Es ist sehr temperaturempfindlich und beginnt zu schmelzen, sobald es abgebaut w
     <RecordThing>
       <Key>StructureLogicGate</Key>
       <Value>Logik-Gatter</Value>
-      <Description>Ein {LINK:LogicPage;logic}-Gerät, das eine logische Operation an einem oder mehreren binären Eingängen ausführt, die einen einzigen binären Ausgang erzeugt. Eine Eingabe, die größer als Null ist, wird für Operationen als wahr angesehen.</Description>
+      <Description>Ein {LINK:LogicPage;Logik}-Gerät, das eine logische Operation an einem oder mehreren binären Eingängen ausführt, die einen einzigen binären Ausgang erzeugt. Eine Eingabe, die größer als Null ist, wird für Operationen als wahr angesehen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureNitrolyzer</Key>
@@ -7287,7 +7287,7 @@ Das Ausstoßen von Erz aus der Verbrennungszentrifuge bei hohen Drehzahlen führ
     <RecordThing>
       <Key>ItemPlantSampler</Key>
       <Value>Pflanzenprobenentnehmer</Value>
-      <Description>Mit dem Pflanzenprobenehmer können Sie eine {LINK:GeneticsPage;gene} Probe von einer wachsenden Pflanze nehmen. Der Probenehmer kann dann in den {THING:AppliancePlantGeneticAnalyzer} gestellt werden, um die Ergebnisse zu erhalten und zu interpretieren.</Description>
+      <Description>Mit dem Pflanzenprobenehmer können Sie eine {LINK:GeneticsPage;Gene} Probe von einer wachsenden Pflanze nehmen. Der Probenehmer kann dann in den {THING:AppliancePlantGeneticAnalyzer} gestellt werden, um die Ergebnisse zu erhalten und zu interpretieren.</Description>
     </RecordThing>
     <RecordThing>
       <Key>AppliancePlantGeneticAnalyzer</Key>
@@ -7308,7 +7308,7 @@ Für Temperatur- und Druckbereiche werden vier Gene im selben Widget angezeigt. 
     <RecordThing>
       <Key>AppliancePlantGeneticStabilizer</Key>
       <Value>Genomstabilisator (Pflanze)</Value>
-      <Description>Der Genetische Stabilisator kann verwendet werden, um die Genstabilität auf einem bestimmten {LINK:OrganicPage;Plants} oder {LINK:OrganicPage;Seeds} zu manipulieren. Er hat zwei Modi: Stabilisieren und Destabilisieren.
+      <Description>Der Genetische Stabilisator kann verwendet werden, um die Genstabilität auf einem bestimmten {LINK:OrganicPage;Pflanzen} oder {LINK:OrganicPage;Seeds} zu manipulieren. Er hat zwei Modi: Stabilisieren und Destabilisieren.
 Stabilisieren: Erhöht die Stabilität aller Gene um 50%.
 Destabilisieren: Verringert die Stabilität aller Gene um 10%, mit Ausnahme eines ausgewählten Gens, dessen Stabilität um 50% verringert wird.
       </Description>
@@ -7316,7 +7316,7 @@ Destabilisieren: Verringert die Stabilität aller Gene um 10%, mit Ausnahme eine
     <RecordThing>
       <Key>AppliancePlantGeneticSplicer</Key>
       <Value>Genomtrenner (Pflanze)</Value>
-      <Description>Mit dem Genetic Splicer kann eine einzelne {LINK:GeneticsPage;gene} von einer 'Quell'-Pflanze auf eine andere 'Ziel'-Pflanze desselben Typs kopiert werden. Nach dem Kopieren wird die Quellpflanze zerstört.
+      <Description>Mit dem Genetic Splicer kann eine einzelne {LINK:GeneticsPage;Gene} von einer 'Quell'-Pflanze auf eine andere 'Ziel'-Pflanze desselben Typs kopiert werden. Nach dem Kopieren wird die Quellpflanze zerstört.
         
 Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel in den linken Schlitz (Quelle) und eine andere Pflanze oder einen Samenbeutel desselben Typs in den rechten Schlitz (Ziel). Mit den Pfeiltasten können Sie ein Gen auswählen. Schließen Sie die Schiebetür und drücken Sie die grüne Aktivierungstaste. Sobald das Spleißen begonnen hat, wird das Gerät gesperrt, bis der Vorgang abgeschlossen ist (was etwa zwanzig Minuten dauert). Wenn Sie den Spleißvorgang abbrechen möchten, können Sie das Gerät ausschalten oder als letzten Ausweg das Gerät abnehmen.</Description>
     </RecordThing>
@@ -14115,7 +14115,7 @@ Das Stationeers-Programm ist grundsätzlich offen für alle Menschen, denn es re
     </Record>
     <Record>
       <Key>MoleOxygenDescription</Key>
-      <Value>Sauerstoff liefert Energie, wenn er bei der Verbrennung freigesetzt wird, und verbindet sich außerdem mit Wasserstoff zu {GAS:Water}. Er entsteht sowohl bei {LINK:OrganicPage;plants} als auch bei der Verarbeitung von {THING:ItemOxite}. Er ist bei niedrigen Temperaturen leicht entflammbar.</Value>
+      <Value>Sauerstoff liefert Energie, wenn er bei der Verbrennung freigesetzt wird, und verbindet sich außerdem mit Wasserstoff zu {GAS:Water}. Er entsteht sowohl bei {LINK:OrganicPage;Pflanzen} als auch bei der Verarbeitung von {THING:ItemOxite}. Er ist bei niedrigen Temperaturen leicht entflammbar.</Value>
     </Record>
     <Record>
       <Key>MoleNitrogenDescription</Key>
@@ -14123,7 +14123,7 @@ Das Stationeers-Programm ist grundsätzlich offen für alle Menschen, denn es re
     </Record>
     <Record>
       <Key>MoleCarbonDioxideDescription</Key>
-      <Value>Sie atmen es aus, {LINK:OrganicPage;plants} atmen es ein. Sie wachsen nicht ohne es. Du kannst Gegenstände in {SLOT:GasFilter} Slots verwenden, um es aus der Atmosphäre zu entfernen.
+      <Value>Sie atmen es aus, {LINK:OrganicPage;Pflanzen} atmen es ein. Sie wachsen nicht ohne es. Du kannst Gegenstände in {SLOT:GasFilter} Slots verwenden, um es aus der Atmosphäre zu entfernen.
 
 {GAS:CarbonDioxide} hat eine mäßig hohe spezifische Wärme, d.h. es ist ein gutes Kühlmittel für Geräte wie den
 {THING:StructureWallCooler}. {GAS:Water} ist besser, hat aber normalerweise wichtigere Verwendungszwecke.</Value>
@@ -14145,7 +14145,7 @@ Der Schadstoff hat eine hohe spezifische Wärme, was ihn zu einem hervorragenden
     </Record>
     <Record>
       <Key>MoleWaterDescription</Key>
-      <Value>Du kannst Wasser erhalten, indem du {THING:ItemIce} mit einem {THING:StructureFurnace} schmilzt oder einem {THING:StructureIceCrusher} zerkleinerst. {GAS:Water} ist entscheidend für {LINK:OrganicPage;plants}, um am Leben zu bleiben und {LINK:NutritionPage;food} anzubauen.
+      <Value>Du kannst Wasser erhalten, indem du {THING:ItemIce} mit einem {THING:StructureFurnace} schmilzt oder einem {THING:StructureIceCrusher} zerkleinerst. {GAS:Water} ist entscheidend für {LINK:OrganicPage;Pflanzen}, um am Leben zu bleiben und {LINK:NutritionPage;Nahrung} anzubauen.
 Es ist auch ein außergewöhnliches Kühlmittel mit einer sehr hohen spezifischen Wärmekapazität. {GAS:Water} verdampft zu {GAS:Steam}, wenn seine Temperatur über seinen Siedepunkt steigt.</Value>
     </Record>
     <Record>
