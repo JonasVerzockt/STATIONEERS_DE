@@ -496,7 +496,7 @@
     <RecordThing>
       <Key>ApplianceMicrowave</Key>
       <Value>Mikrowelle</Value>
-      <Description>Während in den letzten hundert Jahren unzählige "bessere" Kochmethoden erfunden wurden {LINK:FoodPage;Food}, sind nur wenige so langlebig oder einfach herzustellen wie die OK-Zoomer-Mikrowelle. Die von {LINK:Xigo;Xigo} lizenzierten Pläne basieren auf einem klassischen Modell aus der Mitte des 21. Jahrhunderts, was ihr einen charmanten Retro-Charme verleiht. Aber keine Sorge, sie schwingt {GAS:Water} Moleküle mehr als adäquat.
+      <Description>Während in den letzten hundert Jahren unzählige "bessere" Kochmethoden erfunden wurden {LINK:FoodPage;Nahrung}, sind nur wenige so langlebig oder einfach herzustellen wie die OK-Zoomer-Mikrowelle. Die von {LINK:Xigo;Xigo} lizenzierten Pläne basieren auf einem klassischen Modell aus der Mitte des 21. Jahrhunderts, was ihr einen charmanten Retro-Charme verleiht. Aber keine Sorge, sie schwingt {GAS:Water} Moleküle mehr als adäquat.
 Einfach mit einem {THING:StructureBench} und einem {THING:ItemWrench} an den Strom schrauben, das Rezept befolgen und schon kann es losgehen.</Description>
     </RecordThing>
     <RecordThing>
@@ -777,7 +777,7 @@ Einfach mit einem {THING:StructureBench} und einem {THING:ItemWrench} an den Str
     <RecordThing>
       <Key>CartridgeAtmosAnalyser</Key>
       <Value>Chip (Atmosphärenanalysator)</Value>
-      <Description>Der Lorenz Atmos Analysator ist ein multifunktionales Massenspektrometer, das von {LINK:ExMin;ExMin} für die Verwendung mit dem OreCore {THING:ItemTablet} entwickelt wurde. Er zeigt den Druck, die Konzentration und die molare Menge von {LINK:GasPage;gas} in Räumen, Tanks oder Rohrnetzen an.</Description>
+      <Description>Der Lorenz Atmos Analysator ist ein multifunktionales Massenspektrometer, das von {LINK:ExMin;ExMin} für die Verwendung mit dem OreCore {THING:ItemTablet} entwickelt wurde. Er zeigt den Druck, die Konzentration und die molare Menge von {LINK:GasPage;Gas} in Räumen, Tanks oder Rohrnetzen an.</Description>
     </RecordThing>
     <RecordThing>
       <Key>CartridgeMedicalAnalyser</Key>
@@ -1013,7 +1013,7 @@ Die große Energiezelle kann eine Leistung von 288 kW abgeben.
       <Description>Auf der Erde seit dem Chengdu-Ereignis verboten, haben die Norsec-Atomzellen einen neuen, weniger sicherheitsbewussten Markt außerhalb der Erde gefunden.
 
 {HEADER:POWER OUTPUT}
-Mit einer Ladung von 2,3 Megawatt (2304000W) stößt der "Nuke" an seine Grenzen, was seine Abhängigkeit von exotischen {LINK:IngotPage;superalloys}.</Description>
+Mit einer Ladung von 2,3 Megawatt (2304000W) stößt der "Nuke" an seine Grenzen, was seine Abhängigkeit von hochwertigen {LINK:IngotPage;Legierungen}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemBatteryCharger</Key>
@@ -1059,7 +1059,7 @@ Normale Spulen haben eine maximale Wattleistung von 5 kW. Für Anwendungen mit h
     <RecordThing>
       <Key>ItemCoalOre</Key>
       <Value>Erz (Kohle)</Value>
-      <Description>Ohne bescheidene, brennbare Kohle wäre die Menschheit nicht in den Weltraum vorgedrungen. Verbrennen Sie sie in einem {THING:StructureSolidFuelGenerator}, schmelzen Sie sie in der {THING:StructureFurnace}, um {LINK:AlloysPage;alloys} zu erzeugen, oder verwenden Sie sie in der {THING:ApplianceReagentProcessor}, um {THING:ItemSprayCanBlack} herzustellen.</Description>
+      <Description>Ohne bescheidene, brennbare Kohle wäre die Menschheit nicht in den Weltraum vorgedrungen. Verbrennen Sie sie in einem {THING:StructureSolidFuelGenerator}, schmelzen Sie sie in der {THING:StructureFurnace}, um {LINK:AlloysPage;Legierungen} zu erzeugen, oder verwenden Sie sie in der {THING:ApplianceReagentProcessor}, um {THING:ItemSprayCanBlack} herzustellen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCompositeFloorGrating</Key>
@@ -1102,7 +1102,7 @@ Anwendung: Klebeband in die aktive Hand nehmen und die rechte Maustaste gedrück
       <Value>Ei</Value>
       <Description>Endlich ist die Frage geklärt, was zuerst da war: das Ei.
 Ein durchschnittliches Huhn legt alle 60-90 Sekunden ein Ei ab.
-Wenn ein Ei befruchtet wurde und zwischen 20C-30C gehalten wird, entsteht ein {THING:EntityChick}. Für den Rest gibt es die {THING:ApplianceMicrowave} und alle Arten von {LINK:FoodPage;gustatory} Trost.</Description>
+Wenn ein Ei befruchtet wurde und zwischen 20C-30C gehalten wird, entsteht ein {THING:EntityChick}. Für den Rest gibt es die {THING:ApplianceMicrowave} und alle Arten von {LINK:FoodPage;leckereien}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemEggBottom</Key>
@@ -1159,14 +1159,14 @@ Achten Sie darauf, den Druck nicht über 10MPa zu erhöhen, sonst kann es "knall
     <RecordThing>
       <Key>ItemGasCanisterEmpty</Key>
       <Value>Gasflasche</Value>
-      <Description>Das tragbare Gerät {SLOT:GasCanister} ist die {LINK:Stationeers;Stationeer's} Grundeinheit der {LINK:GasPage;gas} Lieferung. Rated to a standard pressure of 8000kPa (80 atmospheres), empty gas canisters can be mounted to a ?
+      <Description>Das tragbare Gerät {SLOT:GasCanister} ist die {LINK:Stationeers;Stationeer's} Grundeinheit der {LINK:GasPage;Gas} Lieferung. Rated to a standard pressure of 8000kPa (80 atmospheres), empty gas canisters can be mounted to a ?
 {THING:DynamicGasCanisterAir} oder {THING:StructureGasTankStorage} zum Auffüllen verwendet werden.
 Achten Sie darauf, den Druck nicht über 10 MPa zu erhöhen, da es sonst zu einem "Knall" kommen kann. Enthält 64 Liter Gas.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterFuel</Key>
       <Value>Gasflasche (Treibstoff)</Value>
-      <Description>Der orangefarbene tragbare {LINK:GasPage;fuel} {SLOT:GasCanister} liefert ein 64L-Gemisch aus 66% {GAS:Volatiles}/34% {GAS:Oxygen} für den Antrieb von Gegenständen wie dem {THING:ItemWeldingTorch} und dem {THING:DynamicGenerator}. Alle Gasbehälter sind voll, wenn sie bei einem Druck von 8000kPa (80 Atmosphären) hergestellt werden, und können zum Auffüllen an eine {THING:DynamicGasCanisterAir} oder {THING:StructureGasTankStorage} angeschlossen werden.
+      <Description>Der orangefarbene tragbare {LINK:GasPage;Treibstoff} {SLOT:GasCanister} liefert ein 64L-Gemisch aus 66% {GAS:Volatiles}/34% {GAS:Oxygen} für den Antrieb von Gegenständen wie dem {THING:ItemWeldingTorch} und dem {THING:DynamicGenerator}. Alle Gasbehälter sind voll, wenn sie bei einem Druck von 8000kPa (80 Atmosphären) hergestellt werden, und können zum Auffüllen an eine {THING:DynamicGasCanisterAir} oder {THING:StructureGasTankStorage} angeschlossen werden.
 Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst zu einem "Knall" kommen kann.</Description>
     </RecordThing>
     <RecordThing>
@@ -1218,7 +1218,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemGasFilterVolatiles</Key>
       <Value>Filter (Wasserstoff)</Value>
-      <Description>Filter werden verwendet, um verschiedene Gase aufzufangen, die dann entsorgt oder anderweitig verwendet werden können. {GAS:Volatiles} werden erzeugt, indem {THING:ItemVolatiles} der Hitze ausgesetzt wird. Das Produkt kann dann gesammelt und mit {GAS:Oxygen} kombiniert werden, um Brennstoff zu erzeugen, oder in einem {THING:StructureFurnace} verwendet werden, um Erze zu schmelzen und {LINK:IngotPage;alloys} zu erzeugen.</Description>
+      <Description>Filter werden verwendet, um verschiedene Gase aufzufangen, die dann entsorgt oder anderweitig verwendet werden können. {GAS:Volatiles} werden erzeugt, indem {THING:ItemVolatiles} der Hitze ausgesetzt wird. Das Produkt kann dann gesammelt und mit {GAS:Oxygen} kombiniert werden, um Brennstoff zu erzeugen, oder in einem {THING:StructureFurnace} verwendet werden, um Erze zu schmelzen und {LINK:IngotPage;Legierung} zu erzeugen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterWater</Key>
@@ -1378,7 +1378,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemKitFurniture</Key>
       <Value>Bausatz (Möbel)</Value>
-      <Description>Dieser Satz ergibt einen Bereich von {LINK:FurniturePage;furniture}.</Description>
+      <Description>Dieser Satz ergibt einen Bereich von {LINK:FurniturePage;Möbel}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitGyroscope</Key>
@@ -1458,12 +1458,12 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemMilk</Key>
       <Value>Milch</Value>
-      <Description>Um es ganz offen zu sagen: Es handelt sich nicht wirklich um "Milch", sondern um eine {LINK:Agrizero;Agrizero-invented}-Synthese aus 5ml {THING:ItemSoyOil} und 5g {THING:ItemFern}, die in der {THING:ApplianceChemistryStation} fein gemischt wird. Erstaunlich sättigend, kann es als Zutat zum Kochen anderer {LINK:FoodPage;food} in der {THING:ApplianceMicrowave} oder {THING:StructureAutomatedOven} verwendet werden. Denken Sie, {THING:ItemMuffin}.</Description>
+      <Description>Um es ganz offen zu sagen: Es handelt sich nicht wirklich um "Milch", sondern um eine {LINK:Agrizero;Agrizero-konzipierte}-Synthese aus 5ml {THING:ItemSoyOil} und 5g {THING:ItemFern}, die in der {THING:ApplianceChemistryStation} fein gemischt wird. Erstaunlich sättigend, kann es als Zutat zum Kochen anderer {LINK:FoodPage;Nahrung} in der {THING:ApplianceMicrowave} oder {THING:StructureAutomatedOven} verwendet werden. Denken Sie, {THING:ItemMuffin}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningBelt</Key>
       <Value>Bergbau-Gürtel</Value>
-      <Description>Ursprünglich von {LINK:Recurso;Recurso Espaciais} für den Asteroidenabbau entwickelt, bietet der {LINK:Stationeers;Stationeer's} Minengürtel Platz für zwei {LINK:ToolPage;tools} und acht {LINK:OrePage;Erz} Stapel. Während man den Gürtel trägt, wird {LINK:OrePage;Erz} automatisch dort gelagert, wenn er abgebaut wird. Flüchtige und temperaturabhängige Stoffe bleiben in der umweltkontrollierten Einheit stabil.</Description>
+      <Description>Ursprünglich von {LINK:Recurso;Recurso Espaciais} für den Asteroidenabbau entwickelt, bietet der {LINK:Stationeers;Stationeer's} Minengürtel Platz für zwei {LINK:ToolPage;Werkzeuge} und acht {LINK:OrePage;Erz} Stapel. Während man den Gürtel trägt, wird {LINK:OrePage;Erz} automatisch dort gelagert, wenn er abgebaut wird. Flüchtige und temperaturabhängige Stoffe bleiben in der umweltkontrollierten Einheit stabil.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningDrill</Key>
@@ -1578,7 +1578,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemReagentMix</Key>
       <Value>Reagenzmischung</Value>
-      <Description>Das Reagenziengemisch ist reines Potenzial. Es handelt sich um eine Aufschlämmung von undifferenzierten {LINK:OrePage;ores}, die von der {THING:StructureRecycler} ausgegeben wird und in die {THING:StructureCentrifuge} eingespeist werden kann, um die einzelnen Materialien zu trennen und zu gewinnen. Das Reagenzgemisch wird auch von der {THING:StructureFurnace} ausgegeben, wenn der aktuelle Inhalt ausgeworfen wird, ohne einen bestimmten Barren zu schmelzen.</Description>
+      <Description>Das Reagenziengemisch ist reines Potenzial. Es handelt sich um eine Aufschlämmung von undifferenzierten {LINK:OrePage;Erze}, die von der {THING:StructureRecycler} ausgegeben wird und in die {THING:StructureCentrifuge} eingespeist werden kann, um die einzelnen Materialien zu trennen und zu gewinnen. Das Reagenzgemisch wird auch von der {THING:StructureFurnace} ausgegeben, wenn der aktuelle Inhalt ausgeworfen wird, ohne einen bestimmten Barren zu schmelzen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemRoadFlare</Key>
@@ -1603,7 +1603,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemScrewdriver</Key>
       <Value>Schraubendreher</Value>
-      <Description>Dieser Schraubendreher ist ein hochwertiges, bi-rotierendes Modell mit einem säulenförmigen Griff. Er ist definitiv nicht nur ein Schraubendreher. Verwenden Sie ihn für den Auf- und Abbau bestimmter Bausätze und zum Einstellen von Werten für {LINK:LogicUnitPage;logic} Einheiten.</Description>
+      <Description>Dieser Schraubendreher ist ein hochwertiges, bi-rotierendes Modell mit einem säulenförmigen Griff. Er ist definitiv nicht nur ein Schraubendreher. Verwenden Sie ihn für den Auf- und Abbau bestimmter Bausätze und zum Einstellen von Werten für {LINK:LogicUnitPage;Logik} Einheiten.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemSecurityCamera</Key>
@@ -1624,7 +1624,7 @@ Außerdem verfügt er über eine Ver-/Entriegelungsfunktion, um ein versehentlic
     <RecordThing>
       <Key>ItemSpacepack</Key>
       <Value>Jetpack (Weltraum)</Value>
-      <Description>Das grundlegende {LINK:CHAC;CHAC} Spacepack ist 'technisch' kein Jetpack, sondern ein Gasantrieb. Es kann mit jedem Gas betrieben werden, solange der Innendruck des {LINK:AtmosphericsPage;canister} höher ist als der Außendruck. Wenn der Außendruck höher ist, funktioniert das Spacepack nicht.
+      <Description>Das grundlegende {LINK:CHAC;CHAC} Spacepack ist 'technisch' kein Jetpack, sondern ein Gasantrieb. Es kann mit jedem Gas betrieben werden, solange der Innendruck des {LINK:AtmosphericsPage;Gasflasche} höher ist als der Außendruck. Wenn der Außendruck höher ist, funktioniert das Spacepack nicht.
 Es ist unentbehrlich für den Bau, den Bergbau und die allgemeine Fortbewegung, hat zehn Speicherplätze und lässt {LINK:Stationeers;Stationeers} mit 3m/s fliegen, verglichen mit den stärkeren {THING:ItemJetpackBasic} oder {THING:ItemHardJetpack}. Durch Einstellen des Schubwerts wird die Beschleunigung verändert, während die Aktivierung des Stabilisators das Spacepack bei Erreichen einer bestimmten Höhe zum Schweben bringt.
 ANWENDUNG: 'J' zum Aktivieren; 'Leertaste' zum Hochfliegen; 'Linke STRG' zum Absteigen; und 'WASD' zum Bewegen.</Description>
     </RecordThing>
@@ -1702,7 +1702,7 @@ Es mag nicht elegant sein, aber {THING:ItemOxite} und {THING:ItemVolatiles} kön
     <RecordThing>
       <Key>ItemSteelSheets</Key>
       <Value>Stahlbleche</Value>
-      <Description>Als fortschrittliches Baumaterial werden {THING:ItemSteelIngot}-Platten für den Bau eines {THING:StructureFrame} und verschiedener anderer {LINK:StructuresPage;wall}-Typen verwendet.</Description>
+      <Description>Als fortschrittliches Baumaterial werden {THING:ItemSteelIngot}-Platten für den Bau eines {THING:StructureFrame} und verschiedener anderer {LINK:StructuresPage;Wand}-Typen verwendet.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemSuitStorage</Key>
@@ -1712,7 +1712,7 @@ Es mag nicht elegant sein, aber {THING:ItemOxite} und {THING:ItemVolatiles} kön
     <RecordThing>
       <Key>ItemTablet</Key>
       <Value>Tablet</Value>
-      <Description>Das {LINK:Xigo;Xigo} Handheld-Tablet "Padi" ist eine universell einsetzbare Datenplattform, die standardmäßig an alle {LINK:Stationeers;Stationeers} geliefert wird. Das Padi ist ein dynamisches Multitool, das eine Reihe von {LINK:CartridgePage;cartridges}, {THING:CartridgeAtmosAnalyser} oder {THING:CartridgeTracker}, {THING:CartridgeMedicalAnalyser}, {THING:CartridgeOreScanner}, {THING:CartridgeElectronicReader} und verschiedenen anderen Funktionen akzeptiert.</Description>
+      <Description>Das {LINK:Xigo;Xigo} Handheld-Tablet "Padi" ist eine universell einsetzbare Datenplattform, die standardmäßig an alle {LINK:Stationeers;Stationeers} geliefert wird. Das Padi ist ein dynamisches Multitool, das eine Reihe von {LINK:CartridgePage;Chip}, {THING:CartridgeAtmosAnalyser} oder {THING:CartridgeTracker}, {THING:CartridgeMedicalAnalyser}, {THING:CartridgeOreScanner}, {THING:CartridgeElectronicReader} und verschiedenen anderen Funktionen akzeptiert.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemTankConnector</Key>
@@ -1759,12 +1759,12 @@ Der Arlite ist eine verbesserte Version des klassischen "Zairo"-Modells, das zue
     <RecordThing>
       <Key>ItemWheat</Key>
       <Value>Weizen</Value>
-      <Description>Weizen ist ein klassisches Symbol für Wachstum und neues Leben und braucht eine gewisse Zeit, um zu wachsen. Seine Hauptverwendung ist die Erzeugung von {LINK:ReagentPage;flour} mit Hilfe von {THING:ApplianceReagentProcessor}.</Description>
+      <Description>Weizen ist ein klassisches Symbol für Wachstum und neues Leben und braucht eine gewisse Zeit, um zu wachsen. Seine Hauptverwendung ist die Erzeugung von {LINK:ReagentPage;Mehl} mit Hilfe von {THING:ApplianceReagentProcessor}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWireCutters</Key>
       <Value>Drahtschneider</Value>
-      <Description>Mit Drahtschneidern können Sie verschiedene {LINK:StructurePage;Strukturen} zerlegen, Kabel quer verlegen, wenn Sie sie in der nicht aktiven Hand halten, und bei Bedarf Sprengstoffe entschärfen. Drahtschneider werden in der {THING:ItemToolBelt} aufbewahrt, zusammen mit anderen wichtigen {LINK:ToolPage;tools}.</Description>
+      <Description>Mit Drahtschneidern können Sie verschiedene {LINK:StructurePage;Strukturen} zerlegen, Kabel quer verlegen, wenn Sie sie in der nicht aktiven Hand halten, und bei Bedarf Sprengstoffe entschärfen. Drahtschneider werden in der {THING:ItemToolBelt} aufbewahrt, zusammen mit anderen wichtigen {LINK:ToolPage;Werkzeuge}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWrench</Key>
@@ -1775,7 +1775,7 @@ Der Arlite ist eine verbesserte Version des klassischen "Zairo"-Modells, das zue
       <Key>MotherboardLogic</Key>
       <Value>Logik-Hauptplatine</Value>
       <Description>Hauptplatinen sind mit {THING:StructureComputer}s verbunden, um verschiedene technische Funktionen auszuführen.
-Die {LINK:Norsec;Norsec-designed} K-cops Logik-Hauptplatine ermöglicht {LINK:Stationeers;Stationeers} das Setzen von Variablen und Aktionen auf bestimmte {LINK:LogicUnitPage;logic}-gesteuerte Elemente.</Description>
+Die {LINK:Norsec;Norsec-konzipierter} K-cops Logik-Hauptplatine ermöglicht {LINK:Stationeers;Stationeers} das Setzen von Variablen und Aktionen auf bestimmte {LINK:LogicUnitPage;Logik}-gesteuerte Elemente.</Description>
     </RecordThing>
     <RecordThing>
       <Key>MotherboardManufacturing</Key>
@@ -1786,7 +1786,7 @@ Die {LINK:Norsec;Norsec-designed} K-cops Logik-Hauptplatine ermöglicht {LINK:St
       <Key>MotherboardSorter</Key>
       <Value>Sortierer-Hauptplatine</Value>
       <Description>Hauptplatinen sind mit {THING:StructureComputer}s verbunden, um verschiedene technische Funktionen auszuführen.
-Die {LINK:Norsec;Norsec-designed} K-cops 10-10 Sorter-Hauptplatine ermöglicht {LINK:Stationeers;Stationeers} die Kontrolle darüber, welche Gegenstände ein {THING:StructureSorter} passieren darf und welche nicht.</Description>
+Die {LINK:Norsec;Norsec-konzipierter} K-cops 10-10 Sorter-Hauptplatine ermöglicht {LINK:Stationeers;Stationeers} die Kontrolle darüber, welche Gegenstände ein {THING:StructureSorter} passieren darf und welche nicht.</Description>
     </RecordThing>
     <RecordThing>
       <Key>MothershipCore</Key>
@@ -1820,12 +1820,12 @@ Die {LINK:Norsec;Norsec-designed} K-cops 10-10 Sorter-Hauptplatine ermöglicht {
     <RecordThing>
       <Key>StructureActiveVent</Key>
       <Value>Aktive Entlüftung</Value>
-      <Description>Der aktive Entlüfter ist ein angetriebenes Gerät zur Aufrechterhaltung des {LINK:GasPage;gas} Drucks durch Pumpen von Gas in ein (oder aus einem) Rohrnetz. Die Entlüftung hat zwei Modi: "Nach außen" pumpt sie Gas in einen Raum, bis der Druck erreicht ist; "Nach innen" pumpt sie Gas nach außen, bis der Druck erreicht ist. Der Druckparameter kann über einen angeschlossenen {THING:StructureConsole} eingestellt werden. Der Standarddruck ist 101kPa für "Outward"; 0kPa für "Inward" ...</Description>
+      <Description>Der aktive Entlüfter ist ein angetriebenes Gerät zur Aufrechterhaltung des {LINK:GasPage;Gas} Drucks durch Pumpen von Gas in ein (oder aus einem) Rohrnetz. Die Entlüftung hat zwei Modi: "Nach außen" pumpt sie Gas in einen Raum, bis der Druck erreicht ist; "Nach innen" pumpt sie Gas nach außen, bis der Druck erreicht ist. Der Druckparameter kann über einen angeschlossenen {THING:StructureConsole} eingestellt werden. Der Standarddruck ist 101kPa für "Outward"; 0kPa für "Inward" ...</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureAirConditioner</Key>
       <Value>Klimagerät</Value>
-      <Description>Mit der Klimaanlage {THING:ItemKitAtmospherics} wird die Temperatur des Eingangsgases mit der Klimaanlage {LINK:ExMin;ExMin-designed} erhöht oder gesenkt.
+      <Description>Mit der Klimaanlage {THING:ItemKitAtmospherics} wird die Temperatur des Eingangsgases mit der Klimaanlage {LINK:ExMin;ExMin-konzipierte} erhöht oder gesenkt.
 	  
 Das Gerät hat drei Rohranschlüsse: Eingang, Ausgang und Abfall. Das in den Eingang eingespeiste Gas wird erwärmt oder abgekühlt, um die Zieltemperatur zu erreichen, während mit dem Gas im Abgasnetz das Gegenteil geschieht.
 
@@ -1833,7 +1833,7 @@ Mehrere Effizienzmultiplikatoren können sich auf den Energieverbrauch des Klima
 
 {THING:StructurePipeRadiator}s kann nützlich sein, um extreme Rohrtemperaturen wieder auf normale Welttemperaturen zu bringen.
   
-Weitere Informationen zur Verwendung des Klimageräts finden Sie auf der Seite {LINK:TemperatureControlPage;temperature control} Leitfaden-Seite.</Description>
+Weitere Informationen zur Verwendung des Klimageräts finden Sie auf der Seite {LINK:TemperatureControlPage;Temperaturkontrolle} Leitfaden-Seite.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureAirlock</Key>
@@ -1908,37 +1908,37 @@ Wenn nicht gerade eine taschengroße Singularität in den lokalen Raum-Zeit-Rahm
     <RecordThing>
       <Key>StructureCableCorner</Key>
       <Value>Kabel (Ecke)</Value>
-      <Description>Die Kabelspule, die sowohl Strom als auch Daten transportiert, ist zu einem Symbol für Innovation, Unabhängigkeit und Flexibilität des {LINK:Stationeers;Stationeer} Lebens geworden - so wichtig, dass die {LINK:ODA;ODA} sie während der 3. Decannual Stationeer Solar Conference zum offiziellen {LINK:ToolPage;'tool'} ernannte.
+      <Description>Die Kabelspule, die sowohl Strom als auch Daten transportiert, ist zu einem Symbol für Innovation, Unabhängigkeit und Flexibilität des {LINK:Stationeers;Stationeer} Lebens geworden - so wichtig, dass die {LINK:ODA;ODA} sie während der 3. Decannual Stationeer Solar Conference zum offiziellen {LINK:ToolPage;'Werkzeug'} ernannte.
 Die normale Spule hat eine maximale Wattzahl von 5kW. Für Anwendungen mit höheren Strömen verwenden Sie {THING:ItemCableCoilHeavy}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCorner3</Key>
       <Value>Kabel (3-Wege-Kreuzung)</Value>
-      <Description>Die Kabelspule, die sowohl Strom als auch Daten transportiert, ist zu einem Symbol für Innovation, Unabhängigkeit und Flexibilität des {LINK:Stationeers;Stationeer} Lebens geworden - so wichtig, dass die {LINK:ODA;ODA} sie während der 3. Decannual Stationeer Solar Conference zum offiziellen {LINK:ToolPage;'tool'} ernannte.
+      <Description>Die Kabelspule, die sowohl Strom als auch Daten transportiert, ist zu einem Symbol für Innovation, Unabhängigkeit und Flexibilität des {LINK:Stationeers;Stationeer} Lebens geworden - so wichtig, dass die {LINK:ODA;ODA} sie während der 3. Decannual Stationeer Solar Conference zum offiziellen {LINK:ToolPage;'Werkzeug'} ernannte.
 Die normale Spule hat eine maximale Wattzahl von 5kW. Für Anwendungen mit höheren Strömen verwenden Sie {THING:ItemCableCoilHeavy}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction</Key>
       <Value>Kabel (T-Kreuzung)</Value>
-      <Description>Die Kabelspule, die sowohl Strom als auch Daten transportiert, ist zum Symbol für Innovation, Unabhängigkeit und Flexibilität des {LINK:Stationeers;Stationeer} Lebens geworden - so sehr, dass die {LINK:ODA;ODA} sie während der 3. Decannual Stationeer Solar Conference zu einer offiziellen {LINK:ToolPage;'tool'} ernannte.
+      <Description>Die Kabelspule, die sowohl Strom als auch Daten transportiert, ist zum Symbol für Innovation, Unabhängigkeit und Flexibilität des {LINK:Stationeers;Stationeer} Lebens geworden - so sehr, dass die {LINK:ODA;ODA} sie während der 3. Decannual Stationeer Solar Conference zu einer offiziellen {LINK:ToolPage;'Werkzeug'} ernannte.
 Die normale Spule hat eine maximale Wattzahl von 5 kW. Für Anwendungen mit höheren Strömen verwenden Sie {THING:ItemCableCoilHeavy}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction4</Key>
       <Value>Kabel (4-Wege-Kreuzung)</Value>
-      <Description>Die Kabelspule, die sowohl Strom als auch Daten transportiert, ist zum Symbol für Innovation, Unabhängigkeit und Flexibilität des {LINK:Stationeers;Stationeer} Lebens geworden - so sehr, dass die {LINK:ODA;ODA} sie während der 3. Decannual Stationeer Solar Conference zu einer offiziellen {LINK:ToolPage;'tool'} ernannte.
+      <Description>Die Kabelspule, die sowohl Strom als auch Daten transportiert, ist zum Symbol für Innovation, Unabhängigkeit und Flexibilität des {LINK:Stationeers;Stationeer} Lebens geworden - so sehr, dass die {LINK:ODA;ODA} sie während der 3. Decannual Stationeer Solar Conference zu einer offiziellen {LINK:ToolPage;'Werkzeug'} ernannte.
 Die normale Spule hat eine maximale Wattzahl von 5 kW. Für Anwendungen mit höheren Strömen verwenden Sie {THING:ItemCableCoilHeavy}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction6</Key>
       <Value>Kabel (6-Wege-Kreuzung)</Value>
-      <Description>Die Kabelspule, die sowohl Strom als auch Daten transportiert, ist zum Symbol für Innovation, Unabhängigkeit und Flexibilität des {LINK:Stationeers;Stationeer}-Dienstes geworden - so sehr, dass die {LINK:ODA;ODA} sie während der 3. Decannual Stationeer Solar Conference zum offiziellen {LINK:ToolPage;'tool'} ernannte.
+      <Description>Die Kabelspule, die sowohl Strom als auch Daten transportiert, ist zum Symbol für Innovation, Unabhängigkeit und Flexibilität des {LINK:Stationeers;Stationeer}-Dienstes geworden - so sehr, dass die {LINK:ODA;ODA} sie während der 3. Decannual Stationeer Solar Conference zum offiziellen {LINK:ToolPage;'Werkzeug'} ernannte.
 Die normale Spule hat eine maximale Wattzahl von 5kW. Für Anwendungen mit höheren Strömen verwenden Sie {THING:ItemCableCoilHeavy}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableStraight</Key>
       <Value>Kabel (gerade)</Value>
-      <Description>Die Kabelspule, die sowohl Strom als auch Daten überträgt, ist zum Symbol für Innovation, Unabhängigkeit und Flexibilität des {LINK:Stationeers;Stationeer} Lebens geworden - so sehr, dass die {LINK:ODA;ODA} sie offiziell als {LINK:ToolPage;'tool'} bezeichnet hat.
+      <Description>Die Kabelspule, die sowohl Strom als auch Daten überträgt, ist zum Symbol für Innovation, Unabhängigkeit und Flexibilität des {LINK:Stationeers;Stationeer} Lebens geworden - so sehr, dass die {LINK:ODA;ODA} sie offiziell als {LINK:ToolPage;'Werkzeug'} bezeichnet hat.
 Die normale Spule hat eine maximale Wattleistung von 5 kW. Für Anwendungen mit höheren Strömen verwenden Sie {THING:ItemCableCoilHeavy}.</Description>
     </RecordThing>
     <RecordThing>
@@ -1950,7 +1950,7 @@ Sei da, auch wenn du nicht da bist.</Description>
     <RecordThing>
       <Key>StructureCentrifuge</Key>
       <Value>Zentrifuge</Value>
-      <Description>Wenn ein {THING:StructureRecycler} oder ein unausgewogenes {THING:StructureFurnace} ein {LINK:ReagentPage;reagent}-Gemisch statt des gewünschten {LINK:IngotPage;Barren} ergibt, können Sie mit einer Zentrifuge das rohe {LINK:OrePage;Erz} zurückgewinnen. Sie verfeinert auch {THING:ItemDirtyOre}, das aus {THING:StructureDeepMiner} hergestellt wurde. Ihr größerer Bruder {THING:StructureCombustionCentrifuge} kann verwendet werden, um Gegenstände wesentlich schneller zu verarbeiten.
+      <Description>Wenn ein {THING:StructureRecycler} oder ein unausgewogenes {THING:StructureFurnace} ein {LINK:ReagentPage;Reagenzien}-Gemisch statt des gewünschten {LINK:IngotPage;Barren} ergibt, können Sie mit einer Zentrifuge das rohe {LINK:OrePage;Erz} zurückgewinnen. Sie verfeinert auch {THING:ItemDirtyOre}, das aus {THING:StructureDeepMiner} hergestellt wurde. Ihr größerer Bruder {THING:StructureCombustionCentrifuge} kann verwendet werden, um Gegenstände wesentlich schneller zu verarbeiten.
 
 Von der Zentrifuge verarbeitete Gegenstände werden entgast</Description>
     </RecordThing>
@@ -1963,39 +1963,39 @@ Von der Zentrifuge verarbeitete Gegenstände werden entgast</Description>
       <Key>StructureChuteBin</Key>
       <Value>Schacht Abfall</Value>
       <Description>Das Ziel von {LINK:Stationeers;Stationeer's} ist es, das Überleben außerhalb der Welt für sich selbst und für diejenigen, die in ihre Fußstapfen treten werden, weniger schwierig zu machen.
-Wie die meisten von {LINK:Recurso;Recurso} entworfenen Systeme sind auch die Abfallbehälter einfache und robuste, elektrisch betriebene Geräte, die es ermöglichen, Gegenstände durch Ziehen eines Hebels manuell in die Abfallschächte zu befördern. Sie können auch mit {LINK:LogicUnitPage;logic} programmiert werden, um automatisch zu funktionieren, obwohl eine vollständige Automatisierung den Einsatz von Geräten wie einem {THING:StructureSDBHopper} erfordert.</Description>
+Wie die meisten von {LINK:Recurso;Recurso} entworfenen Systeme sind auch die Abfallbehälter einfache und robuste, elektrisch betriebene Geräte, die es ermöglichen, Gegenstände durch Ziehen eines Hebels manuell in die Abfallschächte zu befördern. Sie können auch mit {LINK:LogicUnitPage;Logik} programmiert werden, um automatisch zu funktionieren, obwohl eine vollständige Automatisierung den Einsatz von Geräten wie einem {THING:StructureSDBHopper} erfordert.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteCorner</Key>
       <Value>Schacht (Ecke)</Value>
-      <Description>Schächte dienen als Rohre für Gegenstände. Verwenden Sie sie, um verschiedene {LINK:ImportExportPage;import/export} Geräte wie den {THING:StructureVendingMachine} und Drucker wie den {THING:StructureAutolathe} miteinander zu verbinden.
+      <Description>Schächte dienen als Rohre für Gegenstände. Verwenden Sie sie, um verschiedene {LINK:ImportExportPage;Import/Export} Geräte wie den {THING:StructureVendingMachine} und Drucker wie den {THING:StructureAutolathe} miteinander zu verbinden.
 Das Ziel eines jeden {LINK:Stationeers;Stationeer} ist es, das Überleben außerhalb der Welt für sich selbst und diejenigen, die in seine Fußstapfen treten werden, weniger schwierig zu machen.
-Schächte-Ecken sind grundlegende Komponenten von Schächte-Netzwerken, die den Transport von Gegenständen zwischen Maschinen mit {LINK:ImportExportPage;import/export}-Steckplätzen, wie dem {THING:StructureFurnace} und anderen automatisierbaren Strukturen, ermöglichen.</Description>
+Schächte-Ecken sind grundlegende Komponenten von Schächte-Netzwerken, die den Transport von Gegenständen zwischen Maschinen mit {LINK:ImportExportPage;Import/Export}-Steckplätzen, wie dem {THING:StructureFurnace} und anderen automatisierbaren Strukturen, ermöglichen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteInlet</Key>
       <Value>Schacht (Einwurf)</Value>
       <Description>Das Ziel eines jeden {LINK:Stationeers;Stationeer} ist es, das Überleben außerhalb der Welt für sich selbst und für diejenigen, die in seine Fußstapfen treten werden, weniger schwierig zu machen.
-Der Rutscheneinlass ist eine Öffnung, durch die Gegenstände in {LINK:ImportExportPage;import/export}-Netzwerke eingeführt werden können. Aufgrund seiner Herkunft aus dem Schwerelosigkeitsbergbau sind Rutscheneinlässe nicht mit Strom versorgt und permanent geöffnet, sondern können nicht interaktiv genutzt werden, so dass Gegenstände hineingeworfen werden können. Sie können mit {LINK:LogicUnitPage;logic} Systemen verbunden werden, um den Durchsatz zu überwachen.</Description>
+Der Rutscheneinlass ist eine Öffnung, durch die Gegenstände in {LINK:ImportExportPage;Import/Export}-Netzwerke eingeführt werden können. Aufgrund seiner Herkunft aus dem Schwerelosigkeitsbergbau sind Rutscheneinlässe nicht mit Strom versorgt und permanent geöffnet, sondern können nicht interaktiv genutzt werden, so dass Gegenstände hineingeworfen werden können. Sie können mit {LINK:LogicUnitPage;Logik} Systemen verbunden werden, um den Durchsatz zu überwachen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteJunction</Key>
       <Value>Schacht (Zusammenführung)</Value>
       <Description>Das Ziel eines jeden {LINK:Stationeers;Stationeer} ist es, das Überleben außerhalb der Welt für sich selbst und für diejenigen, die in seine Fußstapfen treten werden, weniger schwierig zu gestalten.
-Rutschenabzweigungen sind grundlegende Bestandteile von Rutschennetzen, die eine Zusammenführung oder Aufteilung dieser Netze ermöglichen. In Kombination mit einem programmierten {THING:StructureSorter} können Gegenstände auf verschiedenen Wegen zu verschiedenen Maschinen mit {LINK:ImportExportPage;import/export}-Slots geschickt werden.</Description>
+Rutschenabzweigungen sind grundlegende Bestandteile von Rutschennetzen, die eine Zusammenführung oder Aufteilung dieser Netze ermöglichen. In Kombination mit einem programmierten {THING:StructureSorter} können Gegenstände auf verschiedenen Wegen zu verschiedenen Maschinen mit {LINK:ImportExportPage;Import/Export}-Slots geschickt werden.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteOutlet</Key>
       <Value>Schacht (Auswurf)</Value>
       <Description>Das Ziel eines jeden {LINK:Stationeers;Stationeer} ist es, das Überleben außerhalb der Welt für sich selbst und diejenigen, die in seine Fußstapfen treten werden, weniger schwierig zu machen.
-Der Schachtausgang ist eine Öffnung für den Austritt von Gegenständen aus {LINK:ImportExportPage;import/export}-Netzwerken. Da der Auslass aus dem Schwerelosigkeitsbergbau stammt, ist er permanent geöffnet und nicht interaktiv, kann aber mit {LINK:LogicUnitPage;logic}-Systemen verbunden werden, um den Durchsatz zu überwachen.</Description>
+Der Schachtausgang ist eine Öffnung für den Austritt von Gegenständen aus {LINK:ImportExportPage;Import/Export}-Netzwerken. Da der Auslass aus dem Schwerelosigkeitsbergbau stammt, ist er permanent geöffnet und nicht interaktiv, kann aber mit {LINK:LogicUnitPage;Logik}-Systemen verbunden werden, um den Durchsatz zu überwachen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteStraight</Key>
       <Value>Schacht (gerade)</Value>
-      <Description>Schächte dienen als Rohre für Gegenstände. Verwenden Sie sie, um verschiedene {LINK:ImportExportPage;import/export} Geräte wie den {THING:StructureVendingMachine} und Drucker wie den {THING:StructureAutolathe} miteinander zu verbinden.
+      <Description>Schächte dienen als Rohre für Gegenstände. Verwenden Sie sie, um verschiedene {LINK:ImportExportPage;Import/Export} Geräte wie den {THING:StructureVendingMachine} und Drucker wie den {THING:StructureAutolathe} miteinander zu verbinden.
 Das Ziel eines jeden {LINK:Stationeers;Stationeer} ist es, das Überleben außerhalb der Welt für sich selbst und diejenigen, die in seine Fußstapfen treten werden, weniger schwierig zu machen.
-Schächte sind grundlegende Komponenten von Rutschennetzwerken, die den Transport von Gegenständen zwischen allen Maschinen oder Geräten mit einem {LINK:ImportExportPage;import/export}-Steckplatz ermöglichen.</Description>
+Schächte sind grundlegende Komponenten von Rutschennetzwerken, die den Transport von Gegenständen zwischen allen Maschinen oder Geräten mit einem {LINK:ImportExportPage;Import/Export}-Steckplatz ermöglichen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeDoor</Key>
@@ -2057,19 +2057,19 @@ Kompatible Motherboards:
     <RecordThing>
       <Key>StructureConsole</Key>
       <Value>Konsole</Value>
-      <Description>Diese Steuereinheit {LINK:Norsec;Norsec-designed} verwaltet Geräte wie {THING:StructureActiveVent}, {THING:StructurePassiveVent}, {THING:StructureGasSensor} und {THING:StructureCompositeDoor}, je nachdem, welche {LINK:LogicPage;circuitboard} in das Gerät eingesetzt ist. Sie verfügt über einen gemeinsamen Daten-/Stromanschluss.
+      <Description>Diese Steuereinheit {LINK:Norsec;Norsec-konzipierter} verwaltet Geräte wie {THING:StructureActiveVent}, {THING:StructurePassiveVent}, {THING:StructureGasSensor} und {THING:StructureCompositeDoor}, je nachdem, welche {LINK:LogicPage;Platine} in das Gerät eingesetzt ist. Sie verfügt über einen gemeinsamen Daten-/Stromanschluss.
 In einer ausgefüllten Konsole werden alle Geräte angezeigt, die an das aktuelle Stromnetz angeschlossen sind. Alle Geräte, die nicht mit der installierten Leiterplatte verbunden sind, werden ausgegraut und sind nicht funktionsfähig. Konsolen werden gesperrt, sobald eine {THING:ItemDataDisk} entfernt wird.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureConsoleDual</Key>
       <Value>Konsole (getrennt)</Value>
-      <Description>Dieses Steuergerät {LINK:Norsec;Norsec-designed} verwaltet Geräte wie {THING:StructureActiveVent}, {THING:StructureGasSensor}, {THING:StructureCompositeDoor} und andere, je nachdem, welches {LINK:LogicPage;circuitboard} in das Gerät eingesetzt ist. Sie verfügt über separate Daten- und Stromanschlüsse.
+      <Description>Dieses Steuergerät {LINK:Norsec;Norsec-konzipierter} verwaltet Geräte wie {THING:StructureActiveVent}, {THING:StructureGasSensor}, {THING:StructureCompositeDoor} und andere, je nachdem, welches {LINK:LogicPage;Platine} in das Gerät eingesetzt ist. Sie verfügt über separate Daten- und Stromanschlüsse.
 Eine vollständige Konsole zeigt alle Geräte an, die an das aktuelle Stromnetz angeschlossen sind. Alle Geräte, die nicht mit der installierten Leiterplatte verbunden sind, werden ausgegraut und sind nicht funktionsfähig. Konsolen werden gesperrt, sobald eine {THING:ItemDataDisk} entfernt wird.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureConsoleMonitor</Key>
       <Value>Konsole (gewinkelt)</Value>
-      <Description>Dieses Steuergerät {LINK:Norsec;Norsec-designed} verwaltet Geräte wie {THING:StructureActiveVent}, {THING:StructurePassiveVent}, {THING:StructureGasSensor}, {THING:ItemSecurityCamera} und {THING:StructureCompositeDoor}, je nachdem, welches {LINK:LogicPage;circuitboard} in das Gerät eingesetzt ist. Sie verfügt über einen gemeinsamen Daten-/Stromanschluss und eine charmante schräge Schnittstelle.
+      <Description>Dieses Steuergerät {LINK:Norsec;Norsec-konzipierter} verwaltet Geräte wie {THING:StructureActiveVent}, {THING:StructurePassiveVent}, {THING:StructureGasSensor}, {THING:ItemSecurityCamera} und {THING:StructureCompositeDoor}, je nachdem, welches {LINK:LogicPage;Platine} in das Gerät eingesetzt ist. Sie verfügt über einen gemeinsamen Daten-/Stromanschluss und eine charmante schräge Schnittstelle.
 Eine vollständige Konsole zeigt alle Geräte an, die mit dem aktuellen Stromnetz verbunden sind. Alle Geräte, die nicht mit der installierten Leiterplatte verbunden sind, werden ausgegraut und sind nicht funktionsfähig. Konsolen werden gesperrt, sobald eine {THING:ItemDataDisk} entfernt wird.</Description>
     </RecordThing>
     <RecordThing>
@@ -2120,7 +2120,7 @@ Eine immer wiederkehrende {LINK:Stationeers;Stationeer} Beschwerde konzentriert 
     <RecordThing>
       <Key>StructureDigitalValve</Key>
       <Value>Digitales Ventil</Value>
-      <Description>Das digitale Ventil ermöglicht {LINK:Stationeers;Stationeers} die Erstellung von {LINK:LogicPage;logic-controlled} Ventilen und Leitungsnetzen.</Description>
+      <Description>Das digitale Ventil ermöglicht {LINK:Stationeers;Stationeers} die Erstellung von {LINK:LogicPage;Logik-Kontrollierten} Ventilen und Leitungsnetzen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureFabricator</Key>
