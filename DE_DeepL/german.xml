@@ -1552,7 +1552,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeTJunction</Key>
-      <Value>Gasrohr T-Abzweigung</Value>
+      <Value>Gasrohr T-Kreuzung</Value>
       <Description>Dieser Bausatz erzeugt eine {THING:StructurePipeTJunction}.</Description>
     </RecordThing>
     <RecordThing>
@@ -2243,7 +2243,7 @@ Rohre verteilen ihren Inhalt gleichmäßig über das gesamte Netzwerk und könne
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeCrossJunction3</Key>
-      <Value>Gasrohr (3-Wege-Abzweigung)</Value>
+      <Value>Gasrohr (3-Wege-Kreuzung)</Value>
       <Description>Das erste, was ein Stationeer lernt, ist, dass er allein ist. Das zweite ist, dass Rohre Gas speichern.
 Rohre verteilen ihren Inhalt gleichmäßig über das gesamte Netzwerk und können mit einer Vielzahl von Geräten und Strukturen verbunden werden. Einfache Rohre können einem Druck von bis zu 60 MPa standhalten. Darüber hinaus werden die Dinge "interessant".</Description>
     </RecordThing>
@@ -3443,7 +3443,7 @@ Setzen Sie eine Kassette oder einen Farbscanner in das Tablet ein und drücken S
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeCrossJunction4</Key>
-      <Value>Gasrohr (4-Wege-Abzweigung)</Value>
+      <Value>Gasrohr (4-Wege-Kreuzung)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemAuthoringTool</Key>
@@ -4510,32 +4510,32 @@ Bei der Landung setzt die Rakete einen Lander und die im {THING:StructureModular
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeCrossJunction</Key>
-      <Value>Isolierte Gasrohre (Kreuzungspunkt)</Value>
+      <Value>Isolierte Gasrohre (Kreuzung)</Value>
       <Description>Isolierte Rohre verringern den Wärmeverlust durch die in ihnen gespeicherten Gase erheblich.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeCrossJunction3</Key>
-      <Value>Isolierte Gasrohre (3-Wege-Abzweigung)</Value>
+      <Value>Isolierte Gasrohre (3-Wege-Kreuzung)</Value>
       <Description>Isolierte Rohre verringern den Wärmeverlust durch die in ihnen gespeicherten Gase erheblich.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeCrossJunction4</Key>
-      <Value>Isolierte Gasrohre (4-Wege-Abzweigung)</Value>
+      <Value>Isolierte Gasrohre (4-Wege-Kreuzung)</Value>
       <Description>Isolierte Rohre verringern den Wärmeverlust durch die in ihnen gespeicherten Gase erheblich.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeCrossJunction5</Key>
-      <Value>Isolierte Gasrohre (5-Wege-Abzweigung)</Value>
+      <Value>Isolierte Gasrohre (5-Wege-Kreuzung)</Value>
       <Description>Isolierte Rohre verringern den Wärmeverlust durch die in ihnen gespeicherten Gase erheblich.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeCrossJunction6</Key>
-      <Value>Isolierte Gasrohre (6-Wege-Abzweigung)</Value>
+      <Value>Isolierte Gasrohre (6-Wege-Kreuzung)</Value>
       <Description>Isolierte Rohre verringern den Wärmeverlust durch die in ihnen gespeicherten Gase erheblich.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeTJunction</Key>
-      <Value>Isolierte Gasrohre (T-Verbindung)</Value>
+      <Value>Isolierte Gasrohre (T-Kreuzung)</Value>
       <Description>Isolierte Rohre verringern den Wärmeverlust durch die in ihnen gespeicherten Gase erheblich.</Description>
     </RecordThing>
     <RecordThing>
@@ -5754,7 +5754,7 @@ Obwohl die Windturbine so optimiert ist, dass sie auch auf Welten mit niedriger 
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeLiquidCrossJunction</Key>
-      <Value>Flüssigkeitsrohre (Kreuzungspunkt)</Value>
+      <Value>Flüssigkeitsrohre (Kreuzung)</Value>
       <Description>Der Name ist Programm: Flüssigkeitsrohre schaffen Rohrleitungsnetze für die Lagerung und den Transport des zweiten Aggregatzustands der Materie: Flüssigkeit.</Description>
     </RecordThing>
     <RecordThing>
@@ -6673,32 +6673,32 @@ Hinweis: Der Cannifier zeigt eine Fehlermeldung auf seinem Aktivierungsschalter 
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCorner</Key>
-      <Value>Isolierte Flüssigkeitsrohre Ecke</Value>
+      <Value>Isolierte Flüssigkeitsrohre (Ecke)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCrossJunction</Key>
-      <Value>Isolierte Flüssigkeitsrohre Kreuzung</Value>
+      <Value>Isolierte Flüssigkeitsrohre (Kreuzung)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCrossJunction3</Key>
-      <Value>Isolierte Flüssigkeitsrohre 3-Wege-Kreuzung</Value>
+      <Value>Isolierte Flüssigkeitsrohre (3-Wege-Kreuzung)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCrossJunction4</Key>
-      <Value>Isolierte Flüssigkeitsrohre 4-Wege-Kreuzung</Value>
+      <Value>Isolierte Flüssigkeitsrohre (4-Wege-Kreuzung)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCrossJunction5</Key>
-      <Value>Isolierte Flüssigkeitsrohre 5-Wege-Kreuzung</Value>
+      <Value>Isolierte Flüssigkeitsrohre (5-Wege-Kreuzung)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCrossJunction6</Key>
-      <Value>Isolierte Flüssigkeitsrohre 6-Wege-Kreuzung</Value>
+      <Value>Isolierte Flüssigkeitsrohre (6-Wege-Kreuzung)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -6708,7 +6708,7 @@ Hinweis: Der Cannifier zeigt eine Fehlermeldung auf seinem Aktivierungsschalter 
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeStraight</Key>
-      <Value>Isolierte Flüssigkeitsrohre Gerade</Value>
+      <Value>Isolierte Flüssigkeitsrohre (Gerade)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -6738,7 +6738,7 @@ Hinweis: Der Cannifier zeigt eine Fehlermeldung auf seinem Aktivierungsschalter 
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeLiquidCrossJunction6</Key>
-      <Value>Isolierte Flüssigkeitsrohre (6-Wege-Abzweigung)</Value>
+      <Value>Isolierte Flüssigkeitsrohre (6-Wege-Kreuzung)</Value>
       <Description>Flüssigkeitsleitungen mit sehr geringem Temperaturverlust oder -gewinn.</Description>
     </RecordThing>
     <RecordThing>
@@ -6748,7 +6748,7 @@ Hinweis: Der Cannifier zeigt eine Fehlermeldung auf seinem Aktivierungsschalter 
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeLiquidTJunction</Key>
-      <Value>Isolierte Flüssigkeitsrohre (T-Verbindung)</Value>
+      <Value>Isolierte Flüssigkeitsrohre (T-Kreuzung)</Value>
       <Description>Flüssigkeitsleitungen mit sehr geringem Temperaturverlust oder -gewinn.</Description>
     </RecordThing>
     <RecordThing>
@@ -7591,47 +7591,47 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     </RecordThing>
     <RecordThing>
       <Key>StructureLowVolumeLiquidPipeCorner</Key>
-      <Value>Flüssigkeitsrohre mit geringem Volumen (Ecke)</Value>
+      <Value>Niedrigvolumige Flüssigkeitrohre (Ecke)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureLowVolumeLiquidPipeCrossJunction</Key>
-      <Value>Flüssigkeitsrohre mit geringem Volumen (Kreuzungspunkt)</Value>
+      <Value>Niedrigvolumige Flüssigkeitrohre (Kreuzung)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureLowVolumeLiquidPipeCrossJunction3</Key>
-      <Value>Flüssigkeitsrohre mit geringem Volumen (3-Wege-Kreuzung)</Value>
+      <Value>Niedrigvolumige Flüssigkeitrohre (3-Wege-Kreuzung)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureLowVolumeLiquidPipeCrossJunction4</Key>
-      <Value>Flüssigkeitsrohre mit geringem Volumen (4-Wege-Kreuzung)</Value>
+      <Value>Niedrigvolumige Flüssigkeitrohre (4-Wege-Kreuzung)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureLowVolumeLiquidPipeCrossJunction5</Key>
-      <Value>Flüssigkeitsrohre mit geringem Volumen (5-Wege-Kreuzung)</Value>
+      <Value>Niedrigvolumige Flüssigkeitrohre (5-Wege-Kreuzung)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureLowVolumeLiquidPipeCrossJunction6</Key>
-      <Value>Flüssigkeitsrohre mit geringem Volumen (6-Wege-Kreuzung)</Value>
+      <Value>Niedrigvolumige Flüssigkeitrohre (6-Wege-Kreuzung)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureLowVolumeLiquidPipeStraight</Key>
-      <Value>Flüssigkeitsrohre mit geringem Volumen (gerade)</Value>
+      <Value>Niedrigvolumige Flüssigkeitrohre (gerade)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureLowVolumeLiquidPipeTJunction</Key>
-      <Value>Flüssigkeitsrohre mit geringem Volumen (T-Kreuzung)</Value>
+      <Value>Niedrigvolumige Flüssigkeitrohre (T-Kreuzung)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLowVolumeLiquidPipes</Key>
-      <Value>Bausatz (schmale Flüssigkeitsrohre)</Value>
+      <Value>Bausatz (Niedrigvolumige Flüssigkeitrohre)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -7676,7 +7676,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLowVolumePipes</Key>
-      <Value>Bausatz (schmale Gasleitung)</Value>
+      <Value>Bausatz (Niedrigvolumige Gasrohre)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -7770,7 +7770,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPipeUtility</Key>
-      <Value>Bausatz (Gasrohr speicher)</Value>
+      <Value>Bausatz (Gasrohr Speicher)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -13181,7 +13181,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     </Record>
     <Record>
       <Key>Pipe</Key>
-      <Value>Rohr</Value>
+      <Value>Rohrleitung Gas</Value>
     </Record>
     <Record>
       <Key>PipeLiquid</Key>
