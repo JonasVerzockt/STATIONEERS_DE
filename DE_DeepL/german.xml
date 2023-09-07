@@ -1527,7 +1527,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeGasMixer</Key>
-      <Value>Gasmischer</Value>
+      <Value>Bausatz (Gasmischer)</Value>
       <Description>Dieser Bausatz erzeugt eine {THING:StructureGasMixer}.</Description>
     </RecordThing>
     <RecordThing>
