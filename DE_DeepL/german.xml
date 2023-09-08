@@ -496,7 +496,7 @@
     <RecordThing>
       <Key>ApplianceMicrowave</Key>
       <Value>Mikrowelle</Value>
-      <Description>Während in den letzten hundert Jahren unzählige "bessere" Kochmethoden erfunden wurden {LINK:FoodPage;Nahrung}, sind nur wenige so langlebig oder einfach herzustellen wie die OK-Zoomer-Mikrowelle. Die von {LINK:Xigo;Xigo} lizenzierten Pläne basieren auf einem klassischen Modell aus der Mitte des 21. Jahrhunderts, was ihr einen charmanten Retro-Charme verleiht. Aber keine Sorge, sie schwingt {GAS:Water} Moleküle mehr als adäquat.
+      <Description>Während in den letzten hundert Jahren unzählige "bessere" Kochmethoden erfunden wurden {LINK:FoodPage;Nahrung}, sind nur wenige so langlebig oder einfach herzustellen wie in der OK-Zoomer-Mikrowelle. Die von {LINK:Xigo;Xigo} lizenzierten Pläne basieren auf einem klassischen Modell aus der Mitte des 21. Jahrhunderts, was ihr einen charmanten Retro-Charme verleiht. Aber keine Sorge, sie schwingt {GAS:Water} Moleküle mehr als adäquat.
 Einfach mit einem {THING:StructureBench} und einem {THING:ItemWrench} an den Strom schrauben, das Rezept befolgen und schon kann es losgehen.</Description>
     </RecordThing>
     <RecordThing>
@@ -537,7 +537,7 @@ Einfach mit einem {THING:StructureBench} und einem {THING:ItemWrench} an den Str
     <RecordThing>
       <Key>BodyPartAstronautMaleArmL</Key>
       <Value>Körperteil Astronaut Männlich Arm L</Value>
-      <Description>Ihr Arm ist Ihr viertwichtigstes Körperteil.</Description>
+      <Description>Sein Arm ist sein viertwichtigstes Körperteil.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartAstronautMaleArmR</Key>
@@ -582,12 +582,12 @@ Einfach mit einem {THING:StructureBench} und einem {THING:ItemWrench} an den Str
     <RecordThing>
       <Key>BodyPartChickenBrownLegL</Key>
       <Value>Körperteil Huhn Braunes Bein L</Value>
-      <Description>A chicken leg.</Description>
+      <Description>Ein Hühnerbein.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickenBrownLegR</Key>
       <Value>Körperteil Huhn Braunes Bein R</Value>
-      <Description>Auch eine Hühnerkeule.</Description>
+      <Description>Auch eine Hühnerbein.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickenBrownTail</Key>
@@ -617,12 +617,12 @@ Einfach mit einem {THING:StructureBench} und einem {THING:ItemWrench} an den Str
     <RecordThing>
       <Key>BodyPartChickenWhiteLegL</Key>
       <Value>Körperteil Huhn Weißes Bein L</Value>
-      <Description>A chicken leg.</Description>
+      <Description>Ein Hühnerbein.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickenWhiteLegR</Key>
       <Value>Körperteil Huhn Weißes Bein R</Value>
-      <Description>A chicken leg.</Description>
+      <Description>Ein Hühnerbein.</Description>
     </RecordThing>
     <RecordThing>
       <Key>BodyPartChickenWhiteTail</Key>
@@ -797,14 +797,14 @@ Einfach mit einem {THING:StructureBench} und einem {THING:ItemWrench} an den Str
     <RecordThing>
       <Key>CircuitboardAirControl</Key>
       <Value>Platine (Luftkontrolle)</Value>
-      <Description>In Verbindung mit einem {THING:StructureConsole} ermöglichen Luftsteuerungsschaltungen die Programmierung eines {THING:StructureActiveVent}. Wie bei kleinen Hunden und 83 % der Menschen gibt es auch bei Luftregelkreisen nur drei Modi: Druck, Luftzug und Offline. Im Druckmodus wird eine Atmosphäre von 100 kPa aufrechterhalten, wobei das aktive Entlüftungsventil zwischen Ein- und Ausströmung umgeschaltet wird, bis der Solldruck erreicht ist. Im Zugluftmodus können Sie die aktiven Entlüftungsöffnungen miteinander verbinden, um die Luft zirkulieren zu lassen. Im Offline-Modus wird die Entlüftung deaktiviert.</Description>
+      <Description>In Verbindung mit einer {THING:StructureConsole} ermöglichen Luftsteuerungsschaltungen die Programmierung eines {THING:StructureActiveVent}. Wie bei kleinen Hunden und 83 % der Menschen gibt es auch bei Luftregelkreisen nur drei Modi: Druck, Luftzug und Offline. Im Druckmodus wird eine Atmosphäre von 100 kPa aufrechterhalten, wobei das aktive Entlüftungsventil zwischen Ein- und Ausströmung umgeschaltet wird, bis der Solldruck erreicht ist. Im Zugluftmodus können Sie die aktiven Entlüftungsöffnungen miteinander verbinden, um die Luft zirkulieren zu lassen. Im Offline-Modus wird die Entlüftung deaktiviert.</Description>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardAirlockControl</Key>
       <Value>Platine (Luftschleuse)</Value>
-      <Description>Gerüchten zufolge wurde die Exgress-Luftschleusensteuerungsplatine von einem verärgerten Ingenieur zuerst auf einer {LINK:Norsec;Norsec} Toilettenwand skizziert. Ihre Vielseitigkeit und einfache Herstellung haben sie zum {LINK:Stationeers;Stationeers} bevorzugten Steuerungssystem für {THING:StructureAirlock} Zyklusprotokolle gemacht.
+      <Description>Gerüchten zufolge wurde die Exgress-Luftschleusensteuerungsplatine von einem verärgerten Ingenieur zuerst auf einer {LINK:Norsec;Norsec} Toilettenwand skizziert. Ihre Vielseitigkeit und einfache Herstellung haben sie zum {LINK:Stationeers;Stationeer's} bevorzugten Steuerungssystem für {THING:StructureAirlock} gemacht.
 
-Um in den Einrichtungsmodus zu gelangen, setzen Sie die Platine zusammen mit einer Datendiskette in einen {THING:StructureConsole} ein. In diesem Modus sehen Sie alle Objekte, auf die Daten zugreifen können und die derzeit mit dem {THING:StructureConsole} verbunden sind. Türen, Lichter, Gassensoren und Nebenkonsolen können ausgewählt werden (grün hervorgehoben) und werden gesteuert, sobald die Datendiskette entfernt wird.</Description>
+Um in den Einrichtungsmodus zu gelangen, setzen Sie die Platine zusammen mit einer Diskette in einer {THING:StructureConsole} ein. In diesem Modus sehen Sie alle Objekte, auf die Daten zugegriffen werden können und die derzeit mit der {THING:StructureConsole} verbunden sind. Türen, Lichter, Gassensoren und Nebenkonsolen können ausgewählt werden (grün hervorgehoben) und werden gesteuert, sobald die Datendiskette entfernt wird.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ImGuiCircuitboardAirlockControl</Key>
@@ -813,17 +813,17 @@ Um in den Einrichtungsmodus zu gelangen, setzen Sie die Platine zusammen mit ein
     <RecordThing>
       <Key>CircuitboardCameraDisplay</Key>
       <Value>Platine (Kamera Monitor)</Value>
-      <Description>Die Überwachung ist manchmal notwendig, wenn Basen in sehr feindlichen Umgebungen gebaut werden. Die Kameradisplay-Platine ermöglicht es aufmerksamen Stationeers, ein {THING:StructureConsole} in ein Sicherheitsdisplay zu verwandeln, wenn es an ein {THING:StructureCamera} angeschlossen wird.</Description>
+      <Description>Die Überwachung ist manchmal notwendig, wenn Basen in sehr feindlichen Umgebungen gebaut werden. Die Kameradisplay-Platine ermöglicht es aufmerksamen Stationeers, eine {THING:StructureConsole} in ein Sicherheitsdisplay zu verwandeln, wenn es an einr {THING:StructureCamera} angeschlossen wird.</Description>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardDoorControl</Key>
       <Value>Platine (Türsteuerung)</Value>
-      <Description>Als Basiswerkzeug der {LINK:Stationeers;Stationeer}-Basis-Konstruktion ermöglicht diese Platine das Öffnen und Schließen eines {THING:StructureCompositeDoor}, {THING:StructureBlastDoor} oder {THING:StructureGlassDoor} aus der Ferne, wenn sie mit einem {THING:StructureConsole} verbunden ist. Dieses System kann weiter mit {THING:StructureMotionSensor} verbunden werden, um automatische Türen zu schaffen.</Description>
+      <Description>Als Basiswerkzeug der {LINK:Stationeers;Stationeer}-Basis-Konstruktion ermöglicht diese Platine das Öffnen und Schließen einer {THING:StructureCompositeDoor}, {THING:StructureBlastDoor} oder {THING:StructureGlassDoor} aus der Ferne, wenn sie mit einer {THING:StructureConsole} verbunden ist. Dieses System kann weiter mit einem {THING:StructureMotionSensor} verbunden werden, um automatische Türen zu schaffen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardGasDisplay</Key>
       <Value>Platine (Gasanzeige)</Value>
-      <Description>Information ist Macht. Setzen Sie diese Platine in einen {THING:StructureConsole} ein, um eine Anzeige zu erstellen, die den Gasdruck oder die Temperatur eines beliebigen angeschlossenen Tanks, einer Speicherkanister, {THING:ItemPipeAnalyizer} oder {THING:ItemGasSensor} anzeigt.</Description>
+      <Description>Information ist Macht. Setzen Sie diese Platine in einer {THING:StructureConsole} ein, um eine Anzeige zu erstellen, die den Gasdruck oder die Temperatur eines beliebigen angeschlossenen Tanks, {THING:ItemPipeAnalyizer} oder {THING:ItemGasSensor} anzeigt.</Description>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardModeControl</Key>
@@ -840,22 +840,22 @@ Die Platine verfügt über zwei Modi: "Link" schaltet alle Geräte ein oder aus;
     <RecordThing>
       <Key>CircuitboardShipDisplay</Key>
       <Value>Platine (Schiffssteuerung)</Value>
-      <Description>Als das ursprüngliche {LINK:Stationeers;Stationeer} Handbuch unter seinem eigenen Gewicht zu einer Singularität zusammenbrach, gingen bestimmte Informationen unwiederbringlich verloren. Zu diesem mysteriösen Wissensfundus gehört auch der genaue Zweck der Schiffstafel.</Description>
+      <Description>Als das ursprüngliche {LINK:Stationeers;Stationeer} Handbuch unter seinem eigenen Gewicht zu einer Singularität zusammenbrach, gingen bestimmte Informationen unwiederbringlich verloren. Zu diesem mysteriösen Wissensfundus gehört auch der genaue Zweck der Schiffsteuerung.</Description>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardSolarControl</Key>
       <Value>Platine (Solarsteuerung)</Value>
-      <Description>Durch das Hinzufügen einer Solarsteuerungsplatine zu einem {THING:StructureConsole} können Sie die horizontalen und vertikalen Winkel aller angeschlossenen {THING:StructureSolarPanel} manuell steuern.</Description>
+      <Description>Durch das Hinzufügen einer Solarsteuerungsplatine zu einer {THING:StructureConsole} können Sie die horizontalen und vertikalen Winkel aller angeschlossenen {THING:StructureSolarPanel} manuell steuern.</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicAirConditioner</Key>
       <Value>Tragbares Klimagerät</Value>
-      <Description>Das von {LINK:Sinotai;Sinotai} entworfene tragbare Klimagerät von Huxi kühlt, indem es der Atmosphäre Wärme entzieht und speichert oder der Atmosphäre Wärme aus seinem internen Tank zuführt. Mit einem maximalen Innendruck von 8106 kPa ist die Kapazität relativ begrenzt, da die Physik in diesem Punkt eindeutig ist. Um seine Fähigkeit zur Temperaturspeicherung zu erweitern, schrauben Sie den Huxi an einen {THING:StructureTankConnector} und schließen Sie ihn an ein Rohrnetz an, das Wärme oder Kälte liefert {LINK:GasPage;Gase}.</Description>
+      <Description>Das von {LINK:Sinotai;Sinotai} entworfene tragbare Klimagerät von Huxi kühlt, indem es der Atmosphäre Wärme entzieht und speichert oder der Atmosphäre Wärme aus seinem internen Tank zuführt. Mit einem maximalen Innendruck von 8106 kPa ist die Kapazität relativ begrenzt, da die Physik in diesem Punkt eindeutig ist. Um seine Fähigkeit zur Temperaturspeicherung zu erweitern, schrauben Sie den Huxi an einen {THING:StructureTankConnector} und schließen Sie ihn an ein Rohrnetz an, das Wärme oder Kälte {LINK:GasPage;Gase} liefert.</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicCrate</Key>
       <Value>Tragbare Kiste</Value>
-      <Description>Die bescheidene tragbare Kiste ist zu einem Symbol für {LINK:Stationeers;Stationeer} Erfindung und Unabhängigkeit geworden. Mit zwölf Schlitzen und Griffen an beiden Enden für einen einfachen Transport gehört sie zur Standardausrüstung von Kadetten und Kommandanten gleichermaßen.</Description>
+      <Description>Die bescheidene tragbare Kiste ist zu einem Symbol für {LINK:Stationeers;Stationeer} Erfindung und Unabhängigkeit geworden. Mit zwölf Plätzen und Griffen an beiden Enden für einen einfachen Transport, gehört sie zur Standardausrüstung von Kadetten und Kommandanten gleichermaßen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicCrateBuildingSupplies</Key>
@@ -929,7 +929,7 @@ Du kannst einen {THING:ItemGasCanisterWater} nachfüllen, indem du ihn an den ge
     <RecordThing>
       <Key>DynamicLight</Key>
       <Value>Tragbares Licht</Value>
-      <Description>Philippe Starck mag nicht applaudieren, aber diese batteriebetriebene Lichtquelle bringt Licht in die Ecken, wenn es an Beleuchtung mangelt. Sie wird mit einer beliebigen Batterie betrieben und ist ein "schnörkelloses" {LINK:Xigo;Xigo} Design, das mit einem Minimum an Aufwand billig hergestellt werden kann. Es sei denn, Sie mögen Aufregung. In diesem Fall können Sie so viel Aufhebens machen wie Sie wollen.</Description>
+      <Description>Philippe Starck mag nicht applaudieren, aber diese batteriebetriebene Lichtquelle bringt Licht in die Ecken, wenn es an Beleuchtung mangelt. Sie wird mit einer beliebigen Batterie betrieben und ist ein "schnörkelloses" {LINK:Xigo;Xigo} Design, das mit einem Minimum an Aufwand billig hergestellt werden kann.</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicScrubber</Key>
@@ -996,7 +996,7 @@ Du kannst einen {THING:ItemGasCanisterWater} nachfüllen, indem du ihn an den ge
       <Description>Die kleine Batteriezelle, die zu Beginn des 21. Jahrhunderts entwickelt wurde, ist die {LINK:Stationeers;Stationeer's} Grundeinheit der tragbaren elektrischen Energie. Sie hat zwar nicht die Ladung einer {THING:ItemBatteryCellLarge} oder {THING:ItemBatteryCellNuclear}, aber den bescheidenen Vorteil, dass sie aus einfachen Ressourcen hergestellt werden kann.
 
 {HEADER:POWER OUTPUT}
-Die kleine Zelle speichert eine Leistung von bis zu 36000 Watt.</Description>
+Die kleine Zelle speichert eine Leistung von bis zu 36 kW.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemBatteryCellLarge</Key>
@@ -1004,8 +1004,7 @@ Die kleine Zelle speichert eine Leistung von bis zu 36000 Watt.</Description>
       <Description>Das klassische Siliziumanoden-Festkörperdesign, das von {LINK:Xigo;Xigo} im Jahr 2155 auf der Grundlage eines nicht näher bezeichneten Prototyps erstmals in Serie produziert wurde, erweitert seinen optimalen Temperaturbereich.
 
 {HEADER:POWER OUTPUT}
-Die große Energiezelle kann eine Leistung von 288 kW abgeben.
-</Description>
+Die große Energiezelle kann eine Leistung von 288 kW abgeben.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemBatteryCellNuclear</Key>
@@ -1013,7 +1012,7 @@ Die große Energiezelle kann eine Leistung von 288 kW abgeben.
       <Description>Auf der Erde seit dem Chengdu-Ereignis verboten, haben die Norsec-Atomzellen einen neuen, weniger sicherheitsbewussten Markt außerhalb der Erde gefunden.
 
 {HEADER:POWER OUTPUT}
-Mit einer Ladung von 2,3 Megawatt (2304000W) stößt der "Nuke" an seine Grenzen, was seine Abhängigkeit von hochwertigen {LINK:IngotPage;Legierungen}.</Description>
+Die "Nuke"-Batteriezelle hat eine Leistung von 2,3 Megawatt (2304 kW), was die Verwendung von hochwertigen {LINK:IngotPage;Legierungen} widerspiegelt und das Verhältnis von Leistung und Gewicht auf die Spitze treibt.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemBatteryCharger</Key>
@@ -1084,12 +1083,12 @@ Normale Spulen haben eine maximale Wattleistung von 5 kW. Für Anwendungen mit h
     <RecordThing>
       <Key>ItemDrill</Key>
       <Value>Handbohrmaschine</Value>
-      <Description>Die abgewinkelte Handbohrmaschine {LINK:ExMin;ExMin} ist seit Jahrzehnten ein Begleiter von {LINK:Stationeers;Stationeers}. Unverzichtbar für den Zusammenbau und die Demontage verschiedener Gegenstände und Strukturen, unabhängig von Schwerkraft, Druck oder Temperatur.</Description>
+      <Description>Die abgewinkelte Handbohrmaschine {LINK:ExMin;ExMin} ist seit Jahrzehnten ein Begleiter von {LINK:Stationeers;Stationeer's}. Unverzichtbar für den Zusammenbau und die Demontage verschiedener Gegenstände und Strukturen, unabhängig von Schwerkraft, Druck oder Temperatur.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemDuctTape</Key>
       <Value>Klebeband</Value>
-      <Description>In der fernen Vergangenheit lehrte einer der großen Meister der Erde eine Generation von "Fix-It People", dass Klebeband die Antwort auf jedes Problem sei. Die {LINK:Stationeers;Stationeers} haben bewiesen, dass dies stimmt, solange das Problem ein beschädigtes {THING:ItemEvaSuit}, {THING:ItemJetpackBasic}, {THING:ItemSpaceHelmet} oder sogar ein {THING:StructureSolarPanel} ist.
+      <Description>In der fernen Vergangenheit lehrte einer der großen Meister der Erde eine Generation von "Fix-It People", dass Klebeband die Antwort auf jedes Problem sei. Die {LINK:Stationeers;Stationeer's} haben bewiesen, dass dies stimmt, solange das Problem ein beschädigtes {THING:ItemEvaSuit}, {THING:ItemJetpackBasic}, {THING:ItemSpaceHelmet} oder sogar ein {THING:StructureSolarPanel} ist.
 Anwendung: Klebeband in die aktive Hand nehmen und die rechte Maustaste gedrückt halten, um den Schaden automatisch zu reparieren.</Description>
     </RecordThing>
     <RecordThing>
@@ -1122,7 +1121,7 @@ Wenn ein Ei befruchtet wurde und zwischen 20C-30C gehalten wird, entsteht ein {T
     <RecordThing>
       <Key>ItemEvaSuit</Key>
       <Value>Raumanzug</Value>
-      <Description>Der Raumanzug ist der Grundanzug {LINK:Stationeers;Stationeers}, den man zum Überleben in der unwirtlichen Umgebung des Weltraums braucht. Weitere Informationen zu Raumanzügen finden Sie im {LINK:EVAPage;EVA suit} Leitfaden.</Description>
+      <Description>Der Raumanzug ist der Grundanzug {LINK:Stationeers;Stationeer's}, den man zum Überleben in der unwirtlichen Umgebung des Weltraums braucht. Weitere Informationen zu Raumanzügen finden Sie im {LINK:EVAPage;EVA suit} Leitfaden.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemFertilizedEgg</Key>
@@ -1198,7 +1197,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemGasFilterCarbonDioxide</Key>
       <Value>Filter (Kohlendioxid)</Value>
-      <Description>Angesichts der Besessenheit der Menschheit, {GAS:CarbonDioxide} auszuatmen, erhalten alle {LINK:Stationeers;Stationeers} zwei grundlegende {LINK:Sinotai;Sinotai} {GAS:CarbonDioxide} {SLOT:GasFilter} als Teil ihres Standard-Einsatzkits (SDK). Diese Filter ermöglichen den Durchgang von {GAS:CarbonDioxide} in den Abfall {THING:ItemGasCanisterEmpty} des Anzugs, sind aber auch wichtige Bestandteile der {THING:DynamicScrubber} und {THING:StructureFiltration}. Die {THING:ItemGasFilterCarbonDioxideM} und {THING:ItemGasFilterCarbonDioxideL} sind ebenfalls erhältlich.</Description>
+      <Description>Angesichts der Besessenheit der Menschheit, {GAS:CarbonDioxide} auszuatmen, erhalten alle {LINK:Stationeers;Stationeer's} zwei grundlegende {LINK:Sinotai;Sinotai} {GAS:CarbonDioxide} {SLOT:GasFilter} als Teil ihres Standard-Einsatzkits (SDK). Diese Filter ermöglichen den Durchgang von {GAS:CarbonDioxide} in den Abfall {THING:ItemGasCanisterEmpty} des Anzugs, sind aber auch wichtige Bestandteile der {THING:DynamicScrubber} und {THING:StructureFiltration}. Die {THING:ItemGasFilterCarbonDioxideM} und {THING:ItemGasFilterCarbonDioxideL} sind ebenfalls erhältlich.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterPollutants</Key>
@@ -1253,7 +1252,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemGoldIngot</Key>
       <Value>Barren (Gold)</Value>
-      <Description>Das Herzstück des {LINK:Stationeers;Stationeers}-Projekts ist ein anhaltendes Paradoxon: Eine Initiative, die als "kostengünstige Weltraumforschung" konzipiert ist, verwendet {REAGENT:Gold} als grundlegenden Bestandteil für die Herstellung eines Großteils ihrer Ausrüstung und ihres Materials.</Description>
+      <Description>Das Herzstück des {LINK:Stationeers;Stationeer's}-Projekts ist ein anhaltendes Paradoxon: Eine Initiative, die als "kostengünstige Weltraumforschung" konzipiert ist, verwendet {REAGENT:Gold} als grundlegenden Bestandteil für die Herstellung eines Großteils ihrer Ausrüstung und ihres Materials.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemGoldOre</Key>
@@ -1293,7 +1292,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemIce</Key>
       <Value>Eis (Wasser)</Value>
-      <Description>Wassereis ist auf den meisten Planeten des Sonnensystems zu finden, obwohl nicht alle von {LINK:Stationeers;Stationeers} besuchten Welten über diese Ressource verfügen. Da Eis sehr temperaturempfindlich ist, beginnt es zu schmelzen, sobald es abgebaut wird, es sei denn, es wird im {THING:ItemMiningBelt} aufbewahrt. Wenn es schmilzt, produziert es eine Mischung aus {GAS:Steam} und {GAS:Nitrogen} Gas.</Description>
+      <Description>Wassereis ist auf den meisten Planeten des Sonnensystems zu finden, obwohl nicht alle von {LINK:Stationeers;Stationeer's} besuchten Welten über diese Ressource verfügen. Da Eis sehr temperaturempfindlich ist, beginnt es zu schmelzen, sobald es abgebaut wird, es sei denn, es wird im {THING:ItemMiningBelt} aufbewahrt. Wenn es schmilzt, produziert es eine Mischung aus {GAS:Steam} und {GAS:Nitrogen} Gas.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemIgniter</Key>
@@ -1313,7 +1312,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemIronOre</Key>
       <Value>Erz (Eisen)</Value>
-      <Description>Eisen ist im gesamten Sonnensystem reichlich vorhanden und wird am häufigsten von {LINK:Stationeers;Stationeers} für den Bau von Basen außerhalb der Erde verwendet. Es kann sowohl zu {THING:ItemIronIngot} als auch zu {THING:ItemSteelIngot} verhüttet werden.</Description>
+      <Description>Eisen ist im gesamten Sonnensystem reichlich vorhanden und wird am häufigsten von {LINK:Stationeers;Stationeer's} für den Bau von Basen außerhalb der Erde verwendet. Es kann sowohl zu {THING:ItemIronIngot} als auch zu {THING:ItemSteelIngot} verhüttet werden.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAirlock</Key>
@@ -1618,14 +1617,14 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemSpaceHelmet</Key>
       <Value>Raumanzughelm</Value>
-      <Description>Der Basis-Raumhelm isoliert {LINK:Stationeers;Stationeers} gegen alles, von hartem Vakuum bis hin zu unangenehmen Kochgerüchen. Er bietet eine druckkontrollierte, atmungsaktive Atmosphäre und verfügt über ein eingebautes Licht, das von Ihrem {THING:ItemEvaSuit} {THING:ItemBatteryCell}.
+      <Description>Der Basis-Raumhelm isoliert {LINK:Stationeers;Stationeer's} gegen alles, von hartem Vakuum bis hin zu unangenehmen Kochgerüchen. Er bietet eine druckkontrollierte, atmungsaktive Atmosphäre und verfügt über ein eingebautes Licht, das von Ihrem {THING:ItemEvaSuit} {THING:ItemBatteryCell}.
 Außerdem verfügt er über eine Ver-/Entriegelungsfunktion, um ein versehentliches Öffnen zu verhindern, sowie über eine Spülfunktion, um die interne Atmosphäre zu entleeren und zu ersetzen. Wenn sie beschädigt ist, können Sie sie mit {THING:ItemDuctTape} reparieren oder mit {THING:AppliancePaintMixer} in einer Farbe Ihrer Wahl streichen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemSpacepack</Key>
       <Value>Jetpack (Weltraum)</Value>
       <Description>Das grundlegende {LINK:CHAC;CHAC} Spacepack ist 'technisch' kein Jetpack, sondern ein Gasantrieb. Es kann mit jedem Gas betrieben werden, solange der Innendruck des {LINK:AtmosphericsPage;Gasflasche} höher ist als der Außendruck. Wenn der Außendruck höher ist, funktioniert das Spacepack nicht.
-Es ist unentbehrlich für den Bau, den Bergbau und die allgemeine Fortbewegung, hat zehn Speicherplätze und lässt {LINK:Stationeers;Stationeers} mit 3m/s fliegen, verglichen mit den stärkeren {THING:ItemJetpackBasic} oder {THING:ItemHardJetpack}. Durch Einstellen des Schubwerts wird die Beschleunigung verändert, während die Aktivierung des Stabilisators das Spacepack bei Erreichen einer bestimmten Höhe zum Schweben bringt.
+Es ist unentbehrlich für den Bau, den Bergbau und die allgemeine Fortbewegung, hat zehn Speicherplätze und lässt {LINK:Stationeers;Stationeer's} mit 3m/s fliegen, verglichen mit den stärkeren {THING:ItemJetpackBasic} oder {THING:ItemHardJetpack}. Durch Einstellen des Schubwerts wird die Beschleunigung verändert, während die Aktivierung des Stabilisators das Spacepack bei Erreichen einer bestimmten Höhe zum Schweben bringt.
 ANWENDUNG: 'J' zum Aktivieren; 'Leertaste' zum Hochfliegen; 'Linke STRG' zum Absteigen; und 'WASD' zum Bewegen.</Description>
     </RecordThing>
     <RecordThing>
@@ -1641,7 +1640,7 @@ ANWENDUNG: 'J' zum Aktivieren; 'Leertaste' zum Hochfliegen; 'Linke STRG' zum Abs
     <RecordThing>
       <Key>ItemSprayCanBrown</Key>
       <Value>Sprühfarbe (Braun)</Value>
-      <Description>In eher künstlerischen {LINK:Stationeers;Stationeers} Kreisen wird das Fehlen von Braun oft beklagt, aber selten geändert.</Description>
+      <Description>In eher künstlerischen {LINK:Stationeers;Stationeer's} Kreisen wird das Fehlen von Braun oft beklagt, aber selten geändert.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemSprayCanGreen</Key>
@@ -1712,7 +1711,7 @@ Es mag nicht elegant sein, aber {THING:ItemOxite} und {THING:ItemVolatiles} kön
     <RecordThing>
       <Key>ItemTablet</Key>
       <Value>Tablet</Value>
-      <Description>Das {LINK:Xigo;Xigo} Handheld-Tablet "Padi" ist eine universell einsetzbare Datenplattform, die standardmäßig an alle {LINK:Stationeers;Stationeers} geliefert wird. Das Padi ist ein dynamisches Multitool, das eine Reihe von {LINK:CartridgePage;Chip}, {THING:CartridgeAtmosAnalyser} oder {THING:CartridgeTracker}, {THING:CartridgeMedicalAnalyser}, {THING:CartridgeOreScanner}, {THING:CartridgeElectronicReader} und verschiedenen anderen Funktionen akzeptiert.</Description>
+      <Description>Das {LINK:Xigo;Xigo} Handheld-Tablet "Padi" ist eine universell einsetzbare Datenplattform, die standardmäßig an alle {LINK:Stationeers;Stationeer's} geliefert wird. Das Padi ist ein dynamisches Multitool, das eine Reihe von {LINK:CartridgePage;Chip}, {THING:CartridgeAtmosAnalyser} oder {THING:CartridgeTracker}, {THING:CartridgeMedicalAnalyser}, {THING:CartridgeOreScanner}, {THING:CartridgeElectronicReader} und verschiedenen anderen Funktionen akzeptiert.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemTankConnector</Key>
@@ -1733,7 +1732,7 @@ Der Werkzeuggürtel wurde entwickelt, um die strengsten ODA-Sicherheitsstandards
     <RecordThing>
       <Key>ItemUraniumOre</Key>
       <Value>Erz (Uran)</Value>
-      <Description>1934 stellte Enrico Fermi fest, dass der Beschuss von Uran mit Neutronen einen Ausbruch von Betastrahlen und ein neues Material erzeugt. Dieser Prozess wurde als "Kernspaltung" bezeichnet und führte zu billiger Energie, dem Kalten Krieg und zigtausend Todesopfern. Obwohl es im gesamten Sonnensystem relativ häufig vorkommt, sind die {LINK:Stationeers;Stationeers} vorsichtig mit diesem Material.</Description>
+      <Description>1934 stellte Enrico Fermi fest, dass der Beschuss von Uran mit Neutronen einen Ausbruch von Betastrahlen und ein neues Material erzeugt. Dieser Prozess wurde als "Kernspaltung" bezeichnet und führte zu billiger Energie, dem Kalten Krieg und zigtausend Todesopfern. Obwohl es im gesamten Sonnensystem relativ häufig vorkommt, sind die {LINK:Stationeers;Stationeer's} vorsichtig mit diesem Material.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWallCooler</Key>
@@ -1753,7 +1752,7 @@ Der Werkzeuggürtel wurde entwickelt, um die strengsten ODA-Sicherheitsstandards
     <RecordThing>
       <Key>ItemWeldingTorch</Key>
       <Value>Schweißbrenner</Value>
-      <Description>Der Arlite-Schweißbrenner wird in der Standardausrüstung {LINK:Stationeers;Stationeers} {THING:ItemToolBelt} aufbewahrt und dient zum Bau einer Reihe von wichtigen Strukturen.
+      <Description>Der Arlite-Schweißbrenner wird in der Standardausrüstung {LINK:Stationeers;Stationeer's} {THING:ItemToolBelt} aufbewahrt und dient zum Bau einer Reihe von wichtigen Strukturen.
 Der Arlite ist eine verbesserte Version des klassischen "Zairo"-Modells, das zuerst von {LINK:ExMin;ExMin} für die modulare Montage von Weltraumhabitaten hergestellt wurde. Er wird von einem einzigen {THING:ItemGasCanisterFuel} angetrieben und ist so konzipiert, dass er sowohl im tiefen Weltraum als auch in tiefen Schwerkraftschächten gut funktioniert.</Description>
     </RecordThing>
     <RecordThing>
@@ -1775,7 +1774,7 @@ Der Arlite ist eine verbesserte Version des klassischen "Zairo"-Modells, das zue
       <Key>MotherboardLogic</Key>
       <Value>Logik-Hauptplatine</Value>
       <Description>Hauptplatinen sind mit {THING:StructureComputer}s verbunden, um verschiedene technische Funktionen auszuführen.
-Die {LINK:Norsec;Norsec-konzipierter} K-cops Logik-Hauptplatine ermöglicht {LINK:Stationeers;Stationeers} das Setzen von Variablen und Aktionen auf bestimmte {LINK:LogicUnitPage;Logik}-gesteuerte Elemente.</Description>
+Die {LINK:Norsec;Norsec-konzipierter} K-cops Logik-Hauptplatine ermöglicht {LINK:Stationeers;Stationeer's} das Setzen von Variablen und Aktionen auf bestimmte {LINK:LogicUnitPage;Logik}-gesteuerte Elemente.</Description>
     </RecordThing>
     <RecordThing>
       <Key>MotherboardManufacturing</Key>
@@ -1786,7 +1785,7 @@ Die {LINK:Norsec;Norsec-konzipierter} K-cops Logik-Hauptplatine ermöglicht {LIN
       <Key>MotherboardSorter</Key>
       <Value>Sortierer-Hauptplatine</Value>
       <Description>Hauptplatinen sind mit {THING:StructureComputer}s verbunden, um verschiedene technische Funktionen auszuführen.
-Die {LINK:Norsec;Norsec-konzipierter} K-cops 10-10 Sorter-Hauptplatine ermöglicht {LINK:Stationeers;Stationeers} die Kontrolle darüber, welche Gegenstände ein {THING:StructureSorter} passieren darf und welche nicht.</Description>
+Die {LINK:Norsec;Norsec-konzipierter} K-cops 10-10 Sorter-Hauptplatine ermöglicht {LINK:Stationeers;Stationeer's} die Kontrolle darüber, welche Gegenstände ein {THING:StructureSorter} passieren darf und welche nicht.</Description>
     </RecordThing>
     <RecordThing>
       <Key>MothershipCore</Key>
@@ -1805,7 +1804,7 @@ Die {LINK:Norsec;Norsec-konzipierter} K-cops 10-10 Sorter-Hauptplatine ermöglic
     <RecordThing>
       <Key>OrganBrain</Key>
       <Value>Menschliches Gehirn</Value>
-      <Description>Dies ist Ihr Gehirn auf {LINK:Stationeers;Stationeers}.</Description>
+      <Description>Dies ist Ihr Gehirn auf {LINK:Stationeers;Stationeer's}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>OrganLungs</Key>
@@ -2120,7 +2119,7 @@ Eine immer wiederkehrende {LINK:Stationeers;Stationeer} Beschwerde konzentriert 
     <RecordThing>
       <Key>StructureDigitalValve</Key>
       <Value>Digitales Ventil</Value>
-      <Description>Das digitale Ventil ermöglicht {LINK:Stationeers;Stationeers} die Erstellung von {LINK:LogicPage;Logik-Kontrollierten} Ventilen und Leitungsnetzen.</Description>
+      <Description>Das digitale Ventil ermöglicht {LINK:Stationeers;Stationeer's} die Erstellung von {LINK:LogicPage;Logik-Kontrollierten} Ventilen und Leitungsnetzen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureFabricator</Key>
@@ -2619,12 +2618,12 @@ Im Gegensatz zu den weiter entwickelten {THING:StructureFurnace} kann der Lichtb
     <RecordThing>
       <Key>ItemSilverOre</Key>
       <Value>Erz (Silber)</Value>
-      <Description>Silber ist ein chemisches Element mit dem Symbol "Ag". Von vielen {LINK:Stationeers;Stationeers} wegen seines attraktiven Glanzes geschätzt, wird es auch in einer Vielzahl von {LINK:ElectronicPage;electronics} Komponenten und {LINK:IngotPage;Legierungen} verwendet.</Description>
+      <Description>Silber ist ein chemisches Element mit dem Symbol "Ag". Von vielen {LINK:Stationeers;Stationeer's} wegen seines attraktiven Glanzes geschätzt, wird es auch in einer Vielzahl von {LINK:ElectronicPage;electronics} Komponenten und {LINK:IngotPage;Legierungen} verwendet.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemNickelOre</Key>
       <Value>Erz (Nickel)</Value>
-      <Description>Nickel ist ein chemisches Element mit dem Symbol "Ni" und ist ein seltenes Metall, das häufig als Beschichtung verwendet wird, um Korrosion zu verhindern. Von vielen {LINK:Stationeers;Stationeers} begehrt, wird Nickel auch häufig zur Herstellung verschiedener {LINK:IngotPage;Legierungen} verwendet.</Description>
+      <Description>Nickel ist ein chemisches Element mit dem Symbol "Ni" und ist ein seltenes Metall, das häufig als Beschichtung verwendet wird, um Korrosion zu verhindern. Von vielen {LINK:Stationeers;Stationeer's} begehrt, wird Nickel auch häufig zur Herstellung verschiedener {LINK:IngotPage;Legierungen} verwendet.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemLeadOre</Key>
@@ -2684,7 +2683,7 @@ Im Gegensatz zu den weiter entwickelten {THING:StructureFurnace} kann der Lichtb
     <RecordThing>
       <Key>ItemSiliconOre</Key>
       <Value>Erz (Silizium)</Value>
-      <Description>Silizium ist ein chemisches Element mit dem Symbol "Si" und ist eines der nützlichsten Elemente für {LINK:Stationeers;Stationeers}. Silizium ist überall im Universum verfügbar und wird in einer Reihe von {LINK:IngotPage;Legierungen}, Glas, Kunststoffen und verschiedenen elektronischen Komponenten verwendet, die ein Stationeer zur Erfüllung seiner Mission benötigt.</Description>
+      <Description>Silizium ist ein chemisches Element mit dem Symbol "Si" und ist eines der nützlichsten Elemente für {LINK:Stationeers;Stationeer's}. Silizium ist überall im Universum verfügbar und wird in einer Reihe von {LINK:IngotPage;Legierungen}, Glas, Kunststoffen und verschiedenen elektronischen Komponenten verwendet, die ein Stationeer zur Erfüllung seiner Mission benötigt.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemSiliconIngot</Key>
@@ -4255,7 +4254,7 @@ Beachten Sie, dass Transformatoren auch als Datenisolatoren fungieren, die verhi
       <Key>ItemJetpackBasic</Key>
       <Value>Jetpack</Value>
       <Description>Das grundlegende {LINK:CHAC;CHAC} Jetpack ist "technisch" kein Jetpack, sondern ein Gasantrieb. Es kann mit jedem Gas betrieben werden, solange der Innendruck der {LINK:AtmosphericsPage;Gasflasche} höher ist als der Außendruck. Wenn der Außendruck höher ist, funktioniert das Spacepack nicht.
-Es ist unentbehrlich für den Bau, den Bergbau und die allgemeine Fortbewegung, hat zehn Speicherplätze und lässt {LINK:Stationeers;Stationeers} mit 3m/s fliegen, verglichen mit dem stärkeren {THING:ItemHardJetpack}. Durch Einstellen des Schubwerts wird die Beschleunigung verändert, während die Aktivierung des Stabilisators das Spacepack bei Erreichen einer bestimmten Höhe zum Schweben bringt.
+Es ist unentbehrlich für den Bau, den Bergbau und die allgemeine Fortbewegung, hat zehn Speicherplätze und lässt {LINK:Stationeers;Stationeer's} mit 3m/s fliegen, verglichen mit dem stärkeren {THING:ItemHardJetpack}. Durch Einstellen des Schubwerts wird die Beschleunigung verändert, während die Aktivierung des Stabilisators das Spacepack bei Erreichen einer bestimmten Höhe zum Schweben bringt.
 ANWENDUNG: 'J' zum Aktivieren; 'Leertaste' zum Aufwärtsfliegen; 'Linke Strg' zum Abwärtsfliegen; und 'WASD' zum Bewegen.</Description>
     </RecordThing>
     <RecordThing>
@@ -5974,7 +5973,7 @@ Wenn der KoolAuger voll ist, nimmt er kein weiteres Eis an, bis der Gas- oder Fl
     <RecordThing>
       <Key>ItemMKIIDrill</Key>
       <Value>Mk II Handbohrmaschiene</Value>
-      <Description>Die abgewinkelte Handbohrmaschine {LINK:ExMin;ExMin} ist seit Jahrzehnten ein Begleiter von {LINK:Stationeers;Stationeers}. Unverzichtbar für den Zusammenbau und die Demontage verschiedener Gegenstände und Strukturen, unabhängig von Schwerkraft, Druck oder Temperatur.</Description>
+      <Description>Die abgewinkelte Handbohrmaschine {LINK:ExMin;ExMin} ist seit Jahrzehnten ein Begleiter von {LINK:Stationeers;Stationeer's}. Unverzichtbar für den Zusammenbau und die Demontage verschiedener Gegenstände und Strukturen, unabhängig von Schwerkraft, Druck oder Temperatur.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIIMiningDrill</Key>
@@ -5994,7 +5993,7 @@ Wenn der KoolAuger voll ist, nimmt er kein weiteres Eis an, bis der Gas- oder Fl
     <RecordThing>
       <Key>ItemMKIIDuctTape</Key>
       <Value>Mk II Isolierband</Value>
-      <Description>In der fernen Vergangenheit lehrte einer der großen Meister der Erde eine Generation von "Fix-It People", dass Klebeband die Antwort auf jedes Problem sei. Die {LINK:Stationeers;Stationeers} haben bewiesen, dass dies stimmt, solange das Problem ein beschädigtes {THING:ItemEvaSuit}, {THING:ItemJetpackBasic}, {THING:ItemSpaceHelmet} oder sogar ein {THING:StructureSolarPanel} ist.
+      <Description>In der fernen Vergangenheit lehrte einer der großen Meister der Erde eine Generation von "Fix-It People", dass Klebeband die Antwort auf jedes Problem sei. Die {LINK:Stationeers;Stationeer's} haben bewiesen, dass dies stimmt, solange das Problem ein beschädigtes {THING:ItemEvaSuit}, {THING:ItemJetpackBasic}, {THING:ItemSpaceHelmet} oder sogar ein {THING:StructureSolarPanel} ist.
 Anwendung: Klebeband in die aktive Hand nehmen und die rechte Maustaste gedrückt halten, um den Schaden automatisch zu reparieren.</Description>
     </RecordThing>
     <RecordThing>
@@ -6249,7 +6248,7 @@ Da der N Flow-P ein passives System ist, gleicht er den Druck in jedem einzelnen
       <Key>LogicStepSequencer8</Key>
       <Value>Logik schrittbasierter Synthesyzer</Value>
       <Description>Die {LINK:ODA;ODA} dulden keine Soundtracks oder andere Ablenkungen.
-Aus diesem Grund mussten {LINK:Stationeers;Stationeers} ihre eigene musikalische Begleitung für die anstrengende Arbeit des Aufbaus und der Instandhaltung der Infrastruktur außerhalb der Welt schaffen.
+Aus diesem Grund mussten {LINK:Stationeers;Stationeer's} ihre eigene musikalische Begleitung für die anstrengende Arbeit des Aufbaus und der Instandhaltung der Infrastruktur außerhalb der Welt schaffen.
 Ein zentraler Bestandteil dieses Zeitvertreibs ist der Step-Sequenzer, mit dem Stationeers kurze musikalische Muster oder Schleifen abspielen können.
 
 {HEADER:DIY MUSIC - GETTING STARTED}
@@ -11089,7 +11088,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     <Record>
       <Key>LogicTypeColor</Key>
       <Value>
-        Ob aus Gründen der Klarheit, der Sicherheit oder der einfachen Ästhetik, {LINK:Stationeers;Stationeers} haben Zugang zu einem kleinen Regenbogen von Farben für ihre Konstruktionen. Dies sind die Farbeinstellungen für Geräte, dargestellt als Ganzzahl.
+        Ob aus Gründen der Klarheit, der Sicherheit oder der einfachen Ästhetik, {LINK:Stationeers;Stationeer's} haben Zugang zu einem kleinen Regenbogen von Farben für ihre Konstruktionen. Dies sind die Farbeinstellungen für Geräte, dargestellt als Ganzzahl.
 
 0: Blau
 1: Grau
