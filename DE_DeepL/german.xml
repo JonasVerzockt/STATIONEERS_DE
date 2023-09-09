@@ -1017,7 +1017,7 @@ Die "Nuke"-Batteriezelle hat eine Leistung von 2,3 Megawatt (2304 kW), was die V
     <RecordThing>
       <Key>ItemBatteryCharger</Key>
       <Value>Bausatz (Batterieladegerät)</Value>
-      <Description>Dieser Bausatz ergibt einen 5-Schlitz {THING:ItemBatteryCharger}.</Description>
+      <Description>Dieser Bausatz ergibt einen 5-Slot {THING:ItemBatteryCharger}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemBook</Key>
@@ -1028,37 +1028,37 @@ Die "Nuke"-Batteriezelle hat eine Leistung von 2,3 Megawatt (2304 kW), was die V
       <Key>ItemCableCoil</Key>
       <Value>Kabel (Dünn)</Value>
       <Description>Körperliche Metaphern sind müde und anthropozentrisch, aber es war Frida Stuppen, die erste {LINK:ODA;ODA} Administratorin, die sagte: "Lasst die Verkabelung wie den Nerv und das Gefäß sein, das Strom und Daten gleichermaßen durch Systeme überträgt, die wir zwischen den Sternen schmieden. Spätere Kommentatoren meinten, dass sie damit lediglich eine zweifelhafte Wirtschaftlichkeit romantisch beschönigen wollte. Wie dem auch sei, die Standardverkabelung ist der Ausgangspunkt für jedes {LINK:Stationeers;Stationeer's} Netzwerk.
-Normale Spulen haben eine maximale Wattleistung von 5 kW. Für Anwendungen mit höheren Strömen sollten Sie {THING:ItemCableCoilHeavy} verwenden.</Description>
+Normale Kabel haben eine maximale Wattleistung von 5 kW. Für Anwendungen mit höheren Strömen sollten Sie {THING:ItemCableCoilHeavy} verwenden.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemChemLightBlue</Key>
       <Value>Knicklicht (Blau)</Value>
-      <Description>Eine sichere und leicht rabiate Quelle für blaues Licht. Schnell zu aktivieren.</Description>
+      <Description>Eine sichere und leicht rabiate Quelle für blaues Licht.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemChemLightGreen</Key>
       <Value>Knicklicht (Grün)</Value>
-      <Description>Belebe den tristen, luftleeren Felsen mit diesem leuchtenden grünen Licht. Zum Aktivieren einrasten.</Description>
+      <Description>Belebe den tristen, luftleeren Felsen mit diesem leuchtenden grünen Licht.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemChemLightRed</Key>
       <Value>Knicklicht (Rot)</Value>
-      <Description>Ein roter Leuchtstab. Zum Aktivieren einrasten. Dann greife nach den Lasern.</Description>
+      <Description>Ein rotes Knicklicht.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemChemLightWhite</Key>
       <Value>Knicklicht (Weiß)</Value>
-      <Description>Durch Einrasten des Leuchtstabs wird ein blasses Leuchten aktiviert, das die Dunkelheit in Schach hält.</Description>
+      <Description>Durch das knicken des Knicklichts wird ein blasses Leuchten aktiviert, das die Dunkelheit in Schach hält.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemChemLightYellow</Key>
       <Value>Knicklicht (Gelb)</Value>
-      <Description>Vertreibe die Dunkelheit mit diesem gelben Leuchtstab.</Description>
+      <Description>Vertreibe die Dunkelheit mit diesem gelben Knicklicht.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCoalOre</Key>
       <Value>Erz (Kohle)</Value>
-      <Description>Ohne bescheidene, brennbare Kohle wäre die Menschheit nicht in den Weltraum vorgedrungen. Verbrennen Sie sie in einem {THING:StructureSolidFuelGenerator}, schmelzen Sie sie in der {THING:StructureFurnace}, um {LINK:AlloysPage;Legierungen} zu erzeugen, oder verwenden Sie sie in der {THING:ApplianceReagentProcessor}, um {THING:ItemSprayCanBlack} herzustellen.</Description>
+      <Description>Ohne bescheidene, brennbare Kohle wäre die Menschheit nicht in den Weltraum vorgedrungen. Verbrennen Sie die Kohle in einem {THING:StructureSolidFuelGenerator}, schmelzen Sie es in dem {THING:StructureFurnace}, um {LINK:AlloysPage;Legierungen} zu erzeugen, oder verwenden Sie es in dem {THING:ApplianceReagentProcessor}, um {THING:ItemSprayCanBlack} herzustellen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCompositeFloorGrating</Key>
@@ -1068,7 +1068,7 @@ Normale Spulen haben eine maximale Wattleistung von 5 kW. Für Anwendungen mit h
     <RecordThing>
       <Key>ItemCorn</Key>
       <Value>Mais</Value>
-      <Description>Eine Grundnahrungspflanze mit langer Wachstumszeit. Ihr geringer Bedarf an Dunkelheit ermöglicht ein beschleunigtes Wachstum, wenn sie mit zusätzlichem Licht versorgt wird.</Description>
+      <Description>Eine Grundnahrungspflanze mit langer Wachstumszeit. Ihr geringer Bedarf an Dunkelheit ermöglicht ein beschleunigtes Wachstum, wenn es mit zusätzlichem Licht versorgt wird.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCrowbar</Key>
@@ -1083,7 +1083,7 @@ Normale Spulen haben eine maximale Wattleistung von 5 kW. Für Anwendungen mit h
     <RecordThing>
       <Key>ItemDrill</Key>
       <Value>Handbohrmaschine</Value>
-      <Description>Die abgewinkelte Handbohrmaschine {LINK:ExMin;ExMin} ist seit Jahrzehnten ein Begleiter von {LINK:Stationeers;Stationeer's}. Unverzichtbar für den Zusammenbau und die Demontage verschiedener Gegenstände und Strukturen, unabhängig von Schwerkraft, Druck oder Temperatur.</Description>
+      <Description>Die abgewinkelte Handbohrmaschine von {LINK:ExMin;ExMin} ist seit Jahrzehnten ein Begleiter von {LINK:Stationeers;Stationeer's}. Unverzichtbar für den Zusammenbau und die Demontage verschiedener Gegenstände und Strukturen, unabhängig von Schwerkraft, Druck oder Temperatur.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemDuctTape</Key>
@@ -1121,7 +1121,7 @@ Wenn ein Ei befruchtet wurde und zwischen 20C-30C gehalten wird, entsteht ein {T
     <RecordThing>
       <Key>ItemEvaSuit</Key>
       <Value>Raumanzug</Value>
-      <Description>Der Raumanzug ist der Grundanzug {LINK:Stationeers;Stationeer's}, den man zum Überleben in der unwirtlichen Umgebung des Weltraums braucht. Weitere Informationen zu Raumanzügen finden Sie im {LINK:EVAPage;EVA suit} Leitfaden.</Description>
+      <Description>Der Raumanzug ist der Grundanzug für {LINK:Stationeers;Stationeer's}, den man zum Überleben in der unwirtlichen Umgebung des Weltraums braucht. Weitere Informationen zu Raumanzügen finden Sie im {LINK:EVAPage;Raumanzüge} Leitfaden.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemFertilizedEgg</Key>
@@ -1141,7 +1141,7 @@ Wenn ein Ei befruchtet wurde und zwischen 20C-30C gehalten wird, entsteht ein {T
     <RecordThing>
       <Key>ItemFlour</Key>
       <Value>Mehl</Value>
-      <Description>Pulverisiertes {THING:ItemWheat}, ein Hauptbestandteil vieler Lebensmittel, die von {THING:ApplianceMicrowave} und {THING:ItemKitAutomatedOven} hergestellt werden.</Description>
+      <Description>Pulverisiertes {THING:ItemWheat}, ein Hauptbestandteil vieler Lebensmittel, die von der {THING:ApplianceMicrowave} und dem {THING:ItemKitAutomatedOven} hergestellt werden.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterCarbonDioxide</Key>
@@ -1158,14 +1158,13 @@ Achten Sie darauf, den Druck nicht über 10MPa zu erhöhen, sonst kann es "knall
     <RecordThing>
       <Key>ItemGasCanisterEmpty</Key>
       <Value>Gasflasche</Value>
-      <Description>Das tragbare Gerät {SLOT:GasCanister} ist die {LINK:Stationeers;Stationeer's} Grundeinheit der {LINK:GasPage;Gas} Lieferung. Rated to a standard pressure of 8000kPa (80 atmospheres), empty gas canisters can be mounted to a ?
-{THING:DynamicGasCanisterAir} oder {THING:StructureGasTankStorage} zum Auffüllen verwendet werden.
+      <Description>Das tragbare Gerät {SLOT:GasCanister} ist die {LINK:Stationeers;Stationeer's} Grundeinheit der {LINK:GasPage;Gas} Lieferung. Für einen Standarddruck von 8000kPa (80 Atmosphären) ausgelegt. Kann in einem {THING:DynamicGasCanisterAir} oder {THING:StructureGasTankStorage} zum Auffüllen verwendet werden.
 Achten Sie darauf, den Druck nicht über 10 MPa zu erhöhen, da es sonst zu einem "Knall" kommen kann. Enthält 64 Liter Gas.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterFuel</Key>
       <Value>Gasflasche (Treibstoff)</Value>
-      <Description>Der orangefarbene tragbare {LINK:GasPage;Treibstoff} {SLOT:GasCanister} liefert ein 64L-Gemisch aus 66% {GAS:Volatiles}/34% {GAS:Oxygen} für den Antrieb von Gegenständen wie dem {THING:ItemWeldingTorch} und dem {THING:DynamicGenerator}. Alle Gasbehälter sind voll, wenn sie bei einem Druck von 8000kPa (80 Atmosphären) hergestellt werden, und können zum Auffüllen an eine {THING:DynamicGasCanisterAir} oder {THING:StructureGasTankStorage} angeschlossen werden.
+      <Description>Der orangefarbene tragbare {LINK:GasPage;Treibstoff} {SLOT:GasCanister} liefert ein 64L-Gemisch aus 66% {GAS:Volatiles}/34% {GAS:Oxygen} für den Antrieb von Dingen wie dem {THING:ItemWeldingTorch} und dem {THING:DynamicGenerator}. Alle Gasbehälter sind voll, wenn sie einem Druck von 8000kPa (80 Atmosphären) erreicht haben und können zum Auffüllen an einen {THING:DynamicGasCanisterAir} oder {THING:StructureGasTankStorage} angeschlossen werden.
 Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst zu einem "Knall" kommen kann.</Description>
     </RecordThing>
     <RecordThing>
@@ -1175,24 +1174,24 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemGasCanisterNitrogen</Key>
       <Value>Gasflasche (Stickstoff)</Value>
-      <Description>Das grüne tragbare {GAS:Nitrogen} {SLOT:GasCanister} liefert Treibmittel für die {THING:ItemSpacepack} und die {THING:ItemHardJetpack}. Alle Gaskanister sind voll, wenn sie bei einem Druck von 8000 kPa (80 Atmosphären) hergestellt werden, und können zum Auffüllen an eine {THING:DynamicGasCanisterAir} oder {THING:StructureGasTankStorage} angebracht werden.
+      <Description>Das grüne tragbare {GAS:Nitrogen} {SLOT:GasCanister} liefert Treibmittel für den {THING:ItemSpacepack} und dem {THING:ItemHardJetpack}. Alle Gaskanister sind bei der Herstellung bis zu einem Druck von 8000kPa (80 Atmosphären) gefüllt und können zum Nachfüllen an einem {THING:DynamicGasCanisterAir} oder {THING:StructureGasTankStorage} befestigt werden.
 Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst zu einem "Knall" kommen kann.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterOxygen</Key>
       <Value>Gasflasche (Sauerstoff)</Value>
-      <Description>Der weiße tragbare 64L {SLOT:GasCanister} ist die {LINK:Stationeers;Stationeer's} Grundeinheit der {GAS:Oxygen} Lieferung. Alle Gasbehälter sind bei der Herstellung bis zu einem Druck von 8000 kPa (80 Atmosphären) gefüllt und können zum Auffüllen an eine {THING:DynamicGasCanisterAir} oder {THING:StructureGasTankStorage} angebracht werden.
+      <Description>Der weiße tragbare 64L {SLOT:GasCanister} ist die {LINK:Stationeers;Stationeer's} Grundeinheit der {GAS:Oxygen} Lieferung. Alle Gaskanister sind bei der Herstellung bis zu einem Druck von 8000kPa (80 Atmosphären) gefüllt und können zum Nachfüllen an einem {THING:DynamicGasCanisterAir} oder {THING:StructureGasTankStorage} befestigt werden.
 Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst zu einem "Knall" kommen kann.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterWater</Key>
       <Value>Gasflasche (Wasser)</Value>
-      <Description>Der blaue tragbare Behälter {GAS:Water} {SLOT:GasCanister} hat ein Fassungsvermögen von 64 L und versorgt {GAS:Water} mit Gegenständen wie der {THING:DynamicHydroponics} Einheit oder jedem anderen angeschlossenen System. Alle Flüssigkeitsbehälter sind bei der Herstellung bis zu einem Druck von 8000kPa (80 Atmosphären) gefüllt und können zum Auffüllen an eine {THING:DynamicLiquidCanisterEmpty} oder {THING:StructureLiquidTankStorage} angebracht werden.</Description>
+      <Description>Der blaue tragbare Behälter {GAS:Water} {SLOT:GasCanister} hat ein Fassungsvermögen von 64 L und versorgt {GAS:Water} mit Gegenständen wie der {THING:DynamicHydroponics} Einheit oder jedem anderen angeschlossenen System.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidCanisterEmpty</Key>
       <Value>Flüssigkeitstank</Value>
-      <Description>Enthält {GAS:Water}, wenn Sie welche haben.</Description>
+      <Description>Enthält {GAS:Water}, wenn Sie welches haben.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterCarbonDioxide</Key>
@@ -5733,7 +5732,7 @@ Es kann mit dem {THING:StructureHarvie} automatisiert werden. Beachten Sie, dass
     <RecordThing>
       <Key>ItemMiningBeltAdvanced</Key>
       <Value>Bergbaugürtel MK II</Value>
-      <Description>Der Bergbaugürtel Mk II ähnelt dem {THING:ItemMiningBelt}, hat aber 13 statt der üblichen 8 Schlitze, um die Dauer deiner Bergbautouren zu verlängern. Außerdem bietet er Platz für zwei Werkzeuge.</Description>
+      <Description>Der Bergbaugürtel Mk II ähnelt dem {THING:ItemMiningBelt}, hat aber 13 statt der üblichen 8 Slots, um die Dauer deiner Bergbautouren zu verlängern. Außerdem bietet er Platz für zwei Werkzeuge.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureWindTurbine</Key>
@@ -6819,7 +6818,7 @@ Hinweis: Der Cannifier zeigt eine Fehlermeldung auf seinem Aktivierungsschalter 
     <RecordThing>
       <Key>ItemMiningBeltMKII</Key>
       <Value>Bergbaugürtel MK II</Value>
-      <Description>Der Mk II ist ein größerer und geräumigerer Minengürtel, der dem {THING:ItemMiningBelt} ähnelt, aber 13 statt der üblichen 8 Schlitze hat, um die Länge deiner Minenreisen zu erhöhen. Außerdem bietet er Platz für zwei Werkzeuge.</Description>
+      <Description>Der Mk II ist ein größerer und geräumigerer Minengürtel, der dem {THING:ItemMiningBelt} ähnelt, aber 13 statt der üblichen 8 Slots hat, um die Länge deiner Minenreisen zu erhöhen. Außerdem bietet er Platz für zwei Werkzeuge.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidPipeOneWayValve</Key>
@@ -7317,7 +7316,7 @@ Destabilisieren: Verringert die Stabilität aller Gene um 10%, mit Ausnahme eine
       <Value>Genomtrenner (Pflanze)</Value>
       <Description>Mit dem Genetic Splicer kann eine einzelne {LINK:GeneticsPage;Gene} von einer 'Quell'-Pflanze auf eine andere 'Ziel'-Pflanze desselben Typs kopiert werden. Nach dem Kopieren wird die Quellpflanze zerstört.
         
-Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel in den linken Schlitz (Quelle) und eine andere Pflanze oder einen Samenbeutel desselben Typs in den rechten Schlitz (Ziel). Mit den Pfeiltasten können Sie ein Gen auswählen. Schließen Sie die Schiebetür und drücken Sie die grüne Aktivierungstaste. Sobald das Spleißen begonnen hat, wird das Gerät gesperrt, bis der Vorgang abgeschlossen ist (was etwa zwanzig Minuten dauert). Wenn Sie den Spleißvorgang abbrechen möchten, können Sie das Gerät ausschalten oder als letzten Ausweg das Gerät abnehmen.</Description>
+Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel in den linken Slot (Quelle) und eine andere Pflanze oder einen Samenbeutel desselben Typs in den rechten Slot (Ziel). Mit den Pfeiltasten können Sie ein Gen auswählen. Schließen Sie die Schiebetür und drücken Sie die grüne Aktivierungstaste. Sobald das Spleißen begonnen hat, wird das Gerät gesperrt, bis der Vorgang abgeschlossen ist (was etwa zwanzig Minuten dauert). Wenn Sie den Spleißvorgang abbrechen möchten, können Sie das Gerät ausschalten oder als letzten Ausweg das Gerät abnehmen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ApplianceSeedTray</Key>
