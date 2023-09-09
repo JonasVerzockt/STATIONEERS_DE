@@ -675,7 +675,7 @@ So... noch Eis nötig? {LINK:AutomatedRocketPage;Raketenthema} hilft für die Ei
     </StationpediaPage>
     <StationpediaPage>
       <Key>EVAPage</Key>
-      <Title>EVA-Anzüge</Title>
+      <Title>Raumanzüge</Title>
       <Text>Dein Raumanzug bietet dir eine tragbare Atmosphäre mit einstellbaren Druck- und Klimaeinstellungen (Temperatur) sowie ein Warnsystem, das dich warnt, wenn die Atmosphäre im Anzug gefährlich wird. Damit er richtig funktioniert, brauchst du einen geeigneten Helm sowie geeignete Gaskanister und Filter in den verschiedenen Slots des Anzugs. Diese müssen regelmäßig ausgetauscht werden und können auch mit einem {THING:StructureSuitStorage} wieder aufgeladen (oder entleert) werden.
 
         Es gibt verschiedene Anzüge, darunter den {THING:ItemEvaSuit} und den druck- und temperaturbeständigeren {THING:ItemHardSuit}.
