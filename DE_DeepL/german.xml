@@ -8727,11 +8727,11 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     </Record>
     <Record>
       <Key>TemperatureUp</Key>
-      <Value>Temp. absenken</Value>
+      <Value>Temp. anheben</Value>
     </Record>
     <Record>
       <Key>TemperatureDown</Key>
-      <Value>Temp. anheben</Value>
+      <Value>Temp. absenken</Value>
     </Record>
     <Record>
       <Key>ThrustUp</Key>
