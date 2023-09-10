@@ -1840,7 +1840,7 @@ Weitere Informationen zur Verwendung des Klimageräts finden Sie auf der Seite {
     </RecordThing>
     <RecordThing>
       <Key>StructureAreaPowerControl</Key>
-      <Value>Stromversorgungs-Controller</Value>
+      <Value>Stromversorgungs-Kontroller</Value>
       <Description>Ein Area Power Control (APC) hat drei Hauptfunktionen:
 Sein Hauptzweck ist die Regulierung des Stromflusses, um eine ununterbrochene Leistung von Geräten und Maschinen zu gewährleisten, insbesondere von solchen mit schwankendem Stromverbrauch.
 APCs schaffen auch Subnetze, da die Geräte auf der anderen Seite eines APCs im Hauptnetz nicht sichtbar sind.
@@ -1848,7 +1848,7 @@ Schließlich lädt ein APC Batterien auf, die im Falle eines Ausfalls das Subnet
     </RecordThing>
     <RecordThing>
       <Key>StructureAreaPowerControlReversed</Key>
-      <Value>Stromversorgungs-Controller invertiert</Value>
+      <Value>Stromversorgungs-Kontroller invertiert</Value>
       <Description>Ein Area Power Control (APC) hat drei Hauptfunktionen.
 Sein Hauptzweck ist die Regulierung des Stromflusses, um eine ununterbrochene Leistung von Geräten und Maschinen zu gewährleisten, insbesondere von solchen mit schwankendem Stromverbrauch.
 APCs schaffen auch Subnetze, da die Geräte auf der anderen Seite eines APCs im Hauptnetz nicht sichtbar sind.
