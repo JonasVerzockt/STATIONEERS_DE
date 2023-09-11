@@ -1146,26 +1146,26 @@ Wenn ein Ei befruchtet wurde und zwischen 20C-30C gehalten wird, entsteht ein {T
     <RecordThing>
       <Key>ItemGasCanisterCarbonDioxide</Key>
       <Value>Gasflasche (CO2)</Value>
-      <Description>Bei der Herstellung ist der {GAS:CarbonDioxide} {SLOT:GasCanister} mit einem Druck von 8000kPa (80 Atmosphären) gefüllt und standardmäßig grau gefärbt. Er wird als Sekundärbrennstoff im {THING:ItemJetpackBasic} verwendet und kann zum Nachfüllen an einen {THING:DynamicGasCanisterAir} oder {THING:StructureGasTankStorage} montiert werden.
-Achten Sie beim Nachfüllen darauf, dass Sie nicht zu viel Druck aufbauen, sonst könnte es "knallen".</Description>
+      <Description>Bei der Herstellung wird der {GAS:CarbonDioxide} {SLOT:GasCanister} standardmäßig grau gefärbt. Er wird als Sekundärbrennstoff im {THING:ItemJetpackBasic} verwendet und kann zum Nachfüllen an einen {THING:DynamicGasCanisterAir} oder {THING:StructureGasTankStorage} montiert werden. Alle Gaskanister sind voll, wenn sie bis zu einem Druck von 8000kPa (80 Atmosphären) gefüllt sind.
+Achte beim Nachfüllen darauf, dass du nicht zu viel Druck aufbaust, sonst könnte es 'knallen'.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterPollutants</Key>
       <Value>Gasflasche (Schadstoffe)</Value>
-      <Description>Dieses Nebenprodukt der Verhüttung - manchmal einfach als "X" bezeichnet - ist zwar ein Gift, doch seine spezifische Wärme macht es zu einem wertvollen Kühlmittel. Alle Gaskanister sind bei der Herstellung bis zu einem Druck von 8000kPa (80 Atmosphären) gefüllt und können zum Nachfüllen an einem {THING:DynamicGasCanisterAir} oder {THING:StructureGasTankStorage} befestigt werden.
-Achten Sie darauf, den Druck nicht über 10MPa zu erhöhen, sonst kann es "knallen".</Description>
+      <Description>Dieses Nebenprodukt der Metallverarbeitung - manchmal einfach als "X" bezeichnet - ist zwar ein Gift, aber seine spezifische Wärme macht es zu einem wertvollen Kühlmittel. Alle Gaskanister sind voll, wenn sie bis zu einem Druck von 8000kPa (80 Atmosphären) gefüllt sind und können zum Nachfüllen an einem {THING:DynamicGasCanisterAir} oder {THING:StructureGasTankStorage} befestigt werden. 
+Achten Sie darauf, den Druck nicht über 10MPa zu erhöhen, sonst könnte es "knallen".</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterEmpty</Key>
       <Value>Gasflasche</Value>
-      <Description>Das tragbare Gerät {SLOT:GasCanister} ist die {LINK:Stationeers;Stationeer's} Grundeinheit der {LINK:GasPage;Gas} Lieferung. Für einen Standarddruck von 8000kPa (80 Atmosphären) ausgelegt. Kann in einem {THING:DynamicGasCanisterAir} oder {THING:StructureGasTankStorage} zum Auffüllen verwendet werden.
-Achten Sie darauf, den Druck nicht über 10 MPa zu erhöhen, da es sonst zu einem "Knall" kommen kann. Enthält 64 Liter Gas.</Description>
+      <Description>Der tragbare {SLOT:GasCanister} ist die {LINK:Stationeers;Stationeer's} Grundeinheit der {LINK:GasPage;Gase} Lieferung. Für einen Standarddruck von 8000kPa (80 Atmosphären) ausgelegt, können leere Gaskanister an einem {THING:DynamicGasCanisterAir} oder {THING:StructureGasTankStorage} zur Wiederbefüllung montiert werden.
+Achten Sie darauf, den Druck nicht über 10MPa zu erhöhen, sonst könnte es 'knallen'.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterFuel</Key>
       <Value>Gasflasche (Treibstoff)</Value>
-      <Description>Der orangefarbene tragbare {LINK:GasPage;Treibstoff} {SLOT:GasCanister} liefert ein 64L-Gemisch aus 66% {GAS:Volatiles}/34% {GAS:Oxygen} für den Antrieb von Dingen wie dem {THING:ItemWeldingTorch} und dem {THING:DynamicGenerator}. Alle Gasbehälter sind voll, wenn sie einem Druck von 8000kPa (80 Atmosphären) erreicht haben und können zum Auffüllen an einen {THING:DynamicGasCanisterAir} oder {THING:StructureGasTankStorage} angeschlossen werden.
-Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst zu einem "Knall" kommen kann.</Description>
+      <Description>Der orangefarbene tragbare {LINK:GasPage;Treibstoff} {SLOT:GasCanister} liefert ein Gemisch aus 66% {GAS:Volatiles}/34% {GAS:Oxygen} für den Betrieb von Dingen wie dem {THING:ItemWeldingTorch} und dem {THING:DynamicGenerator}. Alle Gaskanister sind voll, wenn sie bis zu einem Druck von 8000kPa (80 Atmosphären) gefüllt sind und können zum Nachfüllen an einem {THING:DynamicGasCanisterAir} oder {THING:StructureGasTankStorage} befestigt werden.
+Achten Sie darauf, den Druck nicht über 10MPa zu erhöhen, sonst könnte es "knallen".</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterVolatiles</Key>
@@ -1174,13 +1174,13 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemGasCanisterNitrogen</Key>
       <Value>Gasflasche (Stickstoff)</Value>
-      <Description>Das grüne tragbare {GAS:Nitrogen} {SLOT:GasCanister} liefert Treibmittel für den {THING:ItemSpacepack} und dem {THING:ItemHardJetpack}. Alle Gaskanister sind bei der Herstellung bis zu einem Druck von 8000kPa (80 Atmosphären) gefüllt und können zum Nachfüllen an einem {THING:DynamicGasCanisterAir} oder {THING:StructureGasTankStorage} befestigt werden.
+      <Description>Das grüne tragbare {GAS:Nitrogen} {SLOT:GasCanister} liefert Treibmittel für den {THING:ItemSpacepack} und dem {THING:ItemHardJetpack}. Alle Gaskanister sind voll, wenn sie bis zu einem Druck von 8000kPa (80 Atmosphären) gefüllt sind und können zum Nachfüllen an einem {THING:DynamicGasCanisterAir} oder {THING:StructureGasTankStorage} befestigt werden.
 Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst zu einem "Knall" kommen kann.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterOxygen</Key>
       <Value>Gasflasche (Sauerstoff)</Value>
-      <Description>Der weiße tragbare 64L {SLOT:GasCanister} ist die {LINK:Stationeers;Stationeer's} Grundeinheit der {GAS:Oxygen} Lieferung. Alle Gaskanister sind bei der Herstellung bis zu einem Druck von 8000kPa (80 Atmosphären) gefüllt und können zum Nachfüllen an einem {THING:DynamicGasCanisterAir} oder {THING:StructureGasTankStorage} befestigt werden.
+      <Description>Der weiße tragbare {SLOT:GasCanister} ist die {LINK:Stationeers;Stationeer's} Grundeinheit der {GAS:Oxygen} Lieferung. Alle Gaskanister sind voll, wenn sie bis zu einem Druck von 8000kPa (80 Atmosphären) gefüllt sind und können zum Nachfüllen an einem {THING:DynamicGasCanisterAir} oder {THING:StructureGasTankStorage} befestigt werden.
 Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst zu einem "Knall" kommen kann.</Description>
     </RecordThing>
     <RecordThing>
