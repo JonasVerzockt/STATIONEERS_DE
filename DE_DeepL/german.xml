@@ -1230,7 +1230,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidTankStorage</Key>
-      <Value>Flüssigkeitstank Anschluss</Value>
+      <Value>Bausatz (Flüssigkeitsflaschen Anschluss)</Value>
       <Description>Dieser Satz ergibt eine {THING:ItemLiquidTankStorage} zum Nachfüllen einer {THING:ItemLiquidCanisterEmpty}.</Description>
     </RecordThing>
     <RecordThing>
@@ -1256,7 +1256,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemGoldOre</Key>
       <Value>Erz (Gold)</Value>
-      <Description>Das im gesamten Sonnensystem überraschend häufig vorkommende {REAGENT:Gold} stammt vermutlich aus dem Herzen von Supernovae, sammelte sich in den frühen Stadien der Sonnenentstehung als Staub an und ging dann in die langsam anwachsenden Planetenkörper über. Heute ist {REAGENT:Gold} ein geschätztes Element in der {LINK:Stationeers;Stationeer}-Konstruktion und wird nicht wegen seiner Schönheit, sondern wegen seiner Zuverlässigkeit geschätzt: träge, langlebig, leitfähig und äußerst stabil - die Stärke von Gold ist, dass es nichts tut.</Description>
+      <Description>Das im gesamten Sonnensystem überraschend häufig vorkommende {REAGENT:Gold} stammt vermutlich aus dem Herzen von der Supernova, sammelte sich in den frühen Stadien der Sonnenentstehung als Staub an und ging dann in die langsam anwachsenden Planetenkörper über. Heute ist {REAGENT:Gold} ein geschätztes Element in der {LINK:Stationeers;Stationeer}-Konstruktion und wird nicht wegen seiner Schönheit, sondern wegen seiner Zuverlässigkeit geschätzt: träge, langlebig, leitfähig und äußerst stabil - die Stärke von Gold ist, dass es nichts tut.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemGrenade</Key>
@@ -1271,7 +1271,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemHealPill</Key>
       <Value>Heilpille</Value>
-      <Description>Drei Jahrhunderte pharmazeutischer Technologie komprimiert in einer kleinen, leicht einzunehmenden Pille: Die Heal Pill, auch bekannt als Proton Pill, auch bekannt als Mr. Happy, enthält aktive Enzyme, therapeutische Proteine, modifizierte mikrobielle Stämme und Säugetierzelllinien-Analoga in einer Einzeldosis von hoher Reinheit, Wirksamkeit und Potenz, die eine schnelle parasympathische Immunantwort potenziert.</Description>
+      <Description>Drei Jahrhunderte pharmazeutischer Technologie komprimiert in einer kleinen, leicht einzunehmenden Pille: Die Heilpille, auch bekannt als Mr. Happy, enthält aktive Enzyme, therapeutische Proteine, modifizierte mikrobielle Stämme und Säugetierzelllinien-Analoga in einer Einzeldosis von hoher Reinheit, Wirksamkeit und Potenz, die eine schnelle parasympathische Immunantwort potenziert.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemHEMDroidRepairKit</Key>
@@ -1286,7 +1286,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemHydroponicTray</Key>
       <Value>Bausatz (Hydroponisches Beet)</Value>
-      <Description>Diese Kits schaffen eine {THING:StructureHydroponicsTray} für den Anbau verschiedener Pflanzen.</Description>
+      <Description>Diese Kits schaffen ein {THING:StructureHydroponicsTray} für den Anbau verschiedener Pflanzen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemIce</Key>
@@ -1306,17 +1306,17 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemIronIngot</Key>
       <Value>Barren (Eisen)</Value>
-      <Description>Eisenbarren sind die grundlegendste Baueinheit, die der {LINK:Stationeers;Stationeer}-Art zur Verfügung steht. Sie werden durch Schmelzen von {THING:ItemIronOre} in den {THING:StructureFurnace} und {THING:StructureArcFurnace} hergestellt und zur Herstellung einer Vielzahl von Gegenständen verwendet.</Description>
+      <Description>Eisenbarren sind die grundlegendste Baueinheit, die dem {LINK:Stationeers;Stationeer's} zur Verfügung steht. Sie werden durch Schmelzen von {THING:ItemIronOre} in den {THING:StructureFurnace} und {THING:StructureArcFurnace} hergestellt und zur Herstellung einer Vielzahl von Gegenständen verwendet.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemIronOre</Key>
       <Value>Erz (Eisen)</Value>
-      <Description>Eisen ist im gesamten Sonnensystem reichlich vorhanden und wird am häufigsten von {LINK:Stationeers;Stationeer's} für den Bau von Basen außerhalb der Erde verwendet. Es kann sowohl zu {THING:ItemIronIngot} als auch zu {THING:ItemSteelIngot} verhüttet werden.</Description>
+      <Description>Eisen ist im gesamten Sonnensystem reichlich vorhanden und wird am häufigsten von {LINK:Stationeers;Stationeer's} für den Bau von Basen außerhalb der Erde verwendet. Es kann sowohl zu {THING:ItemIronIngot} als auch zu {THING:ItemSteelIngot} verarbeitet werden.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAirlock</Key>
       <Value>Bausatz (Luftschleuse)</Value>
-      <Description>Dieser Bausatz erzeugt ein einziges {THING:StructureAirlock}-Portal.</Description>
+      <Description>Dieser Bausatz erzeugt eine {THING:StructureAirlock}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAtmospherics</Key>
@@ -1326,12 +1326,12 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemKitBattery</Key>
       <Value>Bausatz (Batterie klein)</Value>
-      <Description>Dieser Bausatz erzeugt eine einzige Station {THING:StructureBattery}.</Description>
+      <Description>Dieser Bausatz erzeugt eine {THING:StructureBattery}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitCentrifuge</Key>
       <Value>Bausatz (Zentrifuge)</Value>
-      <Description>Dieser Bausatz erzeugt eine einzige {THING:StructureCentrifuge}.</Description>
+      <Description>Dieser Bausatz erzeugt eine {THING:StructureCentrifuge}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitChute</Key>
@@ -1341,22 +1341,22 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemKitComputer</Key>
       <Value>Bausatz (Computer)</Value>
-      <Description>Dieser Bausatz erzeugt eine einzige {THING:StructureComputer}.</Description>
+      <Description>Dieser Bausatz erzeugt einen {THING:StructureComputer}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitConsole</Key>
       <Value>Bausatz (Konsolen)</Value>
-      <Description>Dieser Bausatz erzeugt eine Reihe von {THING:StructureConsole}s und Anzeigen wie die {THING:StructureConsoleLED1x2}.</Description>
+      <Description>Dieser Bausatz erzeugt eine Reihe von {THING:StructureConsole}n und Anzeigen wie die {THING:StructureConsoleLED1x2}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitConveyor</Key>
       <Value>Bausatz (Förderband)</Value>
-      <Description>Mit diesem Bausatz werden Schachtelemente, wie z. B. die {THING:StructureConveyorStraight}.</Description>
+      <Description>Dieser Bausatz erzeugt Förderelemente, wie z. B. den {THING:StructureConveyorStraight}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitCryoTube</Key>
       <Value>Bausatz (Kälteschlaf)</Value>
-      <Description>Dieser Bausatz stellt eine Reihe von Kryoröhren her, die zur Heilung von Spielern und Spielerorganen sowie zur Wiederbelebung toter Spieler verwendet werden können</Description>
+      <Description>Dieser Bausatz stellt eine Reihe von Kryoröhren her, die zur Heilung von Spielern und Spielerorganen sowie zur Wiederbelebung toter Spieler verwendet werden können.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitEngine</Key>
@@ -1371,7 +1371,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemKitFurnace</Key>
       <Value>Bausatz (Schmelzofen)</Value>
-      <Description>Dieser Bausatz erzeugt eine einzige {THING:StructureFurnace}.</Description>
+      <Description>Dieser Bausatz erzeugt eine {THING:StructureFurnace}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFurniture</Key>
@@ -1381,12 +1381,12 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemKitGyroscope</Key>
       <Value>Bausatz (Gyroskop)</Value>
-      <Description>Dieser Bausatz erzeugt eine einzige {THING:StructureGyroscope}.</Description>
+      <Description>Dieser Bausatz erzeugt eine {THING:StructureGyroscope}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitRegulator</Key>
       <Value>Bausatz (Gasdruckregler)</Value>
-      <Description>Dieser Bausatz erzeugt eine einzige {THING:StructurePressureRegulator}.</Description>
+      <Description>Dieser Bausatz erzeugt eine {THING:StructurePressureRegulator}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSensor</Key>
@@ -1416,7 +1416,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemKitStellarAnchor</Key>
       <Value>Bausatz (Weltraumanker)</Value>
-      <Description>Dieser Bausatz erzeugt eine einzige {THING:StructureStellarAnchor}.</Description>
+      <Description>Dieser Bausatz erzeugt eine {THING:StructureStellarAnchor}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStorage</Key>
@@ -1431,12 +1431,12 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemKitTorpedoTube</Key>
       <Value>Bausatz (Torpedo Startvorrichtung)</Value>
-      <Description>Dieser Bausatz erzeugt eine einzige {THING:StructureTorpedoTube}.</Description>
+      <Description>Dieser Bausatz erzeugt eine {THING:StructureTorpedoTube}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitTurret</Key>
       <Value>Bausatz (Geschützturm)</Value>
-      <Description>Dieser Bausatz erzeugt eine einzige {THING:StructureGunTurret}.</Description>
+      <Description>Dieser Bausatz erzeugt eine {THING:StructureGunTurret}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWall</Key>
