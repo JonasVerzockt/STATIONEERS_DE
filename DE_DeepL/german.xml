@@ -1226,12 +1226,12 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemGasTankStorage</Key>
       <Value>Bausatz (Gasflaschen Anschluss)</Value>
-      <Description>Dieser Satz ergibt eine {THING:ItemGasTankStorage} zum Nachfüllen einer {THING:ItemGasCanisterEmpty}.</Description>
+      <Description>Dieser Bausatz erzeugt eine eine {THING:ItemGasTankStorage} zum Nachfüllen einer {THING:ItemGasCanisterEmpty}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidTankStorage</Key>
       <Value>Bausatz (Flüssigkeitsflaschen Anschluss)</Value>
-      <Description>Dieser Satz ergibt eine {THING:ItemLiquidTankStorage} zum Nachfüllen einer {THING:ItemLiquidCanisterEmpty}.</Description>
+      <Description>Dieser Bausatz erzeugt eine eine {THING:ItemLiquidTankStorage} zum Nachfüllen einer {THING:ItemLiquidCanisterEmpty}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemGlassSheets</Key>
@@ -1360,7 +1360,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     </RecordThing>
     <RecordThing>
       <Key>ItemKitEngine</Key>
-      <Value>Bausatz (Triebwerk)</Value>
+      <Value>Bausatz (Motor)</Value>
       <Description>Dieser Bausatz stellt einen Motor her.</Description>
     </RecordThing>
     <RecordThing>
@@ -1371,22 +1371,22 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemKitFurnace</Key>
       <Value>Bausatz (Schmelzofen)</Value>
-      <Description>Dieser Bausatz erzeugt eine {THING:StructureFurnace}.</Description>
+      <Description>Dieser Bausatz erzeugt einen {THING:StructureFurnace}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFurniture</Key>
       <Value>Bausatz (Möbel)</Value>
-      <Description>Dieser Satz ergibt einen Bereich von {LINK:FurniturePage;Möbel}.</Description>
+      <Description>Dieser Bausatz erzeugt {LINK:FurniturePage;Möbel}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitGyroscope</Key>
       <Value>Bausatz (Gyroskop)</Value>
-      <Description>Dieser Bausatz erzeugt eine {THING:StructureGyroscope}.</Description>
+      <Description>Dieser Bausatz erzeugt ein {THING:StructureGyroscope}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitRegulator</Key>
       <Value>Bausatz (Gasdruckregler)</Value>
-      <Description>Dieser Bausatz erzeugt eine {THING:StructurePressureRegulator}.</Description>
+      <Description>Dieser Bausatz erzeugt ein {THING:StructurePressureRegulator}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSensor</Key>
@@ -1396,7 +1396,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemKitSign</Key>
       <Value>Bausatz (Schilder)</Value>
-      <Description>Dieser Satz ergibt eine {THING:StructureSign1x1} oder {THING:StructureSign2x1}.</Description>
+      <Description>Dieser Bausatz erzeugt ein {THING:StructureSign1x1} oder {THING:StructureSign2x1}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSleeper</Key>
@@ -1406,7 +1406,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemKitSolarPanel</Key>
       <Value>Bausatz (Solarmodul)</Value>
-      <Description>Dieser Bausatz enthält eine {THING:StructureSolarPanel} und mehrere Varianten.</Description>
+      <Description>Dieser Bausatz enthält ein {THING:StructureSolarPanel} und mehrere Varianten.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStairs</Key>
@@ -1416,17 +1416,17 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemKitStellarAnchor</Key>
       <Value>Bausatz (Weltraumanker)</Value>
-      <Description>Dieser Bausatz erzeugt eine {THING:StructureStellarAnchor}.</Description>
+      <Description>Dieser Bausatz erzeugt ein {THING:StructureStellarAnchor}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStorage</Key>
       <Value>Bausatz (Lagerung)</Value>
-      <Description>Dieser Satz ergibt eine {THING:StructureSuitStorage}.</Description>
+      <Description>Dieser Bausatz erzeugt ein {THING:StructureSuitStorage}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitTank</Key>
-      <Value>Bausatz (Tank)</Value>
-      <Description>Dieser Satz ergibt entweder eine {THING:StructureTankBig} oder {THING:StructureTankSmall}.</Description>
+      <Value>Bausatz (Gastank)</Value>
+      <Description>Dieser Bausatz erzeugt entweder ein {THING:StructureTankBig} oder {THING:StructureTankSmall}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitTorpedoTube</Key>
@@ -1436,7 +1436,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemKitTurret</Key>
       <Value>Bausatz (Geschützturm)</Value>
-      <Description>Dieser Bausatz erzeugt eine {THING:StructureGunTurret}.</Description>
+      <Description>Dieser Bausatz erzeugt ein {THING:StructureGunTurret}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWall</Key>
@@ -1451,12 +1451,12 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemLightSword</Key>
       <Value>Lichtschwert</Value>
-      <Description>Eine charmante, wenn auch nutzlose Pseudowaffe. (Nur für Kreative.)</Description>
+      <Description>Eine charmante, wenn auch nutzlose Pseudowaffe. (Nur für Kreativ.)</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMilk</Key>
       <Value>Milch</Value>
-      <Description>Um es ganz offen zu sagen: Es handelt sich nicht wirklich um "Milch", sondern um eine {LINK:Agrizero;Agrizero-konzipierte}-Synthese aus 5ml {THING:ItemSoyOil} und 5g {THING:ItemFern}, die in der {THING:ApplianceChemistryStation} fein gemischt wird. Erstaunlich sättigend, kann es als Zutat zum Kochen anderer {LINK:FoodPage;Nahrung} in der {THING:ApplianceMicrowave} oder {THING:StructureAutomatedOven} verwendet werden. Denken Sie, {THING:ItemMuffin}.</Description>
+      <Description>Um es ganz offen zu sagen: Es handelt sich nicht wirklich um "Milch", sondern um eine {LINK:Agrizero;Agrizero-konzipierte}-Synthese aus 5ml {THING:ItemSoyOil} und 5g {THING:ItemFern}, die in der {THING:ApplianceChemistryStation} fein gemischt wird. Erstaunlich sättigend, kann es als Zutat zum Kochen anderer {LINK:FoodPage;Nahrung} in der {THING:ApplianceMicrowave} oder {THING:StructureAutomatedOven} verwendet werden.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningBelt</Key>
@@ -3756,7 +3756,7 @@ Ausgang = 1, wobei die darin befindlichen Gegenstände und eventuell der Hauptge
     <RecordThing>
       <Key>ItemKitDynamicLiquidCanister</Key>
       <Value>Bausatz (Tragbarer Flüssigkeitstank)</Value>
-      <Description>Dieser Satz ergibt eine {THING:DynamicLiquidCanisterEmpty}.</Description>
+      <Description>Dieser Bausatz erzeugt eine eine {THING:DynamicLiquidCanisterEmpty}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemFlowerBlue</Key>
@@ -5640,7 +5640,7 @@ Eine Vierergruppe von nabenmontierten Elektromotoren treibt den verstärkten Alu
     <RecordThing>
       <Key>ItemKitUprightWindTurbine</Key>
       <Value>Bausatz (Aufrechte Windturbine)</Value>
-      <Description>Dieser Satz ergibt eine {THING:StructureUprightWindTurbine}.</Description>
+      <Description>Dieser Bausatz erzeugt eine eine {THING:StructureUprightWindTurbine}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureUprightWindTurbine</Key>
@@ -5656,7 +5656,7 @@ Obwohl die Windturbine so optimiert ist, dass sie auch in Welten mit niedriger A
     <RecordThing>
       <Key>ItemKitCrateMkII</Key>
       <Value>Bausatz (Kiste Mk II)</Value>
-      <Description>Dieser Satz ergibt eine {THING:CrateMkII}.</Description>
+      <Description>Dieser Bausatz erzeugt eine eine {THING:CrateMkII}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemEmptyCan</Key>
@@ -5743,7 +5743,7 @@ Obwohl die Windturbine so optimiert ist, dass sie auch auf Welten mit niedriger 
     <RecordThing>
       <Key>ItemKitWindTurbine</Key>
       <Value>Bausatz (Wind-Turbine)</Value>
-      <Description>Dieser Satz ergibt eine {THING:StructureWindTurbine}.</Description>
+      <Description>Dieser Bausatz erzeugt eine eine {THING:StructureWindTurbine}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPipeLiquid</Key>
