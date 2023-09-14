@@ -1461,7 +1461,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemMiningBelt</Key>
       <Value>Bergbau-Gürtel</Value>
-      <Description>Ursprünglich von {LINK:Recurso;Recurso Espaciais} für den Asteroidenabbau entwickelt, bietet der {LINK:Stationeers;Stationeer's} Minengürtel Platz für zwei {LINK:ToolPage;Werkzeuge} und acht {LINK:OrePage;Erz} Stapel. Während man den Gürtel trägt, wird {LINK:OrePage;Erz} automatisch dort gelagert, wenn er abgebaut wird. Flüchtige und temperaturabhängige Stoffe bleiben in der umweltkontrollierten Einheit stabil.</Description>
+      <Description>Ursprünglich von {LINK:Recurso;Recurso} für den Asteroidenabbau entwickelt, bietet der {LINK:Stationeers;Stationeer's} Minengürtel Platz für zwei {LINK:ToolPage;Werkzeuge} und acht {LINK:OrePage;Erz} Stapel. Während man den Gürtel trägt, wird {LINK:OrePage;Erz} automatisch dort gelagert, wenn er abgebaut wird. Flüchtige und temperaturabhängige Stoffe bleiben im Gürtel stabil. Vorsicht! Vielleicht keine vollen Gürtel in den Recycler reinwerfen. Außer man will sie wirklich zerstören!</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningDrill</Key>
@@ -1481,7 +1481,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemPillHeal</Key>
       <Value>Heilpille</Value>
-      <Description>Drei Jahrhunderte pharmazeutischer Technologie komprimiert in einer kleinen, leicht einzunehmenden Pille: Die Heal Pill, auch bekannt als Proton Pill, auch bekannt als Mr. Happy, enthält aktive Enzyme, therapeutische Proteine, modifizierte mikrobielle Stämme und Säugetierzelllinien-Analoga in einer Einzeldosis von hoher Reinheit, Wirksamkeit und Potenz, die eine schnelle parasympathische Immunantwort potenziert.</Description>
+      <Description>Drei Jahrhunderte pharmazeutischer Technologie komprimiert in einer kleinen, leicht einzunehmenden Pille: Die Heilpille, auch bekannt als Proton Pille, auch bekannt als Mr. Happy, enthält aktive Enzyme, therapeutische Proteine, modifizierte mikrobielle Stämme und Säugetierzelllinien-Analoga in einer Einzeldosis von hoher Reinheit, Wirksamkeit und Potenz, die eine schnelle parasympathische Immunantwort potenziert.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPillStun</Key>
@@ -1491,7 +1491,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemPipeAnalyizer</Key>
       <Value>Rohranalysierer (Gas)</Value>
-      <Description>Dieser Bausatz erzeugt eine {THING:StructurePipeAnalysizer}.</Description>
+      <Description>Dieser Bausatz erzeugt einen {THING:StructurePipeAnalysizer}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeCorner</Key>
@@ -1506,42 +1506,42 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemPipeCrossJunction3</Key>
       <Value>Gasrohr 3-Wege-Kreuzung</Value>
-      <Description>Dieser Bausatz erzeugt eine {THING:StructurePipeCrossJunction3}.</Description>
+      <Description>Dieser Bausatz erzeugt ein {THING:StructurePipeCrossJunction3}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeCrossJunction5</Key>
       <Value>Gasrohr 5-Wege-Kreuzung</Value>
-      <Description>Dieser Bausatz erzeugt eine {THING:StructurePipeCrossJunction5}.</Description>
+      <Description>Dieser Bausatz erzeugt ein {THING:StructurePipeCrossJunction5}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeCrossJunction6</Key>
       <Value>Gasrohr 6-Wege-Kreuzung</Value>
-      <Description>Dieser Bausatz erzeugt eine {THING:StructurePipeCrossJunction6}.</Description>
+      <Description>Dieser Bausatz erzeugt ein {THING:StructurePipeCrossJunction6}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeDigitalValve</Key>
       <Value>Digitales Ventil</Value>
-      <Description>Dieser Bausatz erzeugt eine {THING:StructureDigitalValve}.</Description>
+      <Description>Dieser Bausatz erzeugt ein {THING:StructureDigitalValve}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeGasMixer</Key>
       <Value>Bausatz (Gasmischer)</Value>
-      <Description>Dieser Bausatz erzeugt eine {THING:StructureGasMixer}.</Description>
+      <Description>Dieser Bausatz erzeugt einen {THING:StructureGasMixer}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeLabel</Key>
       <Value>Rohr Etikett</Value>
-      <Description>Dieser Bausatz erzeugt eine {THING:StructurePipeLabel}.</Description>
+      <Description>Dieser Bausatz erzeugt ein {THING:StructurePipeLabel}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeMeter</Key>
       <Value>Druckmesser (Gas)</Value>
-      <Description>Dieser Bausatz erzeugt eine {THING:StructurePipeMeter}.</Description>
+      <Description>Dieser Bausatz erzeugt ein {THING:StructurePipeMeter}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeRadiator</Key>
       <Value>Radiator (Gas)</Value>
-      <Description>Dieser Bausatz erzeugt eine {THING:StructurePipeRadiator}.</Description>
+      <Description>Dieser Bausatz erzeugt ein {THING:StructurePipeRadiator}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeStraight</Key>
@@ -1556,7 +1556,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemPipeValve</Key>
       <Value>Bausatz (Ventil Gas)</Value>
-      <Description>Dieser Bausatz erzeugt eine {THING:StructureValve}.</Description>
+      <Description>Dieser Bausatz erzeugt ein {THING:StructureValve}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeVolumePump</Key>
@@ -1571,12 +1571,12 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemPowerConnector</Key>
       <Value>Stromanschluss</Value>
-      <Description>Dieser Bausatz erzeugt eine {THING:StructurePowerConnector}.</Description>
+      <Description>Dieser Bausatz erzeugt einen {THING:StructurePowerConnector}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemReagentMix</Key>
       <Value>Reagenzmischung</Value>
-      <Description>Das Reagenziengemisch ist reines Potenzial. Es handelt sich um eine Aufschlämmung von undifferenzierten {LINK:OrePage;Erze}, die von der {THING:StructureRecycler} ausgegeben wird und in die {THING:StructureCentrifuge} eingespeist werden kann, um die einzelnen Materialien zu trennen und zu gewinnen. Das Reagenzgemisch wird auch von der {THING:StructureFurnace} ausgegeben, wenn der aktuelle Inhalt ausgeworfen wird, ohne einen bestimmten Barren zu schmelzen.</Description>
+      <Description>Das Reagenziengemisch ist reines Potenzial. Es handelt sich um eine Aufschlämmung von undifferenzierten {LINK:OrePage;Erze}, die vom {THING:StructureRecycler} ausgegeben wird und in die {THING:StructureCentrifuge} eingespeist werden kann, um die einzelnen Materialien zu trennen und zu gewinnen. Das Reagenzgemisch wird auch von der {THING:StructureFurnace} ausgegeben, wenn der aktuelle Inhalt ausgeworfen wird, ohne einen bestimmten Barren zu schmelzen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemRoadFlare</Key>
@@ -1585,13 +1585,13 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     </RecordThing>
     <RecordThing>
       <Key>ItemRTG</Key>
-      <Value>Radio isotopen Generator</Value>
+      <Value>Radio Isotopen Generator</Value>
       <Description>Dieser Bausatz erzeugt das Wunder der modernen Wissenschaft, eine {THING:ItemRTG}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemRTGSurvival</Key>
-      <Value>Radio isotopen Generator</Value>
-      <Description>Dieser Bausatz erzeugt eine {THING:ItemRTGSurvival}.</Description>
+      <Value>Radio Isotopen Generator</Value>
+      <Description>Dieser Bausatz erzeugt einen {THING:ItemRTGSurvival}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemScanner</Key>
@@ -1616,14 +1616,14 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemSpaceHelmet</Key>
       <Value>Raumanzughelm</Value>
-      <Description>Der Basis-Raumhelm isoliert {LINK:Stationeers;Stationeer's} gegen alles, von hartem Vakuum bis hin zu unangenehmen Kochgerüchen. Er bietet eine druckkontrollierte, atmungsaktive Atmosphäre und verfügt über ein eingebautes Licht, das von Ihrem {THING:ItemEvaSuit} {THING:ItemBatteryCell}.
+      <Description>Der Basis-Raumanzughelm isoliert {LINK:Stationeers;Stationeer's} gegen alles, von hartem Vakuum bis hin zu unangenehmen Kochgerüchen. Er bietet eine druckkontrollierte, atmungsaktive Atmosphäre und verfügt über ein eingebautes Licht.
 Außerdem verfügt er über eine Ver-/Entriegelungsfunktion, um ein versehentliches Öffnen zu verhindern, sowie über eine Spülfunktion, um die interne Atmosphäre zu entleeren und zu ersetzen. Wenn sie beschädigt ist, können Sie sie mit {THING:ItemDuctTape} reparieren oder mit {THING:AppliancePaintMixer} in einer Farbe Ihrer Wahl streichen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemSpacepack</Key>
       <Value>Jetpack (Weltraum)</Value>
       <Description>Das grundlegende {LINK:CHAC;CHAC} Spacepack ist 'technisch' kein Jetpack, sondern ein Gasantrieb. Es kann mit jedem Gas betrieben werden, solange der Innendruck des {LINK:AtmosphericsPage;Gasflasche} höher ist als der Außendruck. Wenn der Außendruck höher ist, funktioniert das Spacepack nicht.
-Es ist unentbehrlich für den Bau, den Bergbau und die allgemeine Fortbewegung, hat zehn Speicherplätze und lässt {LINK:Stationeers;Stationeer's} mit 3m/s fliegen, verglichen mit den stärkeren {THING:ItemJetpackBasic} oder {THING:ItemHardJetpack}. Durch Einstellen des Schubwerts wird die Beschleunigung verändert, während die Aktivierung des Stabilisators das Spacepack bei Erreichen einer bestimmten Höhe zum Schweben bringt.
+Es ist unentbehrlich für den Bau, den Bergbau und die allgemeine Fortbewegung, hat zehn Speicherplätze und lässt {LINK:Stationeers;Stationeer's} mit 3m/s fliegen, verglichen mit den stärkeren {THING:ItemJetpackBasic} oder {THING:ItemHardJetpack} ist dieser relativ schwach. Durch Einstellen des Schubwerts wird die Beschleunigung verändert, während die Aktivierung des Stabilisators das Spacepack bei Erreichen einer bestimmten Höhe zum Schweben bringt.
 ANWENDUNG: 'J' zum Aktivieren; 'Leertaste' zum Hochfliegen; 'Linke STRG' zum Absteigen; und 'WASD' zum Bewegen.</Description>
     </RecordThing>
     <RecordThing>
@@ -1694,7 +1694,7 @@ ANWENDUNG: 'J' zum Aktivieren; 'Leertaste' zum Hochfliegen; 'Linke STRG' zum Abs
     <RecordThing>
       <Key>ItemSteelIngot</Key>
       <Value>Barren (Stahl)</Value>
-      <Description>Stahlblöcke sind eine Metalllegierung, die in einem {THING:StructureFurnace} durch Schmelzen von {THING:ItemIronOre} und {THING:ItemCoalOre} im Verhältnis 3:1 hergestellt wird.
+      <Description>Stahlbarren sind eine Metalllegierung, die in einem {THING:StructureFurnace} durch Schmelzen von {THING:ItemIronOre} und {THING:ItemCoalOre} im Verhältnis 3:1 hergestellt wird.
 Es mag nicht elegant sein, aber {THING:ItemOxite} und {THING:ItemVolatiles} können in einem Ofen im Verhältnis 1:2 kombiniert werden, um das notwendige Gasgemisch zum Schmelzen zu erzeugen.</Description>
     </RecordThing>
     <RecordThing>
@@ -1715,18 +1715,18 @@ Es mag nicht elegant sein, aber {THING:ItemOxite} und {THING:ItemVolatiles} kön
     <RecordThing>
       <Key>ItemTankConnector</Key>
       <Value>Gastankanschluss</Value>
-      <Description>Dieser Bausatz erzeugt eine {THING:StructureTankConnector}.</Description>
+      <Description>Dieser Bausatz erzeugt ein {THING:StructureTankConnector}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemTankConnectorLiquid</Key>
       <Value>Flüssigtankanschluss</Value>
-      <Description>Dieser Bausatz erzeugt eine {THING:StructureTankConnectorLiquid}.</Description>
+      <Description>Dieser Bausatz erzeugt ein {THING:StructureTankConnectorLiquid}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemToolBelt</Key>
       <Value>Werkzeuggürtel</Value>
       <Description>Wenn es ein Ausrüstungsstück gibt, das vor allem das {LINK:Stationeers;Stationeer} Leben verkörpert, dann ist es der bescheidene Werkzeuggürtel (Anm. d. Red.: In einer kürzlich durchgeführten {LINK:ODA;ODA} Umfrage über ikonische Stationeer-Ausrüstung wurden auch die rauchenden, giftigen Ruinen eines überdruckgefüllten {THING:StructureFurnace} inmitten der verkohlten Überreste deiner letzten Basis sehr hoch bewertet).
-Der Werkzeuggürtel wurde entwickelt, um die strengsten ODA-Sicherheitsstandards zu erfüllen, und fasst in seinen acht Fächern nur eines: Werkzeuge und {THING:ItemCableCoil}. Nicht zu verwechseln mit dem {THING:ItemMiningBelt}.</Description>
+Der Werkzeuggürtel wurde entwickelt, um die strengsten ODA-Sicherheitsstandards zu erfüllen, und fasst in seinen acht Fächern nur eines: Werkzeuge und {THING:ItemCableCoil}. Nicht zu verwechseln mit dem {THING:ItemMiningBelt}. Vorsicht! Vielleicht keine vollen Gürtel in den Recycler reinwerfen. Außer man will sie wirklich zerstören!</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemUraniumOre</Key>
@@ -1736,12 +1736,12 @@ Der Werkzeuggürtel wurde entwickelt, um die strengsten ODA-Sicherheitsstandards
     <RecordThing>
       <Key>ItemWallCooler</Key>
       <Value>Wandkühler</Value>
-      <Description>Dieser Bausatz erzeugt eine {THING:StructureWallCooler}.</Description>
+      <Description>Dieser Bausatz erzeugt ein {THING:StructureWallCooler}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWallHeater</Key>
       <Value>Wandheizer</Value>
-      <Description>Dieser Bausatz erzeugt eine {THING:ItemWallHeater}.</Description>
+      <Description>Dieser Bausatz erzeugt ein {THING:ItemWallHeater}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWallLight</Key>
@@ -1772,7 +1772,7 @@ Der Arlite ist eine verbesserte Version des klassischen "Zairo"-Modells, das zue
     <RecordThing>
       <Key>MotherboardLogic</Key>
       <Value>Logik-Hauptplatine</Value>
-      <Description>Hauptplatinen sind mit {THING:StructureComputer}s verbunden, um verschiedene technische Funktionen auszuführen.
+      <Description>Hauptplatinen sind mit {THING:StructureComputer} verbunden, um verschiedene technische Funktionen auszuführen.
 Die {LINK:Norsec;Norsec-konzipierter} K-cops Logik-Hauptplatine ermöglicht {LINK:Stationeers;Stationeer's} das Setzen von Variablen und Aktionen auf bestimmte {LINK:LogicUnitPage;Logik}-gesteuerte Elemente.</Description>
     </RecordThing>
     <RecordThing>
@@ -6813,7 +6813,7 @@ Hinweis: Der Cannifier zeigt eine Fehlermeldung auf seinem Aktivierungsschalter 
     <RecordThing>
       <Key>ItemMkIIToolbelt</Key>
       <Value>Werkzeuggürtel MK II</Value>
-      <Description>Ein großer Werkzeuggürtel mit zehn Fächern und zwei zusätzlichen, allgemeinen Fächern, in denen Sie alles transportieren können, was Ihnen gefällt.</Description>
+      <Description>Ein großer Werkzeuggürtel mit zehn Fächern und zwei zusätzlichen, allgemeinen Fächern, in denen Sie alles transportieren können, was Ihnen gefällt. Vorsicht! Vielleicht keine vollen Gürtel in den Recycler reinwerfen. Außer man will sie wirklich zerstören!</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningBeltMKII</Key>
