@@ -2129,8 +2129,7 @@ Eine immer wiederkehrende {LINK:Stationeers;Stationeer} Beschwerde konzentriert 
       <Key>StructureFiltration</Key>
       <Value>Filtration</Value>
       <Description>Die Filtrationseinheit basiert auf einem seit langem bestehenden {LINK:ExMin;ExMin}-System, das seinerseits auf älteren Konstruktionen ungewisser Herkunft beruht. Sie ist in der {THING:ItemKitAtmospherics} erhältlich.
-Das Gerät hat sich jedoch als unentbehrlich für {LINK:Stationeers;Stationeer} atmosphärische Systeme erwiesen, da es mit Hilfe einer Doppelfilteranordnung zwei {LINK:GasPage;Gase} gleichzeitig aus einem einzigen Rohrnetz filtern kann. Das Gerät hat einen Eingang und einen Filterausgang sowie einen ungefilterten Ausgang für eventuelle Restgase.
-</Description>
+Das Gerät hat sich jedoch als unentbehrlich für {LINK:Stationeers;Stationeer} atmosphärische Systeme erwiesen, da es mit Hilfe einer Doppelfilteranordnung zwei {LINK:GasPage;Gase} gleichzeitig aus einem einzigen Rohrnetz filtern kann. Das Gerät hat einen Eingang und einen Filterausgang sowie einen ungefilterten Ausgang für eventuelle Restgase.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureFlashingLight</Key>
@@ -2989,7 +2988,7 @@ Beachten Sie, dass Transformatoren als Datenisolatoren fungieren und verhindern,
     </RecordThing>
     <RecordThing>
       <Key>StructureTankBig</Key>
-      <Value>Großer Tank</Value>
+      <Value>Großer Gastank</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPotato</Key>
@@ -4776,16 +4775,16 @@ Bei der Landung setzt die Rakete einen Lander und die im {THING:StructureModular
     </RecordThing>
     <RecordThing>
       <Key>StructureTankSmallInsulated</Key>
-      <Value>Struktur Tank klein isoliert</Value>
+      <Value>Gastank klein (isoliert)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureTankBigInsulated</Key>
-      <Value>Tank groß (isoliert)</Value>
+      <Value>Gastank groß (isoliert)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitTankInsulated</Key>
-      <Value>Bausatz (Tank isoliert)</Value>
+      <Value>Bausatz (Gastank isoliert)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitDebug</Key>
@@ -6017,7 +6016,7 @@ Anwendung: Klebeband in die aktive Hand nehmen und die rechte Maustaste gedrück
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLiquidTankInsulated</Key>
-      <Value>Bausatz (isolierter Flüssigkeitstank)</Value>
+      <Value>Bausatz (Flüssigkeitstank isoliert)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
