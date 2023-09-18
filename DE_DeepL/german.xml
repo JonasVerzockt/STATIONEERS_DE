@@ -1797,7 +1797,7 @@ Die {LINK:Norsec;Norsec-konzipierter} K-cops 10-10 Sorter-Hauptplatine ermöglic
     </RecordThing>
     <RecordThing>
       <Key>NpcGrounder</Key>
-      <Value>NPC Kriecher</Value>
+      <Value>NPC-Kriecher</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -1823,20 +1823,20 @@ Die {LINK:Norsec;Norsec-konzipierter} K-cops 10-10 Sorter-Hauptplatine ermöglic
     <RecordThing>
       <Key>StructureAirConditioner</Key>
       <Value>Klimagerät</Value>
-      <Description>Mit der Klimaanlage {THING:ItemKitAtmospherics} wird die Temperatur des Eingangsgases mit der Klimaanlage {LINK:ExMin;ExMin-konzipierte} erhöht oder gesenkt.
+      <Description>Mit der Klimaanlage wird die Temperatur des Eingangsgases erhöht oder gesenkt.
 	  
 Das Gerät hat drei Rohranschlüsse: Eingang, Ausgang und Abfall. Das in den Eingang eingespeiste Gas wird erwärmt oder abgekühlt, um die Zieltemperatur zu erreichen, während mit dem Gas im Abgasnetz das Gegenteil geschieht.
 
-Mehrere Effizienzmultiplikatoren können sich auf den Energieverbrauch des Klimageräts auswirken; diese können auf der grünen Informationstafel des Geräts angezeigt werden. Mit zunehmender Temperaturdifferenz zwischen Eingangs- und Abgastemperatur nimmt der Temperaturdifferenz-Effizienzmultiplikator ab. Wenn die Eingangs- oder Ablufttemperatur extrem heiß oder kalt ist, sinkt der Betriebstemperaturwirkungsgrad. Wenn die Eingangs- oder Abflussleitung einen annähernd niedrigen Druck aufweist, sinkt der Druckwirkungsgrad.
+Mehrere Effizienzmultiplikatoren können sich auf den Energieverbrauch des Klimageräts auswirken; diese können auf der grünen Informationstafel des Geräts angezeigt werden. Mit zunehmender Temperaturdifferenz zwischen Eingangs- und Abgastemperatur nimmt der Temperaturdifferenz-Effizienzmultiplikator ab. Wenn die Eingangs- oder Ablufttemperatur extrem heiß oder kalt ist, sinkt der Betriebstemperaturwirkungsgrad. Wenn die Eingangs- oder Ausgangsleitung einen annähernd niedrigen Druck aufweist, sinkt der Druckwirkungsgrad.
 
-{THING:StructurePipeRadiator}s kann nützlich sein, um extreme Rohrtemperaturen wieder auf normale Welttemperaturen zu bringen.
+{THING:StructurePipeRadiator} kann nützlich sein, um extreme Rohrtemperaturen wieder auf normale Welttemperaturen zu bringen.
   
 Weitere Informationen zur Verwendung des Klimageräts finden Sie auf der Seite {LINK:TemperatureControlPage;Temperaturkontrolle} Leitfaden-Seite.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureAirlock</Key>
       <Value>Schleuse</Value>
-      <Description>Die Standardschleuse ist ein angetriebenes Portal, das den Hauptbestandteil einer Schleusenkammer bildet. Solange die Schleuse nicht verschlossen ist, kann sie manuell mit einem Brecheisen geöffnet werden.</Description>
+      <Description>Die Standardschleuse ist eine angetriebene Tür, das den Hauptbestandteil einer Schleusenkammer bildet. Solange die Schleuse nicht verschlossen ist, kann sie manuell mit einem Brecheisen geöffnet werden.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureAreaPowerControl</Key>
@@ -1885,17 +1885,17 @@ Schließlich lädt ein APC Batterien auf, die im Falle eines Ausfalls das Subnet
       <Description>Die {LINK:Sinotai;Sinotai} 'Dianzi'-Stationsbatterie ist das Herzstück der meisten {LINK:Stationeers;Stationeer} Basen und dient der groß angelegten, zuverlässigen Energiespeicherung.
 Es gibt eine Vielzahl von Vorsichtsmaßnahmen bei der Konstruktion von elektrischen Systemen, die Batterien verwenden, und jeder erfahrene Stationeer hat eine Geschichte zu erzählen, daher das Stationeer-Sprichwort: "Dianzi kocht, aber es brät auch.
 {HEADER:POWER OUTPUT}
-Mit einer Speicherkapazität von bis zu 3600000 W gibt es keine praktischen Grenzen für den Durchsatz, daher ist es ratsam, sie zu verwenden {THING:ItemCableCoilHeavy}. Erfahrene Elektroingenieure werden auch denjenigen ins Gesicht lachen, die es versäumen, ihre Stromerzeugungsnetze mit einem {THING:StructureAreaPowerControl} und {THING:StructureTransformer} zu trennen.</Description>
+Mit einer Speicherkapazität von bis zu 3600000 W gibt es keine praktischen Grenzen für den Durchsatz, daher ist es ratsam, sie mit {THING:ItemCableCoilHeavy} zu verwenden. Erfahrene Elektroingenieure werden auch denjenigen ins Gesicht lachen, die es versäumen, ihre Stromerzeugungsnetze mit einem {THING:StructureAreaPowerControl} und {THING:StructureTransformer} zu trennen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureBatteryCharger</Key>
       <Value>Batteriezellen-Ladegerät</Value>
-      <Description>Das 5-Schacht-Ladegerät {LINK:Xigo;Xigo} passt zu den Akkus {THING:ItemBatteryCell}, {THING:ItemBatteryCellLarge} und {THING:ItemBatteryCellNuclear} und liefert bis zu 500 W an jede angeschlossene Zelle. Hinweis: Das ältere Design bedeutet, dass dieses Gerät eine geringe Leistungsaufnahme (10 W) hat, auch wenn es nicht lädt.</Description>
+      <Description>Das 5-Slot-Ladegerät {LINK:Xigo;Xigo} passt zu den Akkus {THING:ItemBatteryCell}, {THING:ItemBatteryCellLarge} und {THING:ItemBatteryCellNuclear} und liefert bis zu 500 W an jede angeschlossene Zelle. Hinweis: Das ältere Design bedeutet, dass dieses Gerät eine geringe Leistungsaufnahme (10 W) hat, auch wenn es nicht lädt.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureBench</Key>
       <Value>Werkbank</Value>
-      <Description>Wenn es Zeit zum Sitzen ist, unterstützt Sie nichts so gut wie eine Bank. Diese Werkbank ist elektrisch, so dass Sie Geräte wie den {THING:ApplianceMicrowave} verwenden können.</Description>
+      <Description>Wenn es Zeit zum Sitzen ist, unterstützt Sie nichts so gut wie eine Bank. Diese Werkbank ist elektrisch, so dass Sie Geräte wie die {THING:ApplianceMicrowave} verwenden zu können.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureBlastDoor</Key>
