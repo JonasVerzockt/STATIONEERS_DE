@@ -7038,12 +7038,12 @@ Der Sender muss auf die Basisstation ausgerichtet werden, um Leistung zu übertr
     </RecordThing>
     <RecordThing>
       <Key>Battery_Wireless_cell</Key>
-      <Value>Batterie Funkzelle</Value>
+      <Value>Batterie Drahtlos</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>Battery_Wireless_cell_Big</Key>
-      <Value>Batterie Funkzelle (groß)</Value>
+      <Value>Batterie Drahtlos (groß)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -8115,7 +8115,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     </Record>
     <Record>
       <Key>Back</Key>
-      <Value>Zurück</Value>
+      <Value>Rucksack</Value>
     </Record>
     <Record>
       <Key>Brain</Key>
