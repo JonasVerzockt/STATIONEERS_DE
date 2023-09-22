@@ -1900,8 +1900,8 @@ Mit einer Speicherkapazität von bis zu 3600000 W gibt es keine praktischen Gren
     <RecordThing>
       <Key>StructureBlastDoor</Key>
       <Value>Explosionsschutztür</Value>
-      <Description>Die luftdichten und nahezu unzerstörbaren Sprengtüren der ursprünglichen "Millmar"-Serie wurden vom Bergbaugiganten {LINK:Recurso;Recurso} entwickelt, um Asteroidenabbauanlagen vor explosiver Dekompression auf dem Niveau eines nuklearen Unfalls zu schützen.
-Wenn nicht gerade eine taschengroße Singularität in den lokalen Raum-Zeit-Rahmen blinkt, gibt es praktisch keine Grenze für den Druck, den diese Schutztüren aushalten können - ideal für den Bau von Schleusen in druckempfindlichen Umgebungen.</Description>
+      <Description>Die luftdichten und nahezu unzerstörbaren Explosionsschutztüren der ursprünglichen "Millmar"-Serie wurden vom Bergbaugiganten {LINK:Recurso;Recurso} entwickelt, um Asteroidenabbauanlagen vor explosiver Dekompression auf dem Niveau eines nuklearen Unfalls zu schützen.
+Wenn nicht gerade eine taschengroße Singularität in den lokalen Raum-Zeit-Rahmen blinkt, gibt es praktisch keine Grenze für den Druck, den diese Explosionsschutztüren aushalten können - ideal für den Bau von Schleusen in druckempfindlichen Umgebungen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCorner</Key>
@@ -1942,13 +1942,13 @@ Die normale Spule hat eine maximale Wattleistung von 5 kW. Für Anwendungen mit 
     <RecordThing>
       <Key>StructureCamera</Key>
       <Value>Kamera</Value>
-      <Description>Nichts sagt so sehr "Ich sorge mich" wie eine Sicherheitskamera, die mit einer {THING:StructureMotionSensor} und einer {THING:StructureConsole} mit einer {THING:CircuitboardCameraDisplay} verbunden ist.
+      <Description>Nichts sagt so sehr "Ich sorge mich" wie eine Sicherheitskamera, die mit einem {THING:StructureMotionSensor} und einer {THING:StructureConsole}, die mit einer {THING:CircuitboardCameraDisplay} verbunden ist.
 Sei da, auch wenn du nicht da bist.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCentrifuge</Key>
       <Value>Zentrifuge</Value>
-      <Description>Wenn ein {THING:StructureRecycler} oder ein unausgewogenes {THING:StructureFurnace} ein {LINK:ReagentPage;Reagenzien}-Gemisch statt des gewünschten {LINK:IngotPage;Barren} ergibt, können Sie mit einer Zentrifuge das rohe {LINK:OrePage;Erz} zurückgewinnen. Sie verfeinert auch {THING:ItemDirtyOre}, das aus {THING:StructureDeepMiner} hergestellt wurde. Ihr größerer Bruder {THING:StructureCombustionCentrifuge} kann verwendet werden, um Gegenstände wesentlich schneller zu verarbeiten.
+      <Description>Wenn ein {THING:StructureRecycler} oder ein {THING:StructureFurnace} ein {LINK:ReagentPage;Reagenzien}-Gemisch statt des gewünschten {LINK:IngotPage;Barren} ausgibt, können Sie mit einer Zentrifuge das rohe {LINK:OrePage;Erz} zurückgewinnen. Sie verfeinert auch {THING:ItemDirtyOre}, das aus dem {THING:StructureDeepMiner} hergestellt wurde. Ihr größerer Bruder {THING:StructureCombustionCentrifuge} kann verwendet werden, um Gegenstände wesentlich schneller zu verarbeiten.
 
 Von der Zentrifuge verarbeitete Gegenstände werden entgast</Description>
     </RecordThing>
@@ -1998,7 +1998,7 @@ Schächte sind grundlegende Komponenten von Rutschennetzwerken, die den Transpor
     <RecordThing>
       <Key>StructureCompositeDoor</Key>
       <Value>Komposit-Tür</Value>
-      <Description>{LINK:Recurso;Recurso's} Verbundtüren sind für 300 kPa ausgelegt, was für die meisten Zwecke, für die sie entwickelt wurden, mehr als ausreichend ist. Steile Druckunterschiede sind jedoch nicht Ihr Freund.</Description>
+      <Description>{LINK:Recurso;Recurso's} Verbundtüren sind für 300 kPa ausgelegt, was für die meisten Zwecke, für die sie entwickelt wurden, mehr als ausreichend ist. Große Druckunterschiede sind jedoch nicht Ihr Freund.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeFloorGrating</Key>
@@ -2043,9 +2043,9 @@ Schächte sind grundlegende Komponenten von Rutschennetzwerken, die den Transpor
     <RecordThing>
       <Key>StructureComputer</Key>
       <Value>Computer</Value>
-      <Description>Der 'Chonk R1' ist in gewisser Weise ein Relikt und wurde von sehr zwiespältigen {LINK:Norsec;Norsec} Technikern entwickelt, die ein Gerät brauchten, das mit einer breiten Palette von {LINK:LogicUnitPage;motherboards} arbeiten und gleichzeitig das Schlimmste aushalten konnte, was ein neuer Kadett ihm zumuten konnte.
+      <Description>Der 'Chonk R1' ist in gewisser Weise ein Relikt und wurde von sehr zwiespältigen {LINK:Norsec;Norsec} Technikern entwickelt, die ein Gerät brauchten, das mit einer breiten Palette von {LINK:LogicUnitPage;Hauptplatinen} arbeiten und gleichzeitig das Schlimmste aushalten konnte, was ein neuer Kadett ihm zumuten konnte.
 Das Ergebnis ist ein Gerät, das von einigen als "der einzige PC, der unsere Kollision mit einem schwarzen Loch überleben könnte" bezeichnet wird, während andere, weniger geschätzte Benutzer der Meinung sind, dass er den Großteil seiner technologischen DNA mit einer Käsereibe teilt.
-Kompatible Motherboards:
+Kompatible Hauptplatinen:
 - {THING:MotherboardLogic}
 - {THING:MotherboardManufacturing}
 - {THING:MotherboardSorter}
