@@ -107,6 +107,7 @@ Befindet sich beim Brennvorgang N2 und O2 in den Gasen wird eine kleine Menge N2
 Pol ist ein sehr gutes Füllgas wenn es die richtige Temperatur hat um die Hitze der Verbrennung lange zu halten (bspw. in der Schmelze)!
 
 Infos von rogerwatersx beigesteuert!</Text>
+      <DisplayFilter>Guides</DisplayFilter>
 	</StationpediaPage>
 	<StationpediaPage>
       <Key>MiningPage</Key>
@@ -123,6 +124,7 @@ Kurze Beschreibungen ohne größere Spoiler dazu {LINK: AdvancedMiningPage;Erwei
 Weitere Möglichkeiten findest du unter {LINK:AutomatedRocketPage;Raketenthema}. Diese haben jedoch die höchsten Anforderungen, liefern aber auf einigen Himmelskörpern Rohstoffe, die vielleicht nicht anders förderbar sind.
 
 Von Boomer angepasst!</Text>
+      <DisplayFilter>Guides</DisplayFilter>
 	</StationpediaPage>
 	<StationpediaPage>
       <Key>AdvancedMiningPage</Key>
@@ -136,6 +138,7 @@ Von Boomer angepasst!</Text>
 {THING:StructureToolManufactory} Erweiterte Abbaustruktur. Bohrt sich durch das Erdreich, bis sie das Grundgestein erreicht. Erst wenn dieses erreicht wurde, wird mit der Förderung von Rohstoffen begonnen. Dieses {THING:ItemDirtyOre} muss noch weiter verarbeitet werden, bevor es genutzt werden kann.
 
 Von Boomer angepasst!</Text>
+      <DisplayFilter>Guides</DisplayFilter>
 	</StationpediaPage>
 	<StationpediaPage>
 	<Key>MiningStrategy</Key>
@@ -163,6 +166,7 @@ Ach... dir fehlen noch einige besondere? Ja. Schnapp dir deine {THING:ItemSensor
 So... noch Eis nötig? {LINK:AutomatedRocketPage;Raketenthema} hilft für die Eisförderung. Aber Achtung, Vulcan und Venus brauchen da wieder mehr Arbeit, damit dir das Zeug nicht beim Landen verdampft bzw. die Rakete direkt platzt.... Tja. Du wirst dir Lösungen überlegen müssen. Uns sind noch keine eingefallen,...... schreib uns, wenn du eine Lösung hast... und lange genug überlebst!
 
 Von Boomer angepasst!</Text>
+      <DisplayFilter>Guides</DisplayFilter>
 	</StationpediaPage>
     <StationpediaPage>
       <Key>TradingPage</Key>
