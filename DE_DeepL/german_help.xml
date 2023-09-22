@@ -85,6 +85,30 @@
       <Text>Sobald du {LINK:OrePage;ore} hast, musst du es in {LINK:IngotPage; ingots} verwandeln, damit du ihre {LINK:ReagentPage;reagents} benutzen kannst. Beim Schmelzen entstehen oft {LINK:GasPage;gases}. Dies geschieht entweder im {THING:StructureArcFurnace} (für einfache Rezepte) oder im {THING:StructureFurnace} für kompliziertere {LINK:AlloyPage;Alloys}, und schließlich im {THING:StructureAdvancedFurnace} für sehr komplizierte {LINK:SuperAlloyPage;Superalloys}. Für die komplexen Legierungen musst du Mischungen mit perfekten Verhältnissen, {LINK: TemperaturePage;Temperature}, und {LINK:PressurePage;Pressure} erreichen.</Text>
     </StationpediaPage>
 	<StationpediaPage>
+      <Key>CombustionGases</Key>
+      <Title>Brenngase</Title>
+      <Text>{HEADER:Es gibt generell 2 Brenngase!}
+
+{GAS:Volatiles} + {GAS:Oxygen}
+Mischung 2:1 (2 Mol H2 + 1 Mol O2 = 3 Mol Pol + 6 Mol CO2)
+Gase verdreifachen sich! Temperatur bei perfekter Verbrennung ist 2500° (Heißere Umgebungen kühlen dadurch ab!)
+Selbstentzündung bei 300°C
+
+{GAS:Volatiles} + {GAS:NitrousOxide}
+Mischung 1:1 (1 Mol N2O + 1 Mol H2 = 2 Mol N2 + 2 Mol CO2)
+Gase verdoppeln sich! Tempertatur bei perfekter Verbrennung 6000° (Heißere Umgebungen kühlen dadurch ab!)
+Selbstentzündung bei 50°C
+
+{HEADER:Allgemein}
+Für Verbrennung wird mindestens 1 Mol je Brenngas benötigt. Unabhängig von der Entzündungstemperatur können Funken das Gemisch jederzeit entzünden! Ist ein Teil der Brenngase Flüssig, verbrennen diese erst wenn die Flüssigkeit verdampft! Die Verbrennung findet Linear statt und verbrennt immer etwa 15% des Brenngases pro Tick (nur mein Erfahrungswert)!
+
+{HEADER:Unreine Mischungen bei Brennvorgängen}
+Befindet sich beim Brennvorgang N2 und O2 in den Gasen wird eine kleine Menge N2O erzeugt! N2 Hemmt den Temperaturanstieg deutlich!
+Pol ist ein sehr gutes Füllgas wenn es die richtige Temperatur hat um die Hitze der Verbrennung lange zu halten (bspw. in der Schmelze)
+
+Infos von rogerwatersx beigesteuert!</Text>
+	</StationpediaPage>
+	<StationpediaPage>
       <Key>MiningPage</Key>
       <Title>Bergbau</Title>
       <Text>Du kannst für den Start {LINK:OrePage;Dreckiges Erz} mit einem {THING:ItemMiningDrill} abbauen. Wenn du einen {THING:ItemMiningBelt} oder später {THING:ItemMiningBackPack} trägst, wird das {LINK:OrePage;Dreckiges Erz} automatisch in ihm platziert.
@@ -96,7 +120,9 @@ Mit zunehmenden Fortschritt wirst du neue Möglichkeiten bekommen. Zuerst bietet
 {THING:StructureToolManufactory}
 Diese Strukturen haben alle unterschiedliche Vorteile wie auch Nachteile. 
 Kurze Beschreibungen ohne größere Spoiler dazu {LINK: AdvancedMiningPage;Erweiterter Bergbau}. 
-Weitere Möglichkeiten findest du unter {LINK:AutomatedRocketPage;Raketenthema}. Diese haben jedoch die höchsten Anforderungen, liefern aber auf einigen Himmelskörpern Rohstoffe, die vielleicht nicht anders förderbar sind.</Text>
+Weitere Möglichkeiten findest du unter {LINK:AutomatedRocketPage;Raketenthema}. Diese haben jedoch die höchsten Anforderungen, liefern aber auf einigen Himmelskörpern Rohstoffe, die vielleicht nicht anders förderbar sind.
+
+Von Boomer angepasst!</Text>
 	</StationpediaPage>
 	<StationpediaPage>
       <Key>AdvancedMiningPage</Key>
@@ -107,10 +133,12 @@ Weitere Möglichkeiten findest du unter {LINK:AutomatedRocketPage;Raketenthema}.
    
 {THING:Robot} Kleiner Roboter, der mit der richtigen Programmierung selbstständig über die Oberfläche fahren und Erz abbauen kann. Achtung - Stürme schaden seiner Gesundheit und können ihn bei fehlender Wartung zerstören.
    
-{THING:StructureToolManufactory} Erweiterte Abbaustruktur. Bohrt sich durch das Erdreich, bis sie das Grundgestein erreicht. Erst wenn dieses erreicht wurde, wird mit der Förderung von Rohstoffen begonnen. Dieses {THING:ItemDirtyOre} muss noch weiter verarbeitet werden, bevor es genutzt werden kann.</Text>
+{THING:StructureToolManufactory} Erweiterte Abbaustruktur. Bohrt sich durch das Erdreich, bis sie das Grundgestein erreicht. Erst wenn dieses erreicht wurde, wird mit der Förderung von Rohstoffen begonnen. Dieses {THING:ItemDirtyOre} muss noch weiter verarbeitet werden, bevor es genutzt werden kann.
+
+Von Boomer angepasst!</Text>
 	</StationpediaPage>
 	<StationpediaPage>
-	<Key>Mining Strategy</Key>
+	<Key>MiningStrategy</Key>
     <Title>Bergbau Strategie</Title>
 	<Text> Nachdem wir dir in den vorherigen Artikeln zum Bergbau nüchtern erklärt haben, welche Möglichkeiten es gibt, kommen wir nun zu dem, was du unbedingt machen solltest. Wir konnten dir das leider nicht auf der Erde erzählen - Anwälte, Urheberrecht und so... du weißt schon die Geißel der Menschheit. Leider musste aus Budget Gründen der Mining Drill als dein primäres Werkzeug herhalten. Sei froh, wir haben hier privat gesammelt, um ihn zu erwerben. Die Raumfahrtagentur meinte, die Spitzhacke würde es auch tun. Wie du mittlerweile sicher festgestellt haben dürfte, hat hier der günstigste Anbieter gewonnen. Leider konnten wir nicht wirklich testen, was er wirklich taugt. Wir haben zwar von besseren Anbietern die Pläne für bessere Hardware klauen äh prüfen dürfen, leider können wir diese jedoch aus Urheberrechtsgründen nicht auf der Erde nachbauen. Erwähnte ich schon die Anwälte?
 Auf den anderen Himmelskörpern gelten diese Rechte natürlich nicht, daher......... sind die Pläne alle zur Produktion mitgeflogen. Vielleicht ist dir das auch schon aufgefallen, beim Schauen in den Plänen.
@@ -132,7 +160,9 @@ Er fördert allerdings noch keine reinen Rohstoffe, sondern Dreck. Dieser muss i
 Warum liest du hier noch weiter? Los! Geh Rohstoffe fördern.
 Ach... dir fehlen noch einige besondere? Ja. Schnapp dir deine {THING:ItemSensorLenses} und stürz dich durchs Gestein. Das Teil scannt quer durch die Erde und zeigt dir alle Rohstoffpositionen an. Das Suchen hat noch nie so viel Spaß gemacht wie jetzt. Vergiss aber nicht, den Chip dafür einzubauen. Ohne Chip musst du Konny87 eher die Pilze klauen... also den Geheimvorrat... von dem wir niemals etwas gehört hätten.... . Damit siehst du dann vielleicht auch entsprechende Muster - ob dahinter aber auch Erz ist?
 
-So... noch Eis nötig? {LINK:AutomatedRocketPage;Raketenthema} hilft für die Eisförderung. Aber Achtung, Vulcan und Venus brauchen da wieder mehr Arbeit, damit dir das Zeug nicht beim Landen verdampft bzw. die Rakete direkt platzt.... Tja. Du wirst dir Lösungen überlegen müssen. Uns sind noch keine eingefallen,...... schreib uns, wenn du eine Lösung hast... und lange genug überlebst!</Text>
+So... noch Eis nötig? {LINK:AutomatedRocketPage;Raketenthema} hilft für die Eisförderung. Aber Achtung, Vulcan und Venus brauchen da wieder mehr Arbeit, damit dir das Zeug nicht beim Landen verdampft bzw. die Rakete direkt platzt.... Tja. Du wirst dir Lösungen überlegen müssen. Uns sind noch keine eingefallen,...... schreib uns, wenn du eine Lösung hast... und lange genug überlebst!
+
+Von Boomer angepasst!</Text>
 	</StationpediaPage>
     <StationpediaPage>
       <Key>TradingPage</Key>
