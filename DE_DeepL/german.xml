@@ -2129,7 +2129,8 @@ Eine immer wiederkehrende {LINK:Stationeers;Stationeer} Beschwerde konzentriert 
       <Key>StructureFiltration</Key>
       <Value>Filtration</Value>
       <Description>Die Filtrationseinheit basiert auf einem seit langem bestehenden {LINK:ExMin;ExMin}-System, das seinerseits auf älteren Konstruktionen ungewisser Herkunft beruht. Sie ist in der {THING:ItemKitAtmospherics} erhältlich.
-Das Gerät hat sich jedoch als unentbehrlich für {LINK:Stationeers;Stationeer} atmosphärische Systeme erwiesen, da es mit Hilfe einer Doppelfilteranordnung zwei {LINK:GasPage;Gase} gleichzeitig aus einem einzigen Rohrnetz filtern kann. Das Gerät hat einen Eingang und einen Filterausgang sowie einen ungefilterten Ausgang für eventuelle Restgase.</Description>
+Das Gerät hat sich jedoch als unentbehrlich für {LINK:Stationeers;Stationeer} atmosphärische Systeme erwiesen, da es mit Hilfe einer Doppelfilteranordnung zwei {LINK:GasPage;Gase} gleichzeitig aus einem einzigen Rohrnetz filtern kann. Das Gerät hat einen Eingang und einen Filterausgang sowie einen ungefilterten Ausgang für eventuelle Restgase.
+Hinweis: Es wird ein Druck unterschied benötigt damit die Anlage läuft!</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureFlashingLight</Key>
