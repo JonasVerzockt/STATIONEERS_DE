@@ -8116,7 +8116,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     </Record>
     <Record>
       <Key>Back</Key>
-      <Value>Rucksack</Value>
+      <Value>Zurück</Value>
     </Record>
     <Record>
       <Key>Brain</Key>
@@ -9296,7 +9296,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     </Record>
     <Record>
       <Key>InventorySlotBackpack</Key>
-      <Value>Zurück</Value>
+      <Value>Rucksack</Value>
     </Record>
     <Record>
       <Key>InventorySlotSuit</Key>
