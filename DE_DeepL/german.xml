@@ -876,50 +876,50 @@ Die Platine verfügt über zwei Modi: "Link" schaltet alle Geräte ein oder aus;
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterAir</Key>
-      <Value>Tragbarer Gastank (Sauerstoff)</Value>
+      <Value>Kanister Gas (Sauerstoff)</Value>
       <Description>Tragbare Gastanks dienen vor allem einem Zweck: der Lagerung von Gas. Aber es gibt viele Möglichkeiten, sie zu nutzen. Um den Tank aufzufüllen, schraubst du ihn an einen {THING:ItemTankConnector} und verbindest ihn dann mit einem Rohrnetz. Vermeide es, den Druck auf über 10 MPa zu erhöhen, sonst passieren schlimme Dinge. Wenn er voll ist, kannst du einen {THING:ItemGasCanisterOxygen} nachfüllen, indem du ihn an den gestreiften Teil des Tanks anschließt. Oder du kannst das Ventil mit der variablen Durchflussrate des Tanks in einen Raum entlüften und eine Atmosphäre schaffen. Sie lassen sich auch an Rovern und Raketen befestigen. Oder du kannst ihn umstoßen und das Rollen von Fässern üben. Die Möglichkeiten sind endlos.</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterCarbonDioxide</Key>
-      <Value>Tragbarer Gastank (CO2)</Value>
+      <Value>Kanister Gas (CO2)</Value>
       <Description>Tragbare Gastanks dienen vor allem einem Zweck: der Lagerung von Gas. Um den Tank aufzufüllen, schrauben Sie ihn an einen {THING:ItemTankConnector} und schließen ihn dann an ein Rohrnetz an. Versuchen Sie zu vermeiden, dass der Druck über 10 MPa steigt, sonst ... bumm. Sobald er voll ist, kannst du einen {THING:ItemGasCanisterCarbonDioxide} nachfüllen, indem du ihn an den gestreiften Teil des Tanks anbringst. Oder du könntest das Ventil mit variabler Durchflussrate des Tanks in einen Raum entlüften und eine Atmosphäre schaffen ... sozusagen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterEmpty</Key>
-      <Value>Tragbarer Gastank</Value>
-      <Description>Tragbare Gastanks speichern Gas. Um einen solchen aufzufüllen, schrauben Sie ihn an einen {THING:ItemTankConnector} und schließen ihn dann an ein Rohrnetz an. Vermeide es, den Druck über 10 MPa zu erhöhen, sonst passieren schlimme Dinge. Wenn er voll ist, kannst du einen {THING:ItemGasCanisterEmpty} wieder auffüllen, indem du ihn an den gestreiften Teil des Tanks anschließt. Oder du könntest das Ventil für den variablen Durchfluss des Tanks in einen Raum entlüften und eine Atmosphäre erzeugen.</Description>
+      <Value>Kanister (Gas)</Value>
+      <Description>Tragbare Gaskanister speichern Gas. Um einen solchen aufzufüllen, schrauben Sie ihn an einen {THING:ItemTankConnector} und schließen ihn dann an ein Rohrnetz an. Vermeide es, den Druck über 10 MPa zu erhöhen, sonst passieren schlimme Dinge. Wenn er voll ist, kannst du einen {THING:ItemGasCanisterEmpty} wieder auffüllen, indem du ihn an den gestreiften Teil des Tanks anschließt. Oder du könntest das Ventil für den variablen Durchfluss des Tanks in einen Raum entlüften und eine Atmosphäre erzeugen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterFuel</Key>
-      <Value>Tragbarer Gastank (Treibstoff)</Value>
+      <Value>Kanister Gas (Treibstoff)</Value>
       <Description>Tragbare Gastanks speichern Gas. Sie sind gut dafür geeignet. Wenn du einen Tank auffüllen musst, schraubst du ihn an einen {THING:ItemTankConnector} und verbindest ihn dann mit einem Rohrnetz. Vermeide es, den Druck auf über 10 MPa zu erhöhen, sonst wird es unübersichtlich. Du kannst einen {THING:ItemGasCanisterFuel} auffüllen, indem du ihn an den gestreiften Teil des Tanks anbringst. Oder du kannst einen {THING:ItemWrench} verwenden, um ihn später an einem Rover oder einer Rakete zu befestigen. Es liegt wirklich an dir.</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterNitrogen</Key>
-      <Value>Tragbarer Gastank (Stickstoff)</Value>
+      <Value>Kanister Gas (Stickstoff)</Value>
       <Description>Tragbare Tanks speichern Gas. Wenn Sie einen Tank auffüllen müssen, schrauben Sie ihn mit einem {THING:ItemTankConnector} an einen {THING:ItemWrench} und schließen ihn dann an ein Rohrnetz an. Vermeiden Sie es, den Druck auf über 10 MPa zu erhöhen, sonst haben Sie am Ende {GAS:Nitrogen} an Stellen, die Sie nicht erwartet haben. Du kannst einen {THING:ItemGasCanisterNitrogen} nachfüllen, indem du ihn an den gestreiften Abschnitt des Tanks anschließt. Oder du kannst einen {THING:ItemWrench} benutzen, um ihn später an einem Rover oder einer Rakete zu befestigen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterOxygen</Key>
-      <Value>Tragbarer Gastank (Sauerstoff)</Value>
+      <Value>Kanister Gas (Sauerstoff)</Value>
       <Description>Tragbare Tanks speichern Gas. Wenn Sie einen Tank auffüllen müssen, schrauben Sie ihn mit einem {THING:ItemTankConnector} an einen {THING:ItemWrench} und schließen ihn dann an ein Rohrnetz an. Vermeiden Sie es, den Druck auf über 10 MPa zu erhöhen, sonst werden Sie sich die Scherben des Tanks aus dem Gesicht picken. Du kannst einen {THING:ItemGasCanisterOxygen} nachfüllen, indem du ihn an den gestreiften Teil des Tanks anschließt. Oder du könntest ihn in einen versiegelten Raum entlüften, um eine Atmosphäre zu schaffen. Oder du malst ihn rosa an, nennst ihn Steve und füllst den traurigen Platz in deinem Herzen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterVolatiles</Key>
-      <Value>Tragbarer Gastank (Wasserstoff)</Value>
+      <Value>Kanister Gas (Wasserstoff)</Value>
       <Description>Tragbare Tanks speichern Gas. Um einen solchen aufzufüllen, schrauben Sie ihn mit einem {THING:ItemTankConnector} und einem {THING:ItemWrench} an ein Rohrnetz an. Füllen Sie ihn nicht über 10 MPa, es sei denn, Sie lieben komplizierte, entflammbare Notfälle. Du kannst einen {THING:ItemGasCanisterVolatiles} nachfüllen, indem du ihn an den gestreiften Teil des Tanks anschließt. Oder du könntest einen {THING:ItemWrench} an einer Rakete befestigen und sie durch das Sonnensystem fliegen lassen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterWater</Key>
-      <Value>Tragbarer Flüssigkeitstank (Wasser)</Value>
+      <Value>Kanister  Flüssigkeit (Wasser)</Value>
       <Description>Dieser tragbare Tank speichert Flüssigkeit, und zwar nur Flüssigkeit. Du musst ihn nur auffüllen. Dazu schraubst du ihn mit einem {THING:ItemTankConnector} an einen {THING:ItemWrench} und verbindest ihn dann mit {THING:StructurePipeLiquidStraight}, um Flüssigkeit in ein Netzwerk zu leiten. 
 Versuchen Sie, den Druck unter 10 MPa zu halten, oder Sie werden nass, verletzt und traurig sein, ohne etwas vom Spaß zu haben.
 Du kannst einen {THING:ItemGasCanisterWater} nachfüllen, indem du ihn am gestreiften Teil des Tanks befestigst. Oder du kannst einen {THING:ItemWrench} benutzen, um ihn an einer Rakete zu befestigen und ihn an einen entfernten und trockenen Ort zu bringen, wo du dich dann gut fühlst.</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicLiquidCanisterEmpty</Key>
-      <Value>Tragbarer Flüssigkeitstank</Value>
-      <Description>Dieser tragbare Tank speichert Flüssigkeit, und zwar nur Flüssigkeit. Man kann ihn mit einem {THING:ItemTankConnectorLiquid} an einen {THING:ItemWrench} schrauben und ihn dann an ein Rohrnetz anschließen, um ihn aufzufüllen. Sie können einen {THING:ItemGasCanisterWater} auffüllen, indem Sie ihn an den gestreiften Teil des Tanks anschließen. Oder du kannst ihn mit einem {THING:ItemWrench} an einer Rakete befestigen und ihn an einen weit entfernten und trockenen Ort bringen und dich dann gut fühlen.</Description>
+      <Value>Kanister (Flüssigkeit)</Value>
+      <Description>Dieser tragbare Kanister speichert Flüssigkeit, und zwar nur Flüssigkeit. Man kann ihn mit einem {THING:ItemTankConnectorLiquid} an einen {THING:ItemWrench} schrauben und ihn dann an ein Rohrnetz anschließen, um ihn aufzufüllen. Sie können einen {THING:ItemGasCanisterWater} auffüllen, indem Sie ihn an den gestreiften Teil des Tanks anschließen. Oder du kannst ihn mit einem {THING:ItemWrench} an einer Rakete befestigen und ihn an einen weit entfernten und trockenen Ort bringen und dich dann gut fühlen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGenerator</Key>
@@ -1185,12 +1185,12 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterWater</Key>
-      <Value>Gasflasche (Wasser)</Value>
-      <Description>Der blaue tragbare Behälter {GAS:Water} {SLOT:GasCanister} hat ein Fassungsvermögen von 64 L und versorgt {GAS:Water} mit Gegenständen wie der {THING:DynamicHydroponics} Einheit oder jedem anderen angeschlossenen System.</Description>
+      <Value>Flasche (Wasser)</Value>
+      <Description>Die blaue tragbare Flasche {GAS:Water} {SLOT:GasCanister} hat ein Fassungsvermögen von 64 L und versorgt {GAS:Water} mit Gegenständen wie der {THING:DynamicHydroponics} Einheit oder jedem anderen angeschlossenen System.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidCanisterEmpty</Key>
-      <Value>Flüssigkeitstank</Value>
+      <Value>Flüssigkeitsflasche</Value>
       <Description>Enthält {GAS:Water}, wenn Sie welches haben.</Description>
     </RecordThing>
     <RecordThing>
@@ -1714,12 +1714,12 @@ Es mag nicht elegant sein, aber {THING:ItemOxite} und {THING:ItemVolatiles} kön
     </RecordThing>
     <RecordThing>
       <Key>ItemTankConnector</Key>
-      <Value>Gastankanschluss</Value>
+      <Value>Kanisteranschluss (Gas)</Value>
       <Description>Dieser Bausatz erzeugt ein {THING:StructureTankConnector}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemTankConnectorLiquid</Key>
-      <Value>Flüssigtankanschluss</Value>
+      <Value>Kanisteranschluss (Flüssigkeit)</Value>
       <Description>Dieser Bausatz erzeugt ein {THING:StructureTankConnectorLiquid}.</Description>
     </RecordThing>
     <RecordThing>
@@ -1840,7 +1840,7 @@ Weitere Informationen zur Verwendung des Klimageräts finden Sie auf der Seite {
     </RecordThing>
     <RecordThing>
       <Key>StructureAreaPowerControl</Key>
-      <Value>Stromversorgungs-Kontroller</Value>
+      <Value>Strom Unterverteilung</Value>
       <Description>Ein Area Power Control (APC) hat drei Hauptfunktionen:
 Sein Hauptzweck ist die Regulierung des Stromflusses, um eine ununterbrochene Leistung von Geräten und Maschinen zu gewährleisten, insbesondere von solchen mit schwankendem Stromverbrauch.
 APCs schaffen auch Subnetze, da die Geräte auf der anderen Seite eines APCs im Hauptnetz nicht sichtbar sind.
@@ -1848,7 +1848,7 @@ Schließlich lädt ein APC Batterien auf, die im Falle eines Ausfalls das Subnet
     </RecordThing>
     <RecordThing>
       <Key>StructureAreaPowerControlReversed</Key>
-      <Value>Stromversorgungs-Kontroller invertiert</Value>
+      <Value>Strom Unterverteilung invertiert</Value>
       <Description>Ein Area Power Control (APC) hat drei Hauptfunktionen.
 Sein Hauptzweck ist die Regulierung des Stromflusses, um eine ununterbrochene Leistung von Geräten und Maschinen zu gewährleisten, insbesondere von solchen mit schwankendem Stromverbrauch.
 APCs schaffen auch Subnetze, da die Geräte auf der anderen Seite eines APCs im Hauptnetz nicht sichtbar sind.
@@ -2177,7 +2177,7 @@ Wenn Flüssigkeiten im Ofen vorhanden sind, sammeln sie sich dort, bis der Ofen 
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankStorage</Key>
-      <Value>Halterung für Tragbaren Flüssigkeitstank</Value>
+      <Value>Flüssigkeitsflaschen Anschluss</Value>
       <Description>Bei Anschluss an ein Flüssigkeitsleitungsnetz ermöglicht der Tankspeicher das Nachfüllen eines {THING:ItemLiquidCanisterEmpty} sowie das Ablesen verschiedener atmosphärischer Daten aus dem {SLOT:GasCanister}. Er kann keine Gasflaschen aufnehmen.</Description>
     </RecordThing>
     <RecordThing>
@@ -2364,12 +2364,12 @@ Alle Rohre des Racks müssen angeschlossen sein, sonst zeigt das Gerät eine Feh
     </RecordThing>
     <RecordThing>
       <Key>StructureTankConnector</Key>
-      <Value>Gastankanschluss</Value>
+      <Value>Kanisteranschluss (Gas)</Value>
       <Description>Tankanschlüsse sind einfache Montagevorrichtungen, mit denen Sie einen {THING:DynamicGasCanisterEmpty} an ein Gasrohrnetz anschließen können.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureTankConnectorLiquid</Key>
-      <Value>Flüssigkeitstankanschluss</Value>
+      <Value>Kanisteranschluss (Flüssigkeit)</Value>
       <Description>Mit diesen einfachen Montagevorrichtungen können Sie einen {THING:DynamicLiquidCanisterEmpty} an einem Flüssigkeitsrohrnetz befestigen.</Description>
     </RecordThing>
     <RecordThing>
@@ -3604,7 +3604,7 @@ Setzen Sie eine Kassette oder einen Farbscanner in das Tablet ein und drücken S
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterSmart</Key>
-      <Value>Gasflasche (Smart)</Value>
+      <Value>Gasflasche Mk II</Value>
     </RecordThing>
     <RecordThing>
       <Key>CartridgeConfiguration</Key>
@@ -3751,11 +3751,11 @@ Ausgang = 1, wobei die darin befindlichen Gegenstände und eventuell der Hauptge
     </RecordThing>
     <RecordThing>
       <Key>ItemKitDynamicCanister</Key>
-      <Value>Bausatz (Tragbarer Gastank)</Value>
+      <Value>Bausatz (Kanister Gas)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitDynamicLiquidCanister</Key>
-      <Value>Bausatz (Tragbarer Flüssigkeitstank)</Value>
+      <Value>Bausatz (Kanister Flüssigkeit)</Value>
       <Description>Dieser Bausatz erzeugt eine eine {THING:DynamicLiquidCanisterEmpty}.</Description>
     </RecordThing>
     <RecordThing>
@@ -4092,11 +4092,11 @@ Wenn sie an eine {THING:StructureComputer} mit einer {THING:MotherboardComms} Ha
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterNitrousOxide</Key>
-      <Value>Tragbarer Gastank (Distickstoffmonoxid)</Value>
+      <Value>Kanister Gas (Distickstoffmonoxid)</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterPollutants</Key>
-      <Value>Tragbarer Gastank (Schadstoffe)</Value>
+      <Value>Kanister Gas (Schadstoffe)</Value>
     </RecordThing>
     <RecordThing>
       <Key>Lander</Key>
@@ -4709,7 +4709,7 @@ Bei der Landung setzt die Rakete einen Lander und die im {THING:StructureModular
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterRocketFuel</Key>
-      <Value>Tragbarer Gastank Raketentreibstoff</Value>
+      <Value>Kanister Gas (Raketentreibstoff)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ModularRocketCommand01Lander</Key>
@@ -5503,12 +5503,12 @@ Mit einer Speicherkapazität von bis zu 9000001 Watt gibt es keine praktischen G
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasTankAdvanced</Key>
-      <Value>Tragbarer Gastank Mk II</Value>
+      <Value>Kanister (Gas)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemKitDynamicGasTankAdvanced</Key>
-      <Value>Bausatz (Tragbarer Gastank Mk II)</Value>
+      <Value>Bausatz (Kanister Mk II Gas)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -5731,7 +5731,7 @@ Es kann mit dem {THING:StructureHarvie} automatisiert werden. Beachten Sie, dass
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningBeltAdvanced</Key>
-      <Value>Bergbaugürtel MK II</Value>
+      <Value> MK II Bergbaugürtel</Value>
       <Description>Der Bergbaugürtel Mk II ähnelt dem {THING:ItemMiningBelt}, hat aber 13 statt der üblichen 8 Slots, um die Dauer deiner Bergbautouren zu verlängern. Außerdem bietet er Platz für zwei Werkzeuge.</Description>
     </RecordThing>
     <RecordThing>
@@ -5857,7 +5857,7 @@ Obwohl die Windturbine so optimiert ist, dass sie auch auf Welten mit niedriger 
     </RecordThing>
     <RecordThing>
       <Key>ItemWaterBottle</Key>
-      <Value>Wasserflasche</Value>
+      <Value>Trinkflasche</Value>
       <Description>Köstliches und reines H20, das aus so unterschiedlichen lokalen Quellen wie Venus-Eis und trans-solaren Kometen gewonnen wird. Leere Flaschen können mit dem {THING:StructureWaterBottleFiller} wiederbefüllt werden.</Description>
     </RecordThing>
     <RecordThing>
@@ -5884,12 +5884,12 @@ Wenn der KoolAuger voll ist, nimmt er kein weiteres Eis an, bis der Gas- oder Fl
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasTankAdvancedOxygen</Key>
-      <Value>Tragbarer Gastank Mk II (Sauerstoff)</Value>
+      <Value>Kanister Mk II (Sauerstoff)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasTankAdvancedWater</Key>
-      <Value>Tragbarer Flüssigkeitstank Mk II (Wasser)</Value>
+      <Value>Kanister Mk II Flüssigkeit (Wasser)</Value>
       <Description>Als isolierte Version des {THING:DynamicMKIILiquidCanisterWater} können Sie in diesem {SLOT:GasCanister} Wasser speichern, ohne dass es an Temperatur gewinnt oder verliert.</Description>
     </RecordThing>
     <RecordThing>
@@ -5906,17 +5906,17 @@ Wenn der KoolAuger voll ist, nimmt er kein weiteres Eis an, bis der Gas- oder Fl
     </RecordThing>
     <RecordThing>
       <Key>DynamicMKIILiquidCanisterEmpty</Key>
-      <Value>Tragbarer Flüssigkeitstank Mk II</Value>
-      <Description>Eine leere, isolierte Flüssigkeit {SLOT:GasCanister}.</Description>
+      <Value>Kanister Mk II Flüssigkeit</Value>
+      <Description>Ein isolierter Kanister, leer.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitDynamicMKIILiquidCanister</Key>
-      <Value>Bausatz (Tragbarer Flüssigkeitstank Mk II)</Value>
+      <Value>Bausatz (Kanister Mk II Flüssigkeit)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>DynamicMKIILiquidCanisterWater</Key>
-      <Value>Tragbarer Flüssigkeitstank Mk II (Wasser)</Value>
+      <Value>Kanister Mk II Flüssigkeit (Wasser)</Value>
       <Description>Eine isolierte Version des {THING:DynamicMKIILiquidCanisterWater}, um Flüssigkeiten aufzubewahren, ohne dass sie an Temperatur gewinnen oder verlieren.</Description>
     </RecordThing>
     <RecordThing>
@@ -5946,7 +5946,7 @@ Wenn der KoolAuger voll ist, nimmt er kein weiteres Eis an, bis der Gas- oder Fl
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidCanisterSmart</Key>
-      <Value>Flüssigkeitstank (Smart)</Value>
+      <Value>Flüssigkeitsflasche Mk II</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -6307,7 +6307,7 @@ Ein zentraler Bestandteil dieses Zeitvertreibs ist der Step-Sequenzer, mit dem S
     </RecordThing>
     <RecordThing>
       <Key>ItemInsulatedTankConnector</Key>
-      <Value>Bausatz (Isolierter Gastankanschluss)</Value>
+      <Value>Bausatz (Kanisteranschluss Gas)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -6317,7 +6317,7 @@ Ein zentraler Bestandteil dieses Zeitvertreibs ist der Step-Sequenzer, mit dem S
     </RecordThing>
     <RecordThing>
       <Key>ItemInsulatedTankConnectorLiquid</Key>
-      <Value>Bausatz (Isolierter Flüssigkeittankanschluss)</Value>
+      <Value>Bausatz (Kanisteranschluss Flüssigkeit)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -6812,7 +6812,7 @@ Hinweis: Der Cannifier zeigt eine Fehlermeldung auf seinem Aktivierungsschalter 
     </RecordThing>
     <RecordThing>
       <Key>ItemMkIIToolbelt</Key>
-      <Value>Werkzeuggürtel MK II</Value>
+      <Value>MK II Werkzeuggürtel</Value>
       <Description>Ein großer Werkzeuggürtel mit zehn Fächern und zwei zusätzlichen, allgemeinen Fächern, in denen Sie alles transportieren können, was Ihnen gefällt. Vorsicht! Vielleicht keine vollen Gürtel in den Recycler reinwerfen. Außer man will sie wirklich zerstören!</Description>
     </RecordThing>
     <RecordThing>
@@ -8224,7 +8224,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     </Record>
     <Record>
       <Key>TransportSlot</Key>
-      <Value>Transport Slot</Value>
+      <Value>Transport Steckplatz</Value>
     </Record>
     <Record>
       <Key>Motherboard</Key>
@@ -14049,7 +14049,7 @@ Das Stationeers-Programm ist grundsätzlich offen für alle Menschen, denn es re
     </Record>
     <Record>
       <Key>Volume</Key>
-      <Value>Lautstärke</Value>
+      <Value>Volumen</Value>
     </Record>
     <Record>
       <Key>NoAudioReceiverDevices</Key>
