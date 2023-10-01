@@ -6817,7 +6817,7 @@ Hinweis: Der Cannifier zeigt eine Fehlermeldung auf seinem Aktivierungsschalter 
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningBeltMKII</Key>
-      <Value>Bergbaugürtel MK II</Value>
+      <Value>MK II Bergbaugürtel</Value>
       <Description>Der Mk II ist ein größerer und geräumigerer Minengürtel, der dem {THING:ItemMiningBelt} ähnelt, aber 13 statt der üblichen 8 Slots hat, um die Länge deiner Minenreisen zu erhöhen. Außerdem bietet er Platz für zwei Werkzeuge.</Description>
     </RecordThing>
     <RecordThing>
