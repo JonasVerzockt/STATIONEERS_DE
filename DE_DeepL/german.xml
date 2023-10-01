@@ -8332,7 +8332,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     </Record>
     <Record>
       <Key>BottleSlot</Key>
-      <Value>Flaschenslot</Value>
+      <Value>Flaschensteckplatz</Value>
     </Record>
     <Record>
       <Key>SourcePlant</Key>
@@ -13247,7 +13247,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     </Record>
     <Record>
       <Key>BottleSlot</Key>
-      <Value>Flaschenslot</Value>
+      <Value>Flaschensteckplatz</Value>
     </Record>
     <Record>
       <Key>TutorialCompleteDeanHall</Key>
