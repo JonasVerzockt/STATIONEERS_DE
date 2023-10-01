@@ -80,9 +80,56 @@
         {LIST_OF_IMPORTTEXPORT}</Text>
     </StationpediaPage>
     <StationpediaPage>
-      <Key>SmeltingPage</Key>
+      <Key>SmeltingPage1</Key>
       <Title>Schmelzen</Title>
-      <Text>Sobald du {LINK:OrePage;ore} hast, musst du es in {LINK:IngotPage; ingots} verwandeln, damit du ihre {LINK:ReagentPage;reagents} benutzen kannst. Beim Schmelzen entstehen oft {LINK:GasPage;gases}. Dies geschieht entweder im {THING:StructureArcFurnace} (für einfache Rezepte) oder im {THING:StructureFurnace} für kompliziertere {LINK:AlloyPage;Alloys}, und schließlich im {THING:StructureAdvancedFurnace} für sehr komplizierte {LINK:SuperAlloyPage;Superalloys}. Für die komplexen Legierungen musst du Mischungen mit perfekten Verhältnissen, {LINK: TemperaturePage;Temperature}, und {LINK:PressurePage;Pressure} erreichen.</Text>
+      <Text>Da wir dir nicht alles mitschicken konnten, was du brauchst und die aktuellen Lieferdienste bei dir nur landen werden, wenn du sie bezahlen kannst, musst du dir dein Zeug erst einmal selbst bauen. Wie schon beim Bergbau beschrieben, wir haben dir den einen oder anderen "befreiten" Bauplan mitgeschickt. Du musst also nur das Zeug um dich herum sammeln und veredeln. Also Erz in Metall und Legierungen verwandeln. Sobald du also das passende{LINK:OrePage;Erze} hast, musst du es in {LINK:IngotPage;Barren} verwandeln, damit du ihre {LINK:ReagentPage;reagents} benutzen kannst. Ist einfacher als gesagt. Wir haben dir einen {THING:StructureArcFurnace} mitgeschickt. Dieser wird den einfachen Metallen fertig und benötigt nur ein wenig Strom. Aber du wirst schnell merken, dass es nicht für kompliziertere {LINK:AlloyPage;Legierungen} und schließlich für sehr komplizierte {LINK:SuperAlloyPage;Superlegierungen} reichen wird. Dafür benötigst du den {THING:StructureFurnace} und anschließend erst recht den im {THING:StructureAdvancedFurnace}. Du musst also idealerweise Eis sammeln und filtern. Wenn die Atmosphäre das nicht erlaubt... puh! Ich hoffe, du hast in Chemie aufgepasst, die einzelnen Erze sollten ein wenig Gas produzieren können. Schau am besten nach, wir werden dir diese Eigenschaften ins Handbuch schreiben! 
+ Für die komplexen Legierungen musst du Mischungen mit perfekten Verhältnissen, {LINK:TemperaturePage;Temperatur}, und {LINK:PressurePage;Druck} erreichen. Diese Werte haben wir dir ebenfalls ins Handbuch geschrieben. Kommen wir aber jetzt zu den aufeinander aufbauenden Themen. Wir werden dir hier nicht alles fertig erklären können. Budget ist schon jetzt nicht hierfür vorgesehen, das hier ist gerade meine Mittagspause, in der ich dir das schreibe!
+ {LINK:SmeltingPage2;Grundlagen der Metallverarbeitung}
+
+Von Boomer angepasst!</Text>
+    </StationpediaPage>
+	<StationpediaPage>
+      <Key>SmeltingPage2</Key>
+      <Title>Grundlagen der Metallverarbeitung</Title>
+      <Text>Der erste Ofen wurde von uns aus Teilen der Managementküche zusammen gebaut. Leider ist die Hardware eher für Pizzen und dererlei gedacht gewesen. Du wirst also einige Zeit beim Schmelzen benötigen.
+Baue den {THING:StructureArcFurnace} so, das er ans Stromnetz angeschlossen werden kann. Du hast doch schon den Solarstrom angeschlossen oder die Kohleverbrennung aufgebaut? Wenn nicht... denkst du das Teil hier läuft mit Feenstaub? Aufhören zu lesen und um die Stromversorgung kümmern!
+Wenn du das alles dann gemacht hast, einfach das gewünschte Erz reinwerfen und anschalten. Nach einer gefühlten Ewigkeiten werden die Barren hinten rauspurzeln. Bau schnell alles zusammen, was du benötigst. Aber halte dich nicht mit diesem Ofen auf. Der Durchsatz ist gering. Es war schlicht eine Notlösung.
+Schau, dass du möglichst schnell zum {THING:StructureFurnace} vorarbeitest.  Der Plan ist mitgeschickt worden. 
+Dieser hat auch mehr Volumen und kann erste Legierungen unterstützen. Aber mehr dazu im nächsten Kapitel, wenn du endlich so weit bist!
+{LINK:SmeltingPage3;Allgemeine Metallverarbeitung}
+
+Von Boomer angepasst!</Text>
+    </StationpediaPage>
+	<StationpediaPage>
+      <Key>SmeltingPage3</Key>
+      <Title>Allgemeine Metallverarbeitung</Title>
+      <Text>Ok, du hast also den {THING:StructureFurnace} aufgebaut. Dieser arbeitet anders. Du musst neben einem Stromanschluss nun auch mit Gas hantieren! Dafür kannst du jetzt große Mengen und verschiedene Erze gleichzeitig verarbeiten. Aber Vorsicht! Es kann hier zu ernsten Problemen kommen. Erinnerst du dich an dein Brandschutztraining oder die Schulungen bezüglich explosiver Stoffe? Nein? Oh.... ach stimmt, da war wieder das Budget Thema. Nun, du wirst rausfinden, was im schlimmsten Fall passieren kann. Baue die Schmelze und die Gasverarbeitung vielleicht nicht nebeneinander und auch nicht mitten in deine Basis! Du musst immerhin bestimmte Temperaturen, Drücke und Mengen einhalten für die Legierungen. Schau dir dafür die Handbuchseiten an, die wir vorbereitet haben. 
+Wie genau funktioniert es nun also? Gut, du hast den {THING:StructureFurnace} aufgebaut und Gaseinlass wie auch Auslass angeschlossen? Perfekt. Idealerweise überlegst du dir auch Notfallmaßnahmen z.B. zum schnell entlüften oder kühlen des Ofens. Gut gemeinter Tipp!
+Ansonsten wirfst du die passenden Mengen bei passender Temperatur rein und wartest kurz. Beispiele? Stahl. 150g Eisenerz und 50g Kohle in den Ofen rein. Ist ein gnädiges Produkt für den Anfang - du musst lediglich über 900°K mit der Temperatur kommen. Dafür reicht es, Wasserstoff mit Sauerstoff in den Ofen zu werfen. Oh... ja, ok, du kannst es auch wirklich physisch reinwerfen inklusive der Verunreinigungen ... aber gewöhn es dir besser, nicht zu lange an. Es erhöht das Risiko im Betrieb. 2 Eisbrocken Wasserstoff und 1 Eisbrocken Sauerstoff im Verhältnis einwerfen. Idealerweise machst du das in einer Umgebung, in der dir das nicht schon in den Händen schmilzt. Und nicht zu viel auf einmal! Warte, wie der Druck sich im Ofen verhält. Wirfst du zu viel auf einmal rein, könnte der Ofen rapide den Zustand ändern!
+Nach der Nutzung solltest du dir aber überlegen, was du mit dem Gas in der Schmelze machst. Die Temperatur usw. können dir bei anderen Themen noch helfen. Sei kreativ! Oder lass es einfach über einen Vent in die Atmosphäre ab. Wir werden dir wahrscheinlich noch andere Handbuchseiten, zum Beispiel zu den Prozessgasen liefern. Wenn wir die Mittagspausen nicht für dringendere Fixes benötigen.
+Nachdem du nun die grundlegenden Legierungen selbst produzieren kannst, kannst du eine {THING:StructureAdvancedFurnace} bauen. Hier werden dann die nächsten Legierungen in Angriff genommen, die noch kleinere Rahmenbedingungen haben.
+Dazu aber mehr in fortgeschrittener Metallverarbeitung.
+{LINK:SmeltingPage4;Fortgeschrittener Metallverarbeitung}
+
+Von Boomer angepasst!</Text>
+    </StationpediaPage>
+	<StationpediaPage>
+      <Key>SmeltingPage4</Key>
+      <Title>Fortgeschrittener Metallverarbeitung</Title>
+      <Text>Du bist echt bis hierher gekommen? Und hast dich noch nicht in die Luft gejagt? Ausgezeichnet! Und da sage noch einmal jemand, das der erste Kandidat, der im Budget liegt und an Position 2638729 im Auswahlverfahren nicht gut genug sei!
+Aber gut. Du weißt, wie das mit dem Aufheizen des Ofens funktioniert und auch wo du die einzelnen Rezepte findest. Perfekt! Hoffentlich hattest du dir schon eine Gasinfrastruktur erarbeitet und wirfst nicht mehr einzelne Eisbrocken in den Ofen. 
+Wir können daher alles hier relativ kurz halten. Mittagspause, und ich muss noch deinen Anzug nähen. Also wie im bisherigen Verlauf beigebracht:
+Ofen aufstellen.
+Gas einfüllen.
+Langsam die Rohstoffe des Rezepts einfüllen. ACHTUNG! Denk an die Gase aus den Erzen. Wenn du zu viele Rohstoffe einfüllst, also Kiloweise, können dabei extreme Bedingungen entstehen! Schaue also auch vorher, welche Gase freigesetzt werden.
+Und jetzt wirst du bei den {LINK:SuperAlloyPage;Superalloys} feststellen, das die Bedingungen wirklich anstrengend werden. Überlege dir gut, was du tust. Temperatur regeln geht natürlich über das bekannte Wasserstoff/Sauerstoffgemisch. Oder Wasserstoff und Lachgas im 1:1 Verhältnis - das Handling war aber noch äußerst experimental. Das musst du selbst rausfinden.
+Du willst den Druck erhöhen? Hoffentlich hast du altes Gas gesichert, das noch relativ warm war. 
+Oder du willst kühlen? Je nachdem, wohin wir dich geschickt haben, kannst du kaltes CO2 oder N2 in den Ofen leiten.
+Sei kreativ, was die Lösung deiner Probleme angeht. Wir können dir aktuell bedauerlicherweise keine größere Anleitung zukommen lassen. Die Anbieter der {THING:StructureAdvancedFurnace} wollten uns mit dem Vorführmodell nicht länger experimentieren lassen. Irgendwas hatte sie nervös gemacht, nachdem so komisches Knarzen entstand...
+
+Wie dem auch sei - viel Erfolg. Solltest du noch Fragen haben, schick sie uns einfach per Herm äh einem Transportunternehmen deiner Wahl. Wir antworten dir dann in 6-12 Monaten. Alternativ schau hier von Zeit zu Zeit rein, wir versuchen noch eine ausführlichere Anleitung für die Fortgeschrittene Metallverarbeitung zu schreiben!
+
+Von Boomer angepasst!</Text>
     </StationpediaPage>
 	<StationpediaPage>
       <Key>CombustionGases</Key>
@@ -107,7 +154,7 @@ Befindet sich beim Brennvorgang N2 und O2 in den Gasen wird eine kleine Menge N2
 Pol ist ein sehr gutes Füllgas wenn es die richtige Temperatur hat um die Hitze der Verbrennung lange zu halten (bspw. in der Schmelze)!
 
 Infos von rogerwatersx beigesteuert!</Text>
-      <DisplayFilter>Guides</DisplayFilter>
+    <DisplayFilter>Guides</DisplayFilter>
 	</StationpediaPage>
 	<StationpediaPage>
       <Key>MiningPage</Key>
@@ -124,7 +171,7 @@ Kurze Beschreibungen ohne größere Spoiler dazu {LINK: AdvancedMiningPage;Erwei
 Weitere Möglichkeiten findest du unter {LINK:AutomatedRocketPage;Raketenthema}. Diese haben jedoch die höchsten Anforderungen, liefern aber auf einigen Himmelskörpern Rohstoffe, die vielleicht nicht anders förderbar sind.
 
 Von Boomer angepasst!</Text>
-      <DisplayFilter>Guides</DisplayFilter>
+    <DisplayFilter>Guides</DisplayFilter>
 	</StationpediaPage>
 	<StationpediaPage>
       <Key>AdvancedMiningPage</Key>
@@ -138,7 +185,7 @@ Von Boomer angepasst!</Text>
 {THING:StructureToolManufactory} Erweiterte Abbaustruktur. Bohrt sich durch das Erdreich, bis sie das Grundgestein erreicht. Erst wenn dieses erreicht wurde, wird mit der Förderung von Rohstoffen begonnen. Dieses {THING:ItemDirtyOre} muss noch weiter verarbeitet werden, bevor es genutzt werden kann.
 
 Von Boomer angepasst!</Text>
-      <DisplayFilter>Guides</DisplayFilter>
+    <DisplayFilter>Guides</DisplayFilter>
 	</StationpediaPage>
 	<StationpediaPage>
 	<Key>MiningStrategy</Key>
@@ -166,7 +213,7 @@ Ach... dir fehlen noch einige besondere? Ja. Schnapp dir deine {THING:ItemSensor
 So... noch Eis nötig? {LINK:AutomatedRocketPage;Raketenthema} hilft für die Eisförderung. Aber Achtung, Vulcan und Venus brauchen da wieder mehr Arbeit, damit dir das Zeug nicht beim Landen verdampft bzw. die Rakete direkt platzt.... Tja. Du wirst dir Lösungen überlegen müssen. Uns sind noch keine eingefallen,...... schreib uns, wenn du eine Lösung hast... und lange genug überlebst!
 
 Von Boomer angepasst!</Text>
-      <DisplayFilter>Guides</DisplayFilter>
+    <DisplayFilter>Guides</DisplayFilter>
 	</StationpediaPage>
     <StationpediaPage>
       <Key>TradingPage</Key>
