@@ -9294,10 +9294,6 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
       <Key>InventorySlotUniform</Key>
       <Value>Uniform</Value>
     </Record>
-	<Record>
-      <Key>Backpack</Key>
-      <Value>Rucksack</Value>
-    </Record>
     <Record>
       <Key>InventorySlotBackpack</Key>
       <Value>Rucksack</Value>
