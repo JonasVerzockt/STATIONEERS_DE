@@ -87,6 +87,7 @@
  {LINK:SmeltingPage2;Grundlagen der Metallverarbeitung}
 
 Von Boomer angepasst!</Text>
+    <DisplayFilter>Guides</DisplayFilter>
     </StationpediaPage>
 	<StationpediaPage>
       <Key>SmeltingPage2</Key>
@@ -99,6 +100,7 @@ Dieser hat auch mehr Volumen und kann erste Legierungen unterstützen. Aber mehr
 {LINK:SmeltingPage3;Allgemeine Metallverarbeitung}
 
 Von Boomer angepasst!</Text>
+    <DisplayFilter>Guides</DisplayFilter>
     </StationpediaPage>
 	<StationpediaPage>
       <Key>SmeltingPage3</Key>
@@ -112,6 +114,7 @@ Dazu aber mehr in fortgeschrittener Metallverarbeitung.
 {LINK:SmeltingPage4;Fortgeschrittener Metallverarbeitung}
 
 Von Boomer angepasst!</Text>
+    <DisplayFilter>Guides</DisplayFilter>
     </StationpediaPage>
 	<StationpediaPage>
       <Key>SmeltingPage4</Key>
@@ -130,6 +133,7 @@ Sei kreativ, was die Lösung deiner Probleme angeht. Wir können dir aktuell bed
 Wie dem auch sei - viel Erfolg. Solltest du noch Fragen haben, schick sie uns einfach per Herm äh einem Transportunternehmen deiner Wahl. Wir antworten dir dann in 6-12 Monaten. Alternativ schau hier von Zeit zu Zeit rein, wir versuchen noch eine ausführlichere Anleitung für die Fortgeschrittene Metallverarbeitung zu schreiben!
 
 Von Boomer angepasst!</Text>
+    <DisplayFilter>Guides</DisplayFilter>
     </StationpediaPage>
 	<StationpediaPage>
       <Key>CombustionGases</Key>
@@ -167,7 +171,7 @@ Mit zunehmenden Fortschritt wirst du neue Möglichkeiten bekommen. Zuerst bietet
 {THING:Robot} 
 {THING:StructureToolManufactory}
 Diese Strukturen haben alle unterschiedliche Vorteile wie auch Nachteile. 
-Kurze Beschreibungen ohne größere Spoiler dazu {LINK: AdvancedMiningPage;Erweiterter Bergbau}. 
+Kurze Beschreibungen ohne größere Spoiler dazu {LINK:AdvancedMiningPage;Erweiterter Bergbau}. 
 Weitere Möglichkeiten findest du unter {LINK:AutomatedRocketPage;Raketenthema}. Diese haben jedoch die höchsten Anforderungen, liefern aber auf einigen Himmelskörpern Rohstoffe, die vielleicht nicht anders förderbar sind.
 
 Von Boomer angepasst!</Text>
@@ -183,6 +187,7 @@ Von Boomer angepasst!</Text>
 {THING:Robot} Kleiner Roboter, der mit der richtigen Programmierung selbstständig über die Oberfläche fahren und Erz abbauen kann. Achtung - Stürme schaden seiner Gesundheit und können ihn bei fehlender Wartung zerstören.
    
 {THING:StructureToolManufactory} Erweiterte Abbaustruktur. Bohrt sich durch das Erdreich, bis sie das Grundgestein erreicht. Erst wenn dieses erreicht wurde, wird mit der Förderung von Rohstoffen begonnen. Dieses {THING:ItemDirtyOre} muss noch weiter verarbeitet werden, bevor es genutzt werden kann.
+{LINK:MiningStrategy;Bergbau Strategie}
 
 Von Boomer angepasst!</Text>
     <DisplayFilter>Guides</DisplayFilter>
