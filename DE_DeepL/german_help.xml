@@ -21,7 +21,7 @@
     </StationpediaPage>
     <StationpediaPage>
       <Key>CartridgePage</Key>
-      <Title>Patronen</Title>
+      <Title>Chips</Title>
       <Text>Diese können zu {THING:ItemTablet} oder {THING:ItemAdvancedTablet} hinzugefügt werden, um verschiedene Diagnosefunktionen auszuführen.
         {LIST_OF_CARTRIDGES}</Text>
     </StationpediaPage>
@@ -59,6 +59,57 @@
       <Key>LorePage</Key>
       <Title>Fraktionen</Title>
       <Text>{LIST_OF_FACTIONS}</Text>
+      <DisplayFilter>Lore</DisplayFilter>
+    </StationpediaPage>
+    <StationpediaPage>
+      <Key>TranslatePage</Key>
+      <Title>Deutsche Übersetzung</Title>
+      <Text>Du spielst mit der Übersetzung von JonasVerzockt! Vielen Dank!
+Hier findest du paar Infos, Hinweise und etc.! Hast du einen Fehler gefunden oder einen Wunsch zur Übersetzung?
+Dann komm gerne auf meinen Discord, Einladungslink: {LINK:Dummy;cG3KkQQ7KP}
+Keine Lust auf Discord? Schreib mir eine E-Mail! Ja sowas hab ich auch noch ;)! {LINK:Dummy;mail@jonasverzockt.de}
+
+{HEADER:INFOS}
+In der Übersetzung haben wir unter Umständen paar Insider für Konny87 versteckt! Wer sie gesehen hat und sich gewundert hat weiß nun bescheid ;)!
+Wie könnt ihr Konny87 finden fragt ihr euch? Gerne sage ich euch wie!
+Discord: {LINK:Dummy;PrdGfX4haq}
+Twitch: {LINK:Dummy;konny87}
+YouTube: {LINK:Dummy;@Konny87}
+
+Wer ist nun dieser Konny87? Nun er stellt sich unter Twitch so vor:
+"Hallo und willkommen! Ich bin Konny87 und spiele hier zu einem großen Anteil Oxygen not Included. Ich versuche das Game für jeden interessant zu gestalten, völlig egal ob Neuling oder Veteran. Ansonsten spiele ich gerne Multiplayer, Rätsel, Survival, Action-Adventure und Basebau Spiele."
+
+{HEADER:HINWEISE}
+ACHTUNG! DAS IST AKTUELL NOCH EINE BETA UND STARK IN BEARBEITUNG!
+Aktuell sind die Namen der Dinge übersetzt! Beschreibungen und Ingame-Wiki sind noch in Bearbeitung!
+
+ca. 99% der Namen übersetzt!
+ca. 10% der Beschreibungen angepasst!
+ca. 02% der Help-Seite geprüft!
+ca. 99% geprüft sind die Tasten-, Tips- und Tooltips-Übersetzungen!
+
+{HEADER:NEUE SEITEN}
+{LINK:SmeltingPage1;Schmelzen}
+{LINK:SmeltingPage2;Grundlagen der Metallverarbeitung}
+{LINK:SmeltingPage3;Allgemeine Metallverarbeitung}
+{LINK:SmeltingPage4;Fortgeschrittener Metallverarbeitung}
+{LINK:CombustionGases;Brenngase}
+{LINK:MiningPage;Bergbau}
+{LINK:AdvancedMiningPage;Erweiterter Bergbau}
+{LINK:MiningStrategy;Bergbau Strategie}
+
+Sind auch unter Leitfäden!
+
+{HEADER:DANKESSAGUNG}
+Großartiger Applaus und virtuelle High Fives gehen raus an die wahren Helden hinter diesem technologischen Epos! Ein herzliches Dankeschön an all die klugen Köpfe, die dieses Projekt aus der Taufe gehoben, mit Ideen gefüttert, Feedback geliefert und Support gegeben haben. Hier sind unsere Champions:
+
+{LINK:Dummy;konny87} - Deine Ideen haben nicht nur die Funken gezündet, sondern du hast auch tapfer im Twitch-Streams die Updates getestet, um Bugs zu entlarven und den Verbesserungszug anzufeuern.
+
+{LINK:Dummy;rogerwatersx} - Der Visionär, der von Anfang an dabei war und sogar Übersetzungen aus dem Hut gezaubert hat! Deine Inspiration und Sprachkünste haben das Projekt größer gemacht.
+
+{LINK:Dummy;zynischerboomer} - Der Ideen-Guru, der mit seinen brillanten Einfällen den Beschreibungsozean erweitert hat. Nicht zu vergessen die Meisterwerke der Hilfeartikel, die du aufpoliert hast.
+
+Eure Genialität und Zusammenarbeit haben dieses Projekt auf den Raketenantrieb gestellt und es zur Freude der Community gemacht. Ein riesiges Dankeschön für eure Unterstützung – ihr seid wahrhaftig die Legenden hinter den Kulissen!</Text>
       <DisplayFilter>Lore</DisplayFilter>
     </StationpediaPage>
     <StationpediaPage>
