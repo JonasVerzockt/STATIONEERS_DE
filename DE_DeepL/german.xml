@@ -1461,7 +1461,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemMiningBelt</Key>
       <Value>Bergbau-Gürtel</Value>
-      <Description>Ursprünglich von {LINK:Recurso;Recurso} für den Asteroidenabbau entwickelt, bietet der {LINK:Stationeers;Stationeer's} Minengürtel Platz für zwei {LINK:ToolPage;Werkzeuge} und acht {LINK:OrePage;Erz} Stapel. Während man den Gürtel trägt, wird {LINK:OrePage;Erz} automatisch dort gelagert, wenn er abgebaut wird. Flüchtige und temperaturabhängige Stoffe bleiben im Gürtel stabil. Vorsicht! Vielleicht keine vollen Gürtel in den Recycler reinwerfen. Außer man will sie wirklich zerstören!</Description>
+      <Description>Ursprünglich von {LINK:Recurso;Recurso} für den Asteroidenabbau entwickelt, bietet der {LINK:Stationeers;Stationeer's} Minengürtel Platz für zwei {LINK:ToolPage;Werkzeuge} und acht {LINK:OrePage;Erz} Stapel. Während man den Gürtel trägt, wird {LINK:OrePage;Erz} automatisch dort gelagert, wenn er abgebaut wird. Flüchtige und temperaturabhängige Stoffe bleiben im Gürtel stabil. Vorsicht! Vielleicht keine vollen Gürtel in den Recycler reinwerfen. Außer man will sie wirklich zerstören! Vorsicht! Vielleicht keine vollen Gürtel in den Recycler reinwerfen. Außer man will sie wirklich zerstören! Nicht war Konny?!</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningDrill</Key>
@@ -1601,7 +1601,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemScrewdriver</Key>
       <Value>Schraubendreher</Value>
-      <Description>Dieser Schraubendreher ist ein hochwertiges, bi-rotierendes Modell mit einem säulenförmigen Griff. Er ist definitiv nicht nur ein Schraubendreher. Verwenden Sie ihn für den Auf- und Abbau bestimmter Bausätze und zum Einstellen von Werten für {LINK:LogicUnitPage;Logik} Einheiten.</Description>
+      <Description>Dieser Schraubendreher ist ein hochwertiges, bi-rotierendes Modell mit einem säulenförmigen Griff. Er ist definitiv nicht nur ein Schraubendreher. Verwenden Sie ihn für den Auf- und Abbau bestimmter Bausätze und zum Einstellen von Werten für {LINK:LogicUnitPage;Logik} Einheiten. Der korrekte Begriff für das Werkzeug zum Eindrehen von Schrauben ist Schraubendreher. Der veraltete Begriff Schraubenzieher stammt aus einer Zeit, als Schrauben vorrangig in Holz eingedreht wurden. Heutzutage ist Schraubendreher in DIN-Normen und Handwerksordnung festgelegt und allgemein gebräuchlich.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemSecurityCamera</Key>
@@ -1726,7 +1726,7 @@ Es mag nicht elegant sein, aber {THING:ItemOxite} und {THING:ItemVolatiles} kön
       <Key>ItemToolBelt</Key>
       <Value>Werkzeuggürtel</Value>
       <Description>Wenn es ein Ausrüstungsstück gibt, das vor allem das {LINK:Stationeers;Stationeer} Leben verkörpert, dann ist es der bescheidene Werkzeuggürtel (Anm. d. Red.: In einer kürzlich durchgeführten {LINK:ODA;ODA} Umfrage über ikonische Stationeer-Ausrüstung wurden auch die rauchenden, giftigen Ruinen eines überdruckgefüllten {THING:StructureFurnace} inmitten der verkohlten Überreste deiner letzten Basis sehr hoch bewertet).
-Der Werkzeuggürtel wurde entwickelt, um die strengsten ODA-Sicherheitsstandards zu erfüllen, und fasst in seinen acht Fächern nur eines: Werkzeuge und {THING:ItemCableCoil}. Nicht zu verwechseln mit dem {THING:ItemMiningBelt}. Vorsicht! Vielleicht keine vollen Gürtel in den Recycler reinwerfen. Außer man will sie wirklich zerstören!</Description>
+Der Werkzeuggürtel wurde entwickelt, um die strengsten ODA-Sicherheitsstandards zu erfüllen, und fasst in seinen acht Fächern nur eines: Werkzeuge und {THING:ItemCableCoil}. Nicht zu verwechseln mit dem {THING:ItemMiningBelt}. Vorsicht! Vielleicht keine vollen Gürtel in den Recycler reinwerfen. Außer man will sie wirklich zerstören! Nicht war Konny?!</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemUraniumOre</Key>
@@ -3857,7 +3857,7 @@ Ausgang = 1, wobei die darin befindlichen Gegenstände und eventuell der Hauptge
     <RecordThing>
       <Key>ItemMushroom</Key>
       <Value>Pilz</Value>
-      <Description>Ein schmackhaftes Nahrungsmittel. Anders als normale Pflanzen verbraucht er {GAS:Oxygen} und gibt {GAS:CarbonDioxide} ab. Pilze reifen nur mäßig schnell in der Dunkelheit, und längeres Licht tötet sie.</Description>
+      <Description>Ein schmackhaftes Nahrungsmittel. Anders als normale Pflanzen verbraucht er {GAS:Oxygen} und gibt {GAS:CarbonDioxide} ab. Pilze reifen nur mäßig schnell in der Dunkelheit, und längeres Licht tötet sie. NEIN KONNY, NUR PILZE ESSEN IST KEINE AUSGEWOGENE ERNÄHRUNG!</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPumpkin</Key>
