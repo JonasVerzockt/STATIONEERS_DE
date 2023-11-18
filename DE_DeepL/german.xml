@@ -982,7 +982,7 @@ Du kannst einen {THING:ItemGasCanisterWater} nachfüllen, indem du ihn am gestre
     </RecordThing>
     <RecordThing>
       <Key>ItemActiveVent</Key>
-      <Value>Bausatz (Aktive Entlüftung)</Value>
+      <Value>Bausatz (Aktive Lüftung)</Value>
       <Description>Wenn dieser Bausatz gebaut wird, legt er eine {THING:StructureActiveVent} auf eine beliebige Stützstruktur.</Description>
     </RecordThing>
     <RecordThing>
@@ -1817,7 +1817,7 @@ Die {LINK:Norsec;Norsec-konzipierter} K-cops 10-10 Sorter-Hauptplatine ermöglic
     </RecordThing>
     <RecordThing>
       <Key>StructureActiveVent</Key>
-      <Value>Aktive Entlüftung</Value>
+      <Value>Aktive Lüftung</Value>
       <Description>Der aktive Entlüfter ist ein angetriebenes Gerät zur Aufrechterhaltung des {LINK:GasPage;Gas} Drucks durch Pumpen von Gas in ein (oder aus einem) Rohrnetz. Die Entlüftung hat zwei Modi: "Nach außen" pumpt sie Gas in einen Raum, bis der Druck erreicht ist; "Nach innen" pumpt sie Gas nach außen, bis der Druck erreicht ist. Der Druckparameter kann über einen angeschlossenen {THING:StructureConsole} eingestellt werden. Der Standarddruck ist 101kPa für "Outward"; 0kPa für "Inward" ...</Description>
     </RecordThing>
     <RecordThing>
@@ -7124,7 +7124,7 @@ Es ist sehr temperaturempfindlich und beginnt zu schmelzen, sobald es abgebaut w
     <RecordThing>
       <Key>StructureNitrolyzer</Key>
       <Value>Nitrolyzer</Value>
-      <Description>Dieses Gerät wird verwendet, um {GAS:NitrousOxide} aus {GAS:Oxygen}, {GAS:Nitrogen} und einer großen Menge Energie zu erzeugen. Der Prozess wandelt nicht das gesamte verfügbare Gas auf einmal um, so dass das Ergebnis eine Mischung aus allen drei Gasen ist, die möglicherweise weiter verarbeitet werden muss.  Es wird mehr NOS erzeugt, wenn das Gas in der Maschine ein Verhältnis von 1:1 von Sauerstoff zu Stickstoff aufweist.  Die zweite Gaseingangsleitung ist optional und nicht erforderlich, wenn das Gas vorgemischt ist.</Description>
+      <Description>Dieses Gerät wird verwendet, um {GAS:NitrousOxide} aus {GAS:Oxygen}, {GAS:Nitrogen} und einer großen Menge Energie zu erzeugen. Der Prozess wandelt nicht das gesamte verfügbare Gas auf einmal um, so dass das Ergebnis eine Mischung aus allen drei Gasen ist, die möglicherweise weiter verarbeitet werden muss. Es wird mehr Lachgas erzeugt, wenn das Gas in der Maschine ein Verhältnis von 1:1 von Sauerstoff zu Stickstoff aufweist. Die zweite Gaseingangsleitung ist optional und nicht erforderlich, wenn das Gas vorgemischt ist. Die Maschiene läuft auch, wenn das Verhältnis 1:0 oder 0:1 ist!</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningBackPack</Key>
