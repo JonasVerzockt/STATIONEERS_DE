@@ -625,6 +625,14 @@ The 'Font' value is a special entry that will be used to select which game font 
     <value>Repair</value>
     <comment>Repair</comment>
   </data>
+  <data name="Action_Extend">
+    <value>Extend</value>
+    <comment>Extend</comment>
+  </data>
+  <data name="Action_Retract">
+    <value>Retract</value>
+    <comment>Retract</comment>
+  </data>
   <data name="Thing_ApplianceMicrowave">
     <value>Microwave</value>
     <comment>Microwave</comment>

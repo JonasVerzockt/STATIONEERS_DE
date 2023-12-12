@@ -53,6 +53,11 @@
       <Title>Organics</Title>
       <Text>{LIST_OF_ORGANICS}</Text>
     </StationpediaPage>
+      <StationpediaPage>
+          <Key>RocketPage</Key>
+          <Title>Rockets</Title>
+          <Text>{LIST_OF_ROCKET}</Text>
+      </StationpediaPage>
         <StationpediaPage>
       <Key>AtmosphericPage</Key>
       <Title>Atmospherics</Title>
@@ -313,58 +318,33 @@ Plant genetics is not an exact science and will require trial and error and repe
 
     <StationpediaPage>
       <Key>AutomatedRocketPage</Key>
-      <Title>Automated Rocket Modules (A.R.M.)</Title>
+      <Title>Rockets</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>Automated rockets are uncrewed vehicles that can be dispatched offworld to retrieve a range of resources. The rocket can be controlled by {LINK:LogicUnitPage;logic} or {LINK:LogicUnitPage;IC} or a mixture of these systems.
-      
-Once launched, automated rockets seek out planets or asteroids with mineable resources, depending on which MODULES they have been constructed with. Rockets can be programmed to mine all available resources, then move to another planet, or return home. Their range - and therefore the amount of resources they can collect - is determined by their available fuel. If they run out of fuel, they are lost to the void forever.
-      
+      <Text>
+Rocket parts are printed on the {THING:StructureRocketManufactory}.
 
-{HEADER:MODULES}
-Automated rocket system is composed of four fundamental modules, plus an engine and fuel tank(s):
+{THING:StructureFuselageTypeA1} must be built upon a {THING:StructureLaunchMount}. A {THING:StructureGovernedGasEngine} must be placed in an {THING:StructureEngineMountTypeA1}.
 
-* AUTOMATION MODULE - the {THING:StructureModularRocketAutomation} is the control system, passing data to the various modules.
+Resource Umbilicals are placed on the {THING:StructureRocketTower} and connect between {THING:StructureGasUmbilicalMale} and {THING:StructureGasUmbilicalFemale} placed inside the rocket.
 
-* MINING MODULE - this performs the mining operation. Currently these are {THING:StructureRocketModuleMiningOre}, {THING:StructureModularRocketIceMining}, {THING:StructureRocketModuleMiningJunk} and {THING:StructureModularRocketGasMining}.
+A {THING:StructureComputer} with the {THING:MotherboardRockets} provides a user interface to control the rocket.
 
-* COUPLER - this connects mining modules to storage modules, by passing material from one to the other. Specifically, the {THING:StructureModularRocketCouplingDown} passes resources to a storage module BENEATH it. The {THING:StructureModularRocketCouplingUp} passes resources to a storage module ABOVE it. The rocket will not collect resources without this element.
+A Pair of datalinks are used to create a planet-side {THING:StructureLogicRocketUplink} and a rocket-side {THING:StructureLogicRocketDownlink} which must be hooked up to the {THING:StructureComputer}.
 
-* STORAGE MODULE - this module receives resources from a mining module via a coupler and stores them until the rocket returns. This currently includes {THING:StructureRocketModuleSilo} for ores and {THING:StructureModularRocketFueltank01} for gas. Storage modules can be connected to an {LINK:ImportExportPage;chute network}, but are closed by default. Use {LINK:LogicUnitPage;logic} to set it to 'open'.
+An {THING:StructureRocketAvionics} should be placed in the rocket to act as the main rocket controller.
 
+On the {THING:MotherboardRockets} Map Screen you can set the rocket destination.
 
-{HEADER:LAUNCH CONDITIONS}
-* POWER - all modules of the rocket must be powered. Note that modules are created ‘On’ by default, but can be turned off and on using {LINK:LogicUnitPage;logic} connections.
+Igniting the rocket without a destination set allows you to see rocket performance and fuel usage without launching the rocket.
 
-* FUEL - the rocket must have at least one fuel tank and sufficient fuel for takeoff (at least 500 mols). Note that the rocket also requires 500mols to land AND consumes 5 mols per tick during travel phase of operation.
+Expect to use 5-20Kmol of fuel per rocket trip, depending on rocket size.
 
-* CONSTRUCTION - The rocket must be correctly assembled (see MODULES above)
+A {THING:StructureRocketScanner} is used to chart unknown locations and discover minable asteroids.
 
-* PROGRAMMING - The rocket is controlled by the {LINK:LogicUnitPage;IC system} (see below)
-
-
-{HEADER:ROCKET MODES}
-The rocket's mode is set via the device's 'activate' value. The mode determines the current behaviour:
-
-0: Idle (at base)
-1: Launching
-2: Traveling
-3: Arrived
-4: Idle at destination (ready to activate mining modules).
-5: Returning home
-6: Returned
-7: Lost
-
-
-{HEADER:UNIQUE ROCKET COMMANDS}
-* FUEL IN TANK REMAINING - Gets the fuel remaining in your rocket's fuel tank.
-* FUEL RETURN COST - Gets the cost of fuel to return the rocket to your current world.
-* ROCKET MODE - Gets the current RocketMode value (0-7).
-* COLLECTABLE GOODS - Returns 0 or 1 based on whether or not the current rocket system has the ability to collect resources on the planet.
-
-
+More complex rockets may use {THING:StructureRocketMiner} and {THING:StructureCargoStorageSmall}.
+{LIST_OF_ROCKET}
       </Text>
     </StationpediaPage>
-
 
     <StationpediaPage>
       <Key>FoodPage</Key>
@@ -389,65 +369,7 @@ The rocket's mode is set via the device's 'activate' value. The mode determines 
 {LIST_OF_APPLIANCES}
       </Text>
     </StationpediaPage>
-
- <StationpediaPage>
-      <Key>TravelPage</Key>
-      <Title>Travelling to Other Planets</Title>
-      <DisplayFilter>Guides</DisplayFilter>
-      <Text>Wait! Don't close me yet! The following conditions must be met for launch:
-
-- Fully built rocket: at least 3 core modules
-- Fully fueled {THING:StructureModularRocketFueltank01}
-- Fuel mix ratio correct - a 2:1 mixture of {GAS:Volatiles} and {GAS:Oxygen}.
-- Power supplied to the {THING:StructureLaunchPad}
-- All players seated in {THING:StructureModularRocketCommand01}
-
-Below are the WORLD TRAVEL IDs. You can use them to travel to specific planets, when combined with a completed {LINK:RocketShuttlePage;Rocket Shuttle} and {LINK:LogicUnitPage;Logic Units}.
-       
-Simply write the hash to the setting variable on {THING:StructureLaunchPad} with a {THING:StructureLogicWriter} and a {THING:StructureLogicMemory}. Note: You can click on a hash to copy it to the clipboard.
-{LIST}{WORLD_HASHES}{/LIST}
-      </Text>
-    </StationpediaPage>
-<StationpediaPage>
-          <Key>RocketShuttleModulesHelpPage</Key>
-          <Title>Rocket Shuttle Modules</Title>
-          <DisplayFilter>Guides</DisplayFilter>
-          <Text>{HEADER:Modular Rocket Cargo}
-
-The {THING:StructureModularRocketCargo01} has capacity for two ten-slot crates. You can have multiple cargo modules on your rocket. The rocket can lift up to seven modules in total.
-
-{HEADER:Modular Rocket Command}
-
-The {THING:StructureModularRocketCommand01} must be placed on top of the rocket. It will assess the rocket’s readiness for flight. Once all conditions are met, the rocket can be launched when all players are seated in the module by pressing ‘IGNITION’ on the console.
-
-The following conditions must be met for launch:
-
-Fuel full
-Fuel mix ratio correct
-All players seated
-Power supplied to the launch pad
-Fully built rocket
-
-The {THING:StructureModularRocketCommand01} console displays the current state of these conditions. It does not require an atmosphere for lift off - your suit’s atmosphere is sufficient.
-
-{HEADER:Modular Rocket Engine}
-
-The {THING:StructureModularRocketEngine01} is capable of lifting up to seven modules (including itself).
-
-{HEADER:Modular Rocket Fuel Tank}
-
-The {THING:StructureModularRocketFueltank01} requires a 2:1 mixture of {GAS:Volatiles} and {GAS:Oxygen}. If the mixture exceeds these proportions, or you place other gases in the tank, the {THING:StructureModularRocketCommand01} console will display an ‘Invalid’ error.
-
-          </Text>
-        </StationpediaPage>
-        <StationpediaPage>
-      <Key>RocketShuttlePage</Key>
-      <Title>Rocket Shuttle</Title>
-      <Text>These are the Rocket Shuttle Modules, used to travel between worlds. {THING:StructureLaunchPad} is required.
-{HEADER:List of Rocket Shuttle Modules}
-{LIST_OF_ROCKET_SHUTTLE}
-      </Text>
-   </StationpediaPage>
+      
 
     <StationpediaPage>
       <Key>WeatherPage</Key>
