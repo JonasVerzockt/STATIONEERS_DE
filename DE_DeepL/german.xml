@@ -16680,10 +16680,6 @@ Status: {LOCAL:StatusValue}</Value>
       <Value>Kann {LOCAL:Thing} ohne alle erforderlichen Reagenzien nicht herstellen</Value>
     </Record>
     <Record>
-      <Key>ThingToFarAwayForDrag</Key>
-      <Value>{LOCAL:Thing} ist zu weit weg, um gezogen zu werden</Value>
-    </Record>
-    <Record>
       <Key>ThingCanNotBeDraggedWithSomethingIn</Key>
       <Value>Kann nicht mit etwas in {LOCAL:Thing} gezogen werden</Value>
     </Record>
@@ -16716,10 +16712,6 @@ Status: {LOCAL:StatusValue}</Value>
       <Value>Dekonstruktion gescheitert</Value>
     </Record>
     <Record>
-      <Key>StructureIsNotDamaged</Key>
-      <Value>{LOCAL:Structure} ist nicht beschädigt</Value>
-    </Record>
-    <Record>
       <Key>WeldingTorchNoFuel</Key>
       <Value>Kein Treibstoff mehr!</Value>
     </Record>
@@ -16734,10 +16726,6 @@ Status: {LOCAL:StatusValue}</Value>
     <Record>
       <Key>SlotAlreadyOccupied</Key>
       <Value>{0} ist bereits durch {1} belegt</Value>
-    </Record>
-    <Record>
-      <Key>SlotTakeThingFromSlot</Key>
-      <Value>Nimm {LOCAL:Item} vom Steckplatz</Value>
     </Record>
     <Record>
       <Key>CartridgeNoCartridgeInSlot</Key>
