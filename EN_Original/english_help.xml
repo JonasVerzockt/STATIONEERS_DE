@@ -53,11 +53,7 @@
       <Title>Organics</Title>
       <Text>{LIST_OF_ORGANICS}</Text>
     </StationpediaPage>
-      <StationpediaPage>
-          <Key>RocketPage</Key>
-          <Title>Rockets</Title>
-          <Text>{LIST_OF_ROCKET}</Text>
-      </StationpediaPage>
+
         <StationpediaPage>
       <Key>AtmosphericPage</Key>
       <Title>Atmospherics</Title>
@@ -103,18 +99,21 @@
     </StationpediaPage>
     <StationpediaPage>
       <Key>SmeltingPage</Key>
+	  <DisplayFilter>Guides</DisplayFilter>
       <Title>Smelting</Title>
       <Text>Once you have {LINK:OrePage;ore}, you need to turn it into {LINK:IngotPage;ingots} so you can use their {LINK:ReagentPage;reagents}. Smelting will often produce {LINK:GasPage;gases}. This occurs in either the {THING:StructureArcFurnace} (for simple recipes) and the {THING:StructureFurnace} for more complicated {LINK:AlloyPage;Alloys}, and finally the {THING:StructureAdvancedFurnace} for very complicated {LINK:SuperAlloyPage;Superalloys}. For the complex alloys, you will need to achieve mixtures at perfect ratios, {LINK:TemperaturePage;Temperature}, and {LINK:PressurePage;Pressure}. 
       </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>MiningPage</Key>
+	  <DisplayFilter>Guides</DisplayFilter>
       <Title>Mining</Title>
       <Text>You can mine {LINK:OrePage;ore} using a {THING:ItemMiningDrill}. If you wear a {THING:ItemMiningBelt} the {LINK:OrePage;ore} will automatically be placed within it.
       </Text>
     </StationpediaPage>
 <StationpediaPage>
       <Key>TradingPage</Key>
+	  <DisplayFilter>Guides</DisplayFilter>
       <Title>Trading</Title>
       <Text>Trading is an essential part of a {LINK:Stationeers;Stationeers} existence, especially on more extreme worlds, where new cadets may be challenged at first to survive without assistance.
 
@@ -271,6 +270,7 @@ Good luck, Cadet!
 
       <StationpediaPage>
           <Key>GeneticsPage</Key>
+			<DisplayFilter>Guides</DisplayFilter>
           <Title>Genetics</Title>
           <Text>Plants have a set of Genes that modifies its behavior. A plant's genes will be manipulated in a number of ways, both naturally as well as artificially. When a plant produces fruit or seeds it will pass on its genetics with a small random mutation.
 
@@ -660,7 +660,7 @@ The effect of these ingredients depends on their respective proportions in the c
 
     <StationpediaPage>
       <Key>HydrationPage</Key>
-      <Title>Thirst + hydration</Title>
+      <Title>Thirst + Hydration</Title>
       <DisplayFilter>Guides</DisplayFilter>
       <Text>Your average Stationeer needs to drink water regularly. However, arcane and possibly misguided {LINK:ODA;ODA} health and safety regulations have long denied Stationeers the right to in-suit hydration mechanisms. Instead, they must take regular drink breaks to open their helmet, and imbibe water. Doing so in an unpressurized environment is unadvised.
 

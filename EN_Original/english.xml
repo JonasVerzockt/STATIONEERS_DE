@@ -3619,7 +3619,8 @@ Insert a cartridge or color scanner into the tablet, then press the activate but
     </RecordThing>
     <RecordThing>
       <Key>StructureElevatorShaft</Key>
-      <Value>Elevator Shaft</Value>
+      <Value>Elevator Shaft (Cabled)</Value>
+      <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemKitElevator</Key>
@@ -3632,7 +3633,8 @@ Insert a cartridge or color scanner into the tablet, then press the activate but
     </RecordThing>
     <RecordThing>
       <Key>StructureElevatorLevelFront</Key>
-      <Value>Elevator Level</Value>
+      <Value>Elevator Level (Cabled)</Value>
+      <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureCrateMount</Key>
@@ -7179,7 +7181,7 @@ Highly sensitive to temperature, nitrice will begin to melt as soon as it is min
       <Value>Combustion Centrifuge</Value>
       <Description>The Combustion Centrifuge is a gas powered version of the {THING:StructureCentrifuge}. If a {THING:StructureRecycler} or unbalanced {THING:StructureFurnace} outputs {LINK:ReagentPage;reagent} mixture rather than the desired {LINK:IngotPage;ingots}, a centrifuge allows you to reclaim the raw {LINK:OrePage;ore}.
         It also refines {THING:ItemDirtyOre} produced from the {THING:StructureDeepMiner} and {THING:ItemSpaceOre} produced from the {THING:StructureRocketMiner}. A combustible fuel mix should be supplied to the gas input, and waste gasses should be vented from the output. 
-        The machine's RPMs must be controlled via the throttle and combustion limiter levers. If the Combustion Centrifuge gains, or looses, RPMs too fast it will experience stress, and eventually grind to a halt.  Higher RPMs directly result in faster processing speeds. 
+        The machine's RPMs must be controlled via the throttle and combustion limiter levers. If the Combustion Centrifuge gains, or loses, RPMs too fast it will experience stress, and eventually grind to a halt.  Higher RPMs directly result in faster processing speeds. 
         The throttle lever controls the amount of fuel being pulled into the machine, increasing the temperature inside the engine, and leading to an increase in RPM. The limiter lever influences the speed of the combustion, and how much uncombusted gas is in the exhaust. 
         Ejecting ore from the Combustion Centrifuge while it is at high RPMs will result in additional stress build up.  If turned off while not stressed, the machine will automatically start to brake, and reduce RPMs in a controlled manner.
 	  </Description>
@@ -8173,7 +8175,7 @@ To begin splicing, place a plant or seed bag in the left slot (source) and place
     </RecordThing>
     <RecordThing>
       <Key>ItemRocketMiningDrillHead</Key>
-      <Value>Rocket Mining-Drill Head</Value>
+      <Value>Mining-Drill Head (Basic)</Value>
       <Description>Replaceable drill head for {THING:StructureRocketMiner}</Description>
     </RecordThing>
     <RecordThing>
@@ -8586,6 +8588,11 @@ To begin splicing, place a plant or seed bag in the left slot (source) and place
       <Description />
     </RecordThing>
     <RecordThing>
+      <Key>ItemKitFuselage</Key>
+      <Value>Kit (Fuselage)</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
       <Key>ItemKitAccessBridge</Key>
       <Value>Kit (Access Bridge)</Value>
       <Description />
@@ -8648,6 +8655,106 @@ To begin splicing, place a plant or seed bag in the left slot (source) and place
     <RecordThing>
       <Key>ItemKitRocketTransformerSmall</Key>
       <Value>Kit (Transformer Small (Rocket))</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemMiningDrillPneumatic</Key>
+      <Value>Pneumatic Mining Drill</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemRocketMiningDrillHeadIce</Key>
+      <Value>Mining-Drill Head (Ice)</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemRocketMiningDrillHeadMineral</Key>
+      <Value>Mining-Drill Head (Mineral)</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemRocketMiningDrillHeadDurable</Key>
+      <Value>Mining-Drill Head (Durable)</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemRocketMiningDrillHeadLongTerm</Key>
+      <Value>Mining-Drill Head (Long Term)</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemRocketMiningDrillHeadHighSpeedIce</Key>
+      <Value>Mining-Drill Head (High Speed Ice)</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemRocketMiningDrillHeadHighSpeedMineral</Key>
+      <Value>Mining-Drill Head (High Speed Mineral)</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemIcarusSuit</Key>
+      <Value>Icarus Suit</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemIcarusHelmet</Key>
+      <Value>Icarus Helmet</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>FlareGun</Key>
+      <Value>Flare Gun</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemSensorProcessingUnitMesonScanner</Key>
+      <Value>Sensor Processing Unit (Meson Scanner)</Value>
+      <Description>The Meson Scanner Sensor Processing Unit can be inserted into the {THING:ItemSensorLenses} to show an overlay of pipes and cables. This can be useful when building behind walls or other structures.</Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureRocketCelestialTracker</Key>
+      <Value>Rocket Celestial Tracker</Value>
+      <Description>The Celestial Tracker can be placed in Rockets and when turned on will provide data that can be used to orientate devices such as the {THING:StructureGroundBasedTelescope}. The Horizontal and Vertical output is localized to the orientation of the tracker. You can calibrate your alignment by comparing the result for the primary body with the output from the {THING:StructureDaylightSensor}. Full functionality will only be available in orbit, but you can configure using the primary body. For aligning with the telescope, have the face plate facing up and the cables facing in the same direction as for the telescope and the output values will be aligned.</Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitRocketCelestialTracker</Key>
+      <Value>Kit (Rocket Celestial Tracker)</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemSensorProcessingUnitCelestialScanner</Key>
+      <Value>Sensor Processing Unit (Celestial Scanner)</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitGroundTelescope</Key>
+      <Value>Kit (Telescope)</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureGroundBasedTelescope</Key>
+      <Value>Telescope</Value>
+      <Description>A telescope that can be oriented to observe Celestial Bodies. When within full alignment will show orbital information for that celestial object. Atmospheric conditions may disrupt the ability to observe some objects at some times of day. To collect Horizontal and Vertical values you can use a {THING:StructureRocketCelestialTracker} while it is in orbit, or a {THING:StructureDaylightSensor} for primary body data.</Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureElevatorShaftIndustrial</Key>
+      <Value>Elevator Shaft</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureElevatorLevelIndustrial</Key>
+      <Value>Elevator Level</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPassiveVentInsulated</Key>
+      <Value>Kit (Insulated Passive Vent)</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePassiveVentInsulated</Key>
+      <Value>Insulated Passive Vent</Value>
       <Description />
     </RecordThing>
   </Things>
@@ -15101,7 +15208,7 @@ Pollutant has a high specific heat, making it an excellent coolant. Unfortunatel
     </Record>
     <Record>
       <Key>NewWorldDayLength</Key>
-      <Value>Rotation Period</Value>
+      <Value>Day Length</Value>
     </Record>
     <Record>
       <Key>NewWorldYearLength</Key>
@@ -15146,6 +15253,26 @@ Pollutant has a high specific heat, making it an excellent coolant. Unfortunatel
     <Record>
       <Key>ClearDestinationButton</Key>
       <Value>Clear Destination</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaSpeedMultiplierTitle</Key>
+      <Value>Speed:</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaReagentYieldMultiplierTitle</Key>
+      <Value>Ore Yield:</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaPowerConsumptionMultiplierTitle</Key>
+      <Value>Power Use:</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaIceYieldMultiplierTitle</Key>
+      <Value>Ice Yield:</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaHealthMultiplierTitle</Key>
+      <Value>Durability:</Value>
     </Record>
   </Interface>
   <Colors>
