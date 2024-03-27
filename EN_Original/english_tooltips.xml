@@ -144,6 +144,10 @@
       <Value>Waste Capacity</Value>
     </Record>
     <Record>
+      <Key>StatusIconWasteDesc</Key>
+      <Value>Waste tank nearly full</Value>
+    </Record>
+    <Record>
       <Key>StatusIconHealthName</Key>
       <Value>Current Health</Value>
     </Record>
@@ -154,6 +158,14 @@
     <Record>
       <Key>StatusIconUnconsciousName</Key>
       <Value>Unconscious</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconMoodName</Key>
+      <Value>Current Mood</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconHygieneName</Key>
+      <Value>Current Hygiene</Value>
     </Record>
 	<Record>
       <Key>DeconstructCanisterFull</Key>

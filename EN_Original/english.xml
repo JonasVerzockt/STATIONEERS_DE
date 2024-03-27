@@ -246,6 +246,10 @@
       <Value>Water</Value>
     </Record>
     <Record>
+      <Key>PollutedWater</Key>
+      <Value>Polluted Water</Value>
+    </Record>
+    <Record>
       <Key>NitrousOxide</Key>
       <Value>Nitrous Oxide</Value>
     </Record>
@@ -276,6 +280,14 @@
     <Record>
       <Key>LiquidNitrousOxide</Key>
       <Value>Liquid Nitrous Oxide</Value>
+    </Record>
+    <Record>
+      <Key>Hydrogen</Key>
+      <Value>Hydrogen</Value>
+    </Record>
+    <Record>
+      <Key>LiquidHydrogen</Key>
+      <Value>Liquid Hydrogen</Value>
     </Record>
   </Gases>
   <Actions>
@@ -1108,9 +1120,7 @@ To use on yourself: put duct tape in your active hand, hold RIGHT MOUSE BUTTON t
     <RecordThing>
       <Key>ItemEgg</Key>
       <Value>Egg</Value>
-      <Description>Resolving, finally, the question of which came first: it was the egg. 
-Eggs are deposited every 60-90 seconds by your average chicken.
-If an egg has been fertilized, and is kept between 20C-30C, an {THING:EntityChick} will emerge. For the rest, there is the {THING:ApplianceMicrowave} and all manner of {LINK:FoodPage;gustatory} consolations.</Description>
+      <Description>Layed by {THING:NpcChicken} about once per day and can used in cooking.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemEggBottom</Key>
@@ -1134,8 +1144,8 @@ If an egg has been fertilized, and is kept between 20C-30C, an {THING:EntityChic
     </RecordThing>
     <RecordThing>
       <Key>ItemFertilizedEgg</Key>
-      <Value>Fertilized Egg</Value>
-      <Description />
+      <Value>Egg</Value>
+      <Description>To hatch it requires an incubation temperature of between 35 and 45 degrees Celsius and will hatch into a {THING:NpcChick}. If the egg is exposed to tepratures below 10 degrees it will no longer be viable.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemFireExtinguisher</Key>
@@ -2144,6 +2154,16 @@ The device has nonetheless proven indispensable for {LINK:Stationeers;Stationeer
 </Description>
     </RecordThing>
     <RecordThing>
+      <Key>StructureWaterPurifier</Key>
+      <Value>Water Purifier</Value>
+      <Description>Cleans {GAS:PollutedWater} and outputs {GAS:Water}. The purification process requires {THING:ItemCharcoal} which can be added to the machine via the import bin. The procesing throughput can be improved by increasing the gas pressure of the input pipe relative to the gas pressure of the output pipe.</Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitWaterPurifier</Key>
+      <Value>Kit (Water Purifier)</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
       <Key>StructureFlashingLight</Key>
       <Value>Flashing Light</Value>
       <Description>Few objects or ideas are as clearly and transparently named as the Flashing Light, although fans of scrupulous accuracy have been known to refer to it by its full, official title: 'Default Yellow Flashing Light'.</Description>
@@ -2241,32 +2261,27 @@ Displaying the internal pressure of pipe networks, it  also reads out temperatur
     <RecordThing>
       <Key>StructurePipeCorner</Key>
       <Value>Pipe (Corner)</Value>
-      <Description>The first thing a Stationeer learns, is that they are alone. The second is that pipes store gas.
-Pipes spread their contents evenly through the entire network, and can be connected to a huge range of devices and structures. Basic pipes can withstand pressures of up to 60MPa. Beyond that, things get 'interesting'.</Description>
+      <Description>You can upgrade this pipe to an {THING:StructureInsulatedPipeCorner} using an {THING:ItemKitInsulatedPipe} and a {THING:ItemWrench}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeCrossJunction</Key>
       <Value>Pipe (Cross Junction)</Value>
-      <Description>The first thing a Stationeer learns, is that they are alone. The second is that pipes store gas.
-Pipes spread their contents evenly through the entire network, and can be connected to a huge range of devices and structures. Basic pipes can withstand pressures of up to 60MPa. Beyond that, things get 'interesting'.</Description>
+      <Description>You can upgrade this pipe to an {THING:StructureInsulatedPipeCrossJunction} using an {THING:ItemKitInsulatedPipe} and a {THING:ItemWrench}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeCrossJunction3</Key>
       <Value>Pipe (3-Way Junction)</Value>
-      <Description>The first thing a Stationeer learns, is that they are alone. The second is that pipes store gas.
-Pipes spread their contents evenly through the entire network, and can be connected to a huge range of devices and structures. Basic pipes can withstand pressures of up to 60MPa. Beyond that, things get 'interesting'.</Description>
+      <Description>You can upgrade this pipe to an {THING:StructureInsulatedPipeCrossJunction3} using an {THING:ItemKitInsulatedPipe} and a {THING:ItemWrench}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeCrossJunction5</Key>
       <Value>Pipe (5-Way Junction)</Value>
-      <Description>The first thing a Stationeer learns, is that they are alone. The second is that pipes store gas.
-Pipes spread their contents evenly through the entire network, and can be connected to a huge range of devices and structures. Basic pipes can withstand pressures of up to 60MPa. Beyond that, things get 'interesting'.</Description>
+      <Description>You can upgrade this pipe to an {THING:StructureInsulatedPipeCrossJunction5} using an {THING:ItemKitInsulatedPipe} and a {THING:ItemWrench}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeCrossJunction6</Key>
       <Value>Pipe (6-Way Junction)</Value>
-      <Description>The first thing a Stationeer learns, is that they are alone. The second is that pipes store gas.
-Pipes spread their contents evenly through the entire network, and can be connected to a huge range of devices and structures. Basic pipes can withstand pressures of up to 60MPa. Beyond that, things get 'interesting'.</Description>
+      <Description>You can upgrade this pipe to an {THING:StructureInsulatedPipeCrossJunction6} using an {THING:ItemKitInsulatedPipe} and a {THING:ItemWrench}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeLabel</Key>
@@ -2290,14 +2305,12 @@ The speed of heat gain or loss will depend on the gas in question. Adding multip
     <RecordThing>
       <Key>StructurePipeStraight</Key>
       <Value>Pipe (Straight)</Value>
-      <Description>The first thing a Stationeer learns, is that they are alone. The second is that pipes store gas.
-Pipes spread their contents evenly through the entire network, and can be connected to a huge range of devices and structures. Basic pipes can withstand pressures of up to 60MPa. Beyond that, things get 'interesting'.</Description>
+      <Description>You can upgrade this pipe to an {THING:StructureInsulatedPipeStraight} using an {THING:ItemKitInsulatedPipe} and a {THING:ItemWrench}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeTJunction</Key>
       <Value>Pipe (T Junction)</Value>
-      <Description>The first thing a Stationeer learns, is that they are alone. The second is that pipes store gas.
-Pipes spread their contents evenly through the entire network, and can be connected to a huge range of devices and structures. Basic pipes can withstand pressures of up to 60MPa. Beyond that, things get 'interesting'.</Description>
+      <Description>You can upgrade this pipe to an {THING:StructureInsulatedPipeTJunction} using an {THING:ItemKitInsulatedPipe} and a {THING:ItemWrench}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePowerConnector</Key>
@@ -2721,7 +2734,7 @@ Unlike the more advanced {THING:StructureFurnace}, the arc furnace cannot create
       <Value>Ice (Volatiles)</Value>
       <Description>An extremely reactive ice with numerous hydrocarbons trapped inside. For simplicity's sake, these are often displayed as H2 by devices like the {THING:CartridgeAtmosAnalyser}.
       
-Volatiles combust in a 2:1 ratio with {GAS:Oxygen}, creating {GAS:CarbonDioxide} and pollutants. However when catalysed via devices such as the {THING:H2Combustor} in the presence of {GAS:Oxygen}, they produce
+{GAS:Volatiles} combust in a 2:1 ratio with {GAS:Oxygen}, creating {GAS:CarbonDioxide} and pollutants. However when catalysed via devices such as the {THING:H2Combustor} in the presence of {GAS:Oxygen}, they produce
         {GAS:Steam} and heat with a modicum of {GAS:CarbonDioxide} and {GAS:Pollutant} due to the autoignition of the volatiles in the chamber. Along with {GAS:Oxygen}, volatiles gas is also the major component of fuel for such devices as the {THING:ItemWeldingTorch}.
 </Description>
     </RecordThing>
@@ -3500,6 +3513,7 @@ Insert a cartridge or color scanner into the tablet, then press the activate but
     <RecordThing>
       <Key>StructurePipeCrossJunction4</Key>
       <Value>Pipe (4-Way Junction)</Value>
+      <Description>You can upgrade this pipe to an {THING:StructureInsulatedPipeCrossJunction4} using an {THING:ItemKitInsulatedPipe} and a {THING:ItemWrench}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemAuthoringTool</Key>
@@ -5812,42 +5826,42 @@ While the wind turbine is optimized to produce power (up to 500W) even on low at
     <RecordThing>
       <Key>StructurePipeLiquidCrossJunction</Key>
       <Value>Liquid Pipe (Cross Junction)</Value>
-      <Description>It's all in the title - liquid pipes create pipe networks for the storage and transport of matter's second state: liquid.</Description>
+      <Description>You can upgrade this pipe to an {THING:StructurePipeInsulatedLiquidCrossJunction} using an {THING:ItemKitInsulatedLiquidPipe} and a {THING:ItemWrench}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeLiquidStraight</Key>
       <Value>Liquid Pipe (Straight)</Value>
-      <Description>It's all in the title - liquid pipes create pipe networks for the storage and transport of matter's second state: liquid.</Description>
+      <Description>You can upgrade this pipe to an {THING:StructureInsulatedPipeLiquidStraight} using an {THING:ItemKitInsulatedLiquidPipe} and a {THING:ItemWrench}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeLiquidCorner</Key>
       <Value>Liquid Pipe (Corner)</Value>
-      <Description>It's all in the title - liquid pipes create pipe networks for the storage and transport of matter's second state: liquid.</Description>
+      <Description>You can upgrade this pipe to an {THING:StructureInsulatedPipeLiquidCorner} using an {THING:ItemKitInsulatedLiquidPipe} and a {THING:ItemWrench}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeLiquidCrossJunction3</Key>
       <Value>Liquid Pipe (3-Way Junction)</Value>
-      <Description>It's all in the title - liquid pipes create pipe networks for the storage and transport of matter's second state: liquid.</Description>
+      <Description>You can upgrade this pipe to an {THING:StructureInsulatedPipeLiquidCrossJunction3} using an {THING:ItemKitInsulatedLiquidPipe} and a {THING:ItemWrench}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeLiquidCrossJunction4</Key>
       <Value>Liquid Pipe (4-Way Junction)</Value>
-      <Description>It's all in the title - liquid pipes create pipe networks for the storage and transport of matter's second state: liquid.</Description>
+      <Description>You can upgrade this pipe to an {THING:StructureInsulatedPipeLiquidCrossJunction4} using an {THING:ItemKitInsulatedLiquidPipe} and a {THING:ItemWrench}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeLiquidCrossJunction5</Key>
       <Value>Liquid Pipe (5-Way Junction)</Value>
-      <Description>It's all in the title - liquid pipes create pipe networks for the storage and transport of matter's second state: liquid.</Description>
+      <Description>You can upgrade this pipe to an {THING:StructureInsulatedPipeLiquidCrossJunction5} using an {THING:ItemKitInsulatedLiquidPipe} and a {THING:ItemWrench}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeLiquidCrossJunction6</Key>
       <Value>Liquid Pipe (6-Way Junction)</Value>
-      <Description>It's all in the title - liquid pipes create pipe networks for the storage and transport of matter's second state: liquid.</Description>
+      <Description>You can upgrade this pipe to an {THING:StructureInsulatedPipeLiquidCrossJunction6} using an {THING:ItemKitInsulatedLiquidPipe} and a {THING:ItemWrench}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeLiquidTJunction</Key>
       <Value>Liquid Pipe (T Junction)</Value>
-      <Description>It's all in the title - liquid pipes create pipe networks for the storage and transport of matter's second state: liquid.</Description>
+      <Description>You can upgrade this pipe to an {THING:StructureInsulatedPipeLiquidTJunction} using an {THING:ItemKitInsulatedLiquidPipe} and a {THING:ItemWrench}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageWindTurbine001</Key>
@@ -7439,7 +7453,7 @@ To begin splicing, place a plant or seed bag in the left slot (source) and place
     <RecordThing>
       <Key>ItemGasFilterVolatilesInfinite</Key>
       <Value>Catalytic Filter (Volatiles)</Value>
-      <Description>A filter that selectively targets Volatiles. It uses internal pressure differentials to regenerate a unique phase change catalyst, giving it an unlimited lifecycle.</Description>
+      <Description>A filter that selectively targets {GAS:Volatiles}. It uses internal pressure differentials to regenerate a unique phase change catalyst, giving it an unlimited lifecycle.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterWaterInfinite</Key>
@@ -7804,6 +7818,21 @@ To begin splicing, place a plant or seed bag in the left slot (source) and place
       <Key>ItemPureIceSteam</Key>
       <Value>Pure Ice Steam</Value>
       <Description>A frozen chunk of pure {GAS:Steam}</Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPureIceHydrogen</Key>
+      <Value>Pure Ice Hydrogen</Value>
+      <Description>A frozen chunk of pure {GAS:Hydrogen}</Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPureIceLiquidHydrogen</Key>
+      <Value>Pure Ice Liquid Hydrogen</Value>
+      <Description>A frozen chunk of pure {GAS:LiquidHydrogen}</Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPureIcePollutedWater</Key>
+      <Value>Pure Ice Polluted Water</Value>
+      <Description>A frozen chunk of {GAS:PollutedWater}</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePassiveLiquidDrain</Key>
@@ -8709,8 +8738,8 @@ To begin splicing, place a plant or seed bag in the left slot (source) and place
     </RecordThing>
     <RecordThing>
       <Key>ItemSensorProcessingUnitMesonScanner</Key>
-      <Value>Sensor Processing Unit (Meson Scanner)</Value>
-      <Description>The Meson Scanner Sensor Processing Unit can be inserted into the {THING:ItemSensorLenses} to show an overlay of pipes and cables. This can be useful when building behind walls or other structures.</Description>
+      <Value>Sensor Processing Unit (T-Ray Scanner)</Value>
+      <Description>The T-Ray Scanner Sensor Processing Unit can be inserted into the {THING:ItemSensorLenses} to show an overlay of pipes and cables. This can be useful when building behind walls or other structures.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureRocketCelestialTracker</Key>
@@ -8755,6 +8784,61 @@ To begin splicing, place a plant or seed bag in the left slot (source) and place
     <RecordThing>
       <Key>StructurePassiveVentInsulated</Key>
       <Value>Insulated Passive Vent</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>StrutureDrinkingFountain</Key>
+      <Value>Drinking Fountain</Value>
+      <Description>The Drinking Fountain can be interacted with directly to increase hydration. It needs a {GAS:Water} supply.</Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitDrinkingFountain</Key>
+      <Value>Kit (Drinking Fountain)</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitShower</Key>
+      <Value>Kit (Shower)</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureShower</Key>
+      <Value>Shower</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemHandSanitizer</Key>
+      <Value>Hand Sanitizer</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemReusableFireExtinguisher</Key>
+      <Value>Fire Extinguisher (Reusable)</Value>
+      <Description>Requires a canister filled with any inert liquid to opperate.</Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureShowerPowered</Key>
+      <Value>Shower (Powered)</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemFlashlight</Key>
+      <Value>Flashlight</Value>
+      <Description>A flashlight with a narrow and wide beam options.</Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeIgniter</Key>
+      <Value>Pipe Igniter</Value>
+      <Description>Ignites the atmosphere inside the attached pipe network.</Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPipeIgniter</Key>
+      <Value>Kit (Pipe Igniter)</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>OrganLungsChicken</Key>
+      <Value>Organ Lungs Chicken</Value>
       <Description />
     </RecordThing>
   </Things>
@@ -11574,6 +11658,10 @@ To begin splicing, place a plant or seed bag in the left slot (source) and place
       <Value>The ratio of water in device atmosphere</Value>
     </Record>
     <Record>
+      <Key>LogicTypeRatioPollutedWater</Key>
+      <Value>The ratio of polluted water in device atmosphere</Value>
+    </Record>
+    <Record>
       <Key>LogicTypeRatioNitrousOxide</Key>
       <Value>The ratio of {GAS:NitrousOxide} in device atmosphere</Value>
     </Record>
@@ -12277,6 +12365,14 @@ To begin splicing, place a plant or seed bag in the left slot (source) and place
     <Record>
       <Key>LogicTypeRatioLiquidNitrousOxideOutput2</Key>
       <Value>The ratio of {GAS:LiquidNitrousOxide} in device's Output2 Atmopshere</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioHydrogen</Key>
+      <Value>The ratio of {GAS:Hydrogen} in device's Atmopshere</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeRatioLiquidHydrogen</Key>
+      <Value>The ratio of {GAS:LiquidHydrogen} in device's Atmopshere</Value>
     </Record>
     <Record>
       <Key>LogicTypeContactTypeId</Key>
@@ -14790,6 +14886,22 @@ Recruiting from civil engineering backgrounds, military and aerospace industries
       <Value>Hydration Critical</Value>
     </Record>
     <Record>
+      <Key>MoodLow</Key>
+      <Value>Mood Low</Value>
+    </Record>
+    <Record>
+      <Key>MoodCritical</Key>
+      <Value>Mood Critical</Value>
+    </Record>
+    <Record>
+      <Key>HygieneLow</Key>
+      <Value>Hygiene Low</Value>
+    </Record>
+    <Record>
+      <Key>HygieneCritical</Key>
+      <Value>Hygiene Critical</Value>
+    </Record>
+    <Record>
       <Key>Guides</Key>
       <Value>Guides</Value>
     </Record>
@@ -14898,6 +15010,10 @@ Recruiting from civil engineering backgrounds, military and aerospace industries
       <Value>Nutrition:</Value>
     </Record>
     <Record>
+      <Key>StationpediaNutritionQuality</Key>
+      <Value>Quality:</Value>
+    </Record>
+    <Record>
       <Key>StationpediaGrowthTime</Key>
       <Value>Growth Time:</Value>
     </Record>
@@ -14918,22 +15034,21 @@ Recruiting from civil engineering backgrounds, military and aerospace industries
     </Record>
     <Record>
       <Key>MoleVolatilesDescription</Key>
-      <Value>Volatiles are an extremely reactive, complex organic molecule, which can be used in conjunction with oxygen as a combustible fuel. It is refined from {THING:ItemVolatiles}.
-      
-Due to obscure and largely forgotten {LINK:ODA;ODA} regulations, volatiles are sometimes labeled 'H2' by various items of technology. However, though they are similar to hydrogen, they're not 'actually' hydrogen. {GAS:Volatiles} will not produce {GAS:Water} when combusted, without a catalyst (see the {THING:H2Combustor}). Alone, they create {GAS:Pollutant}s and {GAS:CarbonDioxide} when burned in the following ratio:
-      
-2 {GAS:Volatiles} + 1 {GAS:Oxygen} -&gt; 3 {GAS:Pollutant} + 6 {GAS:CarbonDioxide} + heat.</Value>
+      <Value>Volatiles is a combustible fuel. It is refined from {THING:ItemVolatiles}</Value>
     </Record>
     <Record>
       <Key>MolePollutantDescription</Key>
-      <Value>Also known as 'X', {GAS:Pollutant} is created when smelting certain metals. A concentration of 0.1 mol or greater will cause your suit to warn about poison in the atmosphere.
-      
-Pollutant has a high specific heat, making it an excellent coolant. Unfortunately it is extremely bad for organic beings, and will severely damage the lungs of most {REAGENT:Carbon} based organisms.</Value>
+      <Value>Also known as 'X', {GAS:Pollutant} is created when smelting certain metals. A concentration of 0.1 mol or greater will cause your suit to warn about poison in the atmosphere. Pollutant has a high specific heat, making it an excellent coolant. Unfortunately it is extremely bad for organic beings, and will severely damage the lungs of most {REAGENT:Carbon} based organisms.</Value>
     </Record>
     <Record>
       <Key>MoleWaterDescription</Key>
       <Value>You can obtain water by smelting or crushing {THING:ItemIce} using a {THING:StructureFurnace} or an {THING:StructureIceCrusher}. {GAS:Water} is critical for {LINK:OrganicPage;plants} to stay alive, and grow {LINK:NutritionPage;food}. 
         It is also an exceptional coolant with a very high specific heat capacity. {GAS:Water} will evaporate into {GAS:Steam} if it's temperature is raised above its boiling point.</Value>
+    </Record>
+    <Record>
+      <Key>MolePollutedWaterDescription</Key>
+      <Value>Polluted water is a waste product from the use of {GAS:Water} in certain devices. It will freeze into {THING:ItemPureIcePollutedWater} but boil into {GAS:Steam}. 
+A {THING:StructureWaterPurifier} can be used to convert it back to {GAS:Water}.</Value>
     </Record>
     <Record>
       <Key>MoleNitrousOxideDescription</Key>
@@ -14962,6 +15077,14 @@ Pollutant has a high specific heat, making it an excellent coolant. Unfortunatel
     <Record>
       <Key>MoleLiquidNitrousOxideDescription</Key>
       <Value>{GAS:NitrousOxide} in its liquid form. It can be created by lowering the temperature of {GAS:NitrousOxide} gas below it's boiling point. This can be achieved using a {THING:StructureHeatExchangerGastoGas} or a {THING:StructureAirConditioner}. {GAS:LiquidNitrousOxide} introduced into the atmosphere will quickly evaporate back into {GAS:NitrousOxide}.</Value>
+    </Record>
+    <Record>
+      <Key>MoleLiquidHydrogenDescription</Key>
+      <Value>{GAS:Hydrogen} in its liquid form. It can be created by lowering the temperature of {GAS:Hydrogen} gas below it's boiling point. This can be achieved using a {THING:StructureHeatExchangerGastoGas} or a {THING:StructureAirConditioner}. {GAS:LiquidHydrogen} introduced into the atmosphere will quickly evaporate back into {GAS:Hydrogen}.</Value>
+    </Record>
+    <Record>
+      <Key>MoleHydrogenDescription</Key>
+      <Value />
     </Record>
     <Record>
       <Key>MoleSteamDescription</Key>
@@ -15273,6 +15396,14 @@ Pollutant has a high specific heat, making it an excellent coolant. Unfortunatel
     <Record>
       <Key>StationpediaHealthMultiplierTitle</Key>
       <Value>Durability:</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaNutritionQuality</Key>
+      <Value>Quality:</Value>
+    </Record>
+    <Record>
+      <Key>PhaseChangeCompareTo</Key>
+      <Value>Compare to:</Value>
     </Record>
   </Interface>
   <Colors>
