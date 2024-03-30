@@ -1,5 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>German</Name>
   <Code>DE</Code>
+  <Font>font_extended</Font>
   <ScreenSpaceToolTips>
     <Record>
       <Key>StatusIconToxinName</Key>
@@ -142,6 +145,10 @@
       <Value>Abfall-Kapazität</Value>
     </Record>
     <Record>
+      <Key>StatusIconWasteDesc</Key>
+      <Value>Abfalltank fast voll</Value>
+    </Record>
+    <Record>
       <Key>StatusIconHealthName</Key>
       <Value>Aktuelle Gesundheit</Value>
     </Record>
@@ -152,6 +159,14 @@
     <Record>
       <Key>StatusIconUnconsciousName</Key>
       <Value>Bewusstlos</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconMoodName</Key>
+      <Value>Aktuelle Stimmung</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconHygieneName</Key>
+      <Value>Aktuelle Hygiene</Value>
     </Record>
     <Record>
       <Key>DeconstructCanisterFull</Key>
