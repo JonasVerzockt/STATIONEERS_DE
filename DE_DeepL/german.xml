@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Name>German</Name>
+  <Name>Deutsch</Name>
   <Code>DE</Code>
   <Font>font_extended</Font>
   <Reagents>
@@ -283,11 +283,11 @@
     </Record>
     <Record>
       <Key>Hydrogen</Key>
-      <Value>Wasserstoff</Value>
+      <Value>Hydrogen</Value>
     </Record>
     <Record>
       <Key>LiquidHydrogen</Key>
-      <Value>Flüssiger Wasserstoff</Value>
+      <Value>Flüssiger Hydrogen</Value>
     </Record>
   </Gases>
   <Actions>
@@ -1008,7 +1008,7 @@ Du kannst einen {THING:ItemGasCanisterWater} nachfüllen, indem du ihn am gestre
     <RecordThing>
       <Key>ItemAreaPowerControl</Key>
       <Value>Bausatz (Strom Unterverteilung)</Value>
-      <Description>Dieser Bausatz platziert einen {THING:StructureAreaPowerControl} (APC) auf einer beliebigen Trägerstruktur. Der APC-Bausatz bietet zwei Optionen zur Auswahl der Richtung, in die der APC-Strom fließen soll.</Description>
+      <Description>Dieser Bausatz platziert einen {THING:StructureAreaPowerControl} (APC) auf einer beliebigen Trägerstruktur. Der APC-Bausatz bietet zwei Optionen zur Auswahl der Richtung, in die der APC Strom fließen soll.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemBatteryCell</Key>
@@ -1481,7 +1481,7 @@ Achten Sie darauf, dass Sie den Druck nicht über 10 MPa erhöhen, da es sonst z
     <RecordThing>
       <Key>ItemMiningBelt</Key>
       <Value>Bergbau-Gürtel</Value>
-      <Description>Ursprünglich von {LINK:Recurso;Recurso} für den Asteroidenabbau entwickelt, bietet der {LINK:Stationeers;Stationeer's} Minengürtel Platz für zwei {LINK:ToolPage;Werkzeuge} und acht {LINK:OrePage;Erz} Stapel. Während man den Gürtel trägt, wird {LINK:OrePage;Erz} automatisch dort gelagert, wenn er abgebaut wird. Flüchtige und temperaturabhängige Stoffe bleiben im Gürtel stabil. Vorsicht! Vielleicht keine vollen Gürtel in den Recycler reinwerfen. Außer man will sie wirklich zerstören! Vorsicht! Vielleicht keine vollen Gürtel in den Recycler reinwerfen. Außer man will sie wirklich zerstören! Nicht war Konny?!</Description>
+      <Description>Ursprünglich von {LINK:Recurso;Recurso} für den Asteroidenabbau entwickelt, bietet der {LINK:Stationeers;Stationeer's} Minengürtel Platz für zwei {LINK:ToolPage;Werkzeuge} und acht {LINK:OrePage;Erz} Stapel. Während man den Gürtel trägt, wird {LINK:OrePage;Erz} automatisch dort gelagert, wenn er abgebaut wird. Flüchtige und temperaturabhängige Stoffe bleiben im Gürtel stabil. Vorsicht! Vielleicht keine vollen Gürtel in den Recycler reinwerfen. Außer man will sie wirklich zerstören! Nicht war Konny?!</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningDrill</Key>
@@ -2736,8 +2736,8 @@ Im Gegensatz zu den weiter entwickelten {THING:StructureFurnace} kann der Lichtb
       <Value>Eis (Wasserstoff)</Value>
       <Description>Ein extrem reaktives Eis, in dem zahlreiche Kohlenwasserstoffe eingeschlossen sind. Der Einfachheit halber werden diese oft von Geräten wie dem {THING:CartridgeAtmosAnalyser} als H2 angezeigt.
       
-Wasserstoffe verbrennen in einem Verhältnis von 2:1 mit {GAS:Oxygen}, wobei {GAS:CarbonDioxide} und Schadstoffe entstehen. Wenn sie jedoch durch Geräte wie {THING:H2Combustor} in Gegenwart von {GAS:Oxygen} katalysiert werden, erzeugen sie
-{GAS:Steam} und Wärme mit einer geringen Menge an {GAS:CarbonDioxide} und {GAS:Pollutant} aufgrund der Selbstzündung der flüchtigen Stoffe in der Kammer. Zusammen mit {GAS:Oxygen} ist flüchtiges Gas auch der Hauptbestandteil des Brennstoffs für Vorrichtungen wie die {THING:ItemWeldingTorch}.
+Wasserstoff verbrennt in einem Verhältnis von 2:1 mit {GAS:Oxygen}, wobei {GAS:CarbonDioxide} und Schadstoffe entstehen. Wenn sie jedoch durch Geräte wie {THING:H2Combustor} in Gegenwart von {GAS:Oxygen} katalysiert werden, erzeugen sie
+{GAS:Steam} und Wärme mit einer geringen Menge an {GAS:CarbonDioxide} und {GAS:Pollutant} aufgrund der Selbstzündung von Wasserstoff in der Kammer. Zusammen mit {GAS:Oxygen} ist Wasserstoff auch der Hauptbestandteil des Brennstoffs für Vorrichtungen wie die {THING:ItemWeldingTorch}.
 </Description>
     </RecordThing>
     <RecordThing>
@@ -4569,8 +4569,8 @@ ANWENDUNG: 'J' zum Aktivieren; 'Leertaste' zum Aufwärtsfliegen; 'Linke Strg' zu
     </RecordThing>
     <RecordThing>
       <Key>H2Combustor</Key>
-      <Value>Wasserstoff Verbrenner</Value>
-      <Description>Der {GAS:Volatiles} Combustor wurde gegenüber seinem ursprünglichen {LINK:Recurso;Recurso} Design leicht angepasst. Combustor tut genau das, was sein Name sagt - er verbrennt eine Mischung aus Wasserstoff und {GAS:Oxygen}, um Wasser zu erzeugen. Er ist in heißen oder trockenen Umgebungen äußerst nützlich, aber die Benutzer müssen sich bewusst sein, dass der Combustor erhebliche Abwärme produziert. Das Gerät ist auch nicht ganz effizient, was zur Selbstentzündung von flüchtigen Stoffen in der Kammer und zur Produktion von Abgasen führt, die entsorgt werden müssen.</Description>
+      <Value>Verbrenner</Value>
+      <Description>Der {GAS:Volatiles} Combustor wurde gegenüber seinem ursprünglichen {LINK:Recurso;Recurso} Design leicht angepasst. Combustor tut genau das, was sein Name sagt - er verbrennt eine Mischung aus Wasserstoff und {GAS:Oxygen}, um Wasser zu erzeugen. Er ist in heißen oder trockenen Umgebungen äußerst nützlich, aber die Benutzer müssen sich bewusst sein, dass der Combustor erhebliche Abwärme produziert. Das Gerät ist auch nicht ganz effizient, was zur Selbstentzündung von Wasserstoff in der Kammer und zur Produktion von Abgasen führt, die entsorgt werden müssen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeStraight</Key>
@@ -6427,7 +6427,7 @@ Die Wirkung dieser Bestandteile hängt von ihren jeweiligen Anteilen im Komposte
       <Key>StructureAdvancedComposter</Key>
       <Value>Fortschrittlicher Komposter</Value>
       <Description>Der fortschrittliche Komposter erzeugt {THING:Fertilizer} aus organischem Material. Er nimmt {LINK:OrganicPage;Nahrung}, {THING:DecayedFood} oder {THING:ItemBiomass} auf. Er benötigt {GAS:Water} und Strom für den Betrieb und beschleunigt den natürlichen Kompostierungsprozess.
-Bei der Verarbeitung setzt er Stickstoff und flüchtige Stoffe sowie eine geringe Menge Wärme frei.
+Bei der Verarbeitung setzt er Stickstoff und Methan sowie eine geringe Menge Wärme frei.
 
 {HEADER:Compost composition}
 Der Dünger wird in einem Verhältnis von 1:3 zwischen Dünger und Inhaltsstoffen hergestellt. Die Wirkung des Düngers auf die Pflanzen hängt von den jeweiligen Anteilen seiner Bestandteile ab.
@@ -6461,7 +6461,7 @@ Der Dünger wird in einem Verhältnis von 1:3 zwischen Dünger und Inhaltsstoffe
       <Key>PortableComposter</Key>
       <Value>Tragbarer Komposter</Value>
       <Description>Ein einfaches Kompostiergerät, der Basiskomposter erzeugt {THING:Fertilizer} aus organischem Material. Er nimmt {LINK:OrganicPage;Nahrung}, {THING:DecayedFood} oder {THING:ItemBiomass} auf. Für den Betrieb sind ein voller {THING:ItemLiquidCanisterEmpty} und eine Batterie erforderlich, die den natürlichen Kompostierungsprozess beschleunigen.
-Bei der Verarbeitung setzt er Stickstoff und flüchtige Stoffe sowie eine geringe Menge Wärme frei.
+Bei der Verarbeitung setzt er Stickstoff und Wasserstoff sowie eine geringe Menge Wärme frei.
 
 {HEADER:Compost composition}
 Der Dünger wird in einem Verhältnis von 1:3 zwischen Dünger und Inhaltsstoffen hergestellt. Die Wirkung des Düngers auf die Pflanzen hängt von den jeweiligen Anteilen seiner Bestandteile ab.
@@ -7092,8 +7092,8 @@ Es ist sehr temperaturempfindlich und beginnt zu schmelzen, sobald es abgebaut w
     </RecordThing>
     <RecordThing>
       <Key>StructureH2Combustor</Key>
-      <Value>Wasserstoff Verbrenner</Value>
-      <Description>Der {GAS:Volatiles} Combustor wurde gegenüber seinem ursprünglichen {LINK:Recurso;Recurso} Design leicht angepasst. Combustor tut genau das, was sein Name sagt - er verbrennt eine Mischung aus flüchtigen Stoffen und {GAS:Oxygen}, um Wasser zu erzeugen. Er ist in heißen oder trockenen Umgebungen äußerst nützlich, aber die Benutzer müssen sich bewusst sein, dass der Combustor erhebliche Abwärme produziert. Das Gerät ist auch nicht ganz effizient, was zur Selbstentzündung von flüchtigen Stoffen in der Kammer und zur Produktion von Abgasen führt, die entsorgt werden müssen.</Description>
+      <Value>Verbrenner</Value>
+      <Description>Der {GAS:Volatiles} Combustor wurde gegenüber seinem ursprünglichen {LINK:Recurso;Recurso} Design leicht angepasst. Combustor tut genau das, was sein Name sagt - er verbrennt eine Mischung aus Wasserstoff und {GAS:Oxygen}, um Wasser zu erzeugen. Er ist in heißen oder trockenen Umgebungen äußerst nützlich, aber die Benutzer müssen sich bewusst sein, dass der Combustor erhebliche Abwärme produziert. Das Gerät ist auch nicht ganz effizient, was zur Selbstentzündung von Wasserstoff in der Kammer und zur Produktion von Abgasen führt, die entsorgt werden müssen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeRadiatorFlat</Key>
@@ -7456,7 +7456,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     <RecordThing>
       <Key>ItemGasFilterVolatilesInfinite</Key>
       <Value>Katalytischer Filter (Wasserstoff)</Value>
-      <Description>Ein Filter, der selektiv auf flüchtige Stoffe abzielt. Er nutzt interne Druckunterschiede, um einen einzigartigen Phasenwechselkatalysator zu regenerieren, was ihm einen unbegrenzten Lebenszyklus verleiht.</Description>
+      <Description>Ein Filter, der selektiv auf {GAS:Volatiles} abzielt. Er nutzt interne Druckunterschiede, um einen einzigartigen Phasenwechselkatalysator zu regenerieren, was ihm einen unbegrenzten Lebenszyklus verleiht.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterWaterInfinite</Key>
@@ -7651,7 +7651,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     <RecordThing>
       <Key>LiquidRocketEngineBasic</Key>
       <Value>Flüssigkeitsraketentriebwerk Standard</Value>
-      <Description>Ein kleines flüssigkeitsbetriebenes Raketentriebwerk mit einer elektrischen Turbopumpe. Die Flüssigkeitszufuhr sollte mit einem Treibstoffgemisch aus flüchtigen Stoffen und Sauerstoff versorgt werden. Es hat einen Schubbereich von etwa 6kN bis 30kN und eine erwartete Isp von 230s (Ausstoßgeschwindigkeit: 2,2km/s).</Description>
+      <Description>Ein kleines flüssigkeitsbetriebenes Raketentriebwerk mit einer elektrischen Turbopumpe. Die Flüssigkeitszufuhr sollte mit einem Treibstoffgemisch aus Wasserstoff und Sauerstoff versorgt werden. Es hat einen Schubbereich von etwa 6kN bis 30kN und eine erwartete Isp von 230s (Ausstoßgeschwindigkeit: 2,2km/s).</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureDuctCorner</Key>
@@ -7824,12 +7824,12 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     </RecordThing>
     <RecordThing>
       <Key>ItemPureIceHydrogen</Key>
-      <Value>Reines Eis Wasserstoff</Value>
+      <Value>Reines Eis Hydrogen</Value>
       <Description>Ein gefrorener Klumpen reinen {GAS:Hydrogen}</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPureIceLiquidHydrogen</Key>
-      <Value>Reines Eis Flüssiger Wasserstoff</Value>
+      <Value>Reines Eis Flüssiger Hydrogen</Value>
       <Description>Ein gefrorener Klumpen reinen {GAS:LiquidHydrogen}</Description>
     </RecordThing>
     <RecordThing>
@@ -11654,7 +11654,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     </Record>
     <Record>
       <Key>LogicTypeRatioVolatiles</Key>
-      <Value>Das Verhältnis der flüchtigen Bestandteile in der Geräteatmosphäre</Value>
+      <Value>Das Verhältnis von Wasserstoff in der Geräteatmosphäre</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioWater</Key>
@@ -14683,7 +14683,7 @@ Das Stationeers-Programm ist grundsätzlich offen für alle Menschen, denn es re
     </Record>
     <Record>
       <Key>ConstructionKitsCategoryKey</Key>
-      <Value>Baukästen</Value>
+      <Value>Bausätze</Value>
     </Record>
     <Record>
       <Key>FabricatorCategoryKey</Key>
@@ -15061,7 +15061,7 @@ Ein {THING:StructureWaterPurifier} kann verwendet werden, um es wieder zu reinig
     </Record>
     <Record>
       <Key>MoleNitrousOxideDescription</Key>
-      <Value>Distickstoffoxid ist ein reaktionsfreudiges Gas, das beim Einatmen die Spieler außer Gefecht setzt.  Es wirkt als Oxidationsmittel bei der Verbrennung und ermöglicht es flüchtigen Stoffen, wesentlich heißer, schneller und bei einer niedrigeren Selbstentzündungstemperatur zu brennen. Es kann in einem energieintensiven Prozess innerhalb eines {THING:StructureNitrolyzer} erzeugt werden.</Value>
+      <Value>Distickstoffoxid ist ein reaktionsfreudiges Gas, das beim Einatmen die Spieler außer Gefecht setzt.  Es wirkt als Oxidationsmittel bei der Verbrennung und ermöglicht es Wasserstoff, wesentlich heißer, schneller und bei einer niedrigeren Selbstentzündungstemperatur zu brennen. Es kann in einem energieintensiven Prozess innerhalb eines {THING:StructureNitrolyzer} erzeugt werden.</Value>
     </Record>
     <Record>
       <Key>MoleLiquidNitrogenDescription</Key>
