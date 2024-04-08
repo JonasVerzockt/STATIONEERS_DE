@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetadata xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>[BETA] Stationpedia Extension</Name>
+  <Author>JonasVerzockt</Author>
+  <Version>0.0.1</Version>
+  <Description>[h1]Stationpedia Extension[/h1]
+[h2]Export from the German translation Mod[/h2]
+[h3]This modification provides an extension of Stationpedia in English![/h3]
+Current version: [b]v0.0.1[/b]
+
+[hr][/hr]
+[h3]How do I install this translation?[/h3]
+[olist]
+    [*] Subscribe to this mod.
+    [*] Start the game.
+    [*] Make sure that this mod is above the core!
+	[*] Set the game to english!
+    [*] Restart the game!
+[/olist]
+
+[hr][/hr]
+[b]ATTENTION! THIS IS CURRENTLY STILL A BETA AND HEAVILY UNDER DEVELOPMENT! MY NATIVE LANGUAGE IS NOT ENGLISH! SORRY FOR POSSIBLE GAMATICAL ERRORS![/b]
+
+[hr][/hr]
+[b]Added/changed current help pages:[/b]
+
+Melting
+Basics of metal processing
+General metal processing
+Advanced metal processing
+Mining
+Advanced mining
+Mining strategy
+Combustion gases
+
+[hr][/hr]
+The pages are from the following mod: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3032318024]German translation[/url]
+[url=https://ko-fi.com/jonasverzockt]Ko-fi Donation[/url]
+
+Credit:
+[b][zynischerboomer][/b] - The idea guru who expanded the description ocean with his brilliant ideas. Not to mention the masterpieces of help articles you've polished up.
+[b][rogerwatersx][/b] - The visionary who was there from the beginning and even pulled facts out of a hat! Your inspiration made the project bigger.</Description>
+  <WorkshopHandle>3047484266</WorkshopHandle>
+  <Tags />
+</ModMetadata>

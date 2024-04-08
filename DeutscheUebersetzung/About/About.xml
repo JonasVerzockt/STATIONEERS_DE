@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetadata xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>[BETA] Deutsche Übersetzung</Name>
+  <Author>JonasVerzockt</Author>
+  <Version>0.4.8</Version>
+  <Description>[h1]Deutsche Übersetzung[/h1]
+[h2]Community-Projekt[/h2]
+[h3]Diese Modifikation stellt eine alternative Sprachübersetzung in Deutsch zur Verfügung![/h3]
+Aktuelle Version: [b]v0.4.8[/b]
+Spiel Version: [b]v0.2.4891.22206[/b]
+
+
+[hr][/hr]
+[h3]Wie installiere ich diese Übersetzung?[/h3]
+[olist]
+    [*] Abonniere diesen Mod.
+    [*] Starte das Spiel.
+    [*] Achte darauf das dieser Mod über den [url=https://ibb.co/hd2GRhY]Core[/url] ist!
+	[*] Stelle das Spiel auf deutsch!
+    [*] Starte das Spiel neu!
+[/olist]
+
+
+[hr][/hr]
+[b]ACHTUNG! DAS IST AKTUELL NOCH EINE BETA UND STARK IN BEARBEITUNG![/b]
+Falls ihr unterstützen möchtet beim übersetzen könnt ihr es nun tun: [url=https://de.crowdin.com/project/stationeers-de]Crowdin[/url]
+
+[hr][/hr]
+[b]Aktuelle Hilfe-Seiten hinzugefügt/geändert:[/b]
+
+Schmelzen
+Grundlagen der Metallverarbeitung
+Allgemeine Metallverarbeitung
+Fortgeschrittener Metallverarbeitung
+Brenngase
+Bergbau
+Erweiterter Bergbau
+Bergbau Strategie
+
+
+[hr][/hr]
+Ein herzliches Dankeschön an all die klugen Köpfe, die dieses Projekt aus der Taufe gehoben, mit Ideen gefüttert, Feedback geliefert und Support gegeben haben. Hier sind unsere Champions:
+
+[b][konny87][/b] - Deine Ideen haben nicht nur die Funken gezündet, sondern du hast auch tapfer im Twitch-Streams die Updates getestet, um Bugs zu entlarven und den Verbesserungszug anzufeuern.
+
+[b][rogerwatersx][/b] - Der Visionär, der von Anfang an dabei war und sogar Übersetzungen aus dem Hut gezaubert hat! Deine Inspiration und Sprachkünste haben das Projekt größer gemacht.
+
+[b][zynischerboomer][/b] - Der Ideen-Guru, der mit seinen brillanten Einfällen den Beschreibungsozean erweitert hat. Nicht zu vergessen die Meisterwerke der Hilfeartikel, die du aufpoliert hast.
+
+Eure Genialität und Zusammenarbeit haben dieses Projekt auf den Raketenantrieb gestellt und es zur Freude der Community gemacht. Ein riesiges Dankeschön für eure Unterstützung – ihr seid wahrhaftig die Legenden hinter den Kulissen!
+
+[hr][/hr]
+[url=https://discord.gg/cG3KkQQ7KP]Mein Discord[/url]
+[url=https://de.crowdin.com/project/stationeers-de]Crowdin[/url]
+[url=https://github.com/JonasVerzockt/STATIONEERS_DE]GitHub[/url]
+[url=https://ko-fi.com/jonasverzockt]Ko-fi Spende[/url]
+[url=https://discord.com/invite/PrdGfX4haq]Konny87 Discord[/url]</Description>
+  <WorkshopHandle>3032318024</WorkshopHandle>
+  <Tags />
+</ModMetadata>
