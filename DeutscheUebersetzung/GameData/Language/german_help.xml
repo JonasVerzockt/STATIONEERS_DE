@@ -533,9 +533,9 @@ Komplexere Raketen können {THING:StructureRocketMiner} und {THING:StructureCarg
       <Title>Wetter</Title>
       <DisplayFilter>Guides</DisplayFilter>
       <Text>Die Planeten des Sonnensystems sind nicht so ruhig, wie sie scheinen. Nach sieben Tagen auf einer Welt mit Atmosphäre treten die unergründlichen Kräfte der Natur in Aktion und treffen unachtsame Stationeers mit Schneestürmen, Staubstürmen und vulkanischen Events.
-        Daher empfiehlt der {LINK:ODA;ODA}, dass frisch entsandte Stationeers innerhalb von 7 Tagen nach der Landung eine luftdichte Basis errichten.
-        Alle dynamischen Objekte, die in einem Sturm draußen gelassen werden - auf dem Mars, Loulan, Vulkan oder Europa - laufen Gefahr, weit, weit weggeweht zu werden, auch dein Lander.
-        Sei dir auch bewusst, dass die Solarzellen zerbrechlich sind und ihr Glas zersplittert oder manchmal sogar von einem ausreichend heftigen Sturm zerstört werden kann. Bei Stürmen wird auch ihre Leistung drastisch reduziert.</Text>
+Daher empfiehlt der {LINK:ODA;ODA}, dass frisch entsandte Stationeers innerhalb von 7 Tagen nach der Landung eine luftdichte Basis errichten.
+Alle dynamischen Objekte, die in einem Sturm draußen gelassen werden - auf dem Mars, Loulan, Vulkan oder Europa - laufen Gefahr, weit, weit weggeweht zu werden, auch dein Lander.
+Sei dir auch bewusst, dass die Photovoltaikzellen zerbrechlich sind und ihr Glas zersplittert oder manchmal sogar von einem ausreichend heftigen Sturm zerstört werden kann. Bei Stürmen wird auch ihre Leistung drastisch reduziert.</Text>
     </StationpediaPage>
     <!--
     ~~~~~~~~~~~~~~~~~~~~~~~~~
