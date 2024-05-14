@@ -219,6 +219,16 @@
       <Value>Pilz</Value>
       <Unit>g</Unit>
     </RecordReagent>
+    <RecordReagent>
+      <Key>Sugar</Key>
+      <Value>Zucker</Value>
+      <Unit>g</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>Cocoa</Key>
+      <Value>Kakaobohnen</Value>
+      <Unit>g</Unit>
+    </RecordReagent>
   </Reagents>
   <Gases>
     <Record>
@@ -385,7 +395,7 @@
     </Record>
     <Record>
       <Key>Powered</Key>
-      <Value>mit Strom versorgt</Value>
+      <Value>stromführend</Value>
     </Record>
     <Record>
       <Key>Unpowered</Key>
@@ -1147,7 +1157,7 @@ Anwendung: Klebeband in die aktive Hand nehmen und die rechte Maustaste gedrück
     <RecordThing>
       <Key>ItemFertilizedEgg</Key>
       <Value>befruchtetes Ei</Value>
-      <Description>Damit ein {THING:NpcChick} schlüpft, benötigt es eine Inkubationstemperatur zwischen 35 und 45 Grad Celsius. Wenn das Ei Temperaturen unter 10 Grad ausgesetzt wurde, ist es nicht mehr lebensfähig.</Description>
+      <Description>Damit ein {THING:NpcChick} schlüpft, benötigt es eine Inkubationstemperatur zwischen 35 und 40 Grad Celsius. Wenn das Ei Temperaturen unter 10 Grad ausgesetzt wurde, ist es nicht mehr lebensfähig.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemFireExtinguisher</Key>
@@ -1163,6 +1173,16 @@ Anwendung: Klebeband in die aktive Hand nehmen und die rechte Maustaste gedrück
       <Key>ItemFlour</Key>
       <Value>Mehl</Value>
       <Description>Pulverisierter {THING:ItemWheat}. Ein Hauptbestandteil vieler Lebensmittel, die von der {THING:ApplianceMicrowave} und dem {THING:ItemKitAutomatedOven} hergestellt werden.</Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCocoaPowder</Key>
+      <Value>Kakaopulver</Value>
+      <Description></Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemSugar</Key>
+      <Value>Zucker</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterCarbonDioxide</Key>
@@ -2248,34 +2268,33 @@ Der Sensor wird aktiviert, sobald ein Spieler das Gitter betritt, auf dem er pla
     <RecordThing>
       <Key>StructurePipeAnalysizer</Key>
       <Value>Gasrohr-Analysator</Value>
-      <Description>Der angeblich aus einem Wochenendprojekt eines übereifrigen {LINK:ExMin;ExMin}-Ingenieurs entwickelte hervorgegangene Rohranalysator ist im Wesentlichen eine weiterentwickelte Version des {THING:StructurePipeMeter}.
-Er zeigt den Innendruck von Rohrnetzen an, misst auch die Temperatur und den Gasgehalt und kann über ein {LINK:LogicPage;Logik}-System an einer {THING:StructureConsole}- oder {THING:StructureComputer}-System angeschlossen werden.</Description>
+      <Description>Der angeblich aus einem Wochenendprojekt eines übereifrigen {{LINK:ExMin;ExMin}-Ingenieurs entwickelte hervorgegangene Rohranalysator ist im Wesentlichen eine weiterentwickelte Version des {THING:StructurePipeMeter}.
+Er zeigt den Innendruck von Rohrnetzen an, misst auch die Temperatur und den Gasgehalt und kann über ein {{LINK:LogicPage;Logik}-System an einer {THING:StructureConsole}- oder {THING:StructureComputer}-System angeschlossen werden.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeCorner</Key>
       <Value>Gasrohr (Ecke)</Value>
-      <Description>Das erste, was ein Stationeer lernt, ist, dass er allein ist. Das zweite ist, dass Rohre Gas speichern.
-Rohre verteilen ihren Inhalt gleichmäßig über das gesamte Netzwerk und können mit einer Vielzahl von Geräten und Strukturen verbunden werden. Einfache Rohre können einem Druck von bis zu 60 MPa standhalten. Darüber hinaus werden die Dinge "interessant".</Description>
+      <Description>Du kannst dieses Rohr auf ein {THING:StructureInsulatedPipeCorner} upgraden mit einem {THING:ItemKitInsulatedPipe} und einem {THING:ItemWrench}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeCrossJunction</Key>
-      <Value>Gasrohr (Kreuzungspunkt)</Value>
-      <Description>Sie können dieses Rohr mit einem {THING:ItemKitInsulatedPipe} und einem {THING:ItemWrench} zu einem {THING:StructureInsulatedPipeCrossJunction} aufrüsten.</Description>
+      <Value>Gasrohr (Kreuzung)</Value>
+      <Description>Du kannst dieses Rohr auf ein {THING:StructureInsulatedPipeCrossJunction} upgraden mit einem {THING:ItemKitInsulatedPipe} und einem {THING:ItemWrench}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeCrossJunction3</Key>
       <Value>Gasrohr (3-Wege-Kreuzung)</Value>
-      <Description>Sie können dieses Rohr zu einem {THING:StructureInsulatedPipeCrossJunction3} aufrüsten, indem Sie ein {THING:ItemKitInsulatedPipe} und einen {THING:ItemWrench} verwenden.</Description>
+      <Description>Du kannst dieses Rohr auf ein {THING:StructureInsulatedPipeCrossJunction3} upgraden mit einem {THING:ItemKitInsulatedPipe} und einem {THING:ItemWrench}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeCrossJunction5</Key>
       <Value>Gasrohr (5-Wege-Kreuzung)</Value>
-      <Description>Sie können dieses Rohr zu einem {THING:StructureInsulatedPipeCrossJunction5} aufrüsten, indem Sie ein {THING:ItemKitInsulatedPipe} und einen {THING:ItemWrench} verwenden.</Description>
+      <Description>Du kannst dieses Rohr auf ein {THING:StructureInsulatedPipeCrossJunction5} upgraden mit einem {THING:ItemKitInsulatedPipe} und einem {THING:ItemWrench}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeCrossJunction6</Key>
       <Value>Gasrohr (6-fache Kreuzung)</Value>
-      <Description>Sie können dieses Rohr zu einem {THING:StructureInsulatedPipeCrossJunction6} aufrüsten, indem Sie ein {THING:ItemKitInsulatedPipe} und einen {THING:ItemWrench} verwenden.</Description>
+      <Description>Du kannst dieses Rohr auf ein {THING:StructureInsulatedPipeCrossJunction6} upgraden mit einem {THING:ItemKitInsulatedPipe} und einem {THING:ItemWrench}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeLabel</Key>
@@ -2286,26 +2305,25 @@ Rohre verteilen ihren Inhalt gleichmäßig über das gesamte Netzwerk und könne
       <Key>StructurePipeMeter</Key>
       <Value>Druckmesser (Gas)</Value>
       <Description>Während das Stationeers-Programm bisher nur wenig klassische Poesie hervorgebracht hat, wurde das folgende Haiku ironischerweise auf einem auf Vulkan gefundenen Rohrwrackteil gefunden:
-"Bescheidener Rohrzähler
-spricht die Wahrheit, überträgt den Druck
-in jedem Gasrohr"</Description>
+"Schlichter Rohrmesser,
+übermittelt den Druckwert
+in jeglichem Rohr."</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeRadiator</Key>
-      <Value>Gasrohr-Konvektionsradiator</Value>
-      <Description>
-        Gasrohr-Konvektionsradiatoren sind ein einfacher Wärmetauscher, der an Rohren angebracht werden kann, um je nach der Temperatur der umgebenden Atmosphäre Wärme abzugeben oder zu gewinnen. Wenn die Atmosphäre wärmer ist, wird dem Gas im Rohrnetz Wärme zugeführt, und umgekehrt, wenn sie kälter ist. In einem Vakuum wird die Wärme abgestrahlt.
-        Die Geschwindigkeit des Wärmegewinns oder -verlusts hängt von dem jeweiligen Gas ab. Durch den Einbau mehrerer Konvektionsradiatoren wird die Wärmeübertragung beschleunigt.</Description>
+      <Value>Konvektionsradiator (Gas)</Value>
+      <Description>Konvektionsradiatoren (Gas) sind einfache Radiatoren, die auf Rohren angebracht werden können, um je nach der Temperatur der umgebenden Atmosphäre Wärme abzugeben oder zu gewinnen. Wenn die Atmosphäre wärmer ist, wird dem Gas im Rohrnetz Wärme zugeführt, und umgekehrt, wenn sie kälter ist. In einem Vakuum wird die Wärme abgestrahlt.
+Die Geschwindigkeit des Wärmegewinns oder -verlusts hängt von dem jeweiligen Gas ab. Durch den Einbau mehrerer Konvektionsradiatoren wird die Wärmeübertragung beschleunigt.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeStraight</Key>
       <Value>Gasrohr (gerade)</Value>
-      <Description>Sie können dieses Rohr mit einem {THING:ItemKitInsulatedPipe} und einem {THING:ItemWrench} zu einem {THING:StructureInsulatedPipeStraight} aufrüsten.</Description>
+      <Description>Du kannst dieses Rohr auf ein {THING:StructureInsulatedPipeStraight} upgraden mit einem {THING:ItemKitInsulatedPipe} und einem {THING:ItemWrench}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeTJunction</Key>
       <Value>Gasrohr (T-Kreuzung)</Value>
-      <Description>Sie können dieses Rohr mit einem {THING:ItemKitInsulatedPipe} und einem {THING:ItemWrench} zu einer {THING:StructureInsulatedPipeTJunction} aufrüsten.</Description>
+      <Description>Du kannst dieses Rohr auf ein {THING:StructureInsulatedPipeTJunction} upgraden mit einem {THING:ItemKitInsulatedPipe} und einem {THING:ItemWrench}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePowerConnector</Key>
@@ -2314,8 +2332,9 @@ in jedem Gasrohr"</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePressureRegulator</Key>
-      <Value>Druckregler</Value>
-      <Description>Druckregler regeln den Gasfluss zwischen zwei Rohrnetzen und verschieben das Gas so lange, bis auf der Ausgangsseite ein bestimmter Druck erreicht oder der Gasvorrat erschöpft ist. Der Gegendruckregler hingegen arbeitet nur, wenn der Druck auf der Einlassseite den eingestellten Wert überschreitet.</Description>
+      <Value>Druckregler (Gas)</Value>
+      <Description>Druckregler regeln den Gasfluss zwischen zwei Rohrnetzen und verschieben das Gas so lange, bis auf der Ausgangsseite ein bestimmter Druck erreicht oder der Gasvorrat erschöpft ist. Der Gegendruckregler hingegen arbeitet nur, wenn der Druck auf der Einlassseite den eingestellten Wert überschreitet.
+Druckregler sind effizienter, wenn diese den Druck runter regeln, als wenn der Druck angehoben werden muss.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureRailing</Key>
@@ -2324,19 +2343,19 @@ in jedem Gasrohr"</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureRocketEngine</Key>
-      <Value>Raketen-Triebwerk</Value>
+      <Value>Triebwerk (Rakete)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureRocketEngineSmall</Key>
-      <Value>Raketen-Triebwerk (klein)</Value>
+      <Value>Triebwerk (Rakete klein)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureRocketEngineTiny</Key>
-      <Value>Raketen-Triebwerk (winzig)</Value>
+      <Value>Triebwerk (Rakete winzig)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureRTG</Key>
-      <Value>Kreativer Radio Isotopen Generator</Value>
+      <Value>Radio Isotopen Generator (Kreativ)</Value>
       <Description>Der {LINK:Norsec;Norsec}-RTG (Radioisotop-Thermoelektrischer Generator) nutzt die Wärmeabgabe des radioaktiven Zerfalls, um über eine Temperaturdifferenz an einem Thermoelement Spannung zu erzeugen. Normalerweise ist der RTG auf Geräte mit geringer Energie beschränkt, aber es wird gemunkelt, dass er zrillianische Technik nutzt, um seine unwahrscheinlich hohe Leistung zu erreichen.</Description>
     </RecordThing>
     <RecordThing>
@@ -2346,24 +2365,24 @@ in jedem Gasrohr"</Description>
     <RecordThing>
       <Key>StructureSolarPanel</Key>
       <Value>Photovoltaikmodul</Value>
-      <Description>{LINK:Sinotai;Sinotai's} Standard-Photovoltaikpaneele werden zur Stromerzeugung aus Sonnenlicht verwendet. Sie können an {LINK:LogicPage;Logik} Systeme angeschlossen werden, um das Sonnenlicht nachzuverfolgen, aber ihre Leistung wird bei Stürmen und bei Beschädigung reduziert. Du kannst sie mit einigen zuverlässigen {THING:ItemDuctTape} reparieren.</Description>
+      <Description>{LINK:Sinotai;Sinotai's} Standard Photovoltaikpaneele werden zur Stromerzeugung aus Sonnenlicht verwendet. Sie können an {LINK:LogicPage;Logik} Systeme angeschlossen werden, um das Sonnenlicht nachzuverfolgen, aber ihre Leistung wird bei Stürmen und bei Beschädigung reduziert. Du kannst sie mit einigen zuverlässigen {THING:ItemDuctTape} reparieren.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureSorter</Key>
       <Value>Sortierer</Value>
-      <Description>Keine Automatisierung ist vollständig, wenn es nicht eine Möglichkeit gibt, verschiedene Artikel zu verschiedenen Teilen eines Systems zu befördern. Der A2B Sorter von {LINK:Xigo;Xigo} kann über einen Computer mit einem {THING:MotherboardSorter} programmiert werden, um verschiedene Artikel in verschiedene Rutschennetze zu leiten. Gefilterte Artikel werden immer auf der rechten Seite des Sortierers ausgeschleust, während nicht gefilterte Artikel direkt durchlaufen.</Description>
+      <Description>Keine Automatisierung ist vollständig, wenn es nicht eine Möglichkeit gibt, verschiedene Elemente zu verschiedenen Zielen eines Systems zu befördern. Der A2B Sorter von {LINK:Xigo;Xigo} kann über einen Computer mit einem {THING:MotherboardSorter} programmiert werden, um verschiedene Artikel in verschiedene Rutschennetze zu leiten. Gefilterte Artikel werden immer auf der rechten Seite des Sortierers ausgeschleust, während nicht gefilterte Elemente direkt durchlaufen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureStacker</Key>
       <Value>Stapler</Value>
-      <Description>Ein Stapler ist ein wichtiger Bestandteil jedes automatisierten Rutschennetzes. Der {LINK:Xigo;Xigo} ProKompile kann manuell oder über eine Logik eingestellt werden, um sicherzustellen, dass die den Stapler durchlaufenden Artikel für Ihren Lagerbedarf maximiert werden.
+      <Description>Ein Stapler ist ein wichtiger Bestandteil jedes automatisierten Schachtnetzwerks. Der {LINK:Xigo;Xigo} ProKompile kann manuell oder über eine Logik eingestellt werden, um sicherzustellen, dass die den Stapler durchlaufenden Elemente für Ihren Lagerbedarf maximiert werden.
 Der ProKompile kann eine Vielzahl von Gegenständen stapeln, wie z. B. {LINK:IngotPage;Barren}, und die Stapel bei Bedarf in geeignete Größen aufteilen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureStackerReverse</Key>
       <Value>Stapler</Value>
-      <Description>Ein Stapler ist ein wichtiger Bestandteil jedes automatisierten Rutschennetzes. Der {LINK:Xigo;Xigo} ProKompile kann manuell oder über eine Logik eingestellt werden, um sicherzustellen, dass die den Stapler durchlaufenden Artikel für Ihren Lagerbedarf maximiert werden. Der umgekehrte Stapler hat Strom und Daten auf der gegenüberliegenden Seite.
-Der ProKompile kann eine Vielzahl von Gegenständen stapeln, z. B. {LINK:IngotPage;Barren}, und die Stapel je nach Bedarf in geeignete Größen aufteilen.</Description>
+      <Description>Ein Stapler ist ein wichtiger Bestandteil jedes automatisierten Schachtnetzwerks. Der {LINK:Xigo;Xigo} ProKompile kann manuell oder über eine Logik eingestellt werden, um sicherzustellen, dass die den Stapler durchlaufenden Elemente für Ihren Lagerbedarf maximiert werden.
+Der ProKompile kann eine Vielzahl von Gegenständen stapeln, wie z. B. {LINK:IngotPage;Barren}, und die Stapel bei Bedarf in geeignete Größen aufteilen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureStairs4x2</Key>
@@ -2371,11 +2390,11 @@ Der ProKompile kann eine Vielzahl von Gegenständen stapeln, z. B. {LINK:IngotPa
     </RecordThing>
     <RecordThing>
       <Key>StructureStellarAnchor</Key>
-      <Value>Stellar-Anker</Value>
+      <Value>Stellar-Anker (Mutterschiff)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSuitStorage</Key>
-      <Value>Anzug Aufbewahrung</Value>
+      <Value>Anzug Lager</Value>
       <Description>Das ebenso aufgeräumte wie nützliche Anzugregal fasst einen {THING:ItemEvaSuit}, {THING:ItemSpaceHelmet} und einen {THING:ItemJetpackBasic}.
 Wenn er mit Strom versorgt und an {THING:Oxygen} und {THING:Propellant} angeschlossen wird, lädt er die Anzugbatterien auf, füllt die {THING:ItemGasCanisterOxygen} und deine {THING:ItemGasFilterNitrogen} {SLOT:GasCanister}. Der Abfalltank wird in das Gasrohr gepumpt, das mit dem Abfallauslass verbunden ist.
 Alle Rohre des Racks müssen angeschlossen sein, sonst zeigt das Gerät eine Fehlermeldung an, lädt aber trotzdem die Batterie auf.</Description>
@@ -2392,7 +2411,7 @@ Alle Rohre des Racks müssen angeschlossen sein, sonst zeigt das Gerät eine Feh
     </RecordThing>
     <RecordThing>
       <Key>StructureTankSmall</Key>
-      <Value>Kleiner Tank</Value>
+      <Value>Tank (Gas klein)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureTankSmallAir</Key>
@@ -2412,16 +2431,16 @@ Alle Rohre des Racks müssen angeschlossen sein, sonst zeigt das Gerät eine Feh
     </RecordThing>
     <RecordThing>
       <Key>StructureValve</Key>
-      <Value>Ventil</Value>
+      <Value>Ventil (Gas)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureVolumePump</Key>
-      <Value>Volumen Pumpe</Value>
+      <Value>Volumen Pumpe (Gas)</Value>
       <Description>Die Volumenpumpe fördert pumpfähige Gase. Außerdem trennt sie Leitungsnetze in separate Netze auf.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidValve</Key>
-      <Value>Ventil</Value>
+      <Value>Ventil (Flüssigkeit)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallCooler</Key>
@@ -2573,7 +2592,7 @@ Beachten Sie, dass Transformatoren als Datenisolatoren fungieren und verhindern,
     </RecordThing>
     <RecordThing>
       <Key>ItemKitTransformer</Key>
-      <Value>Bausatz (Transformer Groß)</Value>
+      <Value>Bausatz (Transformator Groß)</Value>
       <Description>Eine Durchfahrtsbeschränkung für Stromtierchen.</Description>
     </RecordThing>
     <RecordThing>
@@ -2717,8 +2736,28 @@ Im Gegensatz zu den weiter entwickelten {THING:StructureFurnace} kann der Lichtb
     </RecordThing>
     <RecordThing>
       <Key>ItemCerealBar</Key>
-      <Value>Müsliriegel</Value>
+      <Value>Müsliriegel (Normal)</Value>
       <Description>Nahrung, ohne zu verfallen. Wenn nur alle unsere Beziehungen so ausgeglichen wären.</Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemChocolateBar</Key>
+      <Value>Schokoladenriegel</Value>
+      <Description></Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemChocolateCake</Key>
+      <Value>Schokoladenkuchen</Value>
+      <Description></Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPlainCake</Key>
+      <Value>Kuchen</Value>
+      <Description></Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemChocolateCerealBar</Key>
+      <Value>Müsliriegel (Schokolade)</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureElectronicsPrinter</Key>
@@ -3884,11 +3923,11 @@ Es gibt gerüchte das ein rogerwaters in ferner Zukunft einen Packer modden will
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterCarbonDioxideL</Key>
-      <Value>Schwerer Filter (Kohlendioxid)</Value>
+      <Value>Schwerer Filter (CO2)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterCarbonDioxideM</Key>
-      <Value>Mittlerer Filter (Kohlendioxid)</Value>
+      <Value>Mittlerer Filter (CO2)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterNitrogenL</Key>
@@ -7418,7 +7457,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterCarbonDioxideInfinite</Key>
-      <Value>Katalytischer Filter (Kohlendioxid)</Value>
+      <Value>Katalytischer Filter (CO2)</Value>
       <Description>Ein Filter, der selektiv auf Kohlendioxid abzielt. Er nutzt interne Druckunterschiede, um einen einzigartigen Phasenwechselkatalysator zu regenerieren, was ihm eine unbegrenzte Lebensdauer verleiht.</Description>
     </RecordThing>
     <RecordThing>
@@ -8907,6 +8946,26 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
       <Value>Logik Sortierer</Value>
       <Description>Enthält einen internen Speicher, der überprüft wird, ob etwas sortiert werden soll. Wenn sich ein Element im {SLOT:Import} Slot befindet, wird der Stapel überprüft und wenn das Ergebnis wahr ist, wird das Ding in den {SLOT:Export2} Slot verschoben, ansonsten wird es in den {SLOT:Export} Slot verschoben. Der Modus wird verwendet, um zu bestimmen, wie der Stapel überprüft wird. Standardmäßig ist der Modus ALLE, sodass jede Anweisung im Stapel wahr zurückgeben müsste.</Description>
     </RecordThing>
+    <RecordThing>
+      <Key>ItemJetpackTurbine</Key>
+      <Value>Jetpack (elektrisch)</Value>
+      <Description></Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCocoaTree</Key>
+      <Value>Kakaopflanze</Value>
+      <Description></Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_Cocoa</Key>
+      <Value>Kakao-Saatgut</Value>
+      <Description></Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>SeedBag_SugarCane</Key>
+      <Value>Zuckerrohr-Saatgut</Value>
+      <Description></Description>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -9192,6 +9251,26 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     <Record>
       <Key>Mod</Key>
       <Value>Mod</Value>
+    </Record>
+    <Record>
+      <Key>Chip</Key>
+      <Value>Chip</Value>
+    </Record>
+    <Record>
+      <Key>Filter1</Key>
+      <Value>Filter 1</Value>
+    </Record>
+    <Record>
+      <Key>Filter2</Key>
+      <Value>Filter 2</Value>
+    </Record>
+    <Record>
+      <Key>Filter3</Key>
+      <Value>Filter 3</Value>
+    </Record>
+    <Record>
+      <Key>Filter4</Key>
+      <Value>Filter 4</Value>
     </Record>
   </Slots>
   <Interactables>
@@ -15087,6 +15166,10 @@ Das Stationeers-Programm ist grundsätzlich offen für alle Menschen, denn es re
       <Value>Qualität:</Value>
     </Record>
     <Record>
+      <Key>StationpediaMoodBonus</Key>
+      <Value>Stimmungsbonus:</Value>
+    </Record>
+    <Record>
       <Key>StationpediaGrowthTime</Key>
       <Value>Wachstumsdauer:</Value>
     </Record>
@@ -17062,11 +17145,11 @@ Dies wird &lt;color=red&gt;nur die {LOCAL:WorldSaveName}&lt;/color&gt; Sicherung
     </Record>
     <Record>
       <Key>CloseThreshold</Key>
-      <Value>Nahe Schwellenwert</Value>
+      <Value>Schließen nach</Value>
     </Record>
     <Record>
       <Key>CloseThresholdToolTip</Key>
-      <Value>Nahe Schwellenwert &lt;color=green&gt;{LOCAL:ThresholdValue}</Value>
+      <Value>Schließen nach &lt;color=green&gt;{LOCAL:ThresholdValue}</Value>
     </Record>
     <Record>
       <Key>CryoN2OPressureOk</Key>
