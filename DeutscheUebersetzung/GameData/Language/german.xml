@@ -4226,7 +4226,7 @@ Einige Stationeers tun sich allerdings mit dieser veralteten Technik sehr schwer
     </RecordThing>
     <RecordThing>
       <Key>ItemExplosive</Key>
-      <Value>Fernsprengstoff</Value>
+      <Value>Sprengladung</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSolarPanelFused</Key>
@@ -7537,7 +7537,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     </RecordThing>
     <RecordThing>
       <Key>ItemPassiveVent</Key>
-      <Value>Passive Lüftung</Value>
+      <Value>Bausatz (Passiver Lüfter)</Value>
       <Description>Dieser Bausatz erzeugt eine {THING:ItemPassiveVent} unter anderen Varianten.</Description>
     </RecordThing>
     <RecordThing>
@@ -8817,7 +8817,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
       <Description>Ein passiver Auslass, der verhindert, dass ein Wärmeaustausch zwischen der abgegebenen Atmosphäre und der angrenzenden Atmosphäre stattfindet.</Description>
     </RecordThing>
     <RecordThing>
-      <Key>StrutureDrinkingFountain</Key>
+      <Key>StructureDrinkingFountain</Key>
       <Value>Trinkbrunnen</Value>
       <Description>Der Trinkbrunnen kann direkt mit ihm interagiert werden, um die Hydrierung zu erhöhen. Er benötigt eine {GAS:Water} Versorgung.</Description>
     </RecordThing>
@@ -8964,6 +8964,56 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     <RecordThing>
       <Key>SeedBag_SugarCane</Key>
       <Value>Zuckerrohr-Saatgut</Value>
+      <Description></Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>CerealBarBox</Key>
+      <Value>Müsliriegel-Box</Value>
+      <Description></Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemEmergencySuppliesBox</Key>
+      <Value>Notfallversorgung</Value>
+      <Description></Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemCerealBarBox</Key>
+      <Value>Müsliriegel-Box</Value>
+      <Description></Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemInsulatedCanisterPackage</Key>
+      <Value>Isolierte Kanisterpaket</Value>
+      <Description></Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>LanderCapsuleSmallDoor</Key>
+      <Value>kleine Landekapsel Tür</Value>
+      <Description></Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>LanderCapsuleSmall</Key>
+      <Value>kleine Landekapsel</Value>
+      <Description></Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemPortablesPackage</Key>
+      <Value>Paket für tragbare Geräte</Value>
+      <Description></Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemMiningPackage</Key>
+      <Value>Bergbaubedarfspaket</Value>
+      <Description></Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemResidentialPackage</Key>
+      <Value>Wohnversorgungspaket</Value>
+      <Description></Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWaterBottlePackage</Key>
+      <Value>Wasserflaschenpaket</Value>
       <Description></Description>
     </RecordThing>
   </Things>
@@ -19247,7 +19297,7 @@ Status: {LOCAL:StatusValue}</Value>
     </Record>
     <Record>
       <Key>ProcessedMoles</Key>
-      <Value>Verarbeitet {LOCAL:Moles} Mole</Value>
+      <Value>Verarbeitung: {LOCAL:Moles}mol</Value>
     </Record>
     <Record>
       <Key>PressureDifferential</Key>

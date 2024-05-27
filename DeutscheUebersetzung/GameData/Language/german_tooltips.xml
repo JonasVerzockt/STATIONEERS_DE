@@ -93,6 +93,10 @@
       <Value>Energieversorgung des Anzugs</Value>
     </Record>
     <Record>
+      <Key>StatusIconPowerDesc</Key>
+      <Value>Die Energie wird knapp</Value>
+    </Record>
+    <Record>
       <Key>StatusIconGravityName</Key>
       <Value>Schwerelosigkeit</Value>
     </Record>
@@ -134,7 +138,11 @@
     </Record>
     <Record>
       <Key>StatusIconJetpackWarningName</Key>
-      <Value>Treibstoff-Kapazität</Value>
+      <Value>Jetpack-Treibstoff</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconJetpackWarningDesc</Key>
+      <Value>Treibstoff wird knapp</Value>
     </Record>
     <Record>
       <Key>StatusIconFilterName</Key>
