@@ -1993,7 +1993,7 @@ Von der Zentrifuge verarbeitete Gegenstände werden entgast</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteBin</Key>
-      <Value>Schacht (Einwurf mit Hebel)</Value>
+      <Value>Schacht Einfuhrbehälter</Value>
       <Description>Das Ziel von {LINK:Stationeers;Stationeer's} ist es, das Überleben außerhalb der Welt für sich selbst und für diejenigen, die in ihre Fußstapfen treten werden, weniger schwierig zu machen.
 Wie die meisten von {LINK:Recurso;Recurso} entworfenen Systeme sind auch die Abfallbehälter einfache und robuste, elektrisch betriebene Geräte, die es ermöglichen, Gegenstände durch Ziehen eines Hebels manuell in die Abfallschächte zu befördern. Sie können auch mit {LINK:LogicUnitPage;Logik} programmiert werden, um automatisch zu funktionieren, obwohl eine vollständige Automatisierung den Einsatz von Geräten wie einem {THING:StructureSDBHopper} erfordert.</Description>
     </RecordThing>
@@ -2641,7 +2641,7 @@ Im Gegensatz zu den weiter entwickelten {THING:StructureFurnace} kann der Lichtb
     <RecordThing>
       <Key>ItemCableCoilHeavy</Key>
       <Value>Kabel (Dick)</Value>
-      <Description>Verwenden Sie dicke Kabel für Stromversorgungssysteme mit großen Leistungen. Im Gegensatz zu {THING:StructureCableCoil}, das nur 5 kW sicher leiten kann, können dicke Kabel bis zu 100 kW übertragen.</Description>
+      <Description>Verwenden Sie dicke Kabel für Stromversorgungssysteme mit großen Leistungen. Im Gegensatz zu {THING:ItemCableCoil}, das nur 5 kW sicher leiten kann, können dicke Kabel bis zu 100 kW übertragen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureFrameIron</Key>
@@ -5245,7 +5245,7 @@ Mit einer Speicherkapazität von bis zu 9000001 Watt gibt es keine praktischen G
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElectronicsPrinter6</Key>
-      <Value>Wrack-Elektronik-Drucker6</Value>
+      <Value>Wrack</Value>
       <Description>Beschreibung kommt.</Description>
     </RecordThing>
     <RecordThing>
@@ -8765,7 +8765,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     <RecordThing>
       <Key>StructureRoboticArmDock</Key>
       <Value>LARrE Dock</Value>
-      <Description>The Linear Articulated Rail Entity or LARrE can be used to plant, harvest and fertilize plants in plant trays. It can also grab items from a {THING:StructureChuteExportBin} and drop them in a {THING:StructureChuteBin}. LARrE can interact with plant trays or chute bins built under a linear rail station or built under its dock.</Description>
+      <Description>Das Linear Articulated Rail Entity (LARrE) kann zum Pflanzen, Ernten und Düngen von Pflanzen in Pflanztöpfen verwendet werden. Es kann auch Gegenstände aus einem {THING:StructureChuteExportBin} holen und in einem {THING:StructureChuteBin} ablegen. LARrE kann mit Pflanzentöpfen oder Schachtbehältern interagieren, die unter einer linearen Bahnstation oder unter seinem Dock gebaut sind.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemIcarusSuit</Key>
@@ -9044,38 +9044,38 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     </RecordThing>
     <RecordThing>
       <Key>ItemKitRoboticArm</Key>
-      <Value>Kit (LARrE)</Value>
-      <Description />
+      <Value>Bausatz (LARrE)</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLinearRail</Key>
-      <Value>Kit (Linear Rail)</Value>
-      <Description />
+      <Value>Bausatz (Linearschiene)</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureRoboticArmRailCornerStop</Key>
-      <Value>Linear Rail Corner Station</Value>
-      <Description />
+      <Value>Linearbahnstation ecke</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureRoboticArmRailStraight</Key>
-      <Value>Linear Rail Straight</Value>
-      <Description />
+      <Value>Linearschiene gerade</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureRoboticArmRailStraightStop</Key>
-      <Value>Linear Rail Straight Station</Value>
-      <Description />
+      <Value>Linearbahnstation gerade</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureRoboticArmRailCorner</Key>
-      <Value>Linear Rail Corner</Value>
-      <Description />
+      <Value>Linearschiene Ecke</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteExportBin</Key>
-      <Value>Chute Export Bin</Value>
-      <Description />
+      <Value>Schacht Ausfuhrbehälter</Value>
+      <Description></Description>
     </RecordThing>
   </Things>
   <Slots>
@@ -9393,7 +9393,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     </Record>
     <Record>
       <Key>ArmSlot</Key>
-      <Value>Arm Slot</Value>
+      <Value>Arm-Slot</Value>
     </Record>
   </Slots>
   <Interactables>
@@ -9883,11 +9883,11 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     </Record>
     <Record>
       <Key>ButtonNext</Key>
-      <Value>Next</Value>
+      <Value>Weiter</Value>
     </Record>
     <Record>
       <Key>ButtonPrev</Key>
-      <Value>Previous</Value>
+      <Value>Zurück</Value>
     </Record>
   </Interactables>
   <Interface>
@@ -14503,7 +14503,7 @@ Sieht aus, als würdest du eine Weile hier bleiben.</Value>
     </Record>
     <Record>
       <Key>ActivateExplosiveTooltipKey2</Key>
-      <Value>Sekunden Timer. Der Timer kann nicht ausgeschaltet werden. Vorsicht ist geboten.</Value>
+      <Value>2. Timer. Vorsicht empfohlen.</Value>
     </Record>
     <Record>
       <Key>CommandSave</Key>
@@ -15785,7 +15785,7 @@ Ein {THING:StructureWaterPurifier} kann verwendet werden, um es wieder zu reinig
     </Record>
     <Record>
       <Key>DefaultStartConditionDescription</Key>
-      <Value>Everything you need to build your first base</Value>
+      <Value>Alles, was du brauchst, um deine erste Basis zu bauen</Value>
     </Record>
     <Record>
       <Key>DefaultStartConditionVulcan</Key>
@@ -15817,187 +15817,187 @@ Ein {THING:StructureWaterPurifier} kann verwendet werden, um es wieder zu reinig
     </Record>
     <Record>
       <Key>BrutalStartConditionVulcan</Key>
-      <Value>Brutal (Hot Planet)</Value>
+      <Value>Brutal (Vulcan)</Value>
     </Record>
     <Record>
       <Key>BrutalStartConditionDescription</Key>
-      <Value>The bare minimum to survive</Value>
+      <Value>Das absolute Minimum um zu überleben</Value>
     </Record>
     <Record>
       <Key>WorldObjectiveBuildPower</Key>
-      <Value>Build a basic power setup</Value>
+      <Value>Baue ein einfaches Power-Setup</Value>
     </Record>
     <Record>
       <Key>WorldObjectiveBuildArcFurnace</Key>
-      <Value>Build and Power Auto-lathe and Arc-Furnace</Value>
+      <Value>Bau und Betrieb einer Automatische Drehmaschine und eines Lichtbogenofens</Value>
     </Record>
     <Record>
       <Key>WorldObjectiveSmeltIron</Key>
-      <Value>Smelt Iron in Arc Furnace</Value>
+      <Value>Schmelzen von Eisen im Lichtbogenofen</Value>
     </Record>
     <Record>
       <Key>WorldObjectiveBuildPrinters</Key>
-      <Value>Build more printers</Value>
+      <Value>Mehr Drucker bauen</Value>
     </Record>
     <Record>
       <Key>WorldObjectiveBuildStacker</Key>
-      <Value>Build a Stacker</Value>
+      <Value>Einen Stapler bauen</Value>
     </Record>
     <Record>
       <Key>WorldObjectiveSmeltSteel</Key>
-      <Value>Smelt some Steel</Value>
+      <Value>Schmelze etwas Stahl</Value>
     </Record>
     <Record>
       <Key>SmeltSteelVulcanInfo</Key>
-      <Value>The Vulcan air at midday is hot enough to smelt steel</Value>
+      <Value>Die Mittagsluft auf Vulcan ist heiß genug, um Stahl zu schmelzen</Value>
     </Record>
     <Record>
       <Key>WorldObjectiveVacuumRoom</Key>
-      <Value>Vacuum out room</Value>
+      <Value>In einem Raum Vakuum erzeugen</Value>
     </Record>
     <Record>
       <Key>WorldObjectiveVacuumRoomInfo</Key>
-      <Value>Vent all the gas from the room using a {THING:StructureActiveVent}</Value>
+      <Value>Entlüften Sie das gesamte Gas aus dem Raum mit einem {THING:StructureActiveVent}</Value>
     </Record>
     <Record>
       <Key>WorldObjectiveCombustion</Key>
-      <Value>Avoid fires</Value>
+      <Value>Brände vermeiden</Value>
     </Record>
     <Record>
       <Key>WorldObjectiveCombustionInfo</Key>
-      <Value>During the day any oxygen released into the Vulcan atmosphere will immediately combust</Value>
+      <Value>Tagsüber wird jeder Sauerstoff, der in Vulcan's Atmosphäre gelangt, sofort verbrannt.</Value>
     </Record>
     <Record>
       <Key>WorldObjectiveUpgradeElectronicsPrinter</Key>
-      <Value>Upgrade ElectronicsPrinter</Value>
+      <Value>Elektronischer Drucker upgraden</Value>
     </Record>
     <Record>
       <Key>WorldObjectiveUpgradeManufacturing</Key>
-      <Value>Upgrade Manufacturing</Value>
+      <Value>Upgrade der Fertigung</Value>
     </Record>
     <Record>
       <Key>WorldObjectiveBuildFurnace</Key>
-      <Value>Build an Advanced Furnace</Value>
+      <Value>Baue einen fortschrittlichen Ofen</Value>
     </Record>
     <Record>
       <Key>WorldObjectiveBuildCentrifuge</Key>
-      <Value>Build a Recycler and Centrifuge</Value>
+      <Value>Baue einen Recycler und Zentrifuge</Value>
     </Record>
     <Record>
       <Key>WorldObjectiveDeepMiners</Key>
-      <Value>Deep Miners and Rockets can mine resources for you</Value>
+      <Value>Automatischer Bergbau und Raketen können Ressourcen für dich abbauen</Value>
     </Record>
     <Record>
       <Key>WorldObjectiveBuildRoom</Key>
-      <Value>Build a room with a door</Value>
+      <Value>Baue einen Raum mit einer Tür</Value>
     </Record>
     <Record>
       <Key>WorldObjectiveFillOxygen</Key>
-      <Value>Fill a room with Oxygen</Value>
+      <Value>Raum mit Sauerstoff füllen</Value>
     </Record>
     <Record>
       <Key>WorldObjectiveGrowFood</Key>
-      <Value>Grow plants for Oxygen and Food</Value>
+      <Value>Pflanzen für Sauerstoff und Nahrung anbauen</Value>
     </Record>
     <Record>
       <Key>WorldObjectiveRefillBottle</Key>
-      <Value>Refill Water Bottle</Value>
+      <Value>Wasserflasche wieder auffüllen</Value>
     </Record>
     <Record>
       <Key>WorldObjectivePlantsLight</Key>
-      <Value>Plants need light to grow</Value>
+      <Value>Pflanzen brauchen Licht, um wachsen zu können</Value>
     </Record>
     <Record>
       <Key>WorldObjectivePlantsDarkness</Key>
-      <Value>Plants need to rest in darkness to grow</Value>
+      <Value>Pflanzen müssen in Dunkelheit ruhen, um zu wachsen</Value>
     </Record>
     <Record>
       <Key>WorldObjectiveCookPotato</Key>
-      <Value>Cook a baked potato</Value>
+      <Value>Eine gebackene Kartoffel kochen</Value>
     </Record>
     <Record>
       <Key>WorldObjectiveOfflinePlayers</Key>
-      <Value>Keep off-line players alive</Value>
+      <Value>Offline Spieler am Leben halten</Value>
     </Record>
     <Record>
       <Key>WorldObjectiveFiltration</Key>
-      <Value>Make your room atmosphere safe to breathe</Value>
+      <Value>Machen Sie Ihre Raumatmosphäre sicher zum Atmen</Value>
     </Record>
     <Record>
       <Key>WorldObjectiveManageTemperature</Key>
-      <Value>Manage room temperature</Value>
+      <Value>Raumtemperaturen verwalten</Value>
     </Record>
     <Record>
       <Key>WorldObjectiveBuildPad</Key>
-      <Value>Build and power a 3x3 trader landing pad</Value>
+      <Value>Baue und versorge ein 3x3 Händler</Value>
     </Record>
     <Record>
       <Key>WorldObjectiveConnectPad</Key>
-      <Value>Connect a Computer and Vending Machine to the Landing Pad</Value>
+      <Value>Verbinde einen Computer- und Verkaufsautomat mit dem Händler</Value>
     </Record>
     <Record>
       <Key>WorldObjectiveResolveContact</Key>
-      <Value>Connect a Dish and Resolve a trading contact</Value>
+      <Value>Verbinde eine Satellitenschüssel und kontaktiere einen Händler</Value>
     </Record>
     <Record>
       <Key>WorldObjectiveContactLand</Key>
-      <Value>Interrogate a Trader Contact and call them in to land</Value>
+      <Value>Verbinde dich mit einem Händler und lasse ihn landen</Value>
     </Record>
     <Record>
       <Key>WorldObjectiveBuildPowerInfo</Key>
-      <Value>An Area Power Controller (APC) has a battery slot for power storage and a switch to turn on power to the output network. Open it with a {THING:ItemCrowbar}</Value>
+      <Value>Eine Strom-Unterverteilung (APC) verfügt über einen Batterieschacht zur Stromspeicherung und einen Schalter zum Einschalten der Stromversorgung des Ausgangsnetzes. Öffnen Sie ihn mit einer {THING:ItemCrowbar}</Value>
     </Record>
     <Record>
       <Key>WorldObjectiveBuildFurnaceInfo</Key>
-      <Value>An Advanced Furnace is required to smelt super alloys</Value>
+      <Value>Ein fortgeschrittener Ofen wird benötigt, um Superlegierungen zu schmelzen</Value>
     </Record>
     <Record>
       <Key>WorldObjectiveDeepMinersInfo</Key>
-      <Value>{THING:StructureDeepMiner} can be used to harvest a steady flow of resources. {THING:StructureRocketManufactory} can print the parts to build a mining rocket for gathering ore and ices from nearby asteroids</Value>
+      <Value>{THING:StructureDeepMiner} kann verwendet werden, um einen stetigen Fluss von Ressourcen zu haben. {THING:StructureRocketManufactory} kann die Teile für den Bau einer Bergbaurakete zum Sammeln von Erz und Eis von nahe gelegenen Asteroiden drucken.</Value>
     </Record>
     <Record>
       <Key>WorldObjectiveBuildStackerInfo</Key>
-      <Value>Connect to the output of your {THING:StructureAutolathe} with {THING:StructureChuteStraight}</Value>
+      <Value>Verbinden Sie den Ausgang Ihrer {THING:StructureAutolathe} mit {THING:StructureChuteStraight}</Value>
     </Record>
     <Record>
       <Key>HelperHints</Key>
-      <Value>Helper Hints</Value>
+      <Value>Hilfstipps</Value>
     </Record>
     <Record>
       <Key>WorldObjectiveCanisters</Key>
-      <Value>Refill Oxygen Canister</Value>
+      <Value>Sauerstoffkanister auffüllen</Value>
     </Record>
     <Record>
       <Key>WorldObjectiveCanistersInfo</Key>
-      <Value>{THING:ItemGasCanisterEmpty} can be refilled by inserting into a {THING:DynamicGasCanisterEmpty} or a {Thing:StructureGasTankStorage}</Value>
+      <Value>{THING:ItemGasCanisterEmpty} kann durch Einfügen in {THING:DynamicGasCanisterEmpty} oder {Thing:StructureGasTankStorage} nachgefüllt werden</Value>
     </Record>
     <Record>
       <Key>WorldObjectiveOfflinePlayersInfo</Key>
-      <Value>Offline players can be kept alive in a {THING:StructureSleeperVertical}</Value>
+      <Value>Offline-Spieler können in einem {THING:StructureSleeperVertical} am Leben gehalten werden</Value>
     </Record>
     <Record>
       <Key>WorldObjectiveCablesBurn</Key>
-      <Value>A power network overloaded! Replace burnt cable</Value>
+      <Value>Ein Stromnetz ist überlastet! Verbranntes Kabel austauschen</Value>
     </Record>
     <Record>
       <Key>WorldObjectiveCablesBurnInfo</Key>
-      <Value>Power cables can burn out if overloaded or if a battery is shorted. Use a {THING:StructureCableFuse5k} to isolate failures. Limit power throughput with a {THING:StructureTransformerSmall} or upgrade high power networks to {THING:ItemCableCoilHeavy}</Value>
+      <Value>Stromkabel können durchbrennen, wenn sie überlastet sind oder wenn eine Batterie kurzgeschlossen ist. Verwenden Sie eine {THING:StructureCableFuse5k}, um Ausfälle zu isolieren. Begrenzen Sie den Stromdurchsatz mit einem {THING:StructureTransformerSmall} oder rüsten Sie Netze mit hohem Stromverbrauch auf {THING:ItemCableCoilHeavy}</Value>
     </Record>
     <Record>
       <Key>WorldObjectiveSmeltIce</Key>
-      <Value>Mine Ice for Gasses</Value>
+      <Value>Baue Eis für Gase ab</Value>
     </Record>
     <Record>
       <Key>WorldObjectiveSmeltIceInfo</Key>
-      <Value>Ices can be melted for useful gasses and liquids. Place in an {THING:StructureIceCrusher} or just use direct sunlight or warm air above 6kPa.</Value>
+      <Value>Eis können für nützliche Gase und Flüssigkeiten geschmolzen werden. Platzieren Sie in ein {THING:StructureIceCrusher} oder verwenden Sie einfach direktes Sonnenlicht oder warme Luft über 6kPa.</Value>
     </Record>
     <Record>
       <Key>DismissCompletedButton</Key>
-      <Value>Dismiss Completed</Value>
+      <Value>Verworfen abgeschlossen</Value>
     </Record>
     <Record>
       <Key>ShowDismissedButton</Key>
-      <Value>Show Dismissed</Value>
+      <Value>Zeige verworfen</Value>
     </Record>
   </Interface>
   <Colors>
@@ -20978,11 +20978,11 @@ Status: {LOCAL:StatusValue}</Value>
     </Record>
     <Record>
       <Key>LandingBeginAltitudeToolTip</Key>
-      <Value> wird mit Landemanövern bei {LOCAL:Altitude} beginnen</Value>
+      <Value>Landehöhe {LOCAL:Altitude}</Value>
     </Record>
     <Record>
       <Key>AutoLandThrustRequired</Key>
-      <Value>Zum erfolgreichen Landen ist ein Mindestschub von {LOCAL:Thrust} des Triebwerks erforderlich</Value>
+      <Value>Zuversicht {LOCAL:Confidence} (mindestens {LOCAL:Thrust} des Triebwerksschubs erforderlich)</Value>
     </Record>
     <Record>
       <Key>NoDataLinkActive</Key>
@@ -21210,43 +21210,43 @@ Status: {LOCAL:StatusValue}</Value>
     </Record>
     <Record>
       <Key>StructureNetworkTypeNone</Key>
-      <Value>None</Value>
+      <Value>Nichts</Value>
     </Record>
     <Record>
       <Key>StructureNetworkTypeLandingPad</Key>
-      <Value>Landing Pad</Value>
+      <Value>Landeplattform</Value>
     </Record>
     <Record>
       <Key>StructureNetworkTypePipe</Key>
-      <Value>Pipe</Value>
+      <Value>Rohr</Value>
     </Record>
     <Record>
       <Key>StructureNetworkTypeChute</Key>
-      <Value>Chute</Value>
+      <Value>Schacht</Value>
     </Record>
     <Record>
       <Key>StructureNetworkTypeRocket</Key>
-      <Value>Rocket</Value>
+      <Value>Rakete</Value>
     </Record>
     <Record>
       <Key>StructureNetworkTypeLaunchPad</Key>
-      <Value>Launch Pad</Value>
+      <Value>Startrampe</Value>
     </Record>
     <Record>
       <Key>StructureNetworkTypeRoboticArm</Key>
-      <Value>Robotic Arm</Value>
+      <Value>Roboterarm</Value>
     </Record>
     <Record>
       <Key>StructureNetworkTypeCable</Key>
-      <Value>Cable</Value>
+      <Value>Kabel</Value>
     </Record>
     <Record>
       <Key>SpeciesNone</Key>
-      <Value>None</Value>
+      <Value>Keine</Value>
     </Record>
     <Record>
       <Key>SpeciesHuman</Key>
-      <Value>Human</Value>
+      <Value>Mensch</Value>
     </Record>
     <Record>
       <Key>SpeciesZrilian</Key>
@@ -21254,23 +21254,23 @@ Status: {LOCAL:StatusValue}</Value>
     </Record>
     <Record>
       <Key>SpeciesRobot</Key>
-      <Value>Robot</Value>
+      <Value>Roboter</Value>
     </Record>
     <Record>
       <Key>MachineTierUndefined</Key>
-      <Value>Undefined</Value>
+      <Value>Undefiniert</Value>
     </Record>
     <Record>
       <Key>MachineTierTierOne</Key>
-      <Value>Tier One</Value>
+      <Value>Stufe 1</Value>
     </Record>
     <Record>
       <Key>MachineTierTierTwo</Key>
-      <Value>Tier Two</Value>
+      <Value>Stufe 2</Value>
     </Record>
     <Record>
       <Key>MachineTierTierThree</Key>
-      <Value>Tier Three</Value>
+      <Value>Stufe 3</Value>
     </Record>
     <Record>
       <Key>MachineTierMax</Key>
@@ -21278,27 +21278,27 @@ Status: {LOCAL:StatusValue}</Value>
     </Record>
     <Record>
       <Key>RoomTypeUndefined</Key>
-      <Value>Undefined</Value>
+      <Value>Undefiniert</Value>
     </Record>
     <Record>
       <Key>RoomTypeDefault</Key>
-      <Value>Default</Value>
+      <Value>Standard</Value>
     </Record>
     <Record>
       <Key>RoomTypeManufacturing</Key>
-      <Value>Manufacturing</Value>
+      <Value>Produktion</Value>
     </Record>
     <Record>
       <Key>RoomTypeKitchen</Key>
-      <Value>Kitchen</Value>
+      <Value>Küche</Value>
     </Record>
     <Record>
       <Key>RoomTypeBedroom</Key>
-      <Value>Bedroom</Value>
+      <Value>Schlafzimmer</Value>
     </Record>
     <Record>
       <Key>RoomTypeHydroponics</Key>
-      <Value>Hydroponics</Value>
+      <Value>Hydroponik</Value>
     </Record>
   </GameStrings>
   <GameTip />
