@@ -301,6 +301,62 @@ So... noch Eis nötig? {LINK:AutomatedRocketPage;Raketenthema} hilft für die Ei
 Von Boomer angepasst!</Text>
     </StationpediaPage>
     <StationpediaPage>
+      <Key>ColorsPage</Key>
+      <Title>Farben</Title>
+      <Text>Es kommt immer wieder mal das Thema "Welche Farben nutzt man wofür?", hier zeige ich mal meine Art Dinge zu färben! Am Ende macht es eh jeder wie er möchte ;) !
+
+
+{HEADER:ROHRE}
+
+Für Gas- und Flüssigkeitsrohre und deren Anlagen (wie Filteranlagen etc.) nutze ich die Farben wie folgt:
+
+Weiß = O2 (Sauerstoff)
+Grau = CO2 (Kohlenstoffdioxid)
+Gelb = X (Schadstoffe)
+Rot = H2 (Wasserstoff)
+Schwarz = N2 (Stickstoff)
+Grün = N2O (Lachgas)
+Blau = H2O (Wasser/Dampf)
+
+Braun = kaltes Mischgas/Abgas (max 40C°)
+Khaki = heißes Mischgas/Abgas (min 40C°)
+
+Orange = Brenngase
+
+Lila = "Klimaanlagen", also alles, was zum kühlen oder Heizen genutzt wird.
+
+
+{HEADER:KABEL}
+
+Für Stromkabel und deren Anlagen nutze ich die Farben wie folgt:
+
+Gelb = Hauptstromkabel (100kW), ich habe gerne ein Stromkabel wo keine Geräte angeschlossen werden, sondern nur APC's und Transformatoren angeschlossen werden.
+Rot = alle Stromkreise nach dem Hauptstromkabel.
+
+Schwarz = Kohlestrom vom Generator bis zur Batterie
+Grün = Solar und Windstrom bis zur Batterie
+Braun = Sonstige Stromerzeuger bis zur Batterie
+
+Sonderfälle: Sofern ich Strom und Daten trenne, so nutze ich gerne Blau für das Datenkabel. Auch wenn viele Stromkreise sich überkreuzen und damit Verwechslungsgefahr besteht, nutze ich neben Rot auch zufällig je nach Thema (Greenhouse = Grün) noch andere Farben, die nicht fix festgelegt sind.
+
+
+{HEADER:SCHÄCHTE}
+
+Für Schächte und deren Anlagen nutze ich die Farben wie folgt:
+
+Keine festen Farben, aber ich versuche immer je nach Thema/Zweck eine Farbe zu finden. Wichtig ist das man parallel laufende Schächte unterschiedlich gefärbt hat und sofern Schächte dasselbe machen wie das andere, eben dann auch dieselbe Farbe bekommt.
+
+
+{HEADER:TIPPS}
+
+Ich kenne einige Menschen, die auch gerne 2 Farben gleichzeitig nutzen wie z.b. Rot/Weiß für das Brenngas mit H2 und O2 oder Rot und Grün für das Brenngas mit H2 und N2O.
+Ihr könnt da ganz kreativ sein/werden, was das betrifft. Einige Farbzuweisungen sind Standard, wie z.b. Gase und Flüssigkeiten. Auf den Filterkartuschen z.b. ist der Hintergrund von O2 weiß und bei H2 rot etc.
+
+Wichtig ist nur, dass ihr es festlegt und dann nicht ständig bunt wechselt. Das verwirrt nur jeden, der mal eure Welt anschaut/mitspielt und ich denke, es hilft auch euch selbst nicht weiter, wenn ihr euch selbst verwirren tut.
+	  </Text>
+      <DisplayFilter>Lore</DisplayFilter>
+    </StationpediaPage>
+    <StationpediaPage>
       <Key>TradingPage</Key>
       <DisplayFilter>Guides</DisplayFilter>
       <Title>Handel</Title>

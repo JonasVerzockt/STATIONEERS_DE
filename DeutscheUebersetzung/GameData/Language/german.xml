@@ -2464,15 +2464,15 @@ Alle Rohre des Racks müssen angeschlossen sein, sonst zeigt das Gerät eine Feh
     <RecordThing>
       <Key>StructureWallHeater</Key>
       <Value>Wand-Heizung</Value>
-      <Description>Das {LINK:Xigo;Xigo} Wandheizgerät ist ein einfaches Gerät, das an einer Wand oder einem Rahmen installiert und an den Strom angeschlossen werden kann. Wenn es eingeschaltet wird, beginnt es, die Umgebung zu erwärmen. Er verbraucht 1010 W Strom und kann über Logikchips so gesteuert werden, dass er läuft, wenn die Temperatur einen bestimmten Wert erreicht.</Description>
+      <Description>Das {LINK:Xigo;Xigo} Heizgerät ist ein einfaches Gerät, das an einer Wand oder einem Rahmen installiert und an den Strom angeschlossen werden kann. Wenn es eingeschaltet wird, beginnt es, die Umgebung zu erwärmen. Er verbraucht 1010 W Strom und kann über Logikchips so gesteuert werden, dass er läuft, wenn die Temperatur einen bestimmten Wert erreicht.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallLight</Key>
-      <Value>Wandlampe</Value>
+      <Value>Lampe</Value>
     </RecordThing>
     <RecordThing>
       <Key>UniformCommander</Key>
-      <Value>Uniformierter Kommandant</Value>
+      <Value>Kommandanten-Uniform</Value>
     </RecordThing>
     <RecordThing>
       <Key>UniformOrangeJumpSuit</Key>
@@ -2621,7 +2621,7 @@ Im Gegensatz zu den weiter entwickelten {THING:StructureFurnace} kann der Lichtb
     <RecordThing>
       <Key>StructureAutolathe</Key>
       <Value>Automatische Drehmaschine</Value>
-      <Description>Die Grundlage der meisten {LINK:Stationeers;Stationeer} Fabrikationssysteme, die {LINK:ExMin;ExMin} Autolathe, ist ein mehrachsiges molekulares Kompositionssystem. Seine Komplexität erfordert einen beträchtlichen Zeitaufwand für den Zusammenbau, aber er bleibt ein unverzichtbares Werkzeug für die Herstellung. Erweitern Sie das Gerät mit einem {THING:AutolathePrinterMod}, um zusätzliche Rezepte und schnellere Verarbeitungsgeschwindigkeiten zu erhalten.
+      <Description>Die Grundlage der meisten {LINK:Stationeers;Stationeer} Fabrikationssysteme, die {LINK:ExMin;ExMin} automatische Drehmaschine, ist ein mehrachsiges molekulares Kompositionssystem. Seine Komplexität erfordert einen beträchtlichen Zeitaufwand für den Zusammenbau, aber er bleibt ein unverzichtbares Werkzeug für die Herstellung. Erweitern Sie das Gerät mit einem {THING:AutolathePrinterMod}, um zusätzliche Rezepte und schnellere Verarbeitungsgeschwindigkeiten zu erhalten.
 	  </Description>
     </RecordThing>
     <RecordThing>
@@ -2776,7 +2776,7 @@ Wasserstoff verbrennt in einem Verhältnis von 2:1 mit {GAS:Oxygen}, wobei {GAS:
     <RecordThing>
       <Key>ItemOxite</Key>
       <Value>Eis (Sauerstoff)</Value>
-      <Description>Oxiteis besteht größtenteils aus gefrorenem {GAS:Oxygen} und ist auf vielen Planeten des Sonnensystems zu finden. Es ist sehr wertvoll und begehrt, aber nicht auf allen Planeten, die {LINK:Stationeers;Stationeer} besucht, ist es vorhanden.
+      <Description>Sauerstoffeis besteht größtenteils aus gefrorenem {GAS:Oxygen} und ist auf vielen Planeten des Sonnensystems zu finden. Es ist sehr wertvoll und begehrt, aber nicht auf allen Planeten, die {LINK:Stationeers;Stationeer} besucht, ist es vorhanden.
 
 Da Oxit sehr temperaturempfindlich ist, beginnt es zu schmelzen, sobald es abgebaut wird, es sei denn, die Temperatur liegt unter Null oder es wird in {THING:ItemMiningBelt}, {THING:ItemMiningBeltAdvanced} oder Geräten wie {THING:StructureIceCrusher} oder {THING:StructureFridgeSmall} gelagert. Beim Schmelzen bildet Oxit eine Mischung aus {GAS:Oxygen} und {GAS:Nitrogen}.</Description>
     </RecordThing>
@@ -2795,12 +2795,12 @@ Da Oxit sehr temperaturempfindlich ist, beginnt es zu schmelzen, sobald es abgeb
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWallIron</Key>
-      <Value>Bausatz (Eisen Wand)</Value>
+      <Value>Bausatz (Eisenwand)</Value>
       <Description>Dein eiserner Käfig im Eigenbau.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureStorageLocker</Key>
-      <Value>Schließfach</Value>
+      <Value>Schrank</Value>
     </RecordThing>
     <RecordThing>
       <Key>SpawnPoint</Key>
@@ -2878,7 +2878,7 @@ Da Oxit sehr temperaturempfindlich ist, beginnt es zu schmelzen, sobald es abgeb
     <RecordThing>
       <Key>StructureHydraulicPipeBender</Key>
       <Value>Rohrbiegemaschine</Value>
-      <Description>Der {LINK:ExMin;ExMin} Atmoprinter ist das ideale Werkzeug für all deine atmosphärischen und klempnerischen Bedürfnisse. Er stellt alles her, von Rohren, Pumpen und Tanks bis hin zu Entlüftungen und Filtern, und sichert dein Überleben in jeder Umgebung. Rüste den Atmoprinter mit einem {THING:PipeBenderMod} auf, um zusätzliche Rezepte und schnellere Verarbeitungsgeschwindigkeiten zu erhalten.</Description>
+      <Description>Die {LINK:ExMin;ExMin} Rohrbiegemaschine ist das ideale Werkzeug für all deine atmosphärischen und klempnerischen Bedürfnisse. Er stellt alles her, von Rohren, Pumpen und Tanks bis hin zu Entlüftungen und Filtern, und sichert dein Überleben in jeder Umgebung. Rüste die Rohrbiegemaschine mit einem {THING:PipeBenderMod} auf, um zusätzliche Rezepte und schnellere Verarbeitungsgeschwindigkeiten zu erhalten.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitHydraulicPipeBender</Key>
@@ -2920,7 +2920,7 @@ Rüste das Gerät mit einem {THING:ToolPrinterMod} auf, um zusätzliche Rezepte 
     </RecordThing>
     <RecordThing>
       <Key>StructureTransformerSmallReversed</Key>
-      <Value>Transformator Umgekehrt (klein)</Value>
+      <Value>Transformator (Umgekehrt klein)</Value>
       <Description>Transformatoren regeln die maximale Leistung, die in ein Kabelteilnetz fließt, um eine Überlastung von {LINK:ElectronicPage;elektrischen} Systemen zu verhindern. Die Leistung von kleinen Transformatoren kann zwischen 0 W und 5 kW eingestellt werden.
 Beachten Sie, dass Transformatoren als Datenisolatoren fungieren und verhindern, dass Daten in ein anderes Netzwerk fließen.</Description>
     </RecordThing>
@@ -3007,7 +3007,7 @@ Beachten Sie, dass Transformatoren als Datenisolatoren fungieren und verhindern,
     </RecordThing>
     <RecordThing>
       <Key>StructureConsoleLED5Large</Key>
-      <Value>LED-Anzeige (Normal)</Value>
+      <Value>LED-Anzeige (Mittel)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSolarPanelDual</Key>
@@ -3051,11 +3051,11 @@ Beachten Sie, dass Transformatoren als Datenisolatoren fungieren und verhindern,
     <RecordThing>
       <Key>StructureLogicDial</Key>
       <Value>Logik-Drehpotentionmeter</Value>
-      <Description>Ein zuweisbares Rad mit bis zu 1000 Modi.</Description>
+      <Description>Ein zuweisbares Drehpotentiometer mit bis zu 1000 Modi.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureConsoleLED1x2</Key>
-      <Value>LED-Anzeige (Normal)</Value>
+      <Value>LED-Anzeige (Mittel)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureConsoleLED1x3</Key>
@@ -3108,7 +3108,7 @@ Beachten Sie, dass Transformatoren als Datenisolatoren fungieren und verhindern,
     <RecordThing>
       <Key>CartridgeOreScanner</Key>
       <Value>Chip (Erzscanner)</Value>
-      <Description>Wenn der Scanner in ein {THING:ItemTablet} eingesteckt wird, zeigt er auf dem Tablet versteckte Mineralien an.</Description>
+      <Description>Wenn der Scanner in ein {THING:ItemTablet} eingesteckt wird, zeigt er auf dem Tablet im Untergrund liegende Erze an.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPotatoBaked</Key>
@@ -3169,7 +3169,7 @@ Beachten Sie, dass Transformatoren als Datenisolatoren fungieren und verhindern,
     </RecordThing>
     <RecordThing>
       <Key>WallFrameCornerCut</Key>
-      <Value>Stahlrahmen (Eckenschnitt)</Value>
+      <Value>Stahlrahmen (Eckschnitt)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureFlagSmall</Key>
@@ -3181,51 +3181,51 @@ Beachten Sie, dass Transformatoren als Datenisolatoren fungieren und verhindern,
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingAngled</Key>
-      <Value>Komposit-Verkleidung (abgewinkelt)</Value>
+      <Value>Fassade (abgewinkelt)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingAngledCorner</Key>
-      <Value>Komposit-Verkleidung (abgewinkelte Ecke)</Value>
+      <Value>Fassade (abgewinkelte Ecke)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingAngledCornerLong</Key>
-      <Value>Komposit-Verkleidung (lange gewinkelte Ecke)</Value>
+      <Value>Fassade (lange gewinkelte Ecke)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingAngledLong</Key>
-      <Value>Komposit-Verkleidung (lang gewinkelt)</Value>
+      <Value>Fassade (lang gewinkelt)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingCylindrical</Key>
-      <Value>Komposit-Verkleidung (zylindrisch)</Value>
+      <Value>Fassade (zylindrisch)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingCylindricalPanel</Key>
-      <Value>Komposit-Verkleidung (zylindrische Platte)</Value>
+      <Value>Fassade (zylindrische Platte)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingSphericalCorner</Key>
-      <Value>Komposit-Verkleidung (kugelförmige Ecke)</Value>
+      <Value>Fassade (kugelförmige Ecke)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingSphericalCap</Key>
-      <Value>Komposit-Verkleidung (Kugelhaube)</Value>
+      <Value>Fassade (Kugelhaube)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingSpherical</Key>
-      <Value>Komposit-Verkleidung (kugelförmig)</Value>
+      <Value>Fassade (kugelförmig)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingRoundedCorner</Key>
-      <Value>Komposit-Verkleidung (abgerundete Ecke)</Value>
+      <Value>Fassade (abgerundete Ecke)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingRounded</Key>
-      <Value>Komposit-Verkleidung (abgerundet)</Value>
+      <Value>Fassade (abgerundet)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingPanel</Key>
-      <Value>Komposit-Verkleidung (Platte)</Value>
+      <Value>Fassade (Platte)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitCompositeCladding</Key>
@@ -3234,11 +3234,11 @@ Beachten Sie, dass Transformatoren als Datenisolatoren fungieren und verhindern,
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingAngledCornerLongR</Key>
-      <Value>Komposit-Verkleidung (lange, gewinkelte, gespiegelte Ecke)</Value>
+      <Value>Fassade (lange, gewinkelte, gespiegelte Ecke)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureDockPortSide</Key>
-      <Value>Dock (Backbordseite)</Value>
+      <Value>Andockschleuse (Gegenstück)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitDockingPort</Key>
@@ -3247,7 +3247,7 @@ Beachten Sie, dass Transformatoren als Datenisolatoren fungieren und verhindern,
     </RecordThing>
     <RecordThing>
       <Key>StructureDockShipSide</Key>
-      <Value>Dock (Steuerbordseite)</Value>
+      <Value>Andockschleuse (Schiff)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLightLong</Key>
@@ -3277,27 +3277,27 @@ Beachten Sie, dass Transformatoren als Datenisolatoren fungieren und verhindern,
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWindowIron</Key>
-      <Value>Eisen Fenster</Value>
+      <Value>Eisenfenster</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeFloorGrating1</Key>
-      <Value>Komposit-Bodenroste (Typ 1)</Value>
+      <Value>Bodenrost (Typ 1)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeFloorGrating2</Key>
-      <Value>Komposit-Bodenroste (Typ 2)</Value>
+      <Value>Bodenrost (Typ 2)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeFloorGrating2</Key>
-      <Value>Komposit-Bodenroste (Typ 2)</Value>
+      <Value>Bodenrost (Typ 2)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeFloorGrating3</Key>
-      <Value>Komposit-Bodenroste (Typ 3)</Value>
+      <Value>Bodenrost (Typ 3)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeFloorGrating4</Key>
-      <Value>Komposit-Bodenroste (Typ 4)</Value>
+      <Value>Bodenrost (Typ 4)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWallPanels</Key>
@@ -3306,7 +3306,7 @@ Beachten Sie, dass Transformatoren als Datenisolatoren fungieren und verhindern,
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWallPanelling1</Key>
-      <Value>Komposit-Wandverkleidung</Value>
+      <Value>Wandpaneel (Typ 1)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitCompositeFloorGrating</Key>
@@ -3315,7 +3315,7 @@ Beachten Sie, dass Transformatoren als Datenisolatoren fungieren und verhindern,
     </RecordThing>
     <RecordThing>
       <Key>CompositeRollCover</Key>
-      <Value>Komposit-Rollenabdeckung</Value>
+      <Value>Rolltor Abdeckung</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLadder</Key>
@@ -3328,87 +3328,87 @@ Beachten Sie, dass Transformatoren als Datenisolatoren fungieren und verhindern,
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling1</Key>
-      <Value>Komposit-Wandverkleidung</Value>
+      <Value>Wandpaneel (Typ 1)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling2</Key>
-      <Value>Komposit-Wandverkleidung 2</Value>
+      <Value>Wandpaneel (Typ 2)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling3</Key>
-      <Value>Komposit-Wandverkleidung 3</Value>
+      <Value>Wandpaneel (Typ 3)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling4</Key>
-      <Value>Komposit-Wandverkleidung 4</Value>
+      <Value>Wandpaneel (Typ 4)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling5</Key>
-      <Value>Komposit-Wandverkleidung 5</Value>
+      <Value>Wandpaneel (Typ 5)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling6</Key>
-      <Value>Komposit-Wandverkleidung 6</Value>
+      <Value>Wandpaneel (Typ 6)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling7</Key>
-      <Value>Komposit-Wandverkleidung 7</Value>
+      <Value>Wandpaneel (Typ 7)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling8</Key>
-      <Value>Komposit-Wandverkleidung 8</Value>
+      <Value>Wandpaneel (Typ 8)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling9</Key>
-      <Value>Komposit-Wandverkleidung 9</Value>
+      <Value>Wandpaneel (Typ 9)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling10</Key>
-      <Value>Komposit-Wandverkleidung 10</Value>
+      <Value>Wandpaneel (Typ 10)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling11</Key>
-      <Value>Komposit-Wandverkleidung 11</Value>
+      <Value>Wandpaneel (Typ 11)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling12</Key>
-      <Value>Komposit-Wandverkleidung 12</Value>
+      <Value>Wandpaneel (Typ 12)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling13</Key>
-      <Value>Komposit-Wandverkleidung 13</Value>
+      <Value>Wandpaneel (Typ 13)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling14</Key>
-      <Value>Komposit-Wandverkleidung 14</Value>
+      <Value>Wandpaneel (Typ 14)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling15</Key>
-      <Value>Komposit-Wandverkleidung 15</Value>
+      <Value>Wandpaneel (Typ 15)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling16</Key>
-      <Value>Komposit-Wandverkleidung 16</Value>
+      <Value>Wandpaneel (Typ 16)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling17</Key>
-      <Value>Komposit-Wandverkleidung 17</Value>
+      <Value>Wandpaneel (Typ 17)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling18</Key>
-      <Value>Komposit-Wandverkleidung 18</Value>
+      <Value>Wandpaneel (Typ 18)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling19</Key>
-      <Value>Komposit-Wandverkleidung 19</Value>
+      <Value>Wandpaneel (Typ 19)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling20</Key>
-      <Value>Komposit-Wandverkleidung 20</Value>
+      <Value>Wandpaneel (Typ 20)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling21</Key>
-      <Value>Komposit-Wandverkleidung 21</Value>
+      <Value>Wandpaneel (Typ 21)</Value>
     </RecordThing>
     <RecordThing>
       <Key>Corner1</Key>
@@ -3545,7 +3545,7 @@ Beachten Sie, dass Transformatoren als Datenisolatoren fungieren und verhindern,
     </RecordThing>
     <RecordThing>
       <Key>ItemAuthoringTool</Key>
-      <Value>Sicherheits-Werkzeug</Value>
+      <Value>Kreativ-Werkzeug</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureRocketEngineDestroyed</Key>
@@ -3626,7 +3626,7 @@ Beachten Sie, dass Transformatoren als Datenisolatoren fungieren und verhindern,
     <RecordThing>
       <Key>StructureSecurityPrinter</Key>
       <Value>Sicherheitsdrucker</Value>
-      <Description>Jeder {LINK:Stationeer;Stationeer}, der auf Sicherheit bedacht ist, braucht den {LINK:Harkwell;Harkwell-konzipierter} Vigilant-E Sicherheitsdrucker. Verwenden Sie den Vigilant-E, um einen {THING:CartridgeAccessController} zu erstellen, um den Zugang zu verschiedenen Teilen Ihrer Basis über Schlüsselkarten wie den {THING:AccessCardBlue} zu beschränken. Der Drucker stellt auch eine Vielzahl von Waffen und Munition her, mit denen Sie Ihre Basis gegen alle feindlichen, aggressiven oder einfach nur unhöflichen Wesen verteidigen können, denen Sie bei der Erkundung des Sonnensystems begegnen. Laut einigen Stationeers ist dies der sinnbefreiteste was man bauen kann.</Description>
+      <Description>Jeder {LINK:Stationeer;Stationeer}, der auf Sicherheit bedacht ist, braucht den {LINK:Harkwell;Harkwell-konzipierter} Vigilant-E Sicherheitsdrucker. Verwenden Sie den Vigilant-E, um einen {THING:CartridgeAccessController} zu erstellen, um den Zugang zu verschiedenen Teilen Ihrer Basis über Schlüsselkarten wie den {THING:AccessCardBlue} zu beschränken. Der Drucker stellt auch eine Vielzahl von Waffen und Munition her, mit denen Sie Ihre Basis gegen alle feindlichen, aggressiven oder einfach nur unhöflichen Wesen verteidigen können, denen Sie bei der Erkundung des Sonnensystems begegnen. Laut einigen Stationeers ist dies das Sinnbefreiteste was man bauen kann.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSecurityPrinter</Key>
@@ -3656,11 +3656,11 @@ Beachten Sie, dass Transformatoren als Datenisolatoren fungieren und verhindern,
     <RecordThing>
       <Key>StructureElectrolyzer</Key>
       <Value>Elektrolyseur</Value>
-      <Description>Der {LINK:Norsec;Norsec-konzipierter} Electrolyzer spaltet {GAS:Water} in Wasserstoff und {GAS:Oxygen}. Unter Verwendung einer unbekannten proprietären Technologie nutzt das Gerät die latente Wärme des Wassers als Energie für den Elektrolyseprozess. Wenn es einen Nachteil bei dieser fast wundersamen Spaltung gibt, dann ist es der, dass das Gerät durch die verfügbare Energiemenge begrenzt ist, die zur Aufrechterhaltung der Ausgangstemperatur verwendet wird. Mit anderen Worten, die Maschine funktioniert am besten mit heißem Gas.</Description>
+      <Description>Der {LINK:Norsec;Norsec-konzipierter} Electrolyzer spaltet {GAS:Water} in {GAS:Volatiles} und {GAS:Oxygen}. Unter Verwendung einer unbekannten proprietären Technologie nutzt das Gerät die latente Wärme des Wassers als Energie für den Elektrolyseprozess. Wenn es einen Nachteil bei dieser fast wundersamen Spaltung gibt, dann ist es der, dass das Gerät durch die verfügbare Energiemenge begrenzt ist, die zur Aufrechterhaltung der Ausgangstemperatur verwendet wird. Mit anderen Worten, die Maschine funktioniert am besten mit heißem Gas.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureElevatorShaft</Key>
-      <Value>Aufzugsschacht</Value>
+      <Value>Aufzugsschacht (Anschluss)</Value>
       <Description>Ein Schacht durch den ein Aufzug durchfahren kann.</Description>
     </RecordThing>
     <RecordThing>
@@ -3674,7 +3674,7 @@ Beachten Sie, dass Transformatoren als Datenisolatoren fungieren und verhindern,
     </RecordThing>
     <RecordThing>
       <Key>StructureElevatorLevelFront</Key>
-      <Value>Aufzug Ebene</Value>
+      <Value>Aufzug Ebene (Anschluss)</Value>
       <Description>Eine Ebene zum ein- und aussteigen aus einem Aufzug. Sie hat sogar einen Rufknopf.</Description>
     </RecordThing>
     <RecordThing>
@@ -3688,7 +3688,7 @@ Beachten Sie, dass Transformatoren als Datenisolatoren fungieren und verhindern,
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicMirror</Key>
-      <Value>Logik-Stellvertreter</Value>
+      <Value>Logik-Kopierer</Value>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardHashDisplay</Key>
@@ -3767,7 +3767,7 @@ Beachten Sie, dass Transformatoren als Datenisolatoren fungieren und verhindern,
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicReagentReader</Key>
-      <Value>Logik-Reagenzien-Lesegerät</Value>
+      <Value>Logik-Reagenzien-Leser</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemHardSuit</Key>
@@ -3990,12 +3990,12 @@ Es gibt gerüchte das ein rogerwaters in ferner Zukunft einen Packer modden will
     </RecordThing>
     <RecordThing>
       <Key>ItemHardBackpack</Key>
-      <Value>Rucksack (gehärtet)</Value>
+      <Value>Raumanzugrucksack (gehärtet)</Value>
       <Description>Dieser Rucksack kann nützlich sein, wenn man drinnen arbeitet und nicht herumfliegen muss.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemHardJetpack</Key>
-      <Value>Jetpack (gehärtet)</Value>
+      <Value>Raumanzugjetpack (gehärtet)</Value>
       <Description>Das {LINK:Norsec;Norsec} Jetpack ist "technisch" gar kein Jetpack, sondern ein Gasantrieb. Es kann mit jedem Gas betrieben werden, solange der Innendruck des {LINK:AtmosphericsPage;Kanisters} höher ist als der Außendruck. Wenn der Außendruck höher ist, funktioniert das Spacepack nicht. Durch Einstellen des Schubwertes wird die Beschleunigung verändert, während die Aktivierung des Stabilisators das Spacepack bei Erreichen einer bestimmten Höhe zum Schweben bringt.
 Das Jetpack (gehärtet) kann wesentlich höhere Geschwindigkeiten erreichen als das {THING:ItemJetpackBasic} - bis zu 15m/s. Es ist unverzichtbar für Bauarbeiten, Bergbau und allgemeine Fortbewegung und hat vierzehn Speicherplätze.
 ANWENDUNG: 'J' zum Aktivieren; 'Leertaste' zum Hochfliegen; 'Linke STRG' zum Absteigen; und 'WASD' zum Bewegen.</Description>
@@ -4151,7 +4151,7 @@ Einige Stationeers tun sich allerdings mit dieser veralteten Technik sehr schwer
     </RecordThing>
     <RecordThing>
       <Key>StructureWallLightBattery</Key>
-      <Value>Wandlampe (Batterie)</Value>
+      <Value>Lampe (Batterie)</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicPortal</Key>
@@ -4210,7 +4210,7 @@ Einige Stationeers tun sich allerdings mit dieser veralteten Technik sehr schwer
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterNitrousOxide</Key>
-      <Value>Kanister Gas (Distickstoffmonoxid)</Value>
+      <Value>Kanister Gas (Lachgas)</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterPollutants</Key>
@@ -4260,7 +4260,7 @@ RobotMode.None = 6 = Automatisch zugewiesener Status, zeigt an, wenn die Lagerpl
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicTransmitter</Key>
-      <Value>Logik-Sender</Value>
+      <Value>Logik-Übermittler</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLogicTransmitter</Key>
@@ -4317,19 +4317,19 @@ RobotMode.None = 6 = Automatisch zugewiesener Status, zeigt an, wenn die Lagerpl
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingAngledCornerInnerLongR</Key>
-      <Value>Komposit-Verkleidung (abgewinkelte Ecke innen lang R)</Value>
+      <Value>Fassade (abgewinkelte Ecke innen lang R)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingAngledCornerInnerLongL</Key>
-      <Value>Komposit-Verkleidung (abgewinkelte Ecke innen lang L)</Value>
+      <Value>Fassade (abgewinkelte Ecke innen lang L)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingAngledCornerInnerLong</Key>
-      <Value>Komposit-Verkleidung (abgewinkelte Ecke innen lang)</Value>
+      <Value>Fassade (abgewinkelte Ecke innen lang)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingAngledCornerInner</Key>
-      <Value>Komposit-Verkleidung (gewinkelte Ecke innen)</Value>
+      <Value>Fassade (gewinkelte Ecke innen)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ElectronicPrinterMod</Key>
@@ -4378,7 +4378,7 @@ ANWENDUNG: 'J' zum Aktivieren; 'Leertaste' zum Aufwärtsfliegen; 'Linke Strg' zu
     </RecordThing>
     <RecordThing>
       <Key>StructureRTGSurvival</Key>
-      <Value>Radio Isotopen Generator</Value>
+      <Value>Radionuklidbatterie</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemEmergencyHelmet</Key>
@@ -5077,37 +5077,38 @@ Mit einer Speicherkapazität von bis zu 9000001 Watt gibt es keine praktischen G
     <RecordThing>
       <Key>ItemWreckageArcFurnace1</Key>
       <Value>Wrack-Lichtbogen-Ofen</Value>
-      <Description>Beschreibung kommt.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageArcFurnace2</Key>
       <Value>Wrack-Lichtbogen-Ofen</Value>
-      <Description>Beschreibung kommt.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageArcFurnace3</Key>
       <Value>Wrack-Lichtbogen-Ofen</Value>
-      <Description>Beschreibung kommt.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAreaPowerControl1</Key>
       <Value>Wrack-Energiekontrolle</Value>
-      <Description>Beschreibung kommt.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAreaPowerControl2</Key>
       <Value>Wrack-Energiekontrolle</Value>
-      <Description>Beschreibung kommt.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAreaPowerControlReversed1</Key>
       <Value>Wrack-Energiekontrolle-umgedreht</Value>
-      <Description>Beschreibung kommt.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAreaPowerControlReversed2</Key>
       <Value>Wrack-Energiekontrolle-umgedreht</Value>
-      <Description>Beschreibung kommt.</Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageAutolathe1</Key>
+      <Value>Wrack-Automatische Drehmaschine</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageAutolathe6</Key>
+      <Value>Wrack-Automatische Drehmaschine</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSolarPanel1</Key>
@@ -5405,22 +5406,22 @@ Mit einer Speicherkapazität von bis zu 9000001 Watt gibt es keine praktischen G
     <RecordThing>
       <Key>ItemWreckageCoalGenerator1</Key>
       <Value>Wrack-Kohle-Generator</Value>
-      <Description>Beschreibung kommt.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCoalGenerator2</Key>
       <Value>Wrack-Kohle-Generator</Value>
-      <Description>Beschreibung kommt.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCoalGenerator3</Key>
       <Value>Wrack-Kohle-Generator</Value>
-      <Description>Beschreibung kommt.</Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageCoalGenerator4</Key>
+      <Value>Wrack</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageH2Combustor1</Key>
       <Value>Wrack-H2-Combustor</Value>
-      <Description>Beschreibung kommt.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageHydroponicsAutomatic1</Key>
@@ -6818,6 +6819,16 @@ Wenn es geschlossen ist, hat es die Wärmeübertragungseigenschaften einer einfa
       <Key>ItemKitWindowShutter</Key>
       <Value>Bausatz (Fensterladen)</Value>
       <Description>Ein Bausatz für ein vollautomatisches Rollo, dass an die Rückseite eines Fensters angebaut werden kann. Wenn es mit Strom versorgt wird ermöglicht es die Abdunklung und Aufhellung per Interaktion. Das Rollo kann auch mittels Logik automatisiert werden.</Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureCompositeWindowShutter</Key>
+      <Value>Kompositfensterladen</Value>
+      <Description></Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureCompositeWindowShutterController</Key>
+      <Value>Kompositfensterladen Steuerung</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemExplosiveBasic</Key>
@@ -8752,6 +8763,11 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
       <Description>Dieser beschleunigte Bohrkopf zur Verwendung an einem Raketen-Bergbaumodul ist die schnellste Version für den Abbau von Erz.</Description>
     </RecordThing>
     <RecordThing>
+      <Key>StructureRoboticArmDock</Key>
+      <Value>LARrE Dock</Value>
+      <Description>The Linear Articulated Rail Entity or LARrE can be used to plant, harvest and fertilize plants in plant trays. It can also grab items from a {THING:StructureChuteExportBin} and drop them in a {THING:StructureChuteBin}. LARrE can interact with plant trays or chute bins built under a linear rail station or built under its dock.</Description>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemIcarusSuit</Key>
       <Value>Ikarus Anzug</Value>
       <Description></Description>
@@ -8953,7 +8969,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     </RecordThing>
     <RecordThing>
       <Key>ItemCocoaTree</Key>
-      <Value>Kakaopflanze</Value>
+      <Value>Kakao</Value>
       <Description></Description>
     </RecordThing>
     <RecordThing>
@@ -8982,13 +8998,18 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
       <Description></Description>
     </RecordThing>
     <RecordThing>
+      <Key>ItemCerealBarBag</Key>
+      <Value>Müsliriegel-Tüte</Value>
+      <Description></Description>
+    </RecordThing>
+    <RecordThing>
       <Key>ItemInsulatedCanisterPackage</Key>
       <Value>Isolierte Kanisterpaket</Value>
       <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>LanderCapsuleSmallDoor</Key>
-      <Value>kleine Landekapsel Tür</Value>
+      <Value>Landekapsel kleine Tür</Value>
       <Description></Description>
     </RecordThing>
     <RecordThing>
@@ -9015,6 +9036,46 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
       <Key>ItemWaterBottlePackage</Key>
       <Value>Wasserflaschenpaket</Value>
       <Description></Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWaterBottleBag</Key>
+      <Value>Wasserflaschen-Tüte</Value>
+      <Description></Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitRoboticArm</Key>
+      <Value>Kit (LARrE)</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLinearRail</Key>
+      <Value>Kit (Linear Rail)</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureRoboticArmRailCornerStop</Key>
+      <Value>Linear Rail Corner Station</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureRoboticArmRailStraight</Key>
+      <Value>Linear Rail Straight</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureRoboticArmRailStraightStop</Key>
+      <Value>Linear Rail Straight Station</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureRoboticArmRailCorner</Key>
+      <Value>Linear Rail Corner</Value>
+      <Description />
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureChuteExportBin</Key>
+      <Value>Chute Export Bin</Value>
+      <Description />
     </RecordThing>
   </Things>
   <Slots>
@@ -9321,6 +9382,18 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     <Record>
       <Key>Filter4</Key>
       <Value>Filter 4</Value>
+    </Record>
+    <Record>
+      <Key>Door</Key>
+      <Value>Tür</Value>
+    </Record>
+    <Record>
+      <Key>Storage</Key>
+      <Value>Lagerung</Value>
+    </Record>
+    <Record>
+      <Key>ArmSlot</Key>
+      <Value>Arm Slot</Value>
     </Record>
   </Slots>
   <Interactables>
@@ -9808,6 +9881,14 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
       <Key>DecreasePower</Key>
       <Value>Leistung vermindern</Value>
     </Record>
+    <Record>
+      <Key>ButtonNext</Key>
+      <Value>Next</Value>
+    </Record>
+    <Record>
+      <Key>ButtonPrev</Key>
+      <Value>Previous</Value>
+    </Record>
   </Interactables>
   <Interface>
     <Record>
@@ -10197,6 +10278,10 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     <Record>
       <Key>NewWorldButtonCreate</Key>
       <Value>Welt erstellen</Value>
+    </Record>
+    <Record>
+      <Key>StartConditionsButton</Key>
+      <Value>Startbedingungen</Value>
     </Record>
     <Record>
       <Key>NewWorldAreaTitle</Key>
@@ -15340,6 +15425,26 @@ Ein {THING:StructureWaterPurifier} kann verwendet werden, um es wieder zu reinig
       <Value>Schwierigkeitsgrad</Value>
     </Record>
     <Record>
+      <Key>SelectWorldTitle</Key>
+      <Value>Welt auswählen</Value>
+    </Record>
+    <Record>
+      <Key>SelectDifficultyTitle</Key>
+      <Value>Schwierigkeit auswählen</Value>
+    </Record>
+    <Record>
+      <Key>SelectStartingConditionsTitle</Key>
+      <Value>Startbedingungen auswählen</Value>
+    </Record>
+    <Record>
+      <Key>NewGameNextButton</Key>
+      <Value>Weiter</Value>
+    </Record>
+    <Record>
+      <Key>NewGameSaveName</Key>
+      <Value>Speichername</Value>
+    </Record>
+    <Record>
       <Key>StartNewGameButton</Key>
       <Value>Spiel starten</Value>
     </Record>
@@ -15673,6 +15778,226 @@ Ein {THING:StructureWaterPurifier} kann verwendet werden, um es wieder zu reinig
     <Record>
       <Key>InventorySlotSuitBack</Key>
       <Value>Anzug Rücken</Value>
+    </Record>
+    <Record>
+      <Key>DefaultStartCondition</Key>
+      <Value>Standard Start</Value>
+    </Record>
+    <Record>
+      <Key>DefaultStartConditionDescription</Key>
+      <Value>Everything you need to build your first base</Value>
+    </Record>
+    <Record>
+      <Key>DefaultStartConditionVulcan</Key>
+      <Value>Standard (Vulcan)</Value>
+    </Record>
+    <Record>
+      <Key>DefaultStartConditionEuropa</Key>
+      <Value>Standard (Europa)</Value>
+    </Record>
+    <Record>
+      <Key>DefaultStartConditionMimas</Key>
+      <Value>Standard (Mimas)</Value>
+    </Record>
+    <Record>
+      <Key>DefaultStartConditionVenus</Key>
+      <Value>Standard (Venus)</Value>
+    </Record>
+    <Record>
+      <Key>BrutalStartCondition</Key>
+      <Value>Brutal</Value>
+    </Record>
+    <Record>
+      <Key>BrutalStartConditionEuropa</Key>
+      <Value>Brutal (Europa)</Value>
+    </Record>
+    <Record>
+      <Key>BrutalStartConditionMimas</Key>
+      <Value>Brutal (Mimas)</Value>
+    </Record>
+    <Record>
+      <Key>BrutalStartConditionVulcan</Key>
+      <Value>Brutal (Hot Planet)</Value>
+    </Record>
+    <Record>
+      <Key>BrutalStartConditionDescription</Key>
+      <Value>The bare minimum to survive</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectiveBuildPower</Key>
+      <Value>Build a basic power setup</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectiveBuildArcFurnace</Key>
+      <Value>Build and Power Auto-lathe and Arc-Furnace</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectiveSmeltIron</Key>
+      <Value>Smelt Iron in Arc Furnace</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectiveBuildPrinters</Key>
+      <Value>Build more printers</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectiveBuildStacker</Key>
+      <Value>Build a Stacker</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectiveSmeltSteel</Key>
+      <Value>Smelt some Steel</Value>
+    </Record>
+    <Record>
+      <Key>SmeltSteelVulcanInfo</Key>
+      <Value>The Vulcan air at midday is hot enough to smelt steel</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectiveVacuumRoom</Key>
+      <Value>Vacuum out room</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectiveVacuumRoomInfo</Key>
+      <Value>Vent all the gas from the room using a {THING:StructureActiveVent}</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectiveCombustion</Key>
+      <Value>Avoid fires</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectiveCombustionInfo</Key>
+      <Value>During the day any oxygen released into the Vulcan atmosphere will immediately combust</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectiveUpgradeElectronicsPrinter</Key>
+      <Value>Upgrade ElectronicsPrinter</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectiveUpgradeManufacturing</Key>
+      <Value>Upgrade Manufacturing</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectiveBuildFurnace</Key>
+      <Value>Build an Advanced Furnace</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectiveBuildCentrifuge</Key>
+      <Value>Build a Recycler and Centrifuge</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectiveDeepMiners</Key>
+      <Value>Deep Miners and Rockets can mine resources for you</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectiveBuildRoom</Key>
+      <Value>Build a room with a door</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectiveFillOxygen</Key>
+      <Value>Fill a room with Oxygen</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectiveGrowFood</Key>
+      <Value>Grow plants for Oxygen and Food</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectiveRefillBottle</Key>
+      <Value>Refill Water Bottle</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectivePlantsLight</Key>
+      <Value>Plants need light to grow</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectivePlantsDarkness</Key>
+      <Value>Plants need to rest in darkness to grow</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectiveCookPotato</Key>
+      <Value>Cook a baked potato</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectiveOfflinePlayers</Key>
+      <Value>Keep off-line players alive</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectiveFiltration</Key>
+      <Value>Make your room atmosphere safe to breathe</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectiveManageTemperature</Key>
+      <Value>Manage room temperature</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectiveBuildPad</Key>
+      <Value>Build and power a 3x3 trader landing pad</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectiveConnectPad</Key>
+      <Value>Connect a Computer and Vending Machine to the Landing Pad</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectiveResolveContact</Key>
+      <Value>Connect a Dish and Resolve a trading contact</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectiveContactLand</Key>
+      <Value>Interrogate a Trader Contact and call them in to land</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectiveBuildPowerInfo</Key>
+      <Value>An Area Power Controller (APC) has a battery slot for power storage and a switch to turn on power to the output network. Open it with a {THING:ItemCrowbar}</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectiveBuildFurnaceInfo</Key>
+      <Value>An Advanced Furnace is required to smelt super alloys</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectiveDeepMinersInfo</Key>
+      <Value>{THING:StructureDeepMiner} can be used to harvest a steady flow of resources. {THING:StructureRocketManufactory} can print the parts to build a mining rocket for gathering ore and ices from nearby asteroids</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectiveBuildStackerInfo</Key>
+      <Value>Connect to the output of your {THING:StructureAutolathe} with {THING:StructureChuteStraight}</Value>
+    </Record>
+    <Record>
+      <Key>HelperHints</Key>
+      <Value>Helper Hints</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectiveCanisters</Key>
+      <Value>Refill Oxygen Canister</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectiveCanistersInfo</Key>
+      <Value>{THING:ItemGasCanisterEmpty} can be refilled by inserting into a {THING:DynamicGasCanisterEmpty} or a {Thing:StructureGasTankStorage}</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectiveOfflinePlayersInfo</Key>
+      <Value>Offline players can be kept alive in a {THING:StructureSleeperVertical}</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectiveCablesBurn</Key>
+      <Value>A power network overloaded! Replace burnt cable</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectiveCablesBurnInfo</Key>
+      <Value>Power cables can burn out if overloaded or if a battery is shorted. Use a {THING:StructureCableFuse5k} to isolate failures. Limit power throughput with a {THING:StructureTransformerSmall} or upgrade high power networks to {THING:ItemCableCoilHeavy}</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectiveSmeltIce</Key>
+      <Value>Mine Ice for Gasses</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectiveSmeltIceInfo</Key>
+      <Value>Ices can be melted for useful gasses and liquids. Place in an {THING:StructureIceCrusher} or just use direct sunlight or warm air above 6kPa.</Value>
+    </Record>
+    <Record>
+      <Key>DismissCompletedButton</Key>
+      <Value>Dismiss Completed</Value>
+    </Record>
+    <Record>
+      <Key>ShowDismissedButton</Key>
+      <Value>Show Dismissed</Value>
     </Record>
   </Interface>
   <Colors>
@@ -19297,7 +19622,7 @@ Status: {LOCAL:StatusValue}</Value>
     </Record>
     <Record>
       <Key>ProcessedMoles</Key>
-      <Value>Verarbeitung: {LOCAL:Moles}mol</Value>
+      <Value>Verarbeitung: {LOCAL:Moles}</Value>
     </Record>
     <Record>
       <Key>PressureDifferential</Key>
@@ -19334,6 +19659,1646 @@ Status: {LOCAL:StatusValue}</Value>
     <Record>
       <Key>HeatExchangerHeatExchangeAreaTooltip</Key>
       <Value>Wärmeaustauschrate: {LOCAL:EnergyResult} W</Value>
+    </Record>
+    <Record>
+      <Key>LogicDescriptionNameHash</Key>
+      <Value>Gibt den Hash-Wert für den Namen des Objekts als 32-Bit-Ganzzahl.</Value>
+    </Record>
+    <Record>
+      <Key>CodeEditorFileSize</Key>
+      <Value>Größe {LOCAL:Size} / {LOCAL:MaxSize} Bytes</Value>
+    </Record>
+    <Record>
+      <Key>UplinkConnectedTo</Key>
+      <Value>Verbunden mit {LOCAL:Downlink}</Value>
+    </Record>
+    <Record>
+      <Key>UplinkNotConnected</Key>
+      <Value>Mit keinem Downlink verbunden</Value>
+    </Record>
+    <Record>
+      <Key>UplinkConnectedToRocket</Key>
+      <Value>Zugriff auf {LOCAL:Rocket} über {LOCAL:RocketAvionics}</Value>
+    </Record>
+    <Record>
+      <Key>CelestialTrackerSetTo</Key>
+      <Value>Tracker auf {LOCAL:Celestial} gesetzt</Value>
+    </Record>
+    <Record>
+      <Key>CelestialTrackerRequiresOrbit</Key>
+      <Value>Kann diesen Himmelskörper nicht verfolgen, solange er sich nicht in der Umlaufbahn befindet</Value>
+    </Record>
+    <Record>
+      <Key>DeviceShortCircuited</Key>
+      <Value>Kurzgeschlossen</Value>
+    </Record>
+    <Record>
+      <Key>DeviceIndexSetTo</Key>
+      <Value>Index {LOCAL:Index}</Value>
+    </Record>
+    <Record>
+      <Key>NoCelestialFound</Key>
+      <Value>Keine Himmelskörper gefunden</Value>
+    </Record>
+    <Record>
+      <Key>WorldInfoPlanetaryBody</Key>
+      <Value>Orbit um {LOCAL:ParentBody}</Value>
+    </Record>
+    <Record>
+      <Key>WorldInfoZeroGravity</Key>
+      <Value>Hat &lt;color=red&gt;keine Schwerkraft&lt;/color&gt;</Value>
+    </Record>
+    <Record>
+      <Key>WorldInfoGravity</Key>
+      <Value>&lt;color=yellow&gt;Schwerkraft&lt;/color&gt; ist {LOCAL:Gravity} von &lt;color=white&gt;der Erde&lt;/color&gt;</Value>
+    </Record>
+    <Record>
+      <Key>WorldInfoRotationPeriod</Key>
+      <Value>{LOCAL:PrimaryBody} durchläuft den &lt;color=yellow&gt;Himmel&lt;/color&gt; alle {LOCAL:RotationPeriod} bei {LOCAL:SolarAngle}</Value>
+    </Record>
+    <Record>
+      <Key>WorldInfoSiderealPeriod</Key>
+      <Value>Umrundet {LOCAL:PrimaryBody} alle {LOCAL:SiderealPeriod}</Value>
+    </Record>
+    <Record>
+      <Key>WorldInfoSolarEnergy</Key>
+      <Value>{LOCAL:PrimaryBody} liefert {LOCAL:Value}</Value>
+    </Record>
+    <Record>
+      <Key>WorldInfoSolarEnergyRange</Key>
+      <Value>{LOCAL:PrimaryBody} liefert {LOCAL:LowValue} bis {LOCAL:HighValue}</Value>
+    </Record>
+    <Record>
+      <Key>WorldInfoNoSolarEnergy</Key>
+      <Value>{LOCAL:PrimaryBody} liefert &lt;color=red&gt;kein Sonnenlicht&lt;/color&gt;</Value>
+    </Record>
+    <Record>
+      <Key>WorldInfoIsVacuum</Key>
+      <Value>Hat &lt;color=red&gt;keine Atmosphäre&lt;/color&gt;</Value>
+    </Record>
+    <Record>
+      <Key>WorldInfoTemperatureRange</Key>
+      <Value>&lt;color=yellow&gt;Temperaturbereich&lt;/color&gt; von {LOCAL:LowValue} bis {LOCAL:HighValue}</Value>
+    </Record>
+    <Record>
+      <Key>WorldInfoTemperature</Key>
+      <Value>&lt;color=yellow&gt;Temperatur&lt;/color&gt; beträgt {LOCAL:Value}</Value>
+    </Record>
+    <Record>
+      <Key>WorldInfoPressureRange</Key>
+      <Value>&lt;color=yellow&gt;Druckbereich&lt;/color&gt; von {LOCAL:LowValue} bis {LOCAL:HighValue}</Value>
+    </Record>
+    <Record>
+      <Key>WorldInfoPressure</Key>
+      <Value>&lt;color=yellow&gt;Druck&lt;/color&gt; beträgt {LOCAL:Value}</Value>
+    </Record>
+    <Record>
+      <Key>WorldInfoPlanetWeather</Key>
+      <Value>Wird {LOCAL:Weather}ereignisse erleben/erfahren/überstehen</Value>
+    </Record>
+    <Record>
+      <Key>ThingDamageIsAt</Key>
+      <Value>{LOCAL:DamageType} ist bei {LOCAL:Percent}</Value>
+    </Record>
+    <Record>
+      <Key>DirtCanisterDirtIsAt</Key>
+      <Value>Enthält momentan {LOCAL:Quantity} Dreck</Value>
+    </Record>
+    <Record>
+      <Key>IsCurrentlyMelting</Key>
+      <Value>&lt;color=yellow&gt;Schmelzt&lt;/color&gt; derzeit</Value>
+    </Record>
+    <Record>
+      <Key>ContainsItemInSlotAtQuantity</Key>
+      <Value>Enthält {LOCAL:Item} in Slot {LOCAL:Slot} in {LOCAL:QuantityState}facher Menge</Value>
+    </Record>
+    <Record>
+      <Key>ConnectionGeneric</Key>
+      <Value>Verbindung / Verknüpfung</Value>
+    </Record>
+    <Record>
+      <Key>CanConnectTo</Key>
+      <Value>Bietet / Ermöglicht {LOCAL:NetworkType}verbindung</Value>
+    </Record>
+    <Record>
+      <Key>ConnectionForThing</Key>
+      <Value>Anschluss für {LOCAL:ParentThing}</Value>
+    </Record>
+    <Record>
+      <Key>ConnectionToThing</Key>
+      <Value>Verbindung mit {LOCAL:ConnectedThing}</Value>
+    </Record>
+    <Record>
+      <Key>ThingIsHeating</Key>
+      <Value>Das {LOCAL:Thing} &lt;color=green&gt;erwärmt&lt;/color&gt; die Atmosphäre auf {LOCAL:Temperature}</Value>
+    </Record>
+    <Record>
+      <Key>ScrubberVentOpen</Key>
+      <Value>&lt;color=yellow&gt;Entlüftung&lt;/color&gt; ist &lt;color=green&gt;offen&lt;/color&gt;, Atmosphäre wird abgelassen</Value>
+    </Record>
+    <Record>
+      <Key>ScrubberNoFilters</Key>
+      <Value>Kein &lt;color=yellow&gt;Filter&lt;/color&gt; eingesetzt/geladen, lasse Atmosphäre durch</Value>
+    </Record>
+    <Record>
+      <Key>ScrubberConnectToPipe</Key>
+      <Value>Zur Druckentlastung an Rohrnetzwerk anschließen</Value>
+    </Record>
+    <Record>
+      <Key>CanBeUnfastenedWithWrench</Key>
+      <Value>Ein &lt;color=green&gt;Schraubenschlüssel&lt;/color&gt; kann zum Lösen/Lockern verwendet werden</Value>
+    </Record>
+    <Record>
+      <Key>ThingCanBeDestroyedByWeather</Key>
+      <Value>Das {LOCAL:Thing} wird bei {LOCAL:WeatherEvent}ereignissen beschädigt/in Mitleiden schafft gezogen</Value>
+    </Record>
+    <Record>
+      <Key>HeatingEnergyAmount</Key>
+      <Value>Das {LOCAL:Thing} &lt;color=green&gt;erwärmt&lt;/color&gt; sich auf {LOCAL:Temperature}</Value>
+    </Record>
+    <Record>
+      <Key>CoolingEnergyAmount</Key>
+      <Value>Das {LOCAL:Thing} &lt;color=green&gt;kühlt&lt;/color&gt; sich auf {LOCAL:Temperature}</Value>
+    </Record>
+    <Record>
+      <Key>DifficultyCannotEatThroughHelmet</Key>
+      <Value>&lt;color=yellow&gt;Nahrungsaufnahme&lt;/color&gt; durch den &lt;color=white&gt;Helm&lt;/color&gt; ist &lt;color=red&gt;unmöglich/deaktiviert&lt;/color&gt;</Value>
+    </Record>
+    <Record>
+      <Key>DifficultyCannotDrinkThroughHelmet</Key>
+      <Value>&lt;color=yellow&gt;Trinken&lt;/color&gt; durch den &lt;color=white&gt;Helm&lt;/color&gt; ist &lt;color=red&gt;unmöglich/deaktiviert&lt;/color&gt;</Value>
+    </Record>
+    <Record>
+      <Key>DifficultyCannotEatOrDrinkThroughHelmet</Key>
+      <Value>&lt;color=yellow&gt;Nahrungsaufnahme&lt;/color&gt; und &lt;color=yellow&gt;Trinken&lt;/color&gt; durch den &lt;color=white&gt;Helm&lt;/color&gt; ist &lt;color=red&gt;unmöglich/deaktiviert&lt;/color&gt;</Value>
+    </Record>
+    <Record>
+      <Key>DifficultyValueRate</Key>
+      <Value>{LOCAL:Type} Wertrate {LOCAL:Value}</Value>
+    </Record>
+    <Record>
+      <Key>DifficultyValueYield</Key>
+      <Value>{LOCAL:Type} ergibt {LOCAL:Value}</Value>
+    </Record>
+    <Record>
+      <Key>DifficultyValueStatus</Key>
+      <Value>{LOCAL:Type} Wertstatus {LOCAL:Status}</Value>
+    </Record>
+    <Record>
+      <Key>DifficultyThingStatus</Key>
+      <Value>{LOCAL:Type} zu {LOCAL:Thing} ist {LOCAL:Status}</Value>
+    </Record>
+    <Record>
+      <Key>DifficultyThingValueRate</Key>
+      <Value>{LOCAL:Type} zu {LOCAL:Thing} rate {LOCAL:Value}</Value>
+    </Record>
+    <Record>
+      <Key>PassedMolesDescription</Key>
+      <Value>Die Anzahl der Mole, die dieses Gerät beim letzten Simulations-Tick durchlaufen haben</Value>
+    </Record>
+    <Record>
+      <Key>ExhaustVelocityDescription</Key>
+      <Value>Die Geschwindigkeit des Abgases in m/s</Value>
+    </Record>
+    <Record>
+      <Key>FlightControlRuleDescription</Key>
+      <Value>Flugsteuerungsregel der Rakete. Keine = 0, kein Autopilot. Normal = 1, Ziel: Anständiger Apex von 60m. Alternative = 2, Geschwindigkeit zu hoch - Vollgas. Alternative 2= 3, Angemessene Geschwindigkeit anpeilen, da die Geschwindigkeit zu niedrig ist. Endgültige Annäherung = 4, kontrollierter Sinkflug zur Startrampe.</Value>
+    </Record>
+    <Record>
+      <Key>ReEntryAltitudeDescription</Key>
+      <Value>Die Höhe, in der die Rakete ihren Abstieg zur Startrampe beginnt. Muss zwischen 25 km und 120 km liegen.</Value>
+    </Record>
+    <Record>
+      <Key>OperationalTemperatureEfficiency</Key>
+      <Value>Betriebstemperatureffizienz {LOCAL:Value}</Value>
+    </Record>
+    <Record>
+      <Key>TemperatureDifferentialEfficiency</Key>
+      <Value>Temperaturdifferenz-Effizienz {LOCAL:Value}</Value>
+    </Record>
+    <Record>
+      <Key>PressureEfficiency</Key>
+      <Value>Druckeffizienz {LOCAL:Value}</Value>
+    </Record>
+    <Record>
+      <Key>ConversionEfficiency</Key>
+      <Value>Umwandlungseffizienz {LOCAL:Value}</Value>
+    </Record>
+    <Record>
+      <Key>LogicDescriptionSemiMajorAxis</Key>
+      <Value>Der längste Radius einer Ellipsenbahn in astronomischen Einheiten, der die Hälfte der Hauptachse misst. Bestimmt die Größe des Orbits.</Value>
+    </Record>
+    <Record>
+      <Key>LogicDescriptionEccentricity</Key>
+      <Value>Ein Maß dafür, wie elliptisch (oval) ein Orbit ist. Der Bereich reicht von 0 (ein perfekter Kreis) bis 1 (eine Parabelbahn).</Value>
+    </Record>
+    <Record>
+      <Key>LogicDescriptionInclination</Key>
+      <Value>Die Neigung der Ebene einer Umlaufbahn relativ zur Äquatorebene, gemessen in Grad. Definiert den Winkel der Umlaufbahnebene.</Value>
+    </Record>
+    <Record>
+      <Key>LogicDescriptionPeriod</Key>
+      <Value>Die Zeit, die ein Objekt benötigt, um ein anderes Objekt einmal vollständig zu umrunden, gemessen in Tagen. Gibt die Dauer des Umlaufzyklus an.</Value>
+    </Record>
+    <Record>
+      <Key>LogicDescriptionDistanceAu</Key>
+      <Value>Die aktuelle Entfernung zum Himmelsobjekt, gemessen in astronomischen Einheiten.</Value>
+    </Record>
+    <Record>
+      <Key>LogicDescriptionDistanceKm</Key>
+      <Value>Die aktuelle Entfernung zum Himmelsobjekt, gemessen in Kilometern.</Value>
+    </Record>
+    <Record>
+      <Key>LogicDescriptionAlignmentError</Key>
+      <Value>Die Winkelabweichung zwischen der aktuellen Ausrichtung des Teleskops und dem Ziel. Gibt an, wie weit das Teleskop vom Ziel abweicht. Gibt NaN zurück, wenn kein Ziel vorhanden ist.</Value>
+    </Record>
+    <Record>
+      <Key>LogicDescriptionCelestialParentHash</Key>
+      <Value>Der Hash für den Namen des übergeordneten Himmelskörpers, den der Himmelskörper umkreist. 0, wenn es keinen übergeordneten Himmelskörper gibt.</Value>
+    </Record>
+    <Record>
+      <Key>LogicDescriptionTrueAnomaly</Key>
+      <Value>Ein Winkelparameter, der die Position eines Körpers definiert, der sich entlang einer Keplerbahn bewegt. Es handelt sich um den Winkel zwischen der Periapsisrichtung und der aktuellen Position des Körpers, gesehen vom Hauptbrennpunkt der Ellipse (dem Punkt, um den das Objekt kreist).</Value>
+    </Record>
+    <Record>
+      <Key>LogicDescriptionDiscover</Key>
+      <Value>Fortschrittsstatus des Discovery-Scans am Zielort der Rakete auf der Weltraumkarte. Gibt einen geklammerten normalisierten Wert zurück. Wenn der Discovery-Scan nicht verfügbar ist, wird -1 zurückgegeben.</Value>
+    </Record>
+    <Record>
+      <Key>LogicDescriptionChart</Key>
+      <Value>Fortschrittsstatus des Chart-Scans am Zielort der Rakete auf der Weltraumkarte. Gibt einen geklammerten normalisierten Wert zurück. Wenn kein Chart-Scan verfügbar ist, wird -1 zurückgegeben.</Value>
+    </Record>
+    <Record>
+      <Key>LogicDescriptionSurvey</Key>
+      <Value>Fortschrittsstatus des Vermessungsscans am Zielort der Rakete auf der Weltraumkarte. Gibt einen normalisierten Wert zurück, bei dem 100 % Vermessung gleich 1 sind. Wenn kein Vermessungsscan verfügbar ist, wird -1 zurückgegeben.</Value>
+    </Record>
+    <Record>
+      <Key>LogicDescriptionNavPoints</Key>
+      <Value>Die Anzahl der NavPoints am Zielort der Rakete auf der Weltraumkarte.</Value>
+    </Record>
+    <Record>
+      <Key>LogicDescriptionChartedNavPoints</Key>
+      <Value>Die Anzahl der kartierten Navigationspunkte am Zielort der Rakete auf der Weltraumkarte.</Value>
+    </Record>
+    <Record>
+      <Key>LogicDescriptionSites</Key>
+      <Value>Die Anzahl der Standorte, die am Zielort der Raketen auf der Weltraumkarte entdeckt wurden.</Value>
+    </Record>
+    <Record>
+      <Key>LogicDescriptionCurrentCode</Key>
+      <Value>Die Weltraumkartenadresse des aktuellen Weltraumkartenstandorts der Rakete</Value>
+    </Record>
+    <Record>
+      <Key>LogicDescriptionDestinationCode</Key>
+      <Value>Die Weltraumkartenadresse des Raketenziels auf der Weltraumkarte</Value>
+    </Record>
+    <Record>
+      <Key>LogicDescriptionSize</Key>
+      <Value>Die Größe des abbauwürdigen Vorkommens am Zielort der Rakete.</Value>
+    </Record>
+    <Record>
+      <Key>LogicDescriptionRichness</Key>
+      <Value>Der Reichtum der abbauwürdigen Lagerstätten am Zielort der Rakete.</Value>
+    </Record>
+    <Record>
+      <Key>LogicDescriptionDensity</Key>
+      <Value>Die Dichte des abbauwürdigen Vorkommens am Zielort der Rakete.</Value>
+    </Record>
+    <Record>
+      <Key>LogicDescriptionTotalQuantity</Key>
+      <Value>Die geschätzte Gesamtmenge der Ressourcen, die am Zielort der Rakete abgebaut werden können.</Value>
+    </Record>
+    <Record>
+      <Key>LogicDescriptionMinedQuantity</Key>
+      <Value>Die Gesamtzahl der Ressourcen, die am Zielort der Weltraumkarte der Rakete abgebaut wurden.</Value>
+    </Record>
+    <Record>
+      <Key>LogicDescriptionBestContactFilter</Key>
+      <Value>Filtert die automatische Zielauswahl des Satelliten auf eine einzelne Referenz-ID.</Value>
+    </Record>
+    <Record>
+      <Key>LogicDescriptionCelestialHash</Key>
+      <Value>Der aktuelle Hash des anvisierten Himmelsobjekts.</Value>
+    </Record>
+    <Record>
+      <Key>LogicDescriptionEntityState</Key>
+      <Value>Der aktuelle Zustand der Entität, wie ob sie tot, bewusstlos oder lebendig ist, ausgedrückt als Ganzzahl.</Value>
+    </Record>
+    <Record>
+      <Key>LogicDescriptionApex</Key>
+      <Value>Die niedrigste Höhe, die die Rakete erreicht, bevor sie wieder nach oben fliegt.</Value>
+    </Record>
+    <Record>
+      <Key>LogicDescriptionIndex</Key>
+      <Value>Der aktuelle Index des Geräts.</Value>
+    </Record>
+    <Record>
+      <Key>LogicDescriptionDrillCondition</Key>
+      <Value>Der aktuelle Zustand des Bohrkopfes in diesem Bohrplatz. Ausdrückt als Verhältnis zwischen 0 und 1.</Value>
+    </Record>
+    <Record>
+      <Key>LogicDescriptionVelocityX</Key>
+      <Value>Die Weltgeschwindigkeit der Entität in der X-Achse</Value>
+    </Record>
+    <Record>
+      <Key>LogicDescriptionVelocityY</Key>
+      <Value>Die Weltgeschwindigkeit der Entität in der Y-Achse</Value>
+    </Record>
+    <Record>
+      <Key>LogicDescriptionVelocityZ</Key>
+      <Value>Die Weltgeschwindigkeit der Entität in der Z-Achse</Value>
+    </Record>
+    <Record>
+      <Key>LogicDescriptionOrientation</Key>
+      <Value>Die Orientierung der Entität in Grad in einer Ebene relativ zum Ursprung des Nordens</Value>
+    </Record>
+    <Record>
+      <Key>LogicDescriptionForward</Key>
+      <Value>Die Richtung, in die die Entität schaut, ausgedrückt als normalisierter Vektor</Value>
+    </Record>
+    <Record>
+      <Key>LogicDescriptionReferenceId</Key>
+      <Value>Eindeutige Referenz-Kennung für dieses Objekt</Value>
+    </Record>
+    <Record>
+      <Key>ScriptDescriptionGet</Key>
+      <Value>Versucht, mit dem angegebenen Gerät den Stack-Wert an der angegebenen Adresse zu lesen und legt ihn im Register ab.</Value>
+    </Record>
+    <Record>
+      <Key>ScriptDescriptionClr</Key>
+      <Value>Löscht den Stapelspeicher für das angegebene Gerät.</Value>
+    </Record>
+    <Record>
+      <Key>ScriptDescriptionClrD</Key>
+      <Value>Sucht direkt nach der angegebenen Geräte-ID und löscht den Stapelspeicher dieses Geräts</Value>
+    </Record>
+    <Record>
+      <Key>ScriptDescriptionPut</Key>
+      <Value>Versucht, mit dem angegebenen Gerät den angegebenen Wert an der angegebenen Adresse in den Stack zu schreiben.</Value>
+    </Record>
+    <Record>
+      <Key>ScriptDescriptionGetD</Key>
+      <Value>Sucht direkt nach der angegebenen Geräte-ID, versucht, den Stack-Wert an der angegebenen Adresse zu lesen, und legt ihn in das Register ab.</Value>
+    </Record>
+    <Record>
+      <Key>ScriptDescriptionPutD</Key>
+      <Value>Sucht direkt nach der angegebenen Geräte-ID und versucht, den angegebenen Wert in den Stack an der angegebenen Adresse zu schreiben.</Value>
+    </Record>
+    <Record>
+      <Key>ScriptDescriptionPoke</Key>
+      <Value>Speichert den angegebenen Wert an der angegebenen Adresse im Stack.</Value>
+    </Record>
+    <Record>
+      <Key>ScriptDescriptionRMap</Key>
+      <Value>Bei einem Reagenzien-Hash wird der entsprechende Prefab-Hash gespeichert, den das Gerät zur Erfüllung der Reagenzienanforderung erwartet. Bei einer Autodrehbank beispielsweise wird der Hash für Eisen den Hash für ItemIronIngot speichern.</Value>
+    </Record>
+    <Record>
+      <Key>FurnaceMeltThing</Key>
+      <Value>{LOCAL:Thing} kann durch Drücken von &lt;color=yellow&gt;aktivieren&lt;/color&gt; geschmolzen werden</Value>
+    </Record>
+    <Record>
+      <Key>ThingOverTemperature</Key>
+      <Value>Das {LOCAL:Thing} ist &lt;color=red&gt;Überhitzt&lt;/color&gt;!</Value>
+    </Record>
+    <Record>
+      <Key>HeatingFromInternal</Key>
+      <Value>Das {LOCAL:Thing} wird von {LOCAL:Source} mit {LOCAL:Energy} &lt;color=white&gt;geheizt&lt;/color&gt;</Value>
+    </Record>
+    <Record>
+      <Key>HeatingFromElement</Key>
+      <Value>Das {LOCAL:Thing} wird von &lt;color=yellow&gt;Element&lt;/color&gt; mit {LOCAL:Energy} &lt;color=white&gt;geheizt&lt;/color&gt;</Value>
+    </Record>
+    <Record>
+      <Key>CoolantFrozen</Key>
+      <Value>{LOCAL:Thing} ist &lt;color=blue&gt;gefroren&lt;/color&gt;</Value>
+    </Record>
+    <Record>
+      <Key>WorldEnvironmentTooHot</Key>
+      <Value>Die Betriebsumgebung ist &lt;color=orange&gt;zu heiß&lt;/color&gt;</Value>
+    </Record>
+    <Record>
+      <Key>WorldEnvironmentTooCold</Key>
+      <Value>Die Betriebsumgebung ist &lt;color=blue&gt;zu kalt&lt;/color&gt;</Value>
+    </Record>
+    <Record>
+      <Key>CoolingFromInternal</Key>
+      <Value>{LOCAL:Thing} ist am &lt;color=white&gt;Abkühlen&lt;/color&gt; von {LOCAL:Source} bei {LOCAL:Energy}</Value>
+    </Record>
+    <Record>
+      <Key>DeviceWorldGridBlocked</Key>
+      <Value>Die &lt;color=white&gt;Ausgabe&lt;/color&gt; von {LOCAL:Thing} ist &lt;color=red&gt;blockiert&lt;/color&gt;</Value>
+    </Record>
+    <Record>
+      <Key>TemperatureTooHotForThing</Key>
+      <Value>Die Temperatur ist zu heiß für {LOCAL:Thing}</Value>
+    </Record>
+    <Record>
+      <Key>TemperatureTooColdForThing</Key>
+      <Value>Die Temperatur ist zu kalt für {LOCAL:Thing}</Value>
+    </Record>
+    <Record>
+      <Key>ItemInSlot</Key>
+      <Value>Stapel &lt;color=yellow&gt;{LOCAL:StackSize}&lt;/color&gt; x {LOCAL:Thing}</Value>
+    </Record>
+    <Record>
+      <Key>PlacementRequiresFrame</Key>
+      <Value>Die Platzierung erfordert einen &lt;color=green&gt;Rahmen&lt;/color&gt; darunter zur Unterstützung</Value>
+    </Record>
+    <Record>
+      <Key>PlacementRequiresFrameOrTower</Key>
+      <Value>Die Platzierung erfordert einen &lt;color=green&gt;Frame&lt;/color&gt; oder &lt;color=green&gt;Startturm&lt;/color&gt; unten zur Unterstützung</Value>
+    </Record>
+    <Record>
+      <Key>PlacementMustBeOnTerrain</Key>
+      <Value>Platzierung benötigt &lt;color=yellow&gt;Gelände&lt;/color&gt;</Value>
+    </Record>
+    <Record>
+      <Key>PlacementRequiresFrameOrGround</Key>
+      <Value>Die Platzierung erfordert einen &lt;color=green&gt;Rahmen&lt;/color&gt; oder festen Boden darunter zur Unterstützung</Value>
+    </Record>
+    <Record>
+      <Key>InvalidAttachmentsDeconstruct</Key>
+      <Value>Kann nicht dekonstruiert werden, solange {LOCAL:Device} damit verbunden ist</Value>
+    </Record>
+    <Record>
+      <Key>PlacementIsNotUmbilicalConnector</Key>
+      <Value>Nur eine weitere &lt;color=yellow&gt;Versorgung&lt;/color&gt; kann sich mit dieser Seite von {LOCAL:Device} verbinden</Value>
+    </Record>
+    <Record>
+      <Key>CannotDeconstructLaunchMount</Key>
+      <Value>Kann {LOCAL:Mount} nicht dekonstruieren, da {LOCAL:Rocket} damit interagiert</Value>
+    </Record>
+    <Record>
+      <Key>LoadingScreenDeserializingSpaceMap</Key>
+      <Value>Raumkarte deserialisieren</Value>
+    </Record>
+    <Record>
+      <Key>LoadingScreenDeserializingRockets</Key>
+      <Value>Deserialisierung von Raketen</Value>
+    </Record>
+    <Record>
+      <Key>LoadingScreenDeserializingRocketLog</Key>
+      <Value>Raketenprotokoll deserialisieren</Value>
+    </Record>
+    <Record>
+      <Key>LoadingScreenDeserializeRocketLog</Key>
+      <Value>Raketenprotokoll deserialisieren</Value>
+    </Record>
+    <Record>
+      <Key>CantPaintSameColour</Key>
+      <Value>{LOCAL:Thing} ist bereits gemalt in {LOCAL:Color}</Value>
+    </Record>
+    <Record>
+      <Key>AtmosphereVolume</Key>
+      <Value>Kapazität</Value>
+    </Record>
+    <Record>
+      <Key>LiquidsVolume</Key>
+      <Value>Flüssigkeitsvolumen</Value>
+    </Record>
+    <Record>
+      <Key>StirlingTemperatureHot</Key>
+      <Value>Temperatur Heiße Seite</Value>
+    </Record>
+    <Record>
+      <Key>GeneratingPower</Key>
+      <Value>Stromerzeugung</Value>
+    </Record>
+    <Record>
+      <Key>StirlingTemperatureCold</Key>
+      <Value>Temperatur kalte Seite</Value>
+    </Record>
+    <Record>
+      <Key>StirlingOperatingEfficiency</Key>
+      <Value>Betriebseffizienz der Umgebung</Value>
+    </Record>
+    <Record>
+      <Key>StirlingPressureDifferential</Key>
+      <Value>Druckdifferenzial</Value>
+    </Record>
+    <Record>
+      <Key>StirlingGasEfficiency</Key>
+      <Value>Arbeitsgaseffizienz</Value>
+    </Record>
+    <Record>
+      <Key>StirlingHelperText</Key>
+      <Value>Verbindung von Eingangs- und Ausgangsrohrnetz und Versorgung des Eingangsnetzes mit heißem Hochdruckgas</Value>
+    </Record>
+    <Record>
+      <Key>StirlingMissingCanister</Key>
+      <Value>&lt;color=red&gt;Es fehlt ein &lt;color=green&gt;Gaskanister&lt;/color&gt; für das Arbeitsgas&lt;/color&gt;</Value>
+    </Record>
+    <Record>
+      <Key>SlotContainsItem</Key>
+      <Value>{LOCAL:Slot} enthält {LOCAL:Item}</Value>
+    </Record>
+    <Record>
+      <Key>ThingIsFastenedIn</Key>
+      <Value>Befestigt in {LOCAL:Slot} auf {LOCAL:Parent}</Value>
+    </Record>
+    <Record>
+      <Key>ThingIsState</Key>
+      <Value>{LOCAL:Thing} ist {LOCAL:State}</Value>
+    </Record>
+    <Record>
+      <Key>LaunchTowerAlreadyExists</Key>
+      <Value>Ein &lt;color=green&gt;Startturm&lt;/color&gt; existiert bereits in diesem Raster</Value>
+    </Record>
+    <Record>
+      <Key>ProcessingThing</Key>
+      <Value>Verarbeitung {LOCAL:Thing}</Value>
+    </Record>
+    <Record>
+      <Key>ProduceQuantityOfResource</Key>
+      <Value>Wird {LOCAL:Quantity} x {LOCAL:Resource} von {LOCAL:Thing} produzieren</Value>
+    </Record>
+    <Record>
+      <Key>ProduceResource</Key>
+      <Value>Wird {LOCAL:Size} an {LOCAL:Resource} produzieren</Value>
+    </Record>
+    <Record>
+      <Key>ProduceAnotherResource</Key>
+      <Value>Und {LOCAL:Size} von {LOCAL:Resource}</Value>
+    </Record>
+    <Record>
+      <Key>TooltipDeviceUnpowered</Key>
+      <Value>stromlos</Value>
+    </Record>
+    <Record>
+      <Key>DeviceError</Key>
+      <Value>Keine Interaktion möglich, da sich das Gerät im Fehlerzustand befindet</Value>
+    </Record>
+    <Record>
+      <Key>ArmExplosive</Key>
+      <Value>Scharfstellen</Value>
+    </Record>
+    <Record>
+      <Key>DisarmExplosive</Key>
+      <Value>Entschärfen</Value>
+    </Record>
+    <Record>
+      <Key>AnimalHungry</Key>
+      <Value>Hungrig</Value>
+    </Record>
+    <Record>
+      <Key>AnimalVeryHungry</Key>
+      <Value>Sehr hungrig</Value>
+    </Record>
+    <Record>
+      <Key>AnimalOld</Key>
+      <Value>Alt werden</Value>
+    </Record>
+    <Record>
+      <Key>AnimalVeryOld</Key>
+      <Value>Sehr alt werden</Value>
+    </Record>
+    <Record>
+      <Key>UnviableEgg</Key>
+      <Value>Unfruchtbar</Value>
+    </Record>
+    <Record>
+      <Key>ViableEgg</Key>
+      <Value>Lebensfähig</Value>
+    </Record>
+    <Record>
+      <Key>TransactionErrorNonTradable</Key>
+      <Value>Nicht handelbarer Gegenstand im Inventar:</Value>
+    </Record>
+    <Record>
+      <Key>TransactionFailInventory</Key>
+      <Value>Transaktion kann nicht abgeschlossen werden. Schließen Sie einen &lt;color=green&gt;Verkaufsautomaten&lt;/color&gt; an oder haben Sie eine freie &lt;color=yellow&gt;linke Hand&lt;/color&gt; oder &lt;color=yellow&gt;rechte Hand&lt;/color&gt;.</Value>
+    </Record>
+    <Record>
+      <Key>TransactionIncompleteTransaction</Key>
+      <Value>Unvollständige Transaktion, da nicht genügend Platz vorhanden war. Sie wurden nur für das belastet, was an Lagerplatz vorhanden war. Schließen Sie einen &lt;color=green&gt;Verkaufsautomaten&lt;/color&gt; an oder haben Sie eine freie &lt;color=yellow&gt;linke Hand&lt;/color&gt; oder &lt;color=yellow&gt;rechte Hand&lt;/color&gt;.</Value>
+    </Record>
+    <Record>
+      <Key>TransactionFailItem</Key>
+      <Value>Transaktion kann nicht abgeschlossen werden. Der gehandelte Gegenstand ist ungültig.</Value>
+    </Record>
+    <Record>
+      <Key>TradeGasQuantityComparison</Key>
+      <Value>Enthält {LOCAL:ComparisonOperator} {LOCAL:ValueToCompare}</Value>
+    </Record>
+    <Record>
+      <Key>TradeOperatorAny</Key>
+      <Value>Jeder der folgenden Punkte</Value>
+    </Record>
+    <Record>
+      <Key>TradeOperatorNone</Key>
+      <Value>Keiner der folgenden Punkte</Value>
+    </Record>
+    <Record>
+      <Key>TradeOperatorAll</Key>
+      <Value>Alle der folgenden Punkte</Value>
+    </Record>
+    <Record>
+      <Key>TradeItemStackChild</Key>
+      <Value>Enthält {LOCAL:Quantity} x {LOCAL:Item}</Value>
+    </Record>
+    <Record>
+      <Key>TradeItemNutrition</Key>
+      <Value>Bietet {LOCAL:Value} Ernährung</Value>
+    </Record>
+    <Record>
+      <Key>TradeItemQuantity</Key>
+      <Value>Menge ist {LOCAL:ItemAsUnit}</Value>
+    </Record>
+    <Record>
+      <Key>TradeItemParent</Key>
+      <Value>{LOCAL:Item} mit folgendem Inhalt</Value>
+    </Record>
+    <Record>
+      <Key>TradeItemContains</Key>
+      <Value>{LOCAL:OrePrefab} enthält folgendes</Value>
+    </Record>
+    <Record>
+      <Key>TradeRatio</Key>
+      <Value>{LOCAL:GasType} Verhältnis muss {LOCAL:ComparisonOperator} {LOCAL:Value} sein</Value>
+    </Record>
+    <Record>
+      <Key>TradeQuantity</Key>
+      <Value>Menge {LOCAL:ComparisonOperator} {LOCAL:Value}</Value>
+    </Record>
+    <Record>
+      <Key>TradeDecay</Key>
+      <Value>Zerfall {LOCAL:ComparisonOperator} {LOCAL:Value}</Value>
+    </Record>
+    <Record>
+      <Key>TradeEnergyRatio</Key>
+      <Value>Energieverbrauch {LOCAL:ComparisonOperator} {LOCAL:Value}</Value>
+    </Record>
+    <Record>
+      <Key>TradeEnergyState</Key>
+      <Value>Energiezustand {LOCAL:ComparisonOperator} {LOCAL:Value}</Value>
+    </Record>
+    <Record>
+      <Key>DifficultyState</Key>
+      <Value>Schwierigkeit {LOCAL:ComparisonOperator} {LOCAL:Value}</Value>
+    </Record>
+    <Record>
+      <Key>SpeciesState</Key>
+      <Value>Spieler-Spezies {LOCAL:Value}</Value>
+    </Record>
+    <Record>
+      <Key>TradeChildItem</Key>
+      <Value>Enthält {LOCAL:Item}</Value>
+    </Record>
+    <Record>
+      <Key>TradeChildItemInSlot</Key>
+      <Value>Enthält {LOCAL:Item} im {LOCAL:Slot} Slot</Value>
+    </Record>
+    <Record>
+      <Key>TradeTemperatureBetween</Key>
+      <Value>Temperatur zwischen {LOCAL:MinTemp} und {LOCAL:MaxTemp}</Value>
+    </Record>
+    <Record>
+      <Key>Unpack</Key>
+      <Value>Auspacken</Value>
+    </Record>
+    <Record>
+      <Key>FlowRate</Key>
+      <Value>Durchflussrate</Value>
+    </Record>
+    <Record>
+      <Key>ExhaustVelocity</Key>
+      <Value>Auslassgeschwindigkeit</Value>
+    </Record>
+    <Record>
+      <Key>ExhaustTemperature</Key>
+      <Value>Abgastemperatur</Value>
+    </Record>
+    <Record>
+      <Key>PipeFail</Key>
+      <Value>&lt;color=green&gt;{LOCAL:DisplayName}&lt;/color&gt; wurde aufgrund von {Local:Reason} zerstört</Value>
+    </Record>
+    <Record>
+      <Key>OverPressure</Key>
+      <Value>Überdruck</Value>
+    </Record>
+    <Record>
+      <Key>Frozen</Key>
+      <Value>Flüssigkeiten oder Gase gefrieren</Value>
+    </Record>
+    <Record>
+      <Key>PresenceOfLiquid</Key>
+      <Value>Vorhandensein von Flüssigkeit</Value>
+    </Record>
+    <Record>
+      <Key>PlacementConnectingNeedsFuselage</Key>
+      <Value>Platzierungen, die mit einer &lt;color=green&gt;Rakete&lt;/color&gt; verbunden sind, müssen sich innerhalb eines &lt;color=green&gt;Rumpfes&lt;/color&gt; oder über einer &lt;color=green&gt;Versorgung&lt;/color&gt; befinden.</Value>
+    </Record>
+    <Record>
+      <Key>MachinePressureDifferential</Key>
+      <Value>Druckdifferenz {LOCAL:PressureDelta}</Value>
+    </Record>
+    <Record>
+      <Key>PassedMolesInput1</Key>
+      <Value>Eingang 1 Durchsatz &lt;color=green&gt;{LOCAL:PressureDelta} mol&lt;/color&gt;</Value>
+    </Record>
+    <Record>
+      <Key>PassedMolesInput2</Key>
+      <Value>Eingang 2 Durchsatz &lt;color=green&gt;{LOCAL:PressureDelta} mol&lt;/color&gt;</Value>
+    </Record>
+    <Record>
+      <Key>HeatExchangerEnergyTransfer</Key>
+      <Value>Wärmetauscherrate: {LOCAL:EnergyResult}</Value>
+    </Record>
+    <Record>
+      <Key>FlowRateStatus</Key>
+      <Value>Die Flussrate beträgt &lt;color={LOCAL:color}&gt;{LOCAL:flowRate}&lt;/color&gt;</Value>
+    </Record>
+    <Record>
+      <Key>IncreasePipeVolumePressure</Key>
+      <Value>Erhöhung der Kapazität oder des Drucks des Rohrnetzes erforderlich</Value>
+    </Record>
+    <Record>
+      <Key>PressureCloseToTarget</Key>
+      <Value>Druck nahe am externen Ziel</Value>
+    </Record>
+    <Record>
+      <Key>PressureCloseToInternalTarget</Key>
+      <Value>Druck nahe am internem Ziel</Value>
+    </Record>
+    <Record>
+      <Key>Rocket</Key>
+      <Value>Rakete {LOCAL:id}</Value>
+    </Record>
+    <Record>
+      <Key>InvalidFuselagePlacement</Key>
+      <Value>Rumpf muss auf einem anderen Rumpf gebaut werden</Value>
+    </Record>
+    <Record>
+      <Key>InvalidAdjacentFuselagePlacement</Key>
+      <Value>Raketen können nicht direkt nebeneinander platziert werden</Value>
+    </Record>
+    <Record>
+      <Key>InvalidFuselageDeconstruct</Key>
+      <Value>Der Rumpf kann nicht demontiert werden, da er &lt;color=green&gt;{LOCAL:Other}&lt;/color&gt; trägt.</Value>
+    </Record>
+    <Record>
+      <Key>Left</Key>
+      <Value>Links</Value>
+    </Record>
+    <Record>
+      <Key>Center</Key>
+      <Value>Mitte</Value>
+    </Record>
+    <Record>
+      <Key>Right</Key>
+      <Value>Rechts</Value>
+    </Record>
+    <Record>
+      <Key>UmbilicalError</Key>
+      <Value>Kann nicht geöffnet werden, wenn im Fehlerzustand</Value>
+    </Record>
+    <Record>
+      <Key>DestinationCode</Key>
+      <Value>Zielcode: {LOCAL:Code}</Value>
+    </Record>
+    <Record>
+      <Key>None</Key>
+      <Value>Nichts</Value>
+    </Record>
+    <Record>
+      <Key>TheGround</Key>
+      <Value>der Boden</Value>
+    </Record>
+    <Record>
+      <Key>Unknown</Key>
+      <Value>Unbekannt</Value>
+    </Record>
+    <Record>
+      <Key>GroundVelocity</Key>
+      <Value>Bodengeschwindigkeit</Value>
+    </Record>
+    <Record>
+      <Key>TransferVelocity</Key>
+      <Value>Transfergeschwindigkeit</Value>
+    </Record>
+    <Record>
+      <Key>Orbit</Key>
+      <Value>Orbit</Value>
+    </Record>
+    <Record>
+      <Key>SpaceName</Key>
+      <Value>Weltraum</Value>
+    </Record>
+    <Record>
+      <Key>TimeToImpact</Key>
+      <Value>&lt;color=red&gt;Einschlag&lt;/color&gt;:</Value>
+    </Record>
+    <Record>
+      <Key>TimeToArrest</Key>
+      <Value>Abstiegsstopp:</Value>
+    </Record>
+    <Record>
+      <Key>TimeToArrival</Key>
+      <Value>Voraussichtliche Ankunft:</Value>
+    </Record>
+    <Record>
+      <Key>RocketMapIconTooltip</Key>
+      <Value>Rakete: &lt;color=green&gt;{LOCAL:name}&lt;/color&gt;</Value>
+    </Record>
+    <Record>
+      <Key>MediumRocketSize</Key>
+      <Value>Mittel</Value>
+    </Record>
+    <Record>
+      <Key>LargeRocketSize</Key>
+      <Value>Groß</Value>
+    </Record>
+    <Record>
+      <Key>RocketAdjacentFail</Key>
+      <Value>Raketen können nicht direkt nebeneinander platziert werden</Value>
+    </Record>
+    <Record>
+      <Key>FuselageRequiresLaunchMount</Key>
+      <Value>Rumpf muss auf einem vollständig errichteten Startgestell gebaut werden</Value>
+    </Record>
+    <Record>
+      <Key>PlacementRequiresMultipleSupportPillars</Key>
+      <Value>Platzierung erfordert einen Stützrahmen unter jedem Pfeiler. &lt;color=yellow&gt;{0}&lt;/color&gt; von &lt;color=green&gt;{1}&lt;/color&gt; Stützen sind vorhanden.</Value>
+    </Record>
+    <Record>
+      <Key>MiningHeadSpeedMultiplierTooltip</Key>
+      <Value>Geschwindigkeitsmultiplikator: &lt;color=yellow&gt;{LOCAL:Multiplier}&lt;/color&gt;</Value>
+    </Record>
+    <Record>
+      <Key>MiningHeadReagentYieldMultiplierTooltip</Key>
+      <Value>Reagenzausbeutemultiplikator: &lt;color=yellow&gt;{LOCAL:Multiplier}&lt;/color&gt;</Value>
+    </Record>
+    <Record>
+      <Key>MiningHeadIceYieldMultiplierTooltip</Key>
+      <Value>Eisausbeutemultiplikator: &lt;color=yellow&gt;{LOCAL:Multiplier}&lt;/color&gt;</Value>
+    </Record>
+    <Record>
+      <Key>MiningHeadHealthMultiplierTooltip</Key>
+      <Value>Gesundheitsmultiplikator: &lt;color=yellow&gt;{LOCAL:Multiplier}&lt;/color&gt;</Value>
+    </Record>
+    <Record>
+      <Key>MiningHeadPowerConsuptionSpeedTooltip</Key>
+      <Value>Leistungsverbrauchsmultiplikator: &lt;color=yellow&gt;{LOCAL:Multiplier}&lt;/color&gt;</Value>
+    </Record>
+    <Record>
+      <Key>ChartFailure</Key>
+      <Value>Keine weiteren Nav-Points auf der Karte</Value>
+    </Record>
+    <Record>
+      <Key>MiningFailure</Key>
+      <Value>Keine abbaubare Lagerstätte vorhanden</Value>
+    </Record>
+    <Record>
+      <Key>NoRocketMiner</Key>
+      <Value>Diese Rakete hat kein Bergbaugerät</Value>
+    </Record>
+    <Record>
+      <Key>NoRocketScanner</Key>
+      <Value>Diese Rakete hat kein Scangerät</Value>
+    </Record>
+    <Record>
+      <Key>SurveyCompleted</Key>
+      <Value>Erkundung abgeschlossen bei {Local:DisplayName}</Value>
+    </Record>
+    <Record>
+      <Key>SiteCapacityReached</Key>
+      <Value>Standortkapazität erreicht bei {Local:DisplayName}</Value>
+    </Record>
+    <Record>
+      <Key>SelectRocketCurrentLocationTooltip</Key>
+      <Value>Aktuellen Standort der Rakete auswählen</Value>
+    </Record>
+    <Record>
+      <Key>DepositIsDepleted</Key>
+      <Value>Die Lagerstätte ist erschöpft. An diesem Standort können keine weiteren Ressourcen abgebaut werden.</Value>
+    </Record>
+    <Record>
+      <Key>EstimatedTotalResources</Key>
+      <Value>Geschätzte Gesamtressourcen</Value>
+    </Record>
+    <Record>
+      <Key>TotalMass</Key>
+      <Value>Gesamtmasse</Value>
+    </Record>
+    <Record>
+      <Key>FuelMass</Key>
+      <Value>Treibstoffmasse </Value>
+    </Record>
+    <Record>
+      <Key>FuselageMass</Key>
+      <Value>Masse des Rumpfes </Value>
+    </Record>
+    <Record>
+      <Key>EngineMass</Key>
+      <Value>Triebwerkmasse</Value>
+    </Record>
+    <Record>
+      <Key>PayloadMass</Key>
+      <Value>Nutzlastmasse</Value>
+    </Record>
+    <Record>
+      <Key>RocketDryMassTotal</Key>
+      <Value>Gesamttrockenmasse</Value>
+    </Record>
+    <Record>
+      <Key>DepositDensityToolTip</Key>
+      <Value>Die Dichte beeinflusst die Gesamtressourcen und die Abbau-Geschwindigkeit</Value>
+    </Record>
+    <Record>
+      <Key>MineOperationSpeedToolTip</Key>
+      <Value>Abbaugeschwindigkeit</Value>
+    </Record>
+    <Record>
+      <Key>RichnessOperationAmountToolTip</Key>
+      <Value>Reichtum steigt durch den Ertrag um {LOCAL:RichnessMultiplier} von {LOCAL:BaseLine} auf {LOCAL:RichnessQuantity}</Value>
+    </Record>
+    <Record>
+      <Key>CollectionQuantityToolTip</Key>
+      <Value>Grundausbeute </Value>
+    </Record>
+    <Record>
+      <Key>DensityReductionToolTip</Key>
+      <Value>Dichteverminderung </Value>
+    </Record>
+    <Record>
+      <Key>RichnessReductionToolTip</Key>
+      <Value>Reichhaltigkeitsabbau</Value>
+    </Record>
+    <Record>
+      <Key>DepositSizeToolTip</Key>
+      <Value>Die Größe erhöht den Grundwert und verringert die Abbaugeschwindigkeit von Dichte und Reichhaltigkeit</Value>
+    </Record>
+    <Record>
+      <Key>DepositRichnessToolTip</Key>
+      <Value>Reichhaltigkeit bietet einen kurzfristigen Schub für den Ertrag</Value>
+    </Record>
+    <Record>
+      <Key>NoDownlinkFound</Key>
+      <Value>Kein Downlink gefunden für Uplink {LOCAL:DisplayName}</Value>
+    </Record>
+    <Record>
+      <Key>NoAvionicsFound</Key>
+      <Value>Keine Avionik für Downlink {LOCAL:DisplayName} gefunden</Value>
+    </Record>
+    <Record>
+      <Key>NoRocketsConnected</Key>
+      <Value>Keine Raketen verbunden</Value>
+    </Record>
+    <Record>
+      <Key>RocketLandAborted</Key>
+      <Value>Raketenlandung abgebrochen. Der Auto-Land-Controller konnte keine sichere Landung berechnen.</Value>
+    </Record>
+    <Record>
+      <Key>RocketEnginePlacementRule</Key>
+      <Value>{LOCAL:Device} muss in einem &lt;color=yellow&gt;Triebwerksrumpf&lt;/color&gt; platziert werden</Value>
+    </Record>
+    <Record>
+      <Key>RocketCurrentLocation</Key>
+      <Value>Aktuelle Position</Value>
+    </Record>
+    <Record>
+      <Key>RocketTargetLocation</Key>
+      <Value>Zielstandort</Value>
+    </Record>
+    <Record>
+      <Key>RocketFuelTime</Key>
+      <Value>Brennzeit</Value>
+    </Record>
+    <Record>
+      <Key>RocketAcceleration</Key>
+      <Value>Beschleunigung</Value>
+    </Record>
+    <Record>
+      <Key>RocketGravity</Key>
+      <Value>Gravitation</Value>
+    </Record>
+    <Record>
+      <Key>RocketEngineAcceleration</Key>
+      <Value>Triebwerke</Value>
+    </Record>
+    <Record>
+      <Key>RocketTargetVelocity</Key>
+      <Value>Zielgeschwindigkeit</Value>
+    </Record>
+    <Record>
+      <Key>RocketAltitude</Key>
+      <Value>Altitude</Value>
+    </Record>
+    <Record>
+      <Key>RocketNextLocationETA</Key>
+      <Value>Nächster Standort ETA</Value>
+    </Record>
+    <Record>
+      <Key>RocketNextLocation</Key>
+      <Value>Nächster Standort</Value>
+    </Record>
+    <Record>
+      <Key>RocketMass</Key>
+      <Value>Masse</Value>
+    </Record>
+    <Record>
+      <Key>RocketDryMass</Key>
+      <Value>Trockenmasse</Value>
+    </Record>
+    <Record>
+      <Key>RocketThrust</Key>
+      <Value>Schub</Value>
+    </Record>
+    <Record>
+      <Key>RocketWeight</Key>
+      <Value>Gewicht</Value>
+    </Record>
+    <Record>
+      <Key>RocketThrustToWeight</Key>
+      <Value>Schub zu Gewicht</Value>
+    </Record>
+    <Record>
+      <Key>RocketOxidizer</Key>
+      <Value>Oxidationsmittel</Value>
+    </Record>
+    <Record>
+      <Key>RocketVolatiles</Key>
+      <Value>Wasserstoff</Value>
+    </Record>
+    <Record>
+      <Key>RocketBatteryPercentage</Key>
+      <Value>Batterie</Value>
+    </Record>
+    <Record>
+      <Key>CentrifugeSpinningError</Key>
+      <Value>Fehler! {LOCAL:Thing} muss gestoppt werden, bevor es exportieren kann</Value>
+    </Record>
+    <Record>
+      <Key>CentrifugeFull</Key>
+      <Value>Fehler! {LOCAL:Thing} ist voll. Leeren, um die Verarbeitung fortzusetzen</Value>
+    </Record>
+    <Record>
+      <Key>RocketMinerHasNoDrillHead</Key>
+      <Value>{LOCAL:Thing} hat keinen Bohrkopf</Value>
+    </Record>
+    <Record>
+      <Key>RocketMinerDrillHeadWornOut</Key>
+      <Value>{LOCAL:Thing} Bohrkopf ist abgenutzt</Value>
+    </Record>
+    <Record>
+      <Key>RocketScannerHasNoScanningHead</Key>
+      <Value>{LOCAL:Thing} hat keinen Scankopf</Value>
+    </Record>
+    <Record>
+      <Key>RocketScannerHeadWornOut</Key>
+      <Value>{LOCAL:Thing} Scankopf ist abgenutzt</Value>
+    </Record>
+    <Record>
+      <Key>DeviceOffOrUnpowered</Key>
+      <Value>{LOCAL:Thing} ist aus oder ohne Strom</Value>
+    </Record>
+    <Record>
+      <Key>ExportSlotBlocked</Key>
+      <Value>{LOCAL:Thing} Export-Slot ist blockiert</Value>
+    </Record>
+    <Record>
+      <Key>Charted</Key>
+      <Value>Kartiert</Value>
+    </Record>
+    <Record>
+      <Key>UnchartedLocation</Key>
+      <Value>???</Value>
+    </Record>
+    <Record>
+      <Key>UnknownDepositValue</Key>
+      <Value>???</Value>
+    </Record>
+    <Record>
+      <Key>AutoShutOffTooltip</Key>
+      <Value>Auto-Abschaltung</Value>
+    </Record>
+    <Record>
+      <Key>AutoLandDisabledTooltip</Key>
+      <Value>Automatischen Landen ist aus</Value>
+    </Record>
+    <Record>
+      <Key>AutoLandEnabledTooltip</Key>
+      <Value>Automatischen Landen ist an</Value>
+    </Record>
+    <Record>
+      <Key>SurveyDifficultyTooltip</Key>
+      <Value>Gesamtpunkte, die benötigt werden, um diesen Standort vollständig zu durchsuchen</Value>
+    </Record>
+    <Record>
+      <Key>DiscoverDifficultyTooltip</Key>
+      <Value>Gesamtpunkte, die erforderlich sind, um einen neuen Standort zu entdecken</Value>
+    </Record>
+    <Record>
+      <Key>ChartDifficultyTooltip</Key>
+      <Value>Gesamtpunkte, die benötigt werden, um diesen Standort vollständig zu kartieren</Value>
+    </Record>
+    <Record>
+      <Key>SitesDiscoveredTooltip</Key>
+      <Value>Standorte, die an diesem Standort entdeckt wurden</Value>
+    </Record>
+    <Record>
+      <Key>NavPointsChartedTooltip</Key>
+      <Value>Nav-Punkte in diesem Bereich kartiert</Value>
+    </Record>
+    <Record>
+      <Key>SurveyProgressTooltip</Key>
+      <Value>Gesamtzahl der an diesem Standort generierten Punkte</Value>
+    </Record>
+    <Record>
+      <Key>DiscoverProgressTooltip</Key>
+      <Value>Summe der an diesem Standort erzeugten Entdeckungspunkte</Value>
+    </Record>
+    <Record>
+      <Key>ChartProgressTooltip</Key>
+      <Value>Gesamtzahl der an diesem Ort erzeugten Kartenpunkte</Value>
+    </Record>
+    <Record>
+      <Key>RocketLogArrived</Key>
+      <Value>{LOCAL:DisplayName} ist bei {LOCAL:Destination} angekommen</Value>
+    </Record>
+    <Record>
+      <Key>RocketLogOutOfFuel</Key>
+      <Value>{LOCAL:DisplayName} hat keinen Treibstoff mehr</Value>
+    </Record>
+    <Record>
+      <Key>RocketCrashed</Key>
+      <Value>{LOCAL:DisplayName} ist in {LOCAL:CrashedInto} abgestürzt</Value>
+    </Record>
+    <Record>
+      <Key>RocketLogOutOfBattery</Key>
+      <Value>{LOCAL:DisplayName} hat seine Batterien erschöpft</Value>
+    </Record>
+    <Record>
+      <Key>RocketLogCharted</Key>
+      <Value>Ein neuer Navigationspunkt wurde festgelegt: {LOCAL:ChartedName}</Value>
+    </Record>
+    <Record>
+      <Key>RocketLogDeviceFull</Key>
+      <Value>{LOCAL:Thing} ist voll</Value>
+    </Record>
+    <Record>
+      <Key>LiquidFuelInput</Key>
+      <Value>Flüssiger Brennstoffeingang</Value>
+    </Record>
+    <Record>
+      <Key>HeatExchangerLiquidInput</Key>
+      <Value>Wärmetauscher Flüssigkeitseingang</Value>
+    </Record>
+    <Record>
+      <Key>Throttle</Key>
+      <Value>Drossel</Value>
+    </Record>
+    <Record>
+      <Key>ImportCountTooltip</Key>
+      <Value>Importanzahl</Value>
+    </Record>
+    <Record>
+      <Key>ExportCountTooltip</Key>
+      <Value>Exportanzahl</Value>
+    </Record>
+    <Record>
+      <Key>TooltipInternalQuantity</Key>
+      <Value>Interne Menge {LOCAL:Value}</Value>
+    </Record>
+    <Record>
+      <Key>TooltipOutputSetting</Key>
+      <Value>Ausgabe-Einstellung {LOCAL:Value}</Value>
+    </Record>
+    <Record>
+      <Key>ToolRequiredToOpen</Key>
+      <Value>&lt;color=green&gt;{Local:Tool}&lt;/color&gt; zum Öffnen erforderlich</Value>
+    </Record>
+    <Record>
+      <Key>ToolRequiredToClose</Key>
+      <Value>&lt;color=green&gt;{Local:Tool}&lt;/color&gt; erforderlich zum schließen</Value>
+    </Record>
+    <Record>
+      <Key>RocketTowerPlacementRule</Key>
+      <Value>{LOCAL:Thing} muss innerhalb eines Raketenturms gebaut werden</Value>
+    </Record>
+    <Record>
+      <Key>FailedToLoadGameData</Key>
+      <Value>Fehler beim Laden der Spieldaten unter {LOCAL:Path}</Value>
+    </Record>
+    <Record>
+      <Key>RocketFuselageHasInternals</Key>
+      <Value>Der Rumpf kann nicht dekonstruiert werden, da er interne Komponenten enthält</Value>
+    </Record>
+    <Record>
+      <Key>On</Key>
+      <Value>An</Value>
+    </Record>
+    <Record>
+      <Key>Off</Key>
+      <Value>Aus</Value>
+    </Record>
+    <Record>
+      <Key>RocketScanActionInfo</Key>
+      <Value>Scanner: {LOCAL:OnOff}, Scannerstärke: {LOCAL:Strength}, Zykluszeit: {LOCAL:CycleTime}</Value>
+    </Record>
+    <Record>
+      <Key>RocketMineActionInfo</Key>
+      <Value>Miner: {LOCAL:OnOff}, Bergbaukopf: {LOCAL:HeadQuality}, nächstes Ausmaß: {LOCAL:Yield} Erz</Value>
+    </Record>
+    <Record>
+      <Key>RocketScanNoHeadInfo</Key>
+      <Value>Der Scanner ist nicht einstellbar, da kein Scannerkopf angeschlossen ist.</Value>
+    </Record>
+    <Record>
+      <Key>RocketMineNoHeadInfo</Key>
+      <Value>Der Miner ist nicht funktionsfähig, da kein Bohrkopf angebracht ist.</Value>
+    </Record>
+    <Record>
+      <Key>RocketNoDataConnection</Key>
+      <Value>Keine Verbindung des Mainboards zu Avionik über Datenlink</Value>
+    </Record>
+    <Record>
+      <Key>RocketNoOperableAvionics</Key>
+      <Value>Keine funktionsfähige Avionik erkannt</Value>
+    </Record>
+    <Record>
+      <Key>RocketActionMining</Key>
+      <Value>Abbauen</Value>
+    </Record>
+    <Record>
+      <Key>RocketActionSurveying</Key>
+      <Value>Vermessung</Value>
+    </Record>
+    <Record>
+      <Key>RocketActionDiscovering</Key>
+      <Value>Erkunden</Value>
+    </Record>
+    <Record>
+      <Key>RocketActionCharting</Key>
+      <Value>Kartierung</Value>
+    </Record>
+    <Record>
+      <Key>RocketActionSurveyProgress</Key>
+      <Value>Fortschritt der Vermessung</Value>
+    </Record>
+    <Record>
+      <Key>RocketActionDiscoverProgress</Key>
+      <Value>Fortschritt der Erkundung</Value>
+    </Record>
+    <Record>
+      <Key>RocketActionChartProgress</Key>
+      <Value>Fortschritt der Kartierung</Value>
+    </Record>
+    <Record>
+      <Key>RocketActionMiningTotalOre</Key>
+      <Value>Geschätzte Erzmenge am Standort: {LOCAL:Total}</Value>
+    </Record>
+    <Record>
+      <Key>RocketActionMiningTotalOreMined</Key>
+      <Value>Gesamterz abgebaut am Standort: {LOCAL:Total}</Value>
+    </Record>
+    <Record>
+      <Key>VeryHighConfidence</Key>
+      <Value>Sehr hoch</Value>
+    </Record>
+    <Record>
+      <Key>HighConfidence</Key>
+      <Value>Hoch</Value>
+    </Record>
+    <Record>
+      <Key>ModerateConfidence</Key>
+      <Value>Moderat</Value>
+    </Record>
+    <Record>
+      <Key>LowConfidence</Key>
+      <Value>Niedrig</Value>
+    </Record>
+    <Record>
+      <Key>NoConfidence</Key>
+      <Value>Fehlgeschlagen</Value>
+    </Record>
+    <Record>
+      <Key>AutoLandNoConfidence</Key>
+      <Value>&lt;color=red&gt;Landung abgebrochen!&lt;/color&gt; Computer hat kein Vertrauen in den Erfolg der Landung!</Value>
+    </Record>
+    <Record>
+      <Key>LandingBeginAltitudeToolTip</Key>
+      <Value> wird mit Landemanövern bei {LOCAL:Altitude} beginnen</Value>
+    </Record>
+    <Record>
+      <Key>AutoLandThrustRequired</Key>
+      <Value>Zum erfolgreichen Landen ist ein Mindestschub von {LOCAL:Thrust} des Triebwerks erforderlich</Value>
+    </Record>
+    <Record>
+      <Key>NoDataLinkActive</Key>
+      <Value>Nicht mit einem Uplink verbunden</Value>
+    </Record>
+    <Record>
+      <Key>ConnectedRocketAvionics</Key>
+      <Value>Avionik: {LOCAL:Avionics}</Value>
+    </Record>
+    <Record>
+      <Key>ConnectedRocketUplinks</Key>
+      <Value>Uplinks: {LOCAL:Uplinks}</Value>
+    </Record>
+    <Record>
+      <Key>ConnectedRocketDownlink</Key>
+      <Value>Downlink: {LOCAL:Downlink}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDisabledTitle</Key>
+      <Value>Einführungen deaktiviert</Value>
+    </Record>
+    <Record>
+      <Key>TutorialDisabled</Key>
+      <Value>Tutorials wurden vorübergehend deaktiviert aufgrund der kürzlichen Überarbeitung der Kernspielsysteme. Wenn Sie die Anleitungen spielen möchten, wechseln Sie bitte zum Beta-Zweig: vorherige - vor Phasenwechsel</Value>
+    </Record>
+    <Record>
+      <Key>OkayConfirmation</Key>
+      <Value>OK</Value>
+    </Record>
+    <Record>
+      <Key>PlayerStatsMoodDeltaState</Key>
+      <Value>Stimmung ist {LOCAL:Delta}</Value>
+    </Record>
+    <Record>
+      <Key>PlayerStatsHygieneDeltaState</Key>
+      <Value>Hygiene ist {LOCAL:Delta}</Value>
+    </Record>
+    <Record>
+      <Key>PlayerStatsTooltipTitle</Key>
+      <Value>Spielerstatistiken</Value>
+    </Record>
+    <Record>
+      <Key>PlayerStatsIncreasing</Key>
+      <Value>steigend</Value>
+    </Record>
+    <Record>
+      <Key>PlayerStatsDecreasing</Key>
+      <Value>absteigend</Value>
+    </Record>
+    <Record>
+      <Key>PlayerStatsStable</Key>
+      <Value>nicht steigend</Value>
+    </Record>
+    <Record>
+      <Key>PlayerStatsLowHygiene</Key>
+      <Value>geringe Hygiene</Value>
+    </Record>
+    <Record>
+      <Key>PlayerStatsHygieneOk</Key>
+      <Value>gute Hygiene</Value>
+    </Record>
+    <Record>
+      <Key>PlayerStatsRoomStateOk</Key>
+      <Value>in einem Raum</Value>
+    </Record>
+    <Record>
+      <Key>PlayerStatsSuitOrHelmetOn</Key>
+      <Value>Anzug oder Helm an</Value>
+    </Record>
+    <Record>
+      <Key>PlayerStatsNoSuitOrHelmet</Key>
+      <Value>kein Anzug oder Helm</Value>
+    </Record>
+    <Record>
+      <Key>PlayerStatsFoodQuality</Key>
+      <Value>Lebensmittelqualität {LOCAL:Quality}</Value>
+    </Record>
+    <Record>
+      <Key>DrinkingFountainNotEnoughWater</Key>
+      <Value>Nicht genug Wasser</Value>
+    </Record>
+    <Record>
+      <Key>DrinkingFountainWaterTooHot</Key>
+      <Value>Wasser ist zu heiß</Value>
+    </Record>
+    <Record>
+      <Key>DrinkingFountainWaterTooCold</Key>
+      <Value>Wasser ist zu kalt</Value>
+    </Record>
+    <Record>
+      <Key>DrinkingFountainWaterPolluted</Key>
+      <Value>Wasser ist ungeeignet zum Trinken</Value>
+    </Record>
+    <Record>
+      <Key>DrinkFromFountain</Key>
+      <Value>trinken</Value>
+    </Record>
+    <Record>
+      <Key>DrinkNotThirsty</Key>
+      <Value>Nicht durstig</Value>
+    </Record>
+    <Record>
+      <Key>ShowerNotEnoughWater</Key>
+      <Value>Nicht genug Wasser</Value>
+    </Record>
+    <Record>
+      <Key>ShowerWaterTooHot</Key>
+      <Value>Wasser ist zu heiß</Value>
+    </Record>
+    <Record>
+      <Key>ShowerWaterTooCold</Key>
+      <Value>Wasser ist zu kalt</Value>
+    </Record>
+    <Record>
+      <Key>ShowerWaterPolluted</Key>
+      <Value>Wasser ist verschmutzt</Value>
+    </Record>
+    <Record>
+      <Key>ShowerOutputFull</Key>
+      <Value>Ausgangsrohr ist voll</Value>
+    </Record>
+    <Record>
+      <Key>ShowerNetworksInvalid</Key>
+      <Value>Rohre nicht verbunden</Value>
+    </Record>
+    <Record>
+      <Key>SanitizerActionMessage</Key>
+      <Value>Reinigen Sie sich</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaNoFoodQuality</Key>
+      <Value>Nichts</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaLowFoodQuality</Key>
+      <Value>Niedrig (-25% Hydratationskapazität)</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaOkFoodQuality</Key>
+      <Value>OK</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaGoodFoodQuality</Key>
+      <Value>Gut (+25% Hydrierungsfähigkeit)</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaSuperiorFoodQuality</Key>
+      <Value>Beste (+75% Hydrierungskapazität)</Value>
+    </Record>
+    <Record>
+      <Key>TooltipLowFoodQuality</Key>
+      <Value>Niedrig &lt;color=red&gt;-25% Hydrierung&lt;/color&gt;</Value>
+    </Record>
+    <Record>
+      <Key>TooltipOkFoodQuality</Key>
+      <Value>OK</Value>
+    </Record>
+    <Record>
+      <Key>TooltipGoodFoodQuality</Key>
+      <Value>Gut &lt;color=green&gt;+25% Hydrierung &lt;/color&gt;</Value>
+    </Record>
+    <Record>
+      <Key>TooltipSuperiorFoodQuality</Key>
+      <Value>Beste &lt;color=green&gt;+75% Hydrierung&lt;/color&gt;</Value>
+    </Record>
+    <Record>
+      <Key>WaterPurifierCharcoalErrorMsg</Key>
+      <Value>Benötigt &lt;color=green&gt;{LOCAL:Prefab}&lt;/color&gt; im Import Slot zum Betrieb</Value>
+    </Record>
+    <Record>
+      <Key>UpgradeConstructionAction</Key>
+      <Value>Upgrade auf &lt;color=green&gt;{LOCAL:Prefab}&lt;/color&gt;</Value>
+    </Record>
+    <Record>
+      <Key>EntityCantEnterNonEntitySlot</Key>
+      <Value>Entität kann keinen Nicht-Entitäts-Slot eintreten</Value>
+    </Record>
+    <Record>
+      <Key>CantEnterOwnHierarchy</Key>
+      <Value>Kann nicht in die eigene Hierarchie eintreten</Value>
+    </Record>
+    <Record>
+      <Key>CantPickUp</Key>
+      <Value>Dies kann nicht aufgehoben werden</Value>
+    </Record>
+    <Record>
+      <Key>CantEnterSelf</Key>
+      <Value>Kann sich nicht selbst eintragen</Value>
+    </Record>
+    <Record>
+      <Key>IsAttachedToBench</Key>
+      <Value>Kann nicht bewegen - zuerst von der Bank abtrennen</Value>
+    </Record>
+    <Record>
+      <Key>CantNestBoxes</Key>
+      <Value>Kann keine Pappkartons verschachteln</Value>
+    </Record>
+    <Record>
+      <Key>MagazineTypeDoesNotMatch</Key>
+      <Value>Magazintyp stimmt nicht überein</Value>
+    </Record>
+    <Record>
+      <Key>SlotDoesNotAllowDragging</Key>
+      <Value>Slot erlaubt kein Ziehen</Value>
+    </Record>
+    <Record>
+      <Key>SuitDoesNotSupportThisItem</Key>
+      <Value>Anzug unterstützt dieses Element nicht</Value>
+    </Record>
+    <Record>
+      <Key>DetonateExplosives</Key>
+      <Value>Detonieren</Value>
+    </Record>
+    <Record>
+      <Key>DropExplosive</Key>
+      <Value>Fallen lassen</Value>
+    </Record>
+    <Record>
+      <Key>LinkAndDropExplosive</Key>
+      <Value>Verknüpfen und Fallenlassen</Value>
+    </Record>
+    <Record>
+      <Key>UnableToLinkExplosive</Key>
+      <Value>Dieses Gerät ist bereits mit einem anderen Fernzünder verbunden</Value>
+    </Record>
+    <Record>
+      <Key>StructureNetworkTypeNone</Key>
+      <Value>None</Value>
+    </Record>
+    <Record>
+      <Key>StructureNetworkTypeLandingPad</Key>
+      <Value>Landing Pad</Value>
+    </Record>
+    <Record>
+      <Key>StructureNetworkTypePipe</Key>
+      <Value>Pipe</Value>
+    </Record>
+    <Record>
+      <Key>StructureNetworkTypeChute</Key>
+      <Value>Chute</Value>
+    </Record>
+    <Record>
+      <Key>StructureNetworkTypeRocket</Key>
+      <Value>Rocket</Value>
+    </Record>
+    <Record>
+      <Key>StructureNetworkTypeLaunchPad</Key>
+      <Value>Launch Pad</Value>
+    </Record>
+    <Record>
+      <Key>StructureNetworkTypeRoboticArm</Key>
+      <Value>Robotic Arm</Value>
+    </Record>
+    <Record>
+      <Key>StructureNetworkTypeCable</Key>
+      <Value>Cable</Value>
+    </Record>
+    <Record>
+      <Key>SpeciesNone</Key>
+      <Value>None</Value>
+    </Record>
+    <Record>
+      <Key>SpeciesHuman</Key>
+      <Value>Human</Value>
+    </Record>
+    <Record>
+      <Key>SpeciesZrilian</Key>
+      <Value>Zrilian</Value>
+    </Record>
+    <Record>
+      <Key>SpeciesRobot</Key>
+      <Value>Robot</Value>
+    </Record>
+    <Record>
+      <Key>MachineTierUndefined</Key>
+      <Value>Undefined</Value>
+    </Record>
+    <Record>
+      <Key>MachineTierTierOne</Key>
+      <Value>Tier One</Value>
+    </Record>
+    <Record>
+      <Key>MachineTierTierTwo</Key>
+      <Value>Tier Two</Value>
+    </Record>
+    <Record>
+      <Key>MachineTierTierThree</Key>
+      <Value>Tier Three</Value>
+    </Record>
+    <Record>
+      <Key>MachineTierMax</Key>
+      <Value>Max</Value>
+    </Record>
+    <Record>
+      <Key>RoomTypeUndefined</Key>
+      <Value>Undefined</Value>
+    </Record>
+    <Record>
+      <Key>RoomTypeDefault</Key>
+      <Value>Default</Value>
+    </Record>
+    <Record>
+      <Key>RoomTypeManufacturing</Key>
+      <Value>Manufacturing</Value>
+    </Record>
+    <Record>
+      <Key>RoomTypeKitchen</Key>
+      <Value>Kitchen</Value>
+    </Record>
+    <Record>
+      <Key>RoomTypeBedroom</Key>
+      <Value>Bedroom</Value>
+    </Record>
+    <Record>
+      <Key>RoomTypeHydroponics</Key>
+      <Value>Hydroponics</Value>
     </Record>
   </GameStrings>
   <GameTip />
