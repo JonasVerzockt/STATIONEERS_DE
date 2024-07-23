@@ -97,24 +97,6 @@
       </Text>
     </StationpediaPage>
     <StationpediaPage>
-      <Key>FabricatorPage</Key>
-      <Title>Fabriken</Title>
-      <Text>Dies sind energiebetriebene Strukturen, die zur Herstellung von Dingen benutzt werden können, die du im Spiel brauchst. Normalerweise benötigen sie {LINK: IngotPage;Ingots}, um die {LINK:ReagentPage;Reagents} zu produzieren, die sie zur Herstellung von Dingen benötigen.
-        {LIST_OF_FABRICATORS}</Text>
-    </StationpediaPage>
-    <StationpediaPage>
-      <Key>DevicePage</Key>
-      <Title>Geräte</Title>
-      <Text>Das sind Strukturen, die in der Regel mit Energie versorgt werden und spezielle Funktionen wie Logik, Atmosphären und mehr haben. Sie werden auf die gleiche Weise gebaut wie andere Strukturen.
-        {LIST_OF_DEVICES}</Text>
-    </StationpediaPage>
-    <StationpediaPage>
-      <Key>ImportExportPage</Key>
-      <Title>Import/Export und Schächte</Title>
-      <Text> Das sind Strukturen, die in der Regel mit Energie versorgt werden und andere Objekte empfangen und ausgeben können oder diese unterstützen. Die meisten haben spezielle Funktionen wie {LINK:LogicUnitPage;logic}, {LINK:AtmosphericPage;atmospherics}, und mehr. Sie werden auf die gleiche Weise aufgebaut wie andere Strukturen.
-        {LIST_OF_IMPORTTEXPORT}</Text>
-    </StationpediaPage>
-    <StationpediaPage>
       <Key>TranslatePage</Key>
       <Title>Deutsche Übersetzung</Title>
       <Text>Du spielst mit der Übersetzung von JonasVerzockt! Vielen Dank!

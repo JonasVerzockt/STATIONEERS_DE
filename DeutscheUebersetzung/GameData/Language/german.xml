@@ -6882,7 +6882,7 @@ Beendet - 4
     </RecordThing>
     <RecordThing>
       <Key>ItemKitReinforcedWindows</Key>
-      <Value>Bausatz (Verstärkte Fenster)</Value>
+      <Value>Bausatz (Verstärkte Wände)</Value>
       <Description>Aus angst ihr Kleinkinder könnten ins Weltall gesaugt werden, haben sich die Stationeers dafür eingesetzt das diese stahlverstärkte Fenster entwickelt wurde. Es hält widrigsten Bedingungen stand und hat sich sogar in der Raumfahrt bewährt.</Description>
     </RecordThing>
     <RecordThing>
@@ -8764,8 +8764,8 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     </RecordThing>
     <RecordThing>
       <Key>StructureRoboticArmDock</Key>
-      <Value>LARrE Dock</Value>
-      <Description>Das Linear Articulated Rail Entity (LARrE) kann zum Pflanzen, Ernten und Düngen von Pflanzen in Pflanztöpfen verwendet werden. Es kann auch Gegenstände aus einem {THING:StructureChuteExportBin} holen und in einem {THING:StructureChuteBin} ablegen. LARrE kann mit Pflanzentöpfen oder Schachtbehältern interagieren, die unter einer linearen Bahnstation oder unter seinem Dock gebaut sind.</Description>
+      <Value>LArRE Dock</Value>
+      <Description>Das Linear Articulated Rail Entity oder LArRE kann zum Pflanzen, Ernten und Düngen von Pflanzen in Pflanztöpfen verwendet werden. Es kann auch Gegenstände aus einem {THING:StructureChuteExportBin} nehmen und sie in einem {THING:StructureChuteBin} ablegen. LArRE kann mit Pflanztöpfen oder Abfallbehältern interagieren, die unter einer Linearbahnstation gerade oder unter ihrem Dock gebaut sind.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemIcarusSuit</Key>
@@ -9044,7 +9044,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     </RecordThing>
     <RecordThing>
       <Key>ItemKitRoboticArm</Key>
-      <Value>Bausatz (LARrE)</Value>
+      <Value>Bausatz (LArRE)</Value>
       <Description></Description>
     </RecordThing>
     <RecordThing>
@@ -9075,6 +9075,46 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     <RecordThing>
       <Key>StructureChuteExportBin</Key>
       <Value>Schacht Ausfuhrbehälter</Value>
+      <Description></Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureRoboticArmRailOuterCorner</Key>
+      <Value>Linearschiene Ecke außen</Value>
+      <Description></Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureRoboticArmRailInnerCorner</Key>
+      <Value>Linearschiene Ecke innen</Value>
+      <Description></Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureReinforcedWall</Key>
+      <Value>Verstärkte Wand</Value>
+      <Description></Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureCompositeWindowShutterConnector</Key>
+      <Value>Kompositfensterladen Verbinder</Value>
+      <Description></Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeOneWayValveLever</Key>
+      <Value>Rückschlagventil mit Hebel</Value>
+      <Description></Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructurePipeLiquidOneWayValveLever</Key>
+      <Value>Rückschlagventil mit Hebel</Value>
+      <Description></Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitRobotArmDoor</Key>
+      <Value>Bausatz (Linearschiene Tür)</Value>
+      <Description></Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureRobotArmDoor</Key>
+      <Value>Linearschiene Tür</Value>
       <Description></Description>
     </RecordThing>
   </Things>
@@ -13414,8 +13454,8 @@ Sieht aus, als würdest du eine Weile hier bleiben.</Value>
       <Value>Sekunden</Value>
     </Record>
     <Record>
-      <Key>SettingsThingRenderDistance</Key>
-      <Value>Distanz der Anzeige von Elementen</Value>
+      <Key>SettingsRenderDistance</Key>
+      <Value>Render-Distanz</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderEnergy</Key>
@@ -15656,7 +15696,7 @@ Ein {THING:StructureWaterPurifier} kann verwendet werden, um es wieder zu reinig
     </Record>
     <Record>
       <Key>ButtonChart</Key>
-      <Value>Schaubild</Value>
+      <Value>Kartieren</Value>
     </Record>
     <Record>
       <Key>ButtonSurvey</Key>
@@ -15786,6 +15826,10 @@ Ein {THING:StructureWaterPurifier} kann verwendet werden, um es wieder zu reinig
     <Record>
       <Key>DefaultStartConditionDescription</Key>
       <Value>Alles, was du brauchst, um deine erste Basis zu bauen</Value>
+    </Record>
+    <Record>
+      <Key>DefaultScenarioStartCondition</Key>
+      <Value>Nur Mensch Kit</Value>
     </Record>
     <Record>
       <Key>DefaultStartConditionVulcan</Key>
@@ -15998,6 +16042,22 @@ Ein {THING:StructureWaterPurifier} kann verwendet werden, um es wieder zu reinig
     <Record>
       <Key>ShowDismissedButton</Key>
       <Value>Zeige verworfen</Value>
+    </Record>
+    <Record>
+      <Key>RenderDistanceMultiplierSetting</Key>
+      <Value>Multiplikator für die Renderentfernung</Value>
+    </Record>
+    <Record>
+      <Key>SelectTutorialTitle</Key>
+      <Value>Tutorial auswählen</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial1Title</Key>
+      <Value>Tutorial 1: Inventar und Interaktionen</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial2Title</Key>
+      <Value>Tutorial 2: Verbindungen</Value>
     </Record>
   </Interface>
   <Colors>
