@@ -912,7 +912,7 @@ Die Platine verfügt über zwei Modi: "Link" schaltet alle Geräte ein oder aus;
     <RecordThing>
       <Key>DynamicGasCanisterCarbonDioxide</Key>
       <Value>Kanister Gas (CO2)</Value>
-      <Description>Tragbare Gastanks dienen vor allem einem Zweck: der Lagerung von Gas. Um den Tank aufzufüllen, schrauben Sie ihn an einen {THING:ItemTankConnector} und schließen ihn dann an ein Rohrnetz an. Versuchen Sie zu vermeiden, dass der Druck über 10 MPa steigt, sonst ... bumm. Sobald er voll ist, kannst du einen {THING:ItemGasCanisterCarbonDioxide} nachfüllen, indem du ihn an den gestreiften Teil des Tanks anbringst. Oder du könntest das Ventil mit variabler Durchflussrate des Tanks in einen Raum entlüften und eine Atmosphäre schaffen ... sozusagen.</Description>
+      <Description>Tragbare Gaskanister tun nur eines: sie speichern Gas. Um den Tank wieder aufzufüllen, schraube ihn an einen {THING:ItemTankConnector} und schließen ihn an ein Rohrnetz an. Versuche den Druck nicht über 10 MPa zu erhöhen, sonst... Knallt es. Sobald er voll ist, kannst du ein {THING:ItemGasCanisterCarbonDioxide} wieder auffüllen, indem du ihn an den gestreiften Teil des Tanks anschließt. Oder du kannst das Ventil für den variablen Durchfluss in einem Raum öffnen und so eine Atmosphäre erzeugen... mehr oder weniger...</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterEmpty</Key>
@@ -1852,7 +1852,7 @@ Die {LINK:Norsec;Norsec-konzipierter} K-cops 10-10 Sorter-Hauptplatine ermöglic
     <RecordThing>
       <Key>StructureActiveVent</Key>
       <Value>aktive Lüftung</Value>
-      <Description>Die aktive Lüftung ist ein angetriebenes Gerät zur Aufrechterhaltung des {LINK:GasPage;Gas} Drucks durch Pumpen von Gas in ein (oder aus einem) Rohrnetz. Die Entlüftung hat zwei Modi: "Nach außen" pumpt sie Gas in einen Raum, bis der Druck erreicht ist; "Nach innen" pumpt das Gas aus einem Rohrnetzwerk, bis der Druck erreicht ist. Der Druckparameter kann über einen angeschlossenen {THING:StructureConsole} eingestellt werden. Der Standarddruck ist 101kPa für "Ausgehend"; 0kPa für "Eingehend" ...</Description>
+      <Description>Die aktive Lüftung ist ein angetriebenes Gerät zur Aufrechterhaltung des {LINK:GasPage;Gas} Drucks durch Pumpen von Gas in ein (oder aus einem) Rohrnetz. Die Lüftung hat zwei Modi: 'Nach außen' pumpt sie Gas in einen Raum, bis der Druck erreicht ist; 'Nach innen' pumpt das Gas aus einem Rohrnetzwerk, bis der Druck erreicht ist. Der Druckparameter kann über eine angeschlossene {THING:StructureConsole} eingestellt werden. Der Standarddruck ist 101kPa für 'Ausgehend'; 0kPa für 'Eingehend'...</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureAirConditioner</Key>
@@ -2076,15 +2076,8 @@ Schächte sind grundlegende Komponenten von Rutschennetzwerken, die den Transpor
     </RecordThing>
     <RecordThing>
       <Key>StructureComputer</Key>
-      <Value>Computer</Value>
-      <Description>Der 'Chonk R1' ist in gewisser Weise ein Relikt und wurde von sehr zwiespältigen {LINK:Norsec;Norsec} Technikern entwickelt, die ein Gerät brauchten, das mit einer breiten Palette von {LINK:LogicUnitPage;Hauptplatinen} arbeiten und gleichzeitig das Schlimmste aushalten konnte, was ein neuer Kadett ihm zumuten konnte.
-Das Ergebnis ist ein Gerät, das von einigen als "der einzige PC, der unsere Kollision mit einem schwarzen Loch überleben könnte" bezeichnet wird, während andere, weniger geschätzte Benutzer der Meinung sind, dass er den Großteil seiner technologischen DNA mit einer Käsereibe teilt.
-Kompatible Hauptplatinen:
-- {THING:MotherboardLogic}
-- {THING:MotherboardManufacturing}
-- {THING:MotherboardSorter}
-- {THING:MotherboardComms}
-- {THING:MotherboardProgrammableChip}</Description>
+      <Value>Computer (Modern)</Value>
+      <Description>Dieses Gerät funktioniert mit einer breiten Palette von {LINK:LogicUnitPage;Motherboards}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureConsole</Key>
@@ -3553,7 +3546,7 @@ Beachten Sie, dass Transformatoren als Datenisolatoren fungieren und verhindern,
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageConstructor</Key>
-      <Value>Wrack-Konstruktor</Value>
+      <Value>Wrackteile</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckage1</Key>
@@ -4979,37 +4972,37 @@ ANWENDUNG: 'J' zum Aktivieren; 'Leertaste' zum Aufwärtsfliegen; 'Linke Strg' zu
     <RecordThing>
       <Key>StructureLightRoundAngled</Key>
       <Value>Lampe (Rund gewinkelt)</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureLightRound</Key>
       <Value>Lampe (Rund)</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureLightRoundSmall</Key>
       <Value>Licht (Rund klein)</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureSingleBed</Key>
       <Value>Einzelbett</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureBlockBed</Key>
       <Value>Block Bett</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>TriggerZone</Key>
       <Value>Auslösebereich</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureEmergencyButton</Key>
       <Value>Notfall-Schalter</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureAccessBridge</Key>
@@ -5056,516 +5049,516 @@ Mit einer Speicherkapazität von bis zu 9000001 Watt gibt es keine praktischen G
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageVendingMachine1</Key>
-      <Value>Wrack-Automat</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageVendingMachine2</Key>
-      <Value>Wrack-Automat</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageVendingMachine3</Key>
-      <Value>Wrack-Automat</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageVendingMachine4</Key>
-      <Value>Wrack-Automat</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageArcFurnace1</Key>
-      <Value>Wrack-Lichtbogen-Ofen</Value>
+      <Value>Wrackteile</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageArcFurnace2</Key>
-      <Value>Wrack-Lichtbogen-Ofen</Value>
+      <Value>Wrackteile</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageArcFurnace3</Key>
-      <Value>Wrack-Lichtbogen-Ofen</Value>
+      <Value>Wrackteile</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAreaPowerControl1</Key>
-      <Value>Wrack-Energiekontrolle</Value>
+      <Value>Wrackteile</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAreaPowerControl2</Key>
-      <Value>Wrack-Energiekontrolle</Value>
+      <Value>Wrackteile</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAreaPowerControlReversed1</Key>
-      <Value>Wrack-Energiekontrolle-umgedreht</Value>
+      <Value>Wrackteile</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAreaPowerControlReversed2</Key>
-      <Value>Wrack-Energiekontrolle-umgedreht</Value>
+      <Value>Wrackteile</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAutolathe1</Key>
-      <Value>Wrack-Automatische Drehmaschine</Value>
+      <Value>Wrackteile</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAutolathe6</Key>
-      <Value>Wrack-Automatische Drehmaschine</Value>
+      <Value>Wrackteile</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSolarPanel1</Key>
-      <Value>Wrack-Photovoltaikmodul</Value>
+      <Value>Wrackteile</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSolarPanel2</Key>
-      <Value>Wrack-Photovoltaikmodul</Value>
+      <Value>Wrackteile</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSolarPanel3</Key>
-      <Value>Wrack-Photovoltaikmodul</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTransformer1</Key>
-      <Value>Wrack-Transformator</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTransformer2</Key>
-      <Value>Wrack-Transformator</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTransformerMedium1</Key>
-      <Value>Wrack-Transformer-Normal</Value>
+      <Value>Wrackteile</Value>
       <Description>Schraube vergessen?</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTransformerMedium2</Key>
-      <Value>Wrack-Transformer-Normal</Value>
+      <Value>Wrackteile</Value>
       <Description>Die armen Stromtierchen</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTransformerSmall1</Key>
-      <Value>Wrack-Transformator-Klein</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTransformerSmall2</Key>
-      <Value>Wrack-Transformator-Klein</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSecurityPrinter1</Key>
-      <Value>Wrack-Sicherheitsdrucker</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSecurityPrinter2</Key>
-      <Value>Wrack-Sicherheitsdrucker</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSecurityPrinter3</Key>
-      <Value>Wrack-Sicherheitsdrucker</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSecurityPrinter4</Key>
-      <Value>Wrack-Sicherheitsdrucker</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSecurityPrinter5</Key>
-      <Value>Wrack-Sicherheitsdrucker</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSecurityPrinter6</Key>
-      <Value>Wrack-Sicherheitsdrucker</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAutolathe1</Key>
-      <Value>Wrack-Automatische Drehmaschine</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAutolathe2</Key>
-      <Value>Wrack-Automatische Drehmaschine</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAutolathe3</Key>
-      <Value>Wrack-Automatische Drehmaschine</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAutolathe4</Key>
-      <Value>Wrack-Automatische Drehmaschine</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAutolathe5</Key>
-      <Value>Wrack-Automatische Drehmaschine</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAutolathe6</Key>
-      <Value>Wrack-Automatische Drehmaschine</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAutolathe7</Key>
-      <Value>Wrack-Automatische Drehmaschine</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElectronicsPrinter1</Key>
-      <Value>Wrack-Elektronik-Drucker1</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElectronicsPrinter2</Key>
-      <Value>Wrack-Elektronik-Drucker2</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElectronicsPrinter3</Key>
-      <Value>Wrack-Elektronik-Drucker3</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElectronicsPrinter4</Key>
-      <Value>Wrack-Elektronik-Drucker4</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElectronicsPrinter5</Key>
-      <Value>Wrack-Elektronik-Drucker5</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElectronicsPrinter6</Key>
-      <Value>Wrack</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCentrifuge1</Key>
-      <Value>Wrack-Zentrifuge</Value>
+      <Value>Wrackteile</Value>
       <Description>Die ist wohl durchgedreht</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCentrifuge2</Key>
-      <Value>Wrack-Zentrifuge</Value>
+      <Value>Wrackteile</Value>
       <Description>Schleudergang</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCentrifuge3</Key>
-      <Value>Wrack-Zentrifuge</Value>
+      <Value>Wrackteile</Value>
       <Description>Nur noch ein bisschen mehr...</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCentrifuge4</Key>
-      <Value>Wrack-Zentrifuge</Value>
+      <Value>Wrackteile</Value>
       <Description>Round and Round and Round it goes...</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCentrifuge5</Key>
-      <Value>Wrack-Zentrifuge</Value>
+      <Value>Wrackteile</Value>
       <Description>...Where it stops, nobody knows</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageGasGenerator1</Key>
-      <Value>Wrack-Gas-Generator</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageGasGenerator2</Key>
-      <Value>Wrack-Gas-Generator</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageVent1</Key>
-      <Value>Wrack-Vent</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSatelliteDish1</Key>
-      <Value>Wrack-Normal-Satellite-Dish</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSatelliteDish2</Key>
-      <Value>Wrack-Normal-Satellite-Dish</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSatelliteDish3</Key>
-      <Value>Wrack-Normal-Satellite-Dish</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElectrolysis1</Key>
-      <Value>Wrack-Elektrolyse</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElectrolysis2</Key>
-      <Value>Wrack-Elektrolyse</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageLight1</Key>
-      <Value>Wrack-Licht</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageLight2</Key>
-      <Value>Wrack-Licht</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageLightLongAngled1</Key>
-      <Value>Wrack-Licht-lang-gewinkelt</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageLightLongAngled2</Key>
-      <Value>Wrack-Licht-lang-gewinkelt</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageLightLongWide1</Key>
-      <Value>Wrack-Licht-Lang-Breit</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageLightLongWide2</Key>
-      <Value>Wrack-Licht-Lang-Breit</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageWallLightBatteryPowered1</Key>
-      <Value>Wrack-Wandlampe-Batteriebetrieben</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageWallLightBatteryPowered2</Key>
-      <Value>Wrack-Wandlampe-Batteriebetrieben</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageRecycler1</Key>
-      <Value>Wrack-Recycler</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageRecycler2</Key>
-      <Value>Wrack-Recycler</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageRecycler3</Key>
-      <Value>Wrack-Recycler</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageRecycler4</Key>
-      <Value>Wrack-Recycler</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageRecycler5</Key>
-      <Value>Wrack-Recycler</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageRecycler6</Key>
-      <Value>Wrack-Recycler</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageFlashingLight1</Key>
-      <Value>Wrack-Blinklicht</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageFlashingLight2</Key>
-      <Value>Wrack-Blinklicht</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageActiveVent1</Key>
-      <Value>Wrack-Aktive-Entlüftung</Value>
+      <Value>Wrackteile</Value>
       <Description>Mir ist die Puste ausgegangen</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckagePassiveVent1</Key>
-      <Value>Wrackt-Passive-Entlüftung</Value>
+      <Value>Wrackteile</Value>
       <Description>Arrrggg...</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCoalGenerator1</Key>
-      <Value>Wrack-Kohle-Generator</Value>
+      <Value>Wrackteile</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCoalGenerator2</Key>
-      <Value>Wrack-Kohle-Generator</Value>
+      <Value>Wrackteile</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCoalGenerator3</Key>
-      <Value>Wrack-Kohle-Generator</Value>
+      <Value>Wrackteile</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCoalGenerator4</Key>
-      <Value>Wrack</Value>
+      <Value>Wrackteile</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageH2Combustor1</Key>
-      <Value>Wrack-H2-Combustor</Value>
+      <Value>Wrackteile</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageHydroponicsAutomatic1</Key>
-      <Value>Wrack-Hydroponics-Automatisch</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageHydroponicsAutomatic2</Key>
-      <Value>Wrack-Hydroponics-Automatisch</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageHydroponicsAutomatic3</Key>
-      <Value>Wrack-Hydroponics-Automatisch</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageHydroponicsStation1</Key>
-      <Value>Wrack-Hydroponische-Station</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageHydroponicsStation2</Key>
-      <Value>Wrack-Hydroponische-Station</Value>
-      <Description>Beschreibung kommt.</Description>
+      <Value>Wrackteile</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSDBSilo1</Key>
-      <Value>Wrack-SDB-Silo</Value>
+      <Value>Wrackteile</Value>
       <Description>Huch</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSDBSilo2</Key>
-      <Value>Wrack-SDB-Silo</Value>
+      <Value>Wrackteile</Value>
       <Description>Ich sehe was, was du nicht siehst</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSDBSilo3</Key>
-      <Value>Wrack-SDB-Silo</Value>
+      <Value>Wrackteile</Value>
       <Description>Nope</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSDBSilo4</Key>
-      <Value>Wrack-SDB-Silo</Value>
+      <Value>Wrackteile</Value>
       <Description>Diese Leichtigkeit</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSDBSilo5</Key>
-      <Value>Wrack-SDB-Silo</Value>
+      <Value>Wrackteile</Value>
       <Description>Nicht schon wieder</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageShuttleLandingPad1</Key>
-      <Value>Wrack-Shuttle-Landeplatz</Value>
+      <Value>Wrackteile</Value>
       <Description>Schau mal da kommt...</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageShuttleLandingPad2</Key>
-      <Value>Wrack-Shuttle-Landeplatz</Value>
+      <Value>Wrackteile</Value>
       <Description>Autsch</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageShuttleLandingPad3</Key>
-      <Value>Wrack-Shuttle-Landeplatz</Value>
+      <Value>Wrackteile</Value>
       <Description>Upsi</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageShuttleLandingPad4</Key>
-      <Value>Wrack-Shuttle-Landeplatz</Value>
+      <Value>Wrackteile</Value>
       <Description>Endlich ein Ende</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageShuttleLandingPad5</Key>
-      <Value>Wrack-Shuttle-Landeplatz</Value>
+      <Value>Wrackteile</Value>
       <Description>Guten Tag Herr Botschafter</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageBlastDoor1</Key>
-      <Value>Wrack-Sprengtür</Value>
+      <Value>Wrackteile</Value>
       <Description>Ich halte das aus...</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageBlastDoor2</Key>
-      <Value>Wrack-Sprengtür</Value>
+      <Value>Wrackteile</Value>
       <Description>Oder auch nicht</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCompositeDoor1</Key>
-      <Value>Wrack-Komposittür</Value>
+      <Value>Wrackteile</Value>
       <Description>Endlich Luft</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCompositeDoor2</Key>
-      <Value>Wrack-Komposittür</Value>
+      <Value>Wrackteile</Value>
       <Description>Ich seh Sterne</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCompositeDoor3</Key>
-      <Value>Wrack-Komposittür</Value>
+      <Value>Wrackteile</Value>
       <Description>Knall und weg.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAirlock1</Key>
-      <Value>Wrack-Luftschleuse</Value>
+      <Value>Wrackteile</Value>
       <Description>Ein Funke zu viel.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAirlock2</Key>
-      <Value>Wrack-Luftschleuse</Value>
+      <Value>Wrackteile</Value>
       <Description>War das der Knopf?</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCompositeDoorGlass1</Key>
-      <Value>Wrack-Verbundtürglas</Value>
+      <Value>Wrackteile</Value>
       <Description>Raumschrott, frisch serviert.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCompositeDoorGlass2</Key>
-      <Value>Wrack-Verbundtürglas</Value>
+      <Value>Wrackteile</Value>
       <Description>Feuriges Finale.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElevatorShaftIndustrial1</Key>
-      <Value>Wrack-Aufzugsschacht-Industrial</Value>
+      <Value>Wrackteile</Value>
       <Description>Überhitztes Temperament.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElevatorShaftIndustrial2</Key>
-      <Value>Wrack-Aufzugsschacht-Industrial</Value>
+      <Value>Wrackteile</Value>
       <Description>Sternenstaub, buchstäblich.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElevatorShaftIndustrial3</Key>
-      <Value>Wrack-Aufzugsschacht-Industrial</Value>
+      <Value>Wrackteile</Value>
       <Description>Glühendes Ende.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElevatorLevelFront1</Key>
-      <Value>Wrack-Elevator-Ebene-Front</Value>
+      <Value>Wrackteile</Value>
       <Description>Zurück zu den Sternen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElevatorLevelFront2</Key>
-      <Value>Wrack-Elevator-Ebene-Front</Value>
+      <Value>Wrackteile</Value>
       <Description>Nicht ganz nach Plan.</Description>
     </RecordThing>
     <RecordThing>
@@ -5595,7 +5588,7 @@ Mit einer Speicherkapazität von bis zu 9000001 Watt gibt es keine praktischen G
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageHydroponicsTray1</Key>
-      <Value>Wrack-Hydroponisches-Beet</Value>
+      <Value>Wrackteile</Value>
       <Description>Bausatz für ein hydroponisches Beet.</Description>
     </RecordThing>
     <RecordThing>
@@ -5666,42 +5659,42 @@ Eine Vierergruppe von nabenmontierten Elektromotoren treibt den verstärkten Alu
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageStructureRTG1</Key>
-      <Value>Wrack-RTG</Value>
+      <Value>Wrackteile</Value>
       <Description>Funkenshow inklusive.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTurbineGenerator1</Key>
-      <Value>Wrack-Turbine-Generator</Value>
+      <Value>Wrackteile</Value>
       <Description>War das Teil versichert?</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTurbineGenerator2</Key>
-      <Value>Wrack-Turbine-Generator</Value>
+      <Value>Wrackteile</Value>
       <Description>Knallhart abgetaucht.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTurbineGenerator3</Key>
-      <Value>Wrack-Turbine-Generator</Value>
+      <Value>Wrackteile</Value>
       <Description>Rauchsignale an das Universum.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAirConditioner1</Key>
-      <Value>Wrack-Klimagerät</Value>
+      <Value>Wrackteile</Value>
       <Description>Lichter aus, Party vorbei.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAirConditioner2</Key>
-      <Value>Wrack-Klimagerät</Value>
+      <Value>Wrackteile</Value>
       <Description>Etwas zu heiß geworden.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageWallCooler1</Key>
-      <Value>Wrack-Wand-Kühler</Value>
+      <Value>Wrackteile</Value>
       <Description>Ausgebrannt.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageWallCooler2</Key>
-      <Value>Wrack-Wand-Kühler</Value>
+      <Value>Wrackteile</Value>
       <Description>Letzter Auftritt, mit Knall.</Description>
     </RecordThing>
     <RecordThing>
@@ -5893,67 +5886,67 @@ Obwohl die Windturbine so optimiert ist, dass sie auch auf Welten mit niedriger 
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageWindTurbine001</Key>
-      <Value>Wrack-Wind-Turbine</Value>
+      <Value>Wrackteile</Value>
       <Description>Ein Feuerwerk meiner Existenz.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageWindTurbine002</Key>
-      <Value>Wrack-Wind-Turbine</Value>
+      <Value>Wrackteile</Value>
       <Description>Kosmischer Staubsauger.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageWindTurbine003</Key>
-      <Value>Wrack-Wind-Turbine</Value>
+      <Value>Wrackteile</Value>
       <Description>Schneller Abgang, große Show.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageWindTurbine004</Key>
-      <Value>Wrack-Wind-Turbine</Value>
+      <Value>Wrackteile</Value>
       <Description>Kurz und knapp.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageWindTurbine005</Key>
-      <Value>Wrack-Wind-Turbine</Value>
+      <Value>Wrackteile</Value>
       <Description>War das wichtig?</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageStructureWeatherStation001</Key>
-      <Value>Wrack-Wetterstation</Value>
+      <Value>Wrackteile</Value>
       <Description>Rauchzeichen?</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageStructureWeatherStation002</Key>
-      <Value>Wrack-Wetterstation</Value>
+      <Value>Wrackteile</Value>
       <Description>Hatte was Explosives.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageStructureWeatherStation003</Key>
-      <Value>Wrack-Wetterstation</Value>
+      <Value>Wrackteile</Value>
       <Description>Nicht von Dauer.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageStructureWeatherStation004</Key>
-      <Value>Wrack-Wetterstation</Value>
+      <Value>Wrackteile</Value>
       <Description>Flug ins Jenseits.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageStructureWeatherStation005</Key>
-      <Value>Wrack-Wetterstation</Value>
+      <Value>Wrackteile</Value>
       <Description>Sterne zum Greifen nah.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageStructureWeatherStation006</Key>
-      <Value>Wrack-Wetterstation</Value>
+      <Value>Wrackteile</Value>
       <Description>Nur ein Kratzer.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageStructureWeatherStation007</Key>
-      <Value>Wrack-Wetterstation</Value>
+      <Value>Wrackteile</Value>
       <Description>Auf Nimmerwiedersehen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageStructureWeatherStation008</Key>
-      <Value>Wrack-Wetterstation</Value>
+      <Value>Wrackteile</Value>
       <Description>Hat sich aufgelöst.</Description>
     </RecordThing>
     <RecordThing>
@@ -6927,9 +6920,9 @@ Sie müssen den Laptop abstellen, um mit der Bildschirmoberfläche zu interagier
     <RecordThing>
       <Key>StructureStirlingEngine</Key>
       <Value>Stirlingmotor</Value>
-      <Description>Der {LINK:Recurso;Recurso} "Libra"-Stirlingmotor macht sich eine uralte thermische Technik zunutze und erzeugt Strom durch die Expansion und Kontraktion eines Arbeitsgases, das Kolben antreibt, die einen elektrischen Generator betreiben.
+      <Description>Der {LINK:Recurso;Recurso} 'Libra' Stirlingmotor macht sich eine uralte thermische Technik zunutze und erzeugt Strom durch die Expansion und Kontraktion eines Arbeitsgases, das Kolben antreibt, die einen elektrischen Generator betreiben.
       
-Wenn heißes Gas unter hohem Druck in die Eingangsleitung geleitet wird, erwärmt dieses Gas die heiße Seite des Geräts und gelangt dann in die Ausgangsleitung. Die kühlere Seite nutzt die Umgebungsatmosphäre des Raums, die auf einer niedrigeren Temperatur und einem niedrigeren Druck gehalten werden muss, um eine Differenz zu erzeugen. Fügen Sie ein Arbeitsgas hinzu, indem Sie ein {SLOT:GasCanister} einfügen. Das Gerät muss beim Hinzufügen oder Entfernen von Kanistern deaktiviert werden, da sonst das Arbeitsgas in die Umgebung entweichen kann.
+Wenn heißes Gas unter hohem Druck in die Eingangsleitung geleitet wird, erwärmt dieses Gas die heiße Seite des Geräts und gelangt dann in die Ausgangsleitung. Die kühlere Seite nutzt die Umgebungsatmosphäre des Raums, die auf einer niedrigeren Temperatur und einem niedrigeren Druck gehalten werden muss, um eine Differenz zu erzeugen. Füge ein Arbeitsgas hinzu, indem du ein {SLOT:GasCanister} einfügst. Das Gerät muss beim Hinzufügen oder Entfernen von Kanistern deaktiviert werden, da sonst das Arbeitsgas in die Umgebung entweichen kann.
  
 Gase mit einer niedrigen Molekülmasse sind die effizientesten Arbeitsgase. Eine Erhöhung der Molzahl des Arbeitsgases kann zu einer größeren potenziellen Leistung führen. Ein Überdruck im Gerät kann jedoch zu ... suboptimalen Ergebnissen führen.</Description>
     </RecordThing>
@@ -7057,7 +7050,7 @@ Der Sender muss auf die Basisstation ausgerichtet werden, um Leistung zu übertr
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageLargeExtendableRadiator01</Key>
-      <Value>Wrack-Großer-ausziehbarer-Radiator</Value>
+      <Value>Wrackteile</Value>
       <Description>Vom Winde verweht.</Description>
     </RecordThing>
     <RecordThing>
@@ -7294,7 +7287,7 @@ Für Temperatur- und Druckbereiche werden vier Gene im selben Widget angezeigt. 
     </RecordThing>
     <RecordThing>
       <Key>CartridgePlantAnalyser</Key>
-      <Value>Chip (Pflanzen Analysator)</Value>
+      <Value>Steckmodul (Pflanzen Analysator)</Value>
       <Description>Diese Einsteckkarte erweitert das Tablet um einen Pflanzenscanner und liefert auch gleich noch die Auswertungssoftware mit. Damit ist der grüne Daumen kein Zufall mehr.</Description>
     </RecordThing>
     <RecordThing>
@@ -9117,6 +9110,66 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
       <Value>Linearschiene Tür</Value>
       <Description></Description>
     </RecordThing>
+    <RecordThing>
+      <Key>StructureTutorialSpawnPoint</Key>
+      <Value>Tutorial Spawn Punkt</Value>
+      <Description></Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLarreDockAtmos</Key>
+      <Value>Kit (LArRE Dock Atmos)</Value>
+      <Description></Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLarreDockBypass</Key>
+      <Value>Bausatz (LArRE Dock Überbrückung)</Value>
+      <Description></Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLarreDockHydroponics</Key>
+      <Value>Kit (LArRE Dock Hydrokultur)</Value>
+      <Description></Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLarreDockCargo</Key>
+      <Value>Kit (LArRE Dock Fracht)</Value>
+      <Description></Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemKitLarreDockCollector</Key>
+      <Value>Kit (LArRE Dock Sammler)</Value>
+      <Description></Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLarreDockAtmos</Key>
+      <Value>LArRE Dock (Atmos)</Value>
+      <Description></Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLarreDockBypass</Key>
+      <Value>LARrE Dock (Überbrückung)</Value>
+      <Description></Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLarreDockCargo</Key>
+      <Value>LARrE Dock (Fracht)</Value>
+      <Description></Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLarreDockCollector</Key>
+      <Value>LARrE Dock (Sammler)</Value>
+      <Description></Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureLarreDockHydroponics</Key>
+      <Value>LARrE Dock (Hydrokultur)</Value>
+      <Description></Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureComputerUpright</Key>
+      <Value>Computer (Retro)</Value>
+      <Description>Dieses Gerät funktioniert mit einer breiten Palette von {LINK:LogicUnitPage;Motherboards}.</Description>
+    </RecordThing>
   </Things>
   <Slots>
     <Record>
@@ -9217,7 +9270,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     </Record>
     <Record>
       <Key>Cartridge</Key>
-      <Value>Chip</Value>
+      <Value>Steckmodul</Value>
     </Record>
     <Record>
       <Key>CaptainsSeat</Key>
@@ -9929,8 +9982,24 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
       <Key>ButtonPrev</Key>
       <Value>Zurück</Value>
     </Record>
+    <Record>
+      <Key>SetStartingDock</Key>
+      <Value>Startdock festlegen</Value>
+    </Record>
+    <Record>
+      <Key>DecrementIndex</Key>
+      <Value>Verringern</Value>
+    </Record>
+    <Record>
+      <Key>IncrementIndex</Key>
+      <Value>Erhöhen</Value>
+    </Record>
   </Interactables>
   <Interface>
+    <Record>
+      <Key>OkayConfirmation</Key>
+      <Value>Okay</Value>
+    </Record>
     <Record>
       <Key>GeneticsHeader</Key>
       <Value>Gene</Value>
@@ -10564,6 +10633,10 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
       <Value>FPS anzeigen</Value>
     </Record>
     <Record>
+      <Key>SettingsDisplayHelperHints</Key>
+      <Value>Hilfshinweise anzeigen</Value>
+    </Record>
+    <Record>
       <Key>ButtonResetDefaults</Key>
       <Value>Standardeinstellungen</Value>
     </Record>
@@ -10849,10 +10922,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     </Record>
     <Record>
       <Key>TutorialCompleteMessage</Key>
-      <Value>
-        Es gibt noch viel zu lernen.
-        Also raus mit dir, Stationeer!
-      </Value>
+      <Value>Es gibt immer noch viel zu lernen. Also gehe raus Stationeer!</Value>
     </Record>
     <Record>
       <Key>TutorialBackToMenu</Key>
@@ -11618,7 +11688,7 @@ Sieht aus, als würdest du eine Weile hier bleiben.</Value>
     </Record>
     <Record>
       <Key>NewWorldMarsShortDesc</Key>
-      <Value>Der Mars ist ein trostloser, staubiger, roter Ball mit einer abwechslungsreichen Landschaft, die bis in den Himmel reicht, und einer kühlen Atmosphäre, die nicht zum Atmen geeignet ist, aber vielleicht kann man sie ja für etwas nutzen ...</Value>
+      <Value>Mars. Ein trostloser, staubiger, roter Ball mit einer abwechslungsreichen Landschaft die bis in den Himmel reicht, und einer kühlen Atmosphäre die nicht zum Atmen geeignet ist. Aber vielleicht kann man sie ja für etwas nutzen...</Value>
     </Record>
     <Record>
       <Key>NewWorldMoonShortDesc</Key>
@@ -12491,7 +12561,7 @@ Sieht aus, als würdest du eine Weile hier bleiben.</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypeOccupantHash</Key>
-      <Value>gibt den Hash des aktuellen Steckplatzes zurück (den eindeutigen Bezeichner des Dings)</Value>
+      <Value>Gibt den Hash des aktuellen Steckplatzes zurück, die eindeutige Kennung des Dings</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypeQuantity</Key>
@@ -15872,6 +15942,18 @@ Ein {THING:StructureWaterPurifier} kann verwendet werden, um es wieder zu reinig
       <Value>Baue ein einfaches Power-Setup</Value>
     </Record>
     <Record>
+      <Key>WorldObjectiveBuildFramePlatform</Key>
+      <Value>Baue eine 2x3-Plattform mit Rahmen</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectiveBuild6Frames</Key>
+      <Value>Baue eine 2x3-Plattform mit {THING:StructureFrameIron}. Rahmen bieten einen Montagepunkt für die meisten großen Geräte.</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectiveWeldFrames</Key>
+      <Value>Ein {THING:StructureFrameIron} wird fertiggestellt, indem du einen {THING:ItemWeldingTorch} in der aktiven Hand und {THING:ItemIronSheets} in der anderen Hand verwendest.</Value>
+    </Record>
+    <Record>
       <Key>WorldObjectiveBuildArcFurnace</Key>
       <Value>Bau und Betrieb einer Automatische Drehmaschine und eines Lichtbogenofens</Value>
     </Record>
@@ -15956,8 +16038,16 @@ Ein {THING:StructureWaterPurifier} kann verwendet werden, um es wieder zu reinig
       <Value>Pflanzen müssen in Dunkelheit ruhen, um zu wachsen</Value>
     </Record>
     <Record>
+      <Key>WorldObjectiveSwitchOffYourGrowLight</Key>
+      <Value>Schalte {THING:StructureGrowLight} aus</Value>
+    </Record>
+    <Record>
       <Key>WorldObjectiveCookPotato</Key>
       <Value>Eine gebackene Kartoffel kochen</Value>
+    </Record>
+    <Record>
+      <Key>WorldObjectiveAcknowledgeAndDismiss</Key>
+      <Value>Verwerfen um zu bestätigen</Value>
     </Record>
     <Record>
       <Key>WorldObjectiveOfflinePlayers</Key>
@@ -16013,7 +16103,7 @@ Ein {THING:StructureWaterPurifier} kann verwendet werden, um es wieder zu reinig
     </Record>
     <Record>
       <Key>WorldObjectiveCanistersInfo</Key>
-      <Value>{THING:ItemGasCanisterEmpty} kann durch Einfügen in {THING:DynamicGasCanisterEmpty} oder {Thing:StructureGasTankStorage} nachgefüllt werden</Value>
+      <Value>{THING:ItemGasCanisterEmpty} kann durch Einstecken in {THING:DynamicGasCanisterEmpty} oder {THING:StructureGasTankStorage} nachgefüllt werden</Value>
     </Record>
     <Record>
       <Key>WorldObjectiveOfflinePlayersInfo</Key>
@@ -16056,8 +16146,408 @@ Ein {THING:StructureWaterPurifier} kann verwendet werden, um es wieder zu reinig
       <Value>Tutorial 1: Inventar und Interaktionen</Value>
     </Record>
     <Record>
+      <Key>Tutorial1Summary</Key>
+      <Value>Lernen Sie die Grundlagen von Interaktionen, Lagerverwaltung und Konstruktion.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial1EquipToolBeltHeading</Key>
+      <Value>Rüste deinen Werkzeuggürtel aus</Value>
+    </Record>
+    <Record>
+      <Key>Tut1OpenBackpack</Key>
+      <Value>Öffne deinen {THING:ItemHardBackpack} indem du {KEY:MouseControl} gedrückt hältst und darauf klickst.</Value>
+    </Record>
+    <Record>
+      <Key>Tut1EquipToolBelt</Key>
+      <Value>Durch das Halten von {KEY:MouseControl} und Ziehen deines {THING:ItemToolBelt} auf den Gürtelslot wird er ausgerüstet.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial1PlaceWallHeading</Key>
+      <Value>Platziere eine Wand</Value>
+    </Record>
+    <Record>
+      <Key>Tut1WallKitsInLocker</Key>
+      <Value>{THING:ItemKitWallIron} Stapel finden sich im Spind.</Value>
+    </Record>
+    <Record>
+      <Key>Tut1SwapHands</Key>
+      <Value>Du hast zwei Handsteckplätze, drücke {KEY:SwapHands}, um zwischen ihnen zu wechseln.</Value>
+    </Record>
+    <Record>
+      <Key>Tut1DropItems</Key>
+      <Value>{KEY:Drop} lässt Gegenstände aus deiner aktiven Hand fallen.</Value>
+    </Record>
+    <Record>
+      <Key>Tut1PlaceWall</Key>
+      <Value>Mit Wänden in deiner aktiven Hand, verwende {KEY:SecondaryAction}, um den Platzierungsmodus zu betreten. Benutze das &lt;color=#FBB03B&gt;Mausrad&lt;/color&gt;, um {THING:StructureWallIron} auszuwählen, und halte {KEY:PrimaryAction}, zum Platzieren. Verwende {KEY:QuantityModifier}, zum Drehen.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial1CompleteWallHeading</Key>
+      <Value>Stelle eine Wand fertig</Value>
+    </Record>
+    <Record>
+      <Key>Tut1GrabIronSheets</Key>
+      <Value>Eiserne Wände werden mit {THING:ItemIronSheets} fertiggestellt. Die Bleche befinden sich im Spind.</Value>
+    </Record>
+    <Record>
+      <Key>Tut1CompleteWall</Key>
+      <Value>Mit {THING:ItemIronSheets} in deiner aktiven Hand, benutze sie an der unfertigen Wand, indem du {KEY:PrimaryAction} gedrückt hältst.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial1CompleteFrameHeading</Key>
+      <Value>Platzieren und stelle einen Rahmen fertig</Value>
+    </Record>
+    <Record>
+      <Key>Tut1IntroFrame</Key>
+      <Value>Ein {THING:StructureFrameIron} blockiert ein Raster vollständig.</Value>
+    </Record>
+    <Record>
+      <Key>Tut1PlaceFrame</Key>
+      <Value>{THING:ItemIronFrames} Stapel finden sich im Spind.</Value>
+    </Record>
+    <Record>
+      <Key>Tut1CompleteFrame</Key>
+      <Value>Ein {THING:StructureFrameIron} wird fertiggestellt, indem du einen {THING:ItemWeldingTorch} in der aktiven Hand und {THING:ItemIronSheets} in der anderen Hand verwendest.</Value>
+    </Record>
+    <Record>
+      <Key>Tut1UseWeldingTorch</Key>
+      <Value>Rüste den {THING:ItemWeldingTorch} in deinem Werkzeuggürtel aus, schalte ihn mit {KEY:SecondaryAction} ein oder drücke {KEY:ToggleHandPower}.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial1PlaceDoorHeading</Key>
+      <Value>Platziere eine Tür zwischen den verlegten Kabeln</Value>
+    </Record>
+    <Record>
+      <Key>Tut1GetDoorKit</Key>
+      <Value>Hole ein {THING:ItemKitDoor} aus dem Spind.</Value>
+    </Record>
+    <Record>
+      <Key>Tut1PlaceDoor</Key>
+      <Value>Mit dem {THING:ItemKitDoor} in deiner aktiven Hand, verwende {KEY:SecondaryAction}, um den Platzierungsmodus zu betreten. Benutze das &lt;color=#FBB03B&gt;Mausrad&lt;/color&gt;, um {THING:StructureGlassDoor} auszuwählen, und halte {KEY:PrimaryAction} zum Platzieren. Verwende {KEY:QuantityModifier} zum Drehen.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial1CompleteDoorHeading</Key>
+      <Value>Baue die Tür fertig</Value>
+    </Record>
+    <Record>
+      <Key>Tut1MaterialRequirements</Key>
+      <Value>Viele Geräte haben Baustufen die mehr als Eisenbleche erfordern.</Value>
+    </Record>
+    <Record>
+      <Key>Tut1RequirementTooltips</Key>
+      <Value>Schaue dir mit einem inkompatiblen Werkzeug ein Gerät an, um ein Tooltip zu erhalten welches Werkzeug und Material verwendet werden soll.</Value>
+    </Record>
+    <Record>
+      <Key>Tut1FinishDoor</Key>
+      <Value>Stelle die Tür mit den richtigen Materialien und Werkzeugen fertig.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial1FinishRoomHeading</Key>
+      <Value>Stelle den Rest des Raumes fertig</Value>
+    </Record>
+    <Record>
+      <Key>Tut1RoomCreation</Key>
+      <Value>Eine vollständig von Wänden, Rahmen oder Türen umschlossene Fläche wird einen Raum erzeugen.</Value>
+    </Record>
+    <Record>
+      <Key>Tut1FinishRoom</Key>
+      <Value>Errichte Wände und Rahmen an geeigneten Stellen um den Raum fertigzustellen.</Value>
+    </Record>
+    <Record>
       <Key>Tutorial2Title</Key>
       <Value>Tutorial 2: Verbindungen</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial2Summary</Key>
+      <Value>Lerne die Grundlagen des Überlebens und wie man Gas- und Stromnetze aufbaut.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial2SuitUpHeading</Key>
+      <Value>Lege die Ausrüstung aus dem Spind an</Value>
+    </Record>
+    <Record>
+      <Key>Tut2NeedASuit</Key>
+      <Value>Ein funktionierender Anzug und Helm bieten eine atembare Atmosphäre.</Value>
+    </Record>
+    <Record>
+      <Key>Tut2SuitConfigured</Key>
+      <Value>Dieser Anzug ist für Strom, Sauerstoff und Luftfiltration vorkonfiguriert.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial2EatAndDrinkHeading</Key>
+      <Value>Essen und trinken</Value>
+    </Record>
+    <Record>
+      <Key>Tut2HungerUi</Key>
+      <Value>Dein Hunger befindet sich unten rechts auf dem Bildschirm.</Value>
+    </Record>
+    <Record>
+      <Key>Tut2OpenHelmet</Key>
+      <Value>Mit einem geschlossenen Helm kannst du nicht essen. Drücke {KEY:Internals} um deinen Helm zu öffnen</Value>
+    </Record>
+    <Record>
+      <Key>Tut2EatFood</Key>
+      <Value>Vorräte befinden sich auf dem orangen Tisch. Halte {KEY:SecondaryAction} gedrückt um Essen und Wasser zu konsumieren.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial2CloseHelmetHeading</Key>
+      <Value>Schließe deinen Helm</Value>
+    </Record>
+    <Record>
+      <Key>Tut2OutsideAtmospheres</Key>
+      <Value>Außenatmosphären sind nicht sicher Atembar.</Value>
+    </Record>
+    <Record>
+      <Key>Tut2CloseHelmet</Key>
+      <Value>Drücke erneut {KEY:Internals} um deinen Helm zu schließen.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial2GoOutsideHeading</Key>
+      <Value>Geh nach Draußen</Value>
+    </Record>
+    <Record>
+      <Key>Tut2DoorsLeadOutside</Key>
+      <Value>Die Glastüren führen nach draußen.</Value>
+    </Record>
+    <Record>
+      <Key>Tut2CloseDoors</Key>
+      <Value>Schließe die Türen hinter dir, um die Luft im Raum zu halten.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial2ConnectGeneratorHeading</Key>
+      <Value>Schließe den grünen Generator an die linke Seite der grünen Bereichsleistungssteuerung (APC) an</Value>
+    </Record>
+    <Record>
+      <Key>Tut2CablesInLocker</Key>
+      <Value>{THING:ItemCableCoil} Stapel finden sich im Spind.</Value>
+    </Record>
+    <Record>
+      <Key>Tut2PlaceCables</Key>
+      <Value>Verwende {KEY:SecondaryAction}, um in den Platzierungsmodus zu gelangen, verwende {KEY:PrimaryAction} zum Platzieren.</Value>
+    </Record>
+    <Record>
+      <Key>Tut2CableVariants</Key>
+      <Value>Benutze das &lt;color=#FBB03B&gt;Mausrad&lt;/color&gt;, um verschiedene Kabelvarianten auszuwählen und benutze {KEY:QuantityModifier} zum Drehen.</Value>
+    </Record>
+    <Record>
+      <Key>Tut2RemovingCables</Key>
+      <Value>Der {THING:ItemWireCutters} in deinem Werkzeuggürtel kann verlegte Kabel entfernen.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial2ApcHeading</Key>
+      <Value>Stromunterverteilung öffnen, geladenen Akku einlegen und Stromunterverteilung einschalten</Value>
+    </Record>
+    <Record>
+      <Key>Tut2PryOpenApc</Key>
+      <Value>Das {THING:ItemCrowbar} in deinem Werkzeuggürtel kann den {THING:StructureAreaPowerControl} aufhebeln.</Value>
+    </Record>
+    <Record>
+      <Key>Tut2ApcBattery</Key>
+      <Value>Der {THING:StructureAreaPowerControl} Batterieschacht ermöglicht es Geräte mit Strom zu versorgen.</Value>
+    </Record>
+    <Record>
+      <Key>Tut2PlaceBatteryInApc</Key>
+      <Value>Platziere eine aufgeladene {THING:ItemBatteryCellLarge} aus dem Spind im {THING:StructureAreaPowerControl} und schalte es ein um Geräte mit Strom zu versorgen.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial2ConnectApcToDoorHeading</Key>
+      <Value>Verbinden Sie die rechte Seite der Stromunterverteilung mit der Tür</Value>
+    </Record>
+    <Record>
+      <Key>Tut2ConnectApcToDoor</Key>
+      <Value>Baue mehr Kabel um {THING:StructureAreaPowerControl} und {THING:StructureGlassDoor} in jede Richtung miteinander zu verbinden.</Value>
+    </Record>
+    <Record>
+      <Key>Tut2MergingCables</Key>
+      <Value>Überlappende Kabel mit {THING:ItemWireCutters} in deiner Nebenhand ersetzen das vorhandene Kabel durch die kombinierte Variante.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial2WrenchTankHeading</Key>
+      <Value>Verbinden Sie den Wassertank mit dem Anschluss in der Ecke</Value>
+    </Record>
+    <Record>
+      <Key>Tut2DragTank</Key>
+      <Value>Ziehe den {THING:DynamicLiquidCanisterEmpty} oben auf den {THING:StructurePortablesConnector} unter Verwendung der Seitengriffe.</Value>
+    </Record>
+    <Record>
+      <Key>Tut2DropTank</Key>
+      <Value>Sobald in Position, lass den Tank mit {KEY:Drop} los.</Value>
+    </Record>
+    <Record>
+      <Key>Tut2WrenchTank</Key>
+      <Value>Verwende {THING:ItemWrench}, um den Tank mit dem {THING:StructurePortablesConnector} zu verbinden.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial2ConnectPlantersHeading</Key>
+      <Value>Verbinden Sie den Wassertank mit dem Hydroponische Beet</Value>
+    </Record>
+    <Record>
+      <Key>Tut2PipesInLocker</Key>
+      <Value>{THING:ItemKitPipeLiquid} Stapel finden sich im Spind.</Value>
+    </Record>
+    <Record>
+      <Key>Tut2PlacePipes</Key>
+      <Value>Verwende {KEY:SecondaryAction} um in den Platzierungsmodus zu gelangen, verwende {KEY:PrimaryAction} zum Platzieren.</Value>
+    </Record>
+    <Record>
+      <Key>Tut2PipeVariants</Key>
+      <Value>Benutze das &lt;color=#FBB03B&gt;Mausrad&lt;/color&gt; um verschiedene Rohrvarianten auszuwählen und verwende {KEY:QuantityModifier} zum Drehen.</Value>
+    </Record>
+    <Record>
+      <Key>Tut2RemovingPipes</Key>
+      <Value>Der {THING:ItemWrench} in deinem Werkzeuggürtel kann platzierte Rohre entfernen.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial2CoalPowerHeading</Key>
+      <Value>Fügen Sie dem Generator Kohle hinzu, um die Batterie des Akkus zu laden</Value>
+    </Record>
+    <Record>
+      <Key>Tut2GrabCoal</Key>
+      <Value>{THING:ItemCoalOre} Stapel finden sich im kleinen Spind.</Value>
+    </Record>
+    <Record>
+      <Key>Tut2TurnOnGenerator</Key>
+      <Value>Schalte den {THING:StructureSolidFuelGenerator} mit dem Netzschalter ein.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial3Title</Key>
+      <Value>Tutorial 3: Atmosphärisches</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial3Summary</Key>
+      <Value>Lernen Sie, wie man Kanister auffüllt und Gas um die Welt transportiert</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial3RefillOxygenTankHeading</Key>
+      <Value>Fülle den Sauerstoffkanister im Anzug auf</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial3SuitInventory</Key>
+      <Value>Dein {THING:ItemEvaSuit} hat ein Inventar, genau wie ein Rucksack oder Werkzeuggürtel.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial3OxygenTankLow</Key>
+      <Value>Dein Sauerstoff {THING:ItemGasCanisterEmpty} hat wenig Druck.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial3SuitWarning</Key>
+      <Value>Der {THING:ItemEvaSuit} gibt eine Warnung aus, wenn der Sauerstoff {THING:ItemGasCanisterEmpty} entfernt wird.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial3CanisterSlot</Key>
+      <Value>Der {THING:DynamicGasCanisterEmpty} Kanisterslot füllt diese wieder auf.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial3EmptyWasteHeading</Key>
+      <Value>Leere den Abfallkanister im Anzug</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial3WasteTankFillsUp</Key>
+      <Value>Der gelbe Abfall {THING:ItemGasCanisterEmpty} in deinem Anzug füllt sich mit ausgeatmetem CO2.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial3WasteTankNeedsEmptying</Key>
+      <Value>Der Abfall {THING:ItemGasCanisterEmpty} muss geleert werden wenn er voll ist.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial3ClickToEmptyWaste</Key>
+      <Value>Durch Klicken auf den gelben {THING:ItemGasCanisterEmpty} wird sein Interaktionsfenster geöffnet.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial3AnalyzeGasTankHeading</Key>
+      <Value>Analysiere den tragbaren Gastank 5 Sekunden lang mit deinem Tablet</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial3TabletInBackpack</Key>
+      <Value>Dein {THING:ItemHardBackpack} enthält ein {THING:ItemTablet}.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial3InsertCartridge</Key>
+      <Value>Das {THING:ItemTablet} verfügt über ein Inventar, das einen {THING:CartridgeAtmosAnalyser} akzeptiert.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial3AtmosAnalyserInfo</Key>
+      <Value>Schalte {THING:ItemTablet} durch klicken auf die &lt;color=#FBB03B&gt;rechte Maustaste&lt;/color&gt; ein. Der {THING:CartridgeAtmosAnalyser} zeigt den Gasdruck und die Temperatur an.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial3AtmosAnalyserInfo2</Key>
+      <Value>Der {THING:CartridgeAtmosAnalyser} zeigt die Atmosphäre des Raums oder das Gas im Gegenstand den du betrachtest an.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial3FillPipeHeading</Key>
+      <Value>Füllen Sie das Rohrnetz mit Sauerstoff auf</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial3DragCanister</Key>
+      <Value>Ziehe ein {THING:DynamicGasCanisterEmpty} oben auf den {THING:StructurePortablesConnector} unter Verwendung der Seitengriffe.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial3ConnectPortableTank</Key>
+      <Value>Sobald in Position, lasse den Tank mit {KEY:Drop} fallen und nutze den {THING:ItemWrench} zum Verbinden.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial3AnalyzePipeNetworkHeading</Key>
+      <Value>Schaue den weißen Rohrmesser an</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial3NoticePressure</Key>
+      <Value>Wie der {THING:CartridgeAtmosAnalyser} ist auch der {THING:StructurePipeMeter} eine weitere Möglichkeit, den Gasdruck und Temperatur in einem Rohr abzulesen.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial3AddGasTankStorageHeading</Key>
+      <Value>Anschließen eines Gastanks</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial3ConstructValveBluePipe</Key>
+      <Value>Errichte ein {THING:StructureValve} um das blaue Rohr mit dem Weißen zu verbinden.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial3ConstructGasTankStorage</Key>
+      <Value>Errichte mit dem {THING:ItemKitPipeUtility} im Schließfach einen {THING:StructureGasTankStorage}, der an das blaue Rohr angeschlossen ist.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial3ScrollToChangeBlueprint</Key>
+      <Value>Das {THING:ItemKitPipeUtility} kann mehrere Geräte erstellen. Verwende das &lt;color=#FBB03B&gt;Maus-Scrollrad&lt;/color&gt; um die {THING:StructureGasTankStorage}-Blaupause auszuwählen.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial3FillCanisterHeading</Key>
+      <Value>Füllen Sie einen leeren Kanister</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial3InsertCanisterFromLocker</Key>
+      <Value>Nimm einen weißen {THING:ItemGasCanisterEmpty} aus dem Spind und setze ihn in den {THING:StructureGasTankStorage} ein.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial3OpenTheCanisterValve</Key>
+      <Value>Das {THING:StructureValve} ermöglicht das Mischen zweier Rohrnetze, drehe den Griff um das {THING:StructureValve} zu öffnen.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial3AnalyzeCanisterHeading</Key>
+      <Value>Analysiere den Kanister 5 Sekunden lang</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial3AnalyzeCanisterInStorage</Key>
+      <Value>Analysiere den {THING:ItemGasCanisterEmpty} im {THING:StructureGasTankStorage} mit deinem {THING:ItemTablet}.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial3PassiveVents</Key>
+      <Value>Das {THING:StructurePassiveVent} ermöglicht es Gasen sich zwischen dem angeschlossenem Rohr und der Außenwelt zu mischen.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial3ConstructOrangeValve</Key>
+      <Value>Errichte ein {THING:StructureValve} im Raum zwischen den weißen und orangen Rohren.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial3PressurizeRoomHeading</Key>
+      <Value>Den Raum unter Druck setzen</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial3OpenTheRoomValve</Key>
+      <Value>Öffne das {THING:StructureValve} , um Sauerstoff in den Raum zu lassen.</Value>
+    </Record>
+    <Record>
+      <Key>AutoExpandToggle</Key>
+      <Value>Automatisch erweitern</Value>
     </Record>
   </Interface>
   <Colors>
