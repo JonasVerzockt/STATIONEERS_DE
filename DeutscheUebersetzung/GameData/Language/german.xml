@@ -299,6 +299,14 @@
       <Key>LiquidHydrogen</Key>
       <Value>fl. Hydrogen</Value>
     </Record>
+    <Record>
+      <Key>Air</Key>
+      <Value>Luftmischung</Value>
+    </Record>
+    <Record>
+      <Key>Fuel</Key>
+      <Value>Brennstoffmischung</Value>
+    </Record>
   </Gases>
   <Actions>
     <Record>
@@ -4690,7 +4698,7 @@ ANWENDUNG: 'J' zum Aktivieren; 'Leertaste' zum Aufwärtsfliegen; 'Linke Strg' zu
     </RecordThing>
     <RecordThing>
       <Key>ItemKitInsulatedPipe</Key>
-      <Value>Bausatz (Isolierte Gasrohre)</Value>
+      <Value>Bausatz (Isoliertes Gasrohr)</Value>
       <Description>Der vorgeschriebene Weg Gase zu transportieren.</Description>
     </RecordThing>
     <RecordThing>
@@ -5797,7 +5805,7 @@ Viele Stationeers nutzen auch die Informationen aus der Wetterstation um sich Wa
       <Key>StructureUprightWindTurbine</Key>
       <Value>Aufrechte Windturbine</Value>
       <Description>Die Basis-Windturbine von Norsec ist eine einfach herzustellende, schnell zu installierende Konstruktion, die stark genug ist, um den schlimmsten Umwelteinflüssen standzuhalten.
-Obwohl die Windturbine so optimiert ist, dass sie auch in Welten mit niedriger Atmosphäre Strom erzeugt (bis zu 200 W), ist sie in dichteren Umgebungen am leistungsfähigsten. Die Leistung variiert mit der Windgeschwindigkeit und kann bei Stürmen dramatisch ansteigen (bis zu 800 W), daher sollten Sie bei der Planung Ihrer Stromnetze diese Tatsache berücksichtigen.</Description>
+Obwohl die Windturbine so optimiert ist, dass sie auch in Welten mit niedriger Atmosphäre Strom erzeugt (bis zu 200 W), ist sie in dichteren Umgebungen am leistungsfähigsten. Die Leistung variiert mit der Windgeschwindigkeit und kann bei Stürmen dramatisch ansteigen (bis zu 1000 W), daher sollten Sie bei der Planung Ihrer Stromnetze diese Tatsache berücksichtigen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>CrateMkII</Key>
@@ -5889,7 +5897,7 @@ Es kann mit dem {THING:StructureHarvie} automatisiert werden. Beachten Sie, dass
       <Key>StructureWindTurbine</Key>
       <Value>Wind-Turbine</Value>
       <Description>Die Stationeers-Windturbine wurde zuerst von Norsec-Atmosphäreningenieuren entwickelt, die ein windgetriebenes Energieerzeugungssystem schaffen wollten, das auch auf Welten mit extrem niedriger Atmosphäre funktionieren würde. Die ultraleichten Flügel reagieren auf extrem niedrige atmosphärische Dichten und sind gleichzeitig stark genug, um auch unter großer Belastung in viel anspruchsvolleren Umgebungen zu funktionieren.
-Obwohl die Windturbine so optimiert ist, dass sie auch auf Welten mit niedriger Atmosphäre Energie (bis zu 500 W) erzeugen kann, ist sie in dichteren Umgebungen am leistungsfähigsten. Die Leistung variiert mit der Windgeschwindigkeit und kann bei Stürmen dramatisch ansteigen (bis zu 10.000 W), daher sollten Sie bei der Planung Ihrer Stromnetze diese Tatsache berücksichtigen.</Description>
+Obwohl die Windturbine so optimiert ist, dass sie auch auf Welten mit niedriger Atmosphäre Energie (bis zu 500 W) erzeugen kann, ist sie in dichteren Umgebungen am leistungsfähigsten. Die Leistung variiert mit der Windgeschwindigkeit und kann bei Stürmen dramatisch ansteigen (bis zu 20.000 W), daher sollten Sie bei der Planung Ihrer Stromnetze diese Tatsache berücksichtigen.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWindTurbine</Key>
@@ -6242,32 +6250,6 @@ Jede Trinkflasche fasst 1,5 Liter Wasser.</Description>
       <Key>StructureLiquidPipeAnalyzer</Key>
       <Value>Rohranalysierer (Flüssigkeit)</Value>
       <Description>Ein digitales Messgerät für Flüssigkeitsrohrinhalte. Ausgestattet mit den modernsten Messtechniken.</Description>
-    </RecordThing>
-    <RecordThing>
-      <Key>ItemKitHeatExchanger</Key>
-      <Value>Bausatz (Wärmetauscher)</Value>
-      <Description>Zwei Rohre, die über eine Wärmekopplung verbunden sind in einem Gerät.</Description>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureHeatExchangerLiquidtoLiquid</Key>
-      <Value>Wärmetauscher (Flüssigkeit zu Flüssigkeit)</Value>
-      <Description>Die ursprünglichen Spezifikationen für den Flow-P-Wärmetauscher der N-Serie sollen von einem gelangweilten {LINK:Sinotai;Sinotai} Konstrukteur im brasilianischen Weltraumfahrstuhl auf die Rückseite einer Burger-Rechnung gekritzelt worden sein, aber das hat nicht verhindert, dass er zu einem der am häufigsten kopierten Wärmetauscherdesigns im Sonnensystem wurde.
-Der "N Flow-P" hat vier Anschlüsse, die es ermöglichen, zwei Flüssigkeitsnetze in das Gerät zu leiten, das dann für einen Temperaturausgleich zwischen den beiden getrennten Netzen sorgt.
-Da der N Flow-P ein passives System ist, gleicht er den Druck in jedem einzelnen Netz aus, es sei denn, er ist mit Flüssigkeitsmanagementgeräten wie einem {THING:StructureLiquidVolumePump} oder einem {THING:StructureBackLiquidPressureRegulator} verbunden.</Description>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureHeatExchangerGastoGas</Key>
-      <Value>Wärmetauscher (Gas zu Gas)</Value>
-      <Description>Die ursprünglichen Spezifikationen für den Flow-P-Wärmetauscher der N-Serie wurden Gerüchten zufolge von einem gelangweilten {LINK:Sinotai;Sinotai} Konstrukteur im brasilianischen Weltraumfahrstuhl auf die Rückseite einer Burger-Rechnung gekritzelt, aber das hat nicht verhindert, dass er zu einem der am häufigsten kopierten Wärmetauscherdesigns im Sonnensystem wurde.
-Der "N Flow-P" hat vier Anschlüsse, die es ermöglichen, zwei Gasnetze in das Gerät zu leiten, das dann für einen Temperaturausgleich zwischen den beiden getrennten Netzen sorgt.
-Da der N Flow-P ein passives System ist, gleicht er den Druck in jedem einzelnen Netz aus, es sei denn, er ist mit Gasmanagementgeräten wie einem {THING:StructureVolumePump} oder einem {THING:StructureBackPressureRegulator} verbunden.</Description>
-    </RecordThing>
-    <RecordThing>
-      <Key>StructureHeatExchangeLiquidtoGas</Key>
-      <Value>Wärmetauscher (Flüssigkeit zu Gas)</Value>
-      <Description>Die ursprünglichen Spezifikationen für den Flow-P-Wärmetauscher der N-Serie sollen von einem gelangweilten {LINK:Sinotai;Sinotai} Konstrukteur im brasilianischen Weltraumfahrstuhl auf die Rückseite einer Burger-Rechnung gekritzelt worden sein, aber das hat nicht verhindert, dass er zu einem der am häufigsten kopierten Wärmetauscherdesigns im Sonnensystem wurde.
-Der "N Flow-P" hat vier Anschlüsse, die es ermöglichen, getrennte Flüssigkeits- und Gasnetze in das Gerät zu leiten, das dann für einen Temperaturausgleich zwischen den beiden getrennten Netzen sorgt.
-Da der N Flow-P ein passives System ist, gleicht er den Druck in jedem einzelnen Netz aus, es sei denn, er ist mit Geräten wie einem {THING:StructureVolumePump} oder einem {THING:StructureBackLiquidPressureRegulator} verbunden.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureHeatExchangeLiquidAndGas</Key>
@@ -8294,6 +8276,16 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
       <Description>Ein Lagerbehälter für Erze innerhalb der Rakete.</Description>
     </RecordThing>
     <RecordThing>
+      <Key>StructureRocketCargoBay</Key>
+      <Value>Raketen Frachtraum</Value>
+      <Description></Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureCargoBayFuselage</Key>
+      <Value>Rumpf (Frachtraum)</Value>
+      <Description></Description>
+    </RecordThing>
+    <RecordThing>
       <Key>StructureCargoStorageSmall</Key>
       <Value>Frachtlager (klein)</Value>
       <Description>Ein klitzekleiner Frachtcontainer.</Description>
@@ -8316,7 +8308,7 @@ Um mit dem Spleißen zu beginnen, platziere eine Pflanze oder einen Samenbeutel 
     <RecordThing>
       <Key>StructureRocketMiner</Key>
       <Value>Raketenminer</Value>
-      <Description>Sammelt verfügbare Ressourcen an der aktuellen Position der Rakete.</Description>
+      <Description>Sammelt verfügbare Ressourcen an der aktuellen Position der Rakete im Weltraum. Der Bergbau erzeugt auch ein kleines Rinnsal von Vermessungspunkten an der Position.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemRocketMiningDrillHead</Key>
@@ -9306,6 +9298,174 @@ Drücken der Aktivierungstaste während sich der LArRE-Arm im Heimdock befindet,
       <Key>StructureFireExtinguisherStorage</Key>
       <Value>Feuerlöschlager</Value>
       <Description>Das Feuerlöschlager ist ein speziell für Feuerlöscher ausgelegtes Regal.</Description>
+    </RecordThing>
+    <RecordThing>
+      <Key>DynamicGPR</Key>
+      <Value>Dynamischer GPR</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemSuitHARM</Key>
+      <Value>HARM Anzug</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemSuitHelmetHARM</Key>
+      <Value>HARM Helm</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageCoalGenerator5</Key>
+      <Value>Wrackteile</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageCoalGenerator6</Key>
+      <Value>Wrackteile</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageSolarPanel10</Key>
+      <Value>Wrackteile</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageSolarPanel11</Key>
+      <Value>Wrackteile</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageSolarPanel12</Key>
+      <Value>Wrackteile</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageSolarPanel4</Key>
+      <Value>Wrackteile</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageSolarPanel5</Key>
+      <Value>Wrackteile</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageSolarPanel6</Key>
+      <Value>Wrackteile</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageSolarPanel7</Key>
+      <Value>Wrackteile</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageSolarPanel8</Key>
+      <Value>Wrackteile</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageSolarPanel9</Key>
+      <Value>Wrackteile</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageTransformerMedium3</Key>
+      <Value>Wrackteile</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageTransformerMedium4</Key>
+      <Value>Wrackteile</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageTransformerMedium5</Key>
+      <Value>Wrackteile</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageTransformerMedium6</Key>
+      <Value>Wrackteile</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageTransformerSmall3</Key>
+      <Value>Wrackteile</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>ItemWreckageTransformerSmall4</Key>
+      <Value>Wrackteile</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>MonsterEgg</Key>
+      <Value>Monsterei</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>MonsterQueen</Key>
+      <Value>Monsterkönigin</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>MotherboardMissionControl</Key>
+      <Value>Hauptplatine (Missionskontrolle)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>OrganLungsZrilian</Key>
+      <Value>Lunge</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureCableCorner3HBurnt</Key>
+      <Value>Verbranntes Kabel</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureCarbonSequester</Key>
+      <Value>Kohlenstoff-Sequestrierer</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureCarbonSequesterTopExtension</Key>
+      <Value>Kohlenstoff-Sequestrierer (Top-Erweiterung)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureCarbonSequesterVentExtension</Key>
+      <Value>Kohlenstoff-Sequestrierer (Entlüftung-Erweiterung)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureDispersalTower</Key>
+      <Value>Verteilerturm</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureDispersalTowerChimneyExtension</Key>
+      <Value>Verteilerturm (Schornstein-Erweiterung)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureHeatExchangeLiquidtoGas</Key>
+      <Value>Wärmetauscher (Flüssigkeit zu Gas)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureHeatExchangerGastoGas</Key>
+      <Value>Wärmetauscher (Gas zu Gas)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureHeatExchangerLiquidtoLiquid</Key>
+      <Value>Wärmetauscher (Flüssigkeit zu Flüssigkeit)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureIndustrialBurner</Key>
+      <Value>Industriebrenner</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureIndustrialBurnerChimneyExtension</Key>
+      <Value>Industriebrenner (Schornstein-Erweiterung)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureIndustrialBurnerHeatExchangerExtension</Key>
+      <Value>Industriebrenner Wärme (Tauscher-Erweiterung)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureIndustrialCombustor</Key>
+      <Value>Industrielle Brennkammer</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureIndustrialCombustorChamberExtension</Key>
+      <Value>Industrielle Brennkammer (Kammer-Erweiterung)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureIndustrialCombustorChimneyExtension</Key>
+      <Value>Industrielle Brennkammer (Schornstein-Erweiterung)</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureIndustrialFiltration</Key>
+      <Value>Industriefiltration</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureIndustrialFiltrationExtension1</Key>
+      <Value>Industriefiltration-Erweiterung</Value>
+    </RecordThing>
+    <RecordThing>
+      <Key>StructureRocketSpotCamera</Key>
+      <Value>Raketen-Spotkamera</Value>
     </RecordThing>
   </Things>
   <Slots>
@@ -10410,6 +10570,10 @@ Drücken der Aktivierungstaste während sich der LArRE-Arm im Heimdock befindet,
       <Value>Welt laden</Value>
     </Record>
     <Record>
+      <Key>FileLoadSave</Key>
+      <Value>Spielstand laden</Value>
+    </Record>
+    <Record>
       <Key>MainMenuJoinWorld</Key>
       <Value>Welt beitreten</Value>
     </Record>
@@ -10540,6 +10704,38 @@ Drücken der Aktivierungstaste während sich der LArRE-Arm im Heimdock befindet,
     <Record>
       <Key>NewWorldAreaSpace</Key>
       <Value>Asteroidengürtel</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldAreaGrandCanyon</Key>
+      <Value>Geländetest - Grand Canyon</Value>
+    </Record>
+    <Record>
+      <Key>64Test</Key>
+      <Value>Geländetest - 64M</Value>
+    </Record>
+    <Record>
+      <Key>128Test</Key>
+      <Value>Geländetest - 128M</Value>
+    </Record>
+    <Record>
+      <Key>512Test</Key>
+      <Value>Geländetest - 512M</Value>
+    </Record>
+    <Record>
+      <Key>1024Test</Key>
+      <Value>Geländetest - 1024M</Value>
+    </Record>
+    <Record>
+      <Key>4096Test</Key>
+      <Value>Geländetest - 4096M</Value>
+    </Record>
+    <Record>
+      <Key>8192Test</Key>
+      <Value>Geländetest - 8192M</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldArea4KMars</Key>
+      <Value>Geländetest - 4K Mars</Value>
     </Record>
     <Record>
       <Key>NewWorldAreaLowEarthOrbit</Key>
@@ -10804,6 +11000,10 @@ Drücken der Aktivierungstaste während sich der LArRE-Arm im Heimdock befindet,
     <Record>
       <Key>SettingsResolution</Key>
       <Value>Auflösung</Value>
+    </Record>
+    <Record>
+      <Key>SettingsRefreshRate</Key>
+      <Value>Aktualisierungsrate </Value>
     </Record>
     <Record>
       <Key>SettingsScreenMode</Key>
@@ -11830,6 +12030,14 @@ Sieht aus, als würdest du eine Weile hier bleiben.</Value>
     <Record>
       <Key>NewWorldMarsShortDesc</Key>
       <Value>Mars. Ein trostloser, staubiger, roter Ball mit einer abwechslungsreichen Landschaft die bis in den Himmel reicht, und einer kühlen Atmosphäre die nicht zum Atmen geeignet ist. Aber vielleicht kann man sie ja für etwas nutzen...</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldGrandCanyonShortDesc</Key>
+      <Value>Zum Testen des neuen Geländesystems</Value>
+    </Record>
+    <Record>
+      <Key>NewWorld4KTerrainDesc</Key>
+      <Value>4K Testkarte für neues Geländesystem</Value>
     </Record>
     <Record>
       <Key>NewWorldMoonShortDesc</Key>
@@ -15238,10 +15446,6 @@ Das Stationeers-Programm ist grundsätzlich offen für alle Menschen, denn es re
       <Value>Erz</Value>
     </Record>
     <Record>
-      <Key>OreCategoryKey </Key>
-      <Value>Erz</Value>
-    </Record>
-    <Record>
       <Key>PersonalCategoryKey</Key>
       <Value>Persönlich</Value>
     </Record>
@@ -15910,6 +16114,10 @@ Ein {THING:StructureWaterPurifier} kann verwendet werden, um es wieder zu reinig
       <Value>Abbauen</Value>
     </Record>
     <Record>
+      <Key>ButtonDeploy</Key>
+      <Value>Aufstellen</Value>
+    </Record>
+    <Record>
       <Key>ButtonDiscover</Key>
       <Value>Analysieren</Value>
     </Record>
@@ -15982,6 +16190,18 @@ Ein {THING:StructureWaterPurifier} kann verwendet werden, um es wieder zu reinig
       <Value>Speicherort löschen</Value>
     </Record>
     <Record>
+      <Key>RemoveNodeText</Key>
+      <Value>Möchten Sie diesen Standort wirklich löschen?</Value>
+    </Record>
+    <Record>
+      <Key>RemoveNodeConfirm</Key>
+      <Value>Löschen</Value>
+    </Record>
+    <Record>
+      <Key>RemoveNodeCancel</Key>
+      <Value>Abbrechen</Value>
+    </Record>
+    <Record>
       <Key>ClearDestinationButton</Key>
       <Value>Zielauswahl löschen</Value>
     </Record>
@@ -16040,11 +16260,11 @@ Ein {THING:StructureWaterPurifier} kann verwendet werden, um es wieder zu reinig
     </Record>
     <Record>
       <Key>DefaultStartCondition</Key>
-      <Value>Standard Start</Value>
+      <Value>Standard</Value>
     </Record>
     <Record>
       <Key>DefaultStartConditionDescription</Key>
-      <Value>Alles, was du brauchst, um deine erste Basis zu bauen</Value>
+      <Value>Sie beginnen mit den Grundlagen, die Sie benötigen, um eine abgelegene Basis zu errichten, die systematisch in einem mit Kisten und Paketen bestückten Lander organisiert ist.</Value>
     </Record>
     <Record>
       <Key>DefaultScenarioStartCondition</Key>
@@ -16084,7 +16304,7 @@ Ein {THING:StructureWaterPurifier} kann verwendet werden, um es wieder zu reinig
     </Record>
     <Record>
       <Key>BrutalStartConditionDescription</Key>
-      <Value>Das absolute Minimum um zu überleben</Value>
+      <Value>Sie werden nur sehr wenig zum Überleben haben. Ich werde Ihnen nicht sagen, wie Ihre Chancen stehen... aber Sie haben mein Mitgefühl.</Value>
     </Record>
     <Record>
       <Key>WorldObjectiveBuildPower</Key>
@@ -16697,6 +16917,230 @@ Ein {THING:StructureWaterPurifier} kann verwendet werden, um es wieder zu reinig
     <Record>
       <Key>AutoExpandToggle</Key>
       <Value>Automatisch erweitern</Value>
+    </Record>
+    <Record>
+      <Key>ButtonHostServer</Key>
+      <Value>Server hosten</Value>
+    </Record>
+    <Record>
+      <Key>CartridgeAtmosAnalyserSelected</Key>
+      <Value>WELT</Value>
+    </Record>
+    <Record>
+      <Key>WorldInfoTextPlayers</Key>
+      <Value>Spieler:</Value>
+    </Record>
+    <Record>
+      <Key>FactionsCategoryKey</Key>
+      <Value>Fraktionen</Value>
+    </Record>
+    <Record>
+      <Key>SettingsMineableDistance</Key>
+      <Value>Abbaubarer Renderentfernung</Value>
+    </Record>
+    <Record>
+      <Key>SettingsChunkDistance</Key>
+      <Value>Chunk Renderentfernung</Value>
+    </Record>
+    <Record>
+      <Key>HeaderSettings</Key>
+      <Value>Einstellungen</Value>
+    </Record>
+    <Record>
+      <Key>StatusCriticalAirTankCritical</Key>
+      <Value>Lufttank kritisch</Value>
+    </Record>
+    <Record>
+      <Key>StatusCriticalCognitionCritical</Key>
+      <Value>Kognition kritisch</Value>
+    </Record>
+    <Record>
+      <Key>StatusCriticalCoolantTankCritical</Key>
+      <Value>Kühlungstank kritisch</Value>
+    </Record>
+    <Record>
+      <Key>StatusCriticalFilterCritical</Key>
+      <Value>Filter kritisch</Value>
+    </Record>
+    <Record>
+      <Key>StatusCriticalHealthCritical</Key>
+      <Value>Gesundheit kritisch</Value>
+    </Record>
+    <Record>
+      <Key>StatusCriticalHungerCritical</Key>
+      <Value>Hunger kritisch</Value>
+    </Record>
+    <Record>
+      <Key>StatusCriticalHydrationCritical</Key>
+      <Value>Hydratation kritisch</Value>
+    </Record>
+    <Record>
+      <Key>StatusCriticalHygieneCritical</Key>
+      <Value>Hygiene kritisch</Value>
+    </Record>
+    <Record>
+      <Key>StatusCriticalJetPackCritical</Key>
+      <Value>Jet-Pack kritisch</Value>
+    </Record>
+    <Record>
+      <Key>StatusCriticalMoodCritical</Key>
+      <Value>Stimmung kritisch</Value>
+    </Record>
+    <Record>
+      <Key>StatusCriticalOxygenCritical</Key>
+      <Value>Sauerstoff kritisch</Value>
+    </Record>
+    <Record>
+      <Key>StatusCriticalPowerCritical</Key>
+      <Value>Energie kritisch</Value>
+    </Record>
+    <Record>
+      <Key>StatusCriticalPressureCritical</Key>
+      <Value>Druck kritisch</Value>
+    </Record>
+    <Record>
+      <Key>StatusCriticalPressureCritical</Key>
+      <Value>Druck kritisch</Value>
+    </Record>
+    <Record>
+      <Key>StatusCriticalSuitCritical</Key>
+      <Value>Anzug kritisch</Value>
+    </Record>
+    <Record>
+      <Key>StatusCriticalTemperatureCritical</Key>
+      <Value>Temperatur kritisch</Value>
+    </Record>
+    <Record>
+      <Key>StatusCriticalTemperatureCritical</Key>
+      <Value>Temperatur kritisch</Value>
+    </Record>
+    <Record>
+      <Key>StatusCriticalToxinCritical</Key>
+      <Value>Toxin kritisch</Value>
+    </Record>
+    <Record>
+      <Key>StatusCriticalWasteTankCritical</Key>
+      <Value>Abfalltank kritisch</Value>
+    </Record>
+    <Record>
+      <Key>StatusWarningAirTankLow</Key>
+      <Value>Lufttank niedrig</Value>
+    </Record>
+    <Record>
+      <Key>StatusWarningCognitionLow</Key>
+      <Value>Kognition niedrig</Value>
+    </Record>
+    <Record>
+      <Key>StatusWarningCoolantTankCaution</Key>
+      <Value>Kühlungstank niedrig</Value>
+    </Record>
+    <Record>
+      <Key>StatusWarningFilterLow</Key>
+      <Value>Filter niedrig</Value>
+    </Record>
+    <Record>
+      <Key>StatusWarningHealthLow</Key>
+      <Value>Gesundheit niedrig</Value>
+    </Record>
+    <Record>
+      <Key>StatusWarningHighPressure</Key>
+      <Value>Hoher Druck</Value>
+    </Record>
+    <Record>
+      <Key>StatusWarningHungerCaution</Key>
+      <Value>Hunger Warnung</Value>
+    </Record>
+    <Record>
+      <Key>StatusWarningHydrationCaution</Key>
+      <Value>Hydratation Warnung</Value>
+    </Record>
+    <Record>
+      <Key>StatusWarningHygieneLow</Key>
+      <Value>Hygiene niedrig</Value>
+    </Record>
+    <Record>
+      <Key>StatusWarningJetPackLow</Key>
+      <Value>Jet-Paket niedrig</Value>
+    </Record>
+    <Record>
+      <Key>StatusWarningLowPressure</Key>
+      <Value>Niedriger Druck</Value>
+    </Record>
+    <Record>
+      <Key>StatusWarningMoodLow</Key>
+      <Value>Stimmung niedrig</Value>
+    </Record>
+    <Record>
+      <Key>StatusWarningOxygenLow</Key>
+      <Value>Sauerstoff niedrig</Value>
+    </Record>
+    <Record>
+      <Key>StatusWarningPowerLow</Key>
+      <Value>Energie niedrig</Value>
+    </Record>
+    <Record>
+      <Key>StatusWarningSuitDamage</Key>
+      <Value>Anzugschaden</Value>
+    </Record>
+    <Record>
+      <Key>StatusWarningTemperatureHigh</Key>
+      <Value>Temperatur hoch</Value>
+    </Record>
+    <Record>
+      <Key>StatusWarningTemperatureLow</Key>
+      <Value>Temperatur niedrig</Value>
+    </Record>
+    <Record>
+      <Key>StatusWarningToxinDetected</Key>
+      <Value>Toxin erkannt</Value>
+    </Record>
+    <Record>
+      <Key>StatusWarningWasteTankCaution</Key>
+      <Value>Abfalltank Warnung</Value>
+    </Record>
+    <Record>
+      <Key>StatusWarningZeroGee</Key>
+      <Value>Zero Gee</Value>
+    </Record>
+    <Record>
+      <Key>StatusNoticeActiveHandOff</Key>
+      <Value>Aktive Hand aus</Value>
+    </Record>
+    <Record>
+      <Key>StatusNoticeActiveHandOn</Key>
+      <Value>Aktive Hand an</Value>
+    </Record>
+    <Record>
+      <Key>StatusNoticeHelmetClosed</Key>
+      <Value>Helm geschlossen</Value>
+    </Record>
+    <Record>
+      <Key>StatusNoticeHelmetOpened</Key>
+      <Value>Helm geöffnet</Value>
+    </Record>
+    <Record>
+      <Key>StatusNoticeJetpackOn</Key>
+      <Value>Jetpack an</Value>
+    </Record>
+    <Record>
+      <Key>StatusNoticeLightOff</Key>
+      <Value>Licht aus</Value>
+    </Record>
+    <Record>
+      <Key>StatusNoticeLightOn</Key>
+      <Value>Licht an</Value>
+    </Record>
+    <Record>
+      <Key>StatusNoticeNutritionNotice</Key>
+      <Value>Hinweis zur Ernährung</Value>
+    </Record>
+    <Record>
+      <Key>HeaderCommsTerminal</Key>
+      <Value>KOMM-TERMINAL</Value>
+    </Record>
+    <Record>
+      <Key>TradingSoldOut</Key>
+      <Value>Ausverkauft</Value>
     </Record>
   </Interface>
   <Colors>
