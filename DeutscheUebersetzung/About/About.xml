@@ -8,7 +8,9 @@
 [h3]Diese Modifikation stellt eine alternative Sprachübersetzung in Deutsch zur Verfügung![/h3]
 Aktuelle Version: [b]v0.5.7[/b]
 Spiel Version: [b]v0.2.5499.24517[/b] - Big Changes Coming: Terrain Preview, Melting Ice, Modding, und Localization
-
+In­kom­pa­ti­bel: Die Beta "preterrain" ist nicht kompatibel, bitte auf Github die Version v0.5.6 oder älter nutzen!
+Stelle sicher, dass du in der modconfig.xml den Mod deaktiviert hast. Die ID vom Mod, falls über Workshop ist: 3032318024
+Die modconfig.xml liegt entweder "Dokumente\My Games\Stationeers" oder "SteamLibrary\steamapps\common\Stationeers"!
 
 [hr][/hr]
 [h3]Wie installiere ich diese Übersetzung?[/h3]
