@@ -2,11 +2,11 @@
 <ModMetadata xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Name>[BETA] Stationpedia Extension</Name>
   <Author>JonasVerzockt</Author>
-  <Version>0.0.1</Version>
+  <Version>0.0.2</Version>
   <Description>[h1]Stationpedia Extension[/h1]
 [h2]Export from the German translation Mod[/h2]
 [h3]This modification provides an extension of Stationpedia in English![/h3]
-Current version: [b]v0.0.1[/b]
+Current version: [b]v0.0.2[/b]
 
 [hr][/hr]
 [h3]How do I install this translation?[/h3]
@@ -32,6 +32,7 @@ Mining
 Advanced mining
 Mining strategy
 Combustion gases
+Colors
 
 [hr][/hr]
 The pages are from the following mod: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3032318024]German translation[/url]

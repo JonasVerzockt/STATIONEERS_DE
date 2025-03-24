@@ -158,5 +158,64 @@ If there is N2 and O2 in the gases during the burning process, a small amount of
 Pole is a very good filling gas if it has the right temperature to keep the heat of the combustion for a long time (e.g. in the melt)!</Text>
     <DisplayFilter>Guides</DisplayFilter>
 	</StationpediaPage>
+    <StationpediaPage>
+      <Key>ColorsPage</Key>
+      <Title>Colors</Title>
+      <Text>There is always the topic “Which colors do you use for what?”, here I show you my way of coloring things! In the end, everyone does it their way anyway ;) !
+
+
+
+
+
+{HEADER: PIPES}
+
+For gas and liquid pipes and their systems (such as filter systems etc.) I use the colors as follows:
+
+White = O2 (oxygen)
+Gray = CO2 (carbon dioxide)
+Yellow = X (pollutants)
+Red = H2 (hydrogen)
+Black = N2 (nitrogen)
+Green = N2O (nitrous oxide)
+Blue = H2O (water/vapor)
+
+Brown = cold mixed gas/exhaust gas (max 40C°)
+Khaki = hot mixed gas/flue gas (min 40C°)
+
+Orange = combustion gases
+
+Purple = “air conditioning systems”, i.e. everything that is used for cooling or heating.
+
+
+{HEADER:CABLE}
+
+For power cables and their systems, I use the colors as follows:
+
+Yellow = main power cable (100kW), I like to have a power cable where no appliances are connected, only APC's and transformers are connected.
+Red = all circuits after the main power cable.
+
+Black = coal power from the generator to the battery
+Green = Solar and wind power up to the battery
+Brown = Other generators up to the battery
+
+Special cases: If I separate power and data, I like to use blue for the data cable. Even if many circuits cross each other and there is a risk of confusion, I also use other colors in addition to red, depending on the topic (Greenhouse = green), which are not fixed.
+
+
+{HEADER: CHUTES}
+
+I use the colors for manholes and their installations as follows:
+
+No fixed colors, but I always try to find a color depending on the theme/purpose. It is important that you have shafts running in parallel in different colors and if shafts do the same thing as the other, they get the same color.
+
+
+{HEADER:TIPS}
+
+I know some people who like to use 2 colors at the same time, e.g. red/white for the fuel gas with H2 and O2 or red and green for the fuel gas with H2 and N2O.
+You can be/get creative with this. Some color assignments are standard, such as gases and liquids. On the filter cartridges, for example, the background of O2 is white and H2 is red, etc.
+
+The only important thing is that you define it and then don't keep changing colors. This only confuses anyone who looks at/plays in your world and I don't think it helps you either if you confuse yourself.
+	  </Text>
+      <DisplayFilter>Lore</DisplayFilter>
+    </StationpediaPage>
   </HelpPage>
 </Language>
